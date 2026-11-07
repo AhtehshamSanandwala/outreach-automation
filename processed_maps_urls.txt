@@ -1437,3 +1437,4 @@ https://www.google.com/maps/place/SMS+Management+%26+Technology/data=!4m7!3m6!1s
 https://www.google.com/maps/place/One+Raffles+Place+Tower+2/data=!4m7!3m6!1s0x31da1909560e5cb3:0x9dd646c76cf01f8c!8m2!3d1.2849309!4d103.8509995!16s%2Fg%2F11b7xpfp19!19sChIJs1wOVgkZ2jERjB_wbMdG1p0
 https://www.google.com/maps/place/Swift+Technical+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da190e810d8229:0x41ecf726f0cbc037!8m2!3d1.284358!4d103.8510616!16s%2Fg%2F1ptxm85c2!19sChIJKYINgQ4Z2jERN8DL8Cb37EE
 https://www.google.com/maps/place/Compass+Offices+-+Singapore+Land+Tower/data=!4m7!3m6!1s0x31da19fc0a9f950d:0x4ee40d46b546df61!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11fldhm_1y!19sChIJDZWfCvwZ2jERYd9GtUYN5E4
+https://www.google.com/maps/place/Allshores+Corporation+Pte.+Ltd./data=!4m7!3m6!1s0x31da190eadff1b8b:0x17153fcec69715ba!8m2!3d1.2844837!4d103.8513447!16s%2Fg%2F11h7s4ckcl!19sChIJixv_rQ4Z2jERuhWXxs4_FRc
