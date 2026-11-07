@@ -1478,3 +1478,4 @@ https://www.google.com/maps/place/Phillip+Investor+Centre+-+Raffles+Place/data=!
 https://www.google.com/maps/place/City+Serviced+Offices+@+Republic+Plaza/data=!4m7!3m6!1s0x31da19095671c383:0x9389267520c52512!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F11c6cd7px5!19sChIJg8NxVgkZ2jEREiXFIHUmiZM
 https://www.google.com/maps/place/OUB+Property+Management/data=!4m7!3m6!1s0x31da1909547de3e5:0x1016101985c1bc61!8m2!3d1.2845202!4d103.8509494!16s%2Fg%2F1tgx43gp!19sChIJ5eN9VAkZ2jERYbzBhRkQFhA
 https://www.google.com/maps/place/The+Executive+Centre+-+One+Raffles+Quay+%7C+Serviced+%26+Virtual+Offices+and+Workspace/data=!4m7!3m6!1s0x31da190e670477c9:0x2ed9f80272ad7f47!8m2!3d1.281142!4d103.851928!16s%2Fg%2F1tfs8c4k!19sChIJyXcEZw4Z2jERR3-tcgL42S4
+https://www.google.com/maps/place/Corporate+Travel+Management+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da190c01a9b79d:0xc81629514231b3a3!8m2!3d1.284165!4d103.8521424!16s%2Fg%2F1tdff64g!19sChIJnbepAQwZ2jERo7MxQlEpFsg
