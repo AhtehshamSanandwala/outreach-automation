@@ -1928,3 +1928,4 @@ https://www.google.com/maps/place/Ray+Pte+Ltd/data=!4m7!3m6!1s0x31da191468a46903
 https://www.google.com/maps/place/Thriveni+Resomin+Pte+Limited/data=!4m7!3m6!1s0x31da19127a3ede17:0x1590647a684f31bc!8m2!3d1.2846479!4d103.8510296!16s%2Fg%2F11c1ws3gd_!19sChIJF94-ehIZ2jERvDFPaHpkkBU
 https://www.google.com/maps/place/Reliant+Commodities+%26+Technologies+Pte.+Ltd./data=!4m7!3m6!1s0x31da190ebf1189b9:0xc921c184bb732874!8m2!3d1.2835225!4d103.8522867!16s%2Fg%2F1v8hyyrj!19sChIJuYkRvw4Z2jERdChzu4TBIck
 https://www.google.com/maps/place/SKA+Associates+Pte+Ltd/data=!4m7!3m6!1s0x31da190ecc8741db:0xf654194c03085c6!8m2!3d1.28422!4d103.8524508!16s%2Fg%2F1pv1h09jz!19sChIJ20GHzA4Z2jERxoUwwJRBZQ8
+https://www.google.com/maps/place/Tata+Steel+International+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da190ec8100e47:0x9bff2d2106d9bdfe!8m2!3d1.2838533!4d103.8519697!16s%2Fg%2F1tfyb2lb!19sChIJRw4QyA4Z2jER_r3ZBiEt_5s
