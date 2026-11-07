@@ -1001,3 +1001,4 @@ https://www.google.com/maps/place/TRADINGPLC/data=!4m7!3m6!1s0x31da19a541f04e5f:
 https://www.google.com/maps/place/Bulk+Trading+Far+East+Pte+Ltd/data=!4m7!3m6!1s0x31da19002e074cc3:0xdf18e8b80a87c210!8m2!3d1.2801132!4d103.8511704!16s%2Fg%2F11y3lp_yxy!19sChIJw0wHLgAZ2jEREMKHCrjoGN8
 https://www.google.com/maps/place/Central+Commercial+Trading+Co.+Pte+Ltd/data=!4m7!3m6!1s0x31da1831195fe9cb:0x300fb6e52a6947d4!8m2!3d1.31377!4d103.876253!16s%2Fg%2F1ptx4d2w0!19sChIJy-lfGTEY2jER1EdpKuW2DzA
 https://www.google.com/maps/place/Gees+Trading+Company/data=!4m7!3m6!1s0x31da19bafb996bc3:0xbda6c6b75bef3def!8m2!3d1.3004652!4d103.8536697!16s%2Fg%2F1thq2tmb!19sChIJw2uZ-7oZ2jER7z3vW7fGpr0
+https://www.google.com/maps/place/Honest+Trading+Co.+Pte.+Ltd./data=!4m7!3m6!1s0x31da19b7c4024673:0x4a4b43e949e6c8e0!8m2!3d1.3068068!4d103.8581941!16s%2Fg%2F1xtd_2f8!19sChIJc0YCxLcZ2jER4MjmSelDS0o
