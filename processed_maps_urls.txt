@@ -524,3 +524,5 @@ https://www.google.com/maps/place/Corporate+Innovations+Singapore+Pte+Ltd/data=!
 https://www.google.com/maps/place/Government+Technology+Agency+%28GovTech%29/data=!4m7!3m6!1s0x31da1bc0bcd90b45:0xf191edbdddbc919e!8m2!3d1.2742548!4d103.7999546!16s%2Fg%2F1v_sks6c!19sChIJRQvZvMAb2jERnpG83b3tkfE
 https://www.google.com/maps/place/Singapore+Economic+Development+Board+%28EDB%29/data=!4m7!3m6!1s0x31da19a42cdfde3b:0xeced8b622bba0e6d!8m2!3d1.2937868!4d103.8527761!16s%2Fg%2F1ttp_mqr!19sChIJO97fLKQZ2jERbQ66K2KL7ew
 https://www.google.com/maps/place/iZeno/data=!4m7!3m6!1s0x31da19cde3794d39:0xbbc1d9a24f4e6e5c!8m2!3d1.343484!4d103.8454922!16s%2Fg%2F1wf1_bxz!19sChIJOU15480Z2jERXG5OT6LZwbs
+https://www.google.com/maps/place/Spectrum+Business+Solutions/data=!4m7!3m6!1s0x31da197c8c890335:0x336f016a50fa5158!8m2!3d1.2828776!4d103.8499315!16s%2Fg%2F11nnvrxbvp!19sChIJNQOJjHwZ2jERWFH6UGoBbzM
+https://www.google.com/maps/place/TADA+Station/data=!4m7!3m6!1s0x31da1774f8455039:0x2e9e1c9f01e1bb9b!8m2!3d1.35851!4d103.834031!16s%2Fg%2F11pd2hv_41!19sChIJOVBF-HQX2jERm7vhAZ8cni4
