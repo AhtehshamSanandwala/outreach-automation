@@ -1456,3 +1456,4 @@ https://www.google.com/maps/place/Nomura+Research+Institute+Singapore+Pte+Ltd/da
 https://www.google.com/maps/place/Sovereign+Management+Services+Pte.+Ltd.+%28Singapore%29/data=!4m7!3m6!1s0x31da190e7deadefb:0x2278f0cbf1324c43!8m2!3d1.2846876!4d103.8499426!16s%2Fg%2F1v1kmct9!19sChIJ-97qfQ4Z2jERQ0wy8cvweCI
 https://www.google.com/maps/place/Anchanto/data=!4m7!3m6!1s0x31da19a0c720a313:0xe8ab79ec6132c71c!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F11g8d8xxz7!19sChIJE6Mgx6AZ2jERHMcyYex5q-g
 https://www.google.com/maps/place/Infosys+Limited/data=!4m7!3m6!1s0x31da190935400001:0xcfdfc975b95e5c30!8m2!3d1.2840788!4d103.8520448!16s%2Fg%2F1ptz3ltf8!19sChIJAQBANQkZ2jERMFxeuXXJ388
+https://www.google.com/maps/place/Premier+Fiduciary/data=!4m7!3m6!1s0x31da1909530b635d:0xba2e45577b39dc17!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F1pv0cgy14!19sChIJXWMLUwkZ2jERF9w5e1dFLro
