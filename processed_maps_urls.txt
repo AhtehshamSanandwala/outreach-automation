@@ -489,3 +489,4 @@ https://www.google.com/maps/place/Mindtech+Services+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Techease+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x6e3bed499c5d3f29:0x8476b2976a843b7a!8m2!3d1.3333659!4d103.8916892!16s%2Fg%2F11xts2bw0d!19sChIJKT9dnEntO24RejuEapeydoQ
 https://www.google.com/maps/place/Data+Connect+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da1762e64470d1:0xe73358e6c47392ff!8m2!3d1.333427!4d103.8942808!16s%2Fg%2F11tm_n17qv!19sChIJ0XBE5mIX2jER_5JzxOZYM-c
 https://www.google.com/maps/place/Iron+Mountain+Data+Centers+SIN-1/data=!4m7!3m6!1s0x31da179932601a8d:0x8bcd6e3419ab8038!8m2!3d1.3757751!4d103.8714382!16s%2Fg%2F11g4bm0tnf!19sChIJjRpgMpkX2jEROICrGTRuzYs
+https://www.google.com/maps/place/UCloud+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da181867073899:0xbdf6262cb9da601!8m2!3d1.3194919!4d103.8927503!16s%2Fg%2F11df66xyb_!19sChIJmTgHZxgY2jERAaady2Ji3ws
