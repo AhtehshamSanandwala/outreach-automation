@@ -939,3 +939,5 @@ https://www.google.com/maps/place/DirectWholesale/data=!4m7!3m6!1s0x8f46591f337e
 https://www.google.com/maps/place/LNC+Pte+Ltd/data=!4m7!3m6!1s0x31da19134315c20d:0x4215d115b67fa22!8m2!3d1.3001685!4d103.8372952!16s%2Fg%2F1ptwyyhp5!19sChIJDcIVQxMZ2jERIvpnWxFdIQQ
 https://www.google.com/maps/place/TheWhisky.SG/data=!4m7!3m6!1s0x31da198d12cf5563:0x692e3ee9ec80c102!8m2!3d1.3061369!4d103.8320292!16s%2Fg%2F11g9d_xws9!19sChIJY1XPEo0Z2jERAsGA7Ok-Lmk
 https://www.google.com/maps/place/Pacific+Beverages+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3c328a9c73:0x56f841370dfe427a!8m2!3d1.3265686!4d103.6872782!16s%2Fg%2F11b5yrmvnc!19sChIJc5yKMjw92jERekL-DTdB-FY
+https://www.google.com/maps/place/Caria+Marketing+Pte+Ltd/data=!4m7!3m6!1s0x31da19835ce43a1f:0x1681fc9c81f73c9e!8m2!3d1.3114155!4d103.8054231!16s%2Fg%2F11c1wsl1rr!19sChIJHzrkXIMZ2jERnjz3gZz8gRY
+https://www.google.com/maps/place/Kara+Coconut+-+Pulau+Sambu+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19e39e9da3e3:0x65c93a3d0cde2baf!8m2!3d1.3071185!4d103.8474926!16s%2Fg%2F11h37wmzd1!19sChIJ46OdnuMZ2jERryveDD06yWU
