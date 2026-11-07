@@ -1446,3 +1446,4 @@ https://www.google.com/maps/place/SRA+Information+Technology/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/TSquared+Lab+Raffles+Place/data=!4m7!3m6!1s0x31da197664cbb859:0x6f8bd6df56f4e98e!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F11rn0kf9h6!19sChIJWbjLZHYZ2jERjun0Vt_Wi28
 https://www.google.com/maps/place/Regus+-+Singapore,+1+Raffles+Place+-+Tower+2/data=!4m7!3m6!1s0x31da193163e6521b:0x379d7f98415c460!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F1tgby8h7!19sChIJG1LmYzEZ2jERYMQVhPnXeQM
 https://www.google.com/maps/place/Protiviti+Singapore/data=!4m7!3m6!1s0x31da198ab6b9b2d7:0x8dfbc9a98c56d08e!8m2!3d1.2829427!4d103.851018!16s%2Fg%2F11cs5mqvl8!19sChIJ17K5tooZ2jERjtBWjKnJ-40
+https://www.google.com/maps/place/Asian+Technology/data=!4m7!3m6!1s0x31da190eb7c00001:0x6b576189a8336c32!8m2!3d1.2838533!4d103.8519697!16s%2Fg%2F11fm4yth2_!19sChIJAQDAtw4Z2jERMmwzqIlhV2s
