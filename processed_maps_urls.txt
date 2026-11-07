@@ -1761,3 +1761,4 @@ https://www.google.com/maps/place/Raffemet+Pte+Ltd/data=!4m7!3m6!1s0x31da190ec65
 https://www.google.com/maps/place/Andoman+Trading+%26+Shipping+Co.+Pte.+Ltd./data=!4m7!3m6!1s0x31da190eacb58e55:0xdbea9cc03b54b91d!8m2!3d1.284358!4d103.8510616!16s%2Fg%2F11f3x4nxz_!19sChIJVY61rA4Z2jERHblUO8Cc6ts
 https://www.google.com/maps/place/One+And+Only+Point+Trading+Private+Limited./data=!4m7!3m6!1s0x31da190ec6d00001:0x236c261ab194f585!8m2!3d1.2835225!4d103.8522867!16s%2Fg%2F11vzfpfykd!19sChIJAQDQxg4Z2jERhfWUsRombCM
 https://www.google.com/maps/place/SAM+SINGAPORE+PTE+LTD./data=!4m7!3m6!1s0x31da19a7286aafa5:0xf233ebff8adce009!8m2!3d1.2851304!4d103.8523773!16s%2Fg%2F11j59h5dnv!19sChIJpa9qKKcZ2jERCeDciv_rM_I
+https://www.google.com/maps/place/Fiat+Money+Changer/data=!4m7!3m6!1s0x31da190ec6d00001:0x594ed8774ff51e98!8m2!3d1.283523!4d103.852287!16s%2Fg%2F11ggs7t3db!19sChIJAQDQxg4Z2jERmB71T3fYTlk
