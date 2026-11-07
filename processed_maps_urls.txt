@@ -1256,3 +1256,4 @@ https://www.google.com/maps/place/X-Boundaries/data=!4m7!3m6!1s0x31da1005888dfbf
 https://www.google.com/maps/place/The+Air+Station+%7C+Sleep+Experience+Centre/data=!4m7!3m6!1s0x31da172d30e5c0c7:0xcdea2358f340b854!8m2!3d1.3369142!4d103.8486187!16s%2Fg%2F11fct19kvk!19sChIJx8DlMC0X2jERVLhA81gj6s0
 https://www.google.com/maps/place/Zener+D.I.Y+@+Orchard+Towers/data=!4m7!3m6!1s0x31da198cd02537dd:0x1f8f2e106f116722!8m2!3d1.307659!4d103.8294976!16s%2Fg%2F1vkxjsqx!19sChIJ3Tcl0IwZ2jERImcRbxAujx8
 https://www.google.com/maps/place/Choo+Chiang+Marketing+Pte+Ltd+%28Rowell%29/data=!4m7!3m6!1s0x31da19b7fed3c011:0x104e0b36215f6b88!8m2!3d1.3075424!4d103.8545549!16s%2Fg%2F1tf2prg9!19sChIJEcDT_rcZ2jERiGtfITYLThA
+https://www.google.com/maps/place/GMK+Metals+%26+Trading+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da198cce71dc01:0x574ca551570d98b5!8m2!3d1.307565!4d103.829476!16s%2Fg%2F1ptwk1697!19sChIJAdxxzowZ2jERtZgNV1GlTFc
