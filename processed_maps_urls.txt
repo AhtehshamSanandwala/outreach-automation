@@ -1229,3 +1229,4 @@ https://www.google.com/maps/place/Acme+Equipment+Pte+Ltd/data=!4m7!3m6!1s0x31da0
 https://www.google.com/maps/place/Zibo+Decent+Machinery+Co.,ltd/data=!4m7!3m6!1s0x31da0549bd1ec573:0xf0a636629ea3f777!8m2!3d1.3121787!4d103.7023858!16s%2Fg%2F11vpc9yh0j!19sChIJc8UevUkF2jERd_ejnmI2pvA
 https://www.google.com/maps/place/Buhler+Asia+Pte.+Ltd./data=!4m7!3m6!1s0x31da19bf85836061:0xd460586420dd1afd!8m2!3d1.30677!4d103.847844!16s%2Fg%2F1tg5rk_q!19sChIJYWCDhb8Z2jER_RrdIGRYYNQ
 https://www.google.com/maps/place/Dynapac+Road+Equipment+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da19132444348b:0x862ce9e0f0760011!8m2!3d1.2769938!4d103.8457765!16s%2Fg%2F11fzf3xlxl!19sChIJizREJBMZ2jEREQB28ODpLIY
+https://www.google.com/maps/place/Green+EC+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19cee48790c7:0xd7d5a34160e96ad9!8m2!3d1.3075611!4d103.8532812!16s%2Fg%2F11pwy0hy2x!19sChIJx5CH5M4Z2jER2WrpYEGj1dc
