@@ -1448,3 +1448,4 @@ https://www.google.com/maps/place/Regus+-+Singapore,+1+Raffles+Place+-+Tower+2/d
 https://www.google.com/maps/place/Protiviti+Singapore/data=!4m7!3m6!1s0x31da198ab6b9b2d7:0x8dfbc9a98c56d08e!8m2!3d1.2829427!4d103.851018!16s%2Fg%2F11cs5mqvl8!19sChIJ17K5tooZ2jERjtBWjKnJ-40
 https://www.google.com/maps/place/Asian+Technology/data=!4m7!3m6!1s0x31da190eb7c00001:0x6b576189a8336c32!8m2!3d1.2838533!4d103.8519697!16s%2Fg%2F11fm4yth2_!19sChIJAQDAtw4Z2jERMmwzqIlhV2s
 https://www.google.com/maps/place/Chan+Management+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da198cc688d0a5:0x5d9fc97a7d73e3bf!8m2!3d1.283596!4d103.8523082!16s%2Fg%2F11b807cw0p!19sChIJpdCIxowZ2jERv-NzfXrJn10
+https://www.google.com/maps/place/RQAM/data=!4m7!3m6!1s0x31da190e6b8290cf:0x2937ea074b146eca!8m2!3d1.2795092!4d103.8541591!16s%2Fg%2F11b6ljyx61!19sChIJz5CCaw4Z2jERym4USwfqNyk
