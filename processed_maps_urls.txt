@@ -644,3 +644,6 @@ https://www.google.com/maps/place/21st+Century+Employment+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/Nicole+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da1996fb3aac05:0x5da64f2fc243affe!8m2!3d1.3037539!4d103.8332121!16s%2Fg%2F1thhh09z!19sChIJBaw6-5YZ2jER_q9Dwi9Ppl0
 https://www.google.com/maps/place/Pang+Employment+Agency/data=!4m7!3m6!1s0x31da18726c097e91:0x2bd9c00a0287f15f!8m2!3d1.3072582!4d103.8473196!16s%2Fg%2F1tfjhn64!19sChIJkX4JbHIY2jERX_GHAgrA2Ss
 https://www.google.com/maps/place/Your+Maid+Agency/data=!4m7!3m6!1s0x31da11b9ccc95025:0x36c2161711928b9d!8m2!3d1.3431115!4d103.7760782!16s%2Fg%2F11txsmdbwh!19sChIJJVDJzLkR2jERnYuSERcWwjY
+https://www.google.com/maps/place/J+And+Lai+Employment+Agency/data=!4m7!3m6!1s0x31da19926d40711d:0xc24acba92bb1e552!8m2!3d1.3042934!4d103.8340165!16s%2Fg%2F1wcx9l_t!19sChIJHXFAbZIZ2jERUuWxK6nLSsI
+https://www.google.com/maps/place/THITER-S+Employment+Agency/data=!4m7!3m6!1s0x31da198cc0aefd57:0x6338bddc63f14976!8m2!3d1.3069674!4d103.8292165!16s%2Fg%2F11c1wt4xbf!19sChIJV_2uwIwZ2jERdknxY9y9OGM
+https://www.google.com/maps/place/Ehl+Enterprises+Pte+Ltd/data=!4m7!3m6!1s0x31da199653e27d7f:0x25f6a922952aed37!8m2!3d1.3010722!4d103.8424588!16s%2Fg%2F1wg5vj1h!19sChIJf33iU5YZ2jERN-0qlSKp9iU
