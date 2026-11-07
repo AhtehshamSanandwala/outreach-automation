@@ -879,3 +879,4 @@ https://www.google.com/maps/place/FinTags/data=!4m7!3m6!1s0x31da19429f75ec93:0x3
 https://www.google.com/maps/place/VINSOFT+OUTSOURCING+PTE+LTD/data=!4m7!3m6!1s0x31da196faf34ed01:0x442ab08241d636bc!8m2!3d1.305229!4d103.852499!16s%2Fg%2F11j0ng858z!19sChIJAe00r28Z2jERvDbWQYKwKkQ
 https://www.google.com/maps/place/Singapore+Golding+%26+Golding/data=!4m7!3m6!1s0x31da199133bd1f53:0xa825c3e194213575!8m2!3d1.301615!4d103.838784!16s%2Fg%2F11cspk3273!19sChIJUx-9M5EZ2jERdTUhlOHDJag
 https://www.google.com/maps/place/Intergest+Singapore/data=!4m7!3m6!1s0x31da1996b23c5555:0x42b6b26ee0a49d5a!8m2!3d1.3024886!4d103.8393219!16s%2Fg%2F11q7_00_kl!19sChIJVVU8spYZ2jERWp2k4G6ytkI
+https://www.google.com/maps/place/%EC%9D%B4%EA%B9%80%EC%BB%A8%EC%84%A4%ED%8C%85+%7C+Lee+Kim+Alliance/data=!4m7!3m6!1s0x31da191343eb5b27:0xd4ca5f46d3233be5!8m2!3d1.3003862!4d103.8370187!16s%2Fg%2F1tczy0l_!19sChIJJ1vrQxMZ2jER5Tsj00ZfytQ
