@@ -443,3 +443,4 @@ https://www.google.com/maps/place/Kaopiz+Pte.+Ltd.+%7C+Software+Development+%26+
 https://www.google.com/maps/place/SMART+CONSULTING+SOLUTIONS+PTE+LTD/data=!4m7!3m6!1s0x31da190e6343ffff:0x2b742611b0f33ede!8m2!3d1.2817911!4d103.8514035!16s%2Fg%2F11ggsn2r55!19sChIJ__9DYw4Z2jER3j7zsBEmdCs
 https://www.google.com/maps/place/Microsoft+Singapore/data=!4m7!3m6!1s0x31da190ef72075ef:0x1108ee8915a8eacc!8m2!3d1.2786632!4d103.8474008!16s%2Fg%2F1vp6xqf0!19sChIJ73Ug9w4Z2jERzOqoFYnuCBE
 https://www.google.com/maps/place/Swiftly/data=!4m7!3m6!1s0x31da11d4a3f26a31:0xfef54e3a34fe340d!8m2!3d1.2953522!4d103.8584051!16s%2Fg%2F11tg0gqp4w!19sChIJMWryo9QR2jERDTT-NDpO9f4
+https://www.google.com/maps/place/One+IBC+Singapore/data=!4m7!3m6!1s0x31da190ec6cfe827:0x8130d4a99586d2d4!8m2!3d1.278646!4d103.8484196!16s%2Fg%2F11fx8j8wzk!19sChIJJ-jPxg4Z2jER1NKGlanUMIE
