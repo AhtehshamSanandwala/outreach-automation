@@ -1676,3 +1676,4 @@ https://www.google.com/maps/place/H.A.+Christie+%26+Co/data=!4m7!3m6!1s0x31da199
 https://www.google.com/maps/place/C+Advisory+Pte.+Ltd./data=!4m7!3m6!1s0x31da19b9e2cccd3d:0x9a7edfda6e25cdba!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F11ky6qwyst!19sChIJPc3M4rkZ2jERus0lbtrffpo
 https://www.google.com/maps/place/JWCORP+CONSULTANCY+PTE+LTD/data=!4m7!3m6!1s0x31da199d4797853f:0x9fdd61f71eaa8e09!8m2!3d1.284542!4d103.851951!16s%2Fg%2F11hz_t00w5!19sChIJP4WXR50Z2jERCY6qHvdh3Z8
 https://www.google.com/maps/place/L.E.K.+Consulting/data=!4m7!3m6!1s0x31da190947cc21ab:0x78ae7f6783a31a4!8m2!3d1.283274!4d103.850883!16s%2Fg%2F11bwh9qpgd!19sChIJqyHMRwkZ2jERpDE6ePbnigc
+https://www.google.com/maps/place/ALA+Consulting/data=!4m7!3m6!1s0x31da19675ff30aa7:0x10e9623e1644e9f!8m2!3d1.2814095!4d103.8510185!16s%2Fg%2F11rcq36824!19sChIJpwrzX2cZ2jERn05k4SOWDgE
