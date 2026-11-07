@@ -1466,3 +1466,4 @@ https://www.google.com/maps/place/Conpak+Management+Consultants+%28Singapore%29+
 https://www.google.com/maps/place/Hong+Leong+Management+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da190e7754a515:0x15ebc7abf214ceb6!8m2!3d1.2815059!4d103.85104!16s%2Fg%2F1tdqx76t!19sChIJFaVUdw4Z2jERts4U8qvH6xU
 https://www.google.com/maps/place/The+Arcade/data=!4m7!3m6!1s0x31da190ec7a45f71:0x3c0342268c636b68!8m2!3d1.283495!4d103.85243!16s%2Fg%2F1td10smb!19sChIJcV-kxw4Z2jERaGtjjCZCAzw
 https://www.google.com/maps/place/TallRock+Capital+Singapore/data=!4m7!3m6!1s0x31da1902165f0b71:0xee25fabe243e9afc!8m2!3d1.2847537!4d103.8519859!16s%2Fg%2F11fsmc2q5q!19sChIJcQtfFgIZ2jER_Jo-JL76Je4
+https://www.google.com/maps/place/One+Raffles+Quay/data=!4m7!3m6!1s0x31da190e69a21ab1:0x5296aa331191967f!8m2!3d1.2812689!4d103.8519161!16zL20vMDg4Z3N0!19sChIJsRqiaQ4Z2jERf5aRETOqllI
