@@ -2193,3 +2193,4 @@ https://www.google.com/maps/place/PT+TESCO+ENERGY/data=!4m7!3m6!1s0x31da191344c0
 https://www.google.com/maps/place/Asgard+Project+Solutions/data=!4m7!3m6!1s0x31da190b7873bb37:0x85edae924859cf3a!8m2!3d1.27606!4d103.846092!16s%2Fg%2F11b8_p7z4t!19sChIJN7tzeAsZ2jEROs9ZSJKu7YU
 https://www.google.com/maps/place/Orchard+Global+Asset+Management+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1912c5efffff:0x14a34b0a93418c3!8m2!3d1.2782955!4d103.8456739!16s%2Fg%2F1ptw_c8dd!19sChIJ___vxRIZ2jERwxg0qbA0SgE
 https://www.google.com/maps/place/Rapid+Physiocare+@+Tanjong+Pagar/data=!4m7!3m6!1s0x31da191344c00001:0xb2614e03f5eba1cf!8m2!3d1.2755729!4d103.8457534!16s%2Fg%2F11gbxcqzfw!19sChIJAQDARBMZ2jERz6Hr9QNOYbI
+https://www.google.com/maps/place/Royce+Dental+Centre+-+Tanjong+Pagar/data=!4m7!3m6!1s0x31da196ce990bee5:0xe31e16f43ac92e6c!8m2!3d1.2748632!4d103.8426344!16s%2Fg%2F11c3k9q9qr!19sChIJ5b6Q6WwZ2jERbC7JOvQWHuM
