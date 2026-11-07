@@ -2072,3 +2072,4 @@ https://www.google.com/maps/place/LOPELAB/data=!4m7!3m6!1s0x31da196d994e56ad:0x5
 https://www.google.com/maps/place/Talon+OOH+Agency+Singapore/data=!4m7!3m6!1s0x31da195038978845:0xc1ee45293ad66a22!8m2!3d1.2760024!4d103.8459451!16s%2Fg%2F11t6knlyrt!19sChIJRYiXOFAZ2jERImrWOilF7sE
 https://www.google.com/maps/place/Yatta+Workshop+Pte.+Ltd./data=!4m7!3m6!1s0x31da196b5fc55555:0x526a7f3f566759b2!8m2!3d1.2749455!4d103.8434094!16s%2Fg%2F11lky5hf66!19sChIJVVXFX2sZ2jERsllnVj9_alI
 https://www.google.com/maps/place/Helix+Media+Pte.+Ltd/data=!4m7!3m6!1s0x31da196d4acfec5f:0x55777a8cedc42836!8m2!3d1.2798969!4d103.8407637!16s%2Fg%2F1tm08b4_!19sChIJX-zPSm0Z2jERNijE7Yx6d1U
+https://www.google.com/maps/place/Chuo+Senko+Advertising+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19135fea1e71:0x656b2b5ce0640891!8m2!3d1.27518!4d103.84624!16s%2Fg%2F11b6d6m80r!19sChIJcR7qXxMZ2jERkQhk4Fwra2U
