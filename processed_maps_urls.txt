@@ -1581,3 +1581,4 @@ https://www.google.com/maps/place/Sprinton/data=!4m7!3m6!1s0x31da1909566ac8b7:0x
 https://www.google.com/maps/place/The+Consulting+Partnership+Pte+Ltd/data=!4m7!3m6!1s0x31da190ec8100e47:0xfc753c71eedbb187!8m2!3d1.283847!4d103.852123!16s%2Fg%2F1tjbppcz!19sChIJRw4QyA4Z2jERh7Hb7nE8dfw
 https://www.google.com/maps/place/Kestrel+International+Search+and+Advisory/data=!4m7!3m6!1s0x31da190949e6bfd5:0xc6e36010e5eeac0c!8m2!3d1.284716!4d103.852032!16s%2Fg%2F1pty_gn_c!19sChIJ1b_mSQkZ2jERDKzu5RBg48Y
 https://www.google.com/maps/place/Yumit/data=!4m7!3m6!1s0x31da19095357a2af:0x7c8cb8bc9e8114b3!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11ldq0t7bh!19sChIJr6JXUwkZ2jERsxSBnry4jHw
+https://www.google.com/maps/place/SG+Employment+Agency+Pte.+Ltd.+%28SGEA%29/data=!4m7!3m6!1s0x31da194e3311849b:0xe68002b67500e6be!8m2!3d1.330963!4d103.8581751!16s%2Fg%2F11k39jhmcf!19sChIJm4QRM04Z2jERvuYAdbYCgOY
