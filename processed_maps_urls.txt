@@ -1918,3 +1918,4 @@ https://www.google.com/maps/place/Edwards+Technologies+Singapore+Pte+Ltd/data=!4
 https://www.google.com/maps/place/Crazy+Nana/data=!4m7!3m6!1s0x31da19c13328f7af:0x16108256a494d0c8!8m2!3d1.2829529!4d103.8511883!16s%2Fg%2F11s86by031!19sChIJr_coM8EZ2jERyNCUpFaCEBY
 https://www.google.com/maps/place/General+Monitors+Systems+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da190ea4a0422b:0x36b4154dc896fd8c!8m2!3d1.2834968!4d103.8512521!16s%2Fg%2F11b6d1qsq7!19sChIJK0KgpA4Z2jERjP2WyE0VtDY
 https://www.google.com/maps/place/Intevac+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da19092485bb1b:0xf218eda79e0ce0f!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F1ptxcjcqr!19sChIJG7uFJAkZ2jERD87gedqOIQ8
+https://www.google.com/maps/place/Baker+Hughes+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da190ee55c6dbd:0x4effed0c2ea5d723!8m2!3d1.2831888!4d103.8530599!16s%2Fg%2F11mv_4784v!19sChIJvW1c5Q4Z2jERI9elLgzt_04
