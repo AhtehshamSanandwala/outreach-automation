@@ -1565,3 +1565,4 @@ https://www.google.com/maps/place/Eames+Consulting/data=!4m7!3m6!1s0x31da190e861
 https://www.google.com/maps/place/Search+Staffing+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da190eb56e786d:0xba42844150efd70e!8m2!3d1.2842624!4d103.8519925!16s%2Fg%2F12hknt285!19sChIJbXhutQ4Z2jERDtfvUEGEQro
 https://www.google.com/maps/place/Pulsifi+Singapore/data=!4m7!3m6!1s0x31da190d851abec7:0xb6cbe21205cad9db!8m2!3d1.2842897!4d103.8510283!16s%2Fg%2F11qnk7zh91!19sChIJx74ahQ0Z2jER29nKBRLiy7Y
 https://www.google.com/maps/place/Gems+Recruit/data=!4m7!3m6!1s0x31da19f0d8d241e1:0x9113ca0e816aa3dc!8m2!3d1.3024158!4d103.8539626!16s%2Fg%2F11r2qt5_yh!19sChIJ4UHS2PAZ2jER3KNqgQ7KE5E
+https://www.google.com/maps/place/Legal+Labs+Recruitment+Pte+Ltd/data=!4m7!3m6!1s0x31da1909331e6623:0xefb185c6d7b1fb16!8m2!3d1.2854749!4d103.8517317!16s%2Fg%2F1tfglxv1!19sChIJI2YeMwkZ2jERFvux18aFse8
