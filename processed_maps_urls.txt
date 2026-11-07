@@ -494,3 +494,4 @@ https://www.google.com/maps/place/Digital+Realty+Singapore+Corporate+Office/data
 https://www.google.com/maps/place/Quess+Singapore/data=!4m7!3m6!1s0x31da19123471787b:0xad53ce73bbb6b036!8m2!3d1.2823669!4d103.8510356!16s%2Fg%2F1tlgvgsc!19sChIJe3hxNBIZ2jERNrC2u3POU60
 https://www.google.com/maps/place/Premium+IT+Services/data=!4m7!3m6!1s0x31da196d4acfec5f:0xad37a5bb765cc1ea!8m2!3d1.279854!4d103.8438183!16s%2Fg%2F1tdcp14w!19sChIJX-zPSm0Z2jER6sFcdrulN60
 https://www.google.com/maps/place/FS.com+Singapore+%28Office+and+Warehouse%29/data=!4m7!3m6!1s0x31da19692d827807:0x1fdd0e79f416c377!8m2!3d1.378196!4d103.874306!16s%2Fg%2F11g1scwj29!19sChIJB3iCLWkZ2jERd8MW9HkO3R8
+https://www.google.com/maps/place/Dalstech+Pte+Ltd/data=!4m7!3m6!1s0x31da19f5f6ab0fcd:0x31a0b37873ff37c2!8m2!3d1.312354!4d103.862962!16s%2Fg%2F11fqtc0q3m!19sChIJzQ-r9vUZ2jERwjf_c3izoDE
