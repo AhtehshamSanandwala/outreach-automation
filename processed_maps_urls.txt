@@ -1768,3 +1768,4 @@ https://www.google.com/maps/place/Chs+Singapore+Trading+Company+Pte.+Ltd./data=!
 https://www.google.com/maps/place/Straits+Bunkering/data=!4m7!3m6!1s0x31da190c20955555:0x5106b9a77ea39b6b!8m2!3d1.2831342!4d103.8507227!16s%2Fg%2F11h4dj9chw!19sChIJVVWVIAwZ2jERa5ujfqe5BlE
 https://www.google.com/maps/place/Pacific+Energy/data=!4m7!3m6!1s0x31da190be0d76959:0x362039b7c690437a!8m2!3d1.2852183!4d103.8511746!16s%2Fg%2F1td9y5_q!19sChIJWWnX4AsZ2jERekOQxrc5IDY
 https://www.google.com/maps/place/CandyShe+Trading+Company/data=!4m7!3m6!1s0x31da1909557f349b:0x3d9e6d05aba80c52!8m2!3d1.284513!4d103.850633!16s%2Fg%2F1pv0x346g!19sChIJmzR_VQkZ2jERUgyoqwVtnj0
+https://www.google.com/maps/place/IG+Singapore/data=!4m7!3m6!1s0x31da190939163be1:0xcf3348df3e93230b!8m2!3d1.2845822!4d103.8519564!16s%2Fg%2F1s04gg356!19sChIJ4TsWOQkZ2jERCyOTPt9IM88
