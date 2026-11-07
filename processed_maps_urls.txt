@@ -1879,3 +1879,4 @@ https://www.google.com/maps/place/Drake+International,+On-site+Services,+Singapo
 https://www.google.com/maps/place/Eilux/data=!4m7!3m6!1s0x31da190ea26aaaab:0x4bbc1f77c50733c7!8m2!3d1.2833721!4d103.8509835!16s%2Fg%2F1ptvwdr_q!19sChIJq6pqog4Z2jERxzMHxXcfvEs
 https://www.google.com/maps/place/PAL+Line+Pte+Ltd/data=!4m7!3m6!1s0x31da17f246728dd1:0x87d5736e600e4949!8m2!3d1.304372!4d103.9033896!16s%2Fg%2F1ptyt6gp9!19sChIJ0Y1yRvIX2jERSUkOYG5z1Yc
 https://www.google.com/maps/place/PK+International+Agencies+Pte+Ltd/data=!4m7!3m6!1s0x31da190ea276aeed:0xeded5346bbc6b188!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F1ptwjd49v!19sChIJ7a52og4Z2jERiLHGu0ZT7e0
+https://www.google.com/maps/place/S-T3+Pte.+Ltd./data=!4m7!3m6!1s0x31da19094881ecf7:0xe3de7d7b0ee87149!8m2!3d1.2846866!4d103.8520592!16s%2Fg%2F1v5k0jj9!19sChIJ9-yBSAkZ2jERSXHoDnt93uM
