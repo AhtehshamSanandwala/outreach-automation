@@ -513,3 +513,4 @@ https://www.google.com/maps/place/Human+Managed+Pte.+Ltd./data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Eunos+Techpark/data=!4m7!3m6!1s0x31da17fac0a6a723:0x168dad5006e4ed5e!8m2!3d1.3344879!4d103.9049722!16s%2Fg%2F1ptynhqfl!19sChIJI6emwPoX2jERXu3kBlCtjRY
 https://www.google.com/maps/place/Info-tech+Computer+Systems+Pte+Ltd/data=!4m7!3m6!1s0x31da1975b3d779d7:0xd656256335e7b226!8m2!3d1.2870826!4d103.8408451!16s%2Fg%2F1v9ggh_w!19sChIJ13nXs3UZ2jERJrLnNWMlVtY
 https://www.google.com/maps/place/AECOM+Singapore/data=!4m7!3m6!1s0x31da19a5624c88b3:0xdda0de9ff5a82f8e!8m2!3d1.3009268!4d103.8626036!16s%2Fg%2F1wbrv985!19sChIJs4hMYqUZ2jERji-o9Z_eoN0
+https://www.google.com/maps/place/Aggasys+Solutions+Pte.+Ltd./data=!4m7!3m6!1s0x31da173e5ea71865:0xb44328fa11ebfed1!8m2!3d1.3591235!4d103.8343748!16s%2Fg%2F1v3hxh86!19sChIJZRinXj4X2jER0f7rEfooQ7Q
