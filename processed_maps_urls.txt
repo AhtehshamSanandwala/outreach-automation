@@ -515,3 +515,4 @@ https://www.google.com/maps/place/Info-tech+Computer+Systems+Pte+Ltd/data=!4m7!3
 https://www.google.com/maps/place/AECOM+Singapore/data=!4m7!3m6!1s0x31da19a5624c88b3:0xdda0de9ff5a82f8e!8m2!3d1.3009268!4d103.8626036!16s%2Fg%2F1wbrv985!19sChIJs4hMYqUZ2jERji-o9Z_eoN0
 https://www.google.com/maps/place/Aggasys+Solutions+Pte.+Ltd./data=!4m7!3m6!1s0x31da173e5ea71865:0xb44328fa11ebfed1!8m2!3d1.3591235!4d103.8343748!16s%2Fg%2F1v3hxh86!19sChIJZRinXj4X2jER0f7rEfooQ7Q
 https://www.google.com/maps/place/PIXAKNIGHTS+PTE.+LTD./data=!4m7!3m6!1s0x31da191343eb5b27:0xf270bcce2143650!8m2!3d1.324928!4d103.8943765!16s%2Fg%2F1q6kk4r12!19sChIJJ1vrQxMZ2jERUDYU4swLJw8
+https://www.google.com/maps/place/German+Centre/data=!4m7!3m6!1s0x31da1aa0d5fb499d:0x7fa159a59651a73e!8m2!3d1.3249723!4d103.7463454!16s%2Fg%2F11cjkgxj16!19sChIJnUn71aAa2jERPqdRlqVZoX8
