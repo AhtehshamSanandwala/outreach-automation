@@ -1799,3 +1799,4 @@ https://www.google.com/maps/place/Jsw+International+Tradecorp/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Aramco+Asia+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da19e9a1144565:0x47d5394892bb1bcc!8m2!3d1.2827072!4d103.8528122!16s%2Fg%2F11fr3bpspq!19sChIJZUUUoekZ2jERzBu7kkg51Uc
 https://www.google.com/maps/place/Arcade+Money+Changers+%28+AMC+sg+%29/data=!4m7!3m6!1s0x31da190eb8ba5fb5:0x448aaa471a50f73d!8m2!3d1.2834748!4d103.8517805!16s%2Fg%2F11bxf090zz!19sChIJtV-6uA4Z2jERPfdQGkeqikQ
 https://www.google.com/maps/place/International+Growth+Pte+Ltd/data=!4m7!3m6!1s0x31da190952fdefdb:0xde8bcbdb39c26813!8m2!3d1.2844948!4d103.8511573!16s%2Fg%2F1pv15761f!19sChIJ2-_9UgkZ2jERE2jCOdvLi94
+https://www.google.com/maps/place/Raffles+City+Shopping+Centre/data=!4m7!3m6!1s0x31da1989239706e5:0xcc141c5a687f20eb!8m2!3d1.29401!4d103.8531473!16zL20vMDZ3cjdy!19sChIJ5QaXI4kZ2jER6yB_aFocFMw
