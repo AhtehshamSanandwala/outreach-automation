@@ -675,3 +675,6 @@ https://www.google.com/maps/place/DN+and+Associates+Executive+Search+Pte+Ltd/dat
 https://www.google.com/maps/place/ANKH+Executive+Search/data=!4m7!3m6!1s0x31da190c25275d8f:0xa29e582275e40fbd!8m2!3d1.2828188!4d103.8503842!16s%2Fg%2F11f3dn_cwc!19sChIJj10nJQwZ2jERvQ_kdSJYnqI
 https://www.google.com/maps/place/HR+Consulting+and+Executive+Search+Group/data=!4m7!3m6!1s0x31da19918f859789:0xe048921d4d4dbea0!8m2!3d1.302707!4d103.835362!16s%2Fg%2F11btm8xwzf!19sChIJiZeFj5EZ2jERoL5NTR2SSOA
 https://www.google.com/maps/place/Frontier+Executive+Search/data=!4m7!3m6!1s0x31da1991f34dc86f:0xe2376bd9decfb2c3!8m2!3d1.3028666!4d103.834662!16s%2Fg%2F11btlz9jyq!19sChIJb8hN85EZ2jERw7LP3tlrN-I
+https://www.google.com/maps/place/Asia+Network+Executive+Search+Pte+Ltd/data=!4m7!3m6!1s0x31da196b5acd09d7:0xb8ab4294e2a2a045!8m2!3d1.2745039!4d103.8439529!16s%2Fg%2F1td3n_q9!19sChIJ1wnNWmsZ2jERRaCi4pRCq7g
+https://www.google.com/maps/place/Quest+Executive+Search+Pte+Ltd/data=!4m7!3m6!1s0x31da1913be058395:0x458d6c1e4cdf21ee!8m2!3d1.2762667!4d103.8490709!16s%2Fg%2F1ptzsnyr6!19sChIJlYMFvhMZ2jER7iHfTB5sjUU
+https://www.google.com/maps/place/Recruit+Inc+Pte+Ltd/data=!4m7!3m6!1s0x31da196ef9c94f3d:0xc703e2f923306b7f!8m2!3d1.3073743!4d103.8292748!16s%2Fg%2F11fxf35827!19sChIJPU_J-W4Z2jERf2swI_niA8c
