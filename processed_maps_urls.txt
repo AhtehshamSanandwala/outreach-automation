@@ -1400,3 +1400,4 @@ https://www.google.com/maps/place/Digitall+Creations+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/iGen+Limited/data=!4m7!3m6!1s0x31da19094a5c9145:0x211c527dd4dec835!8m2!3d1.284542!4d103.851951!16s%2Fg%2F11p06bt5v6!19sChIJRZFcSgkZ2jERNcje1H1SHCE
 https://www.google.com/maps/place/Salonist+-+Salon+%26+Spa+Software/data=!4m7!3m6!1s0x31da190ea2f993e5:0xca5571a4b4aa8b3d!8m2!3d1.2834228!4d103.8512875!16s%2Fg%2F1tj4w6pq!19sChIJ5ZP5og4Z2jERPYuqtKRxVco
 https://www.google.com/maps/place/WeWork+-+Office+Space+%26+Coworking/data=!4m7!3m6!1s0x31da197789e70d73:0xb19a3a3d8520f101!8m2!3d1.2841724!4d103.8519308!16s%2Fg%2F11r3_0s_c0!19sChIJcw3niXcZ2jERAfEghT06mrE
+https://www.google.com/maps/place/Brane+Cognitives/data=!4m7!3m6!1s0x31da190e974d36f9:0xcf484f08b4b9c867!8m2!3d1.2829077!4d103.8513873!16s%2Fg%2F11r2rthc81!19sChIJ-TZNlw4Z2jERZ8i5tAhPSM8
