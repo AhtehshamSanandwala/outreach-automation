@@ -1873,3 +1873,4 @@ https://www.google.com/maps/place/Suba+Shipping+Co+Pte.+Ltd./data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Alliance+Tanker+Chartering+Pte.+Ltd/data=!4m7!3m6!1s0x31da190ebf6d391b:0x9f9d30faec63f210!8m2!3d1.2835725!4d103.8520216!16s%2Fg%2F1vc69y1b!19sChIJGzltvw4Z2jEREPJj7PownZ8
 https://www.google.com/maps/place/Super-Eco+Bulkers+Management+Inc./data=!4m7!3m6!1s0x31da190949c15555:0xfd6276a354bfe0ea!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11hz188ks_!19sChIJVVXBSQkZ2jER6uC_VKN2Yv0
 https://www.google.com/maps/place/Tai+Chong+Cheang+Steamship+Co+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19a6cc5f8479:0x6f45926a67c2fdc7!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F1ttyt809!19sChIJeYRfzKYZ2jERx_3CZ2qSRW8
+https://www.google.com/maps/place/Raffles+Place+MRT+station/data=!4m7!3m6!1s0x31da190e977d569b:0x27b0c7c8fe215e82!8m2!3d1.2830173!4d103.8513365!16zL20vMDRjNncy!19sChIJm1Z9lw4Z2jERgl4h_sjHsCc
