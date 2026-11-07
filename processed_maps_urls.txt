@@ -1641,3 +1641,4 @@ https://www.google.com/maps/place/CTLC+Law+Corporation/data=!4m7!3m6!1s0x31da191
 https://www.google.com/maps/place/Fiduciary+Asia+Corporate+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da1915ab056307:0x163e7bcccf939d23!8m2!3d1.2812772!4d103.8501835!16s%2Fg%2F11v0bmh916!19sChIJB2MFqxUZ2jERI52Tz8x7PhY
 https://www.google.com/maps/place/Prelude+Corporate+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da17926aeb0471:0x81ebb890c3026871!8m2!3d1.3019921!4d103.8642024!16s%2Fg%2F11b7r5yyq4!19sChIJcQTrapIX2jERcWgCw5C464E
 https://www.google.com/maps/place/Biz+Atom/data=!4m7!3m6!1s0x31da17734910ced1:0x27fbb7007ee545ce!8m2!3d1.2835225!4d103.8522867!16s%2Fg%2F11h3rv9vxx!19sChIJ0c4QSXMX2jERzkXlfgC3-yc
+https://www.google.com/maps/place/Ernst+%26+Young+Singapore/data=!4m7!3m6!1s0x31da190e935b0739:0x77c77d2d5345e085!8m2!3d1.281142!4d103.851928!16s%2Fg%2F1tsbjmzp!19sChIJOQdbkw4Z2jERheBFUy19x3c
