@@ -1840,3 +1840,4 @@ https://www.google.com/maps/place/SingPost+Raffles+Place+Post+Office/data=!4m7!3
 https://www.google.com/maps/place/DHL+Express+Service+Point+-+SingPost+Raffles+Place+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19b84b7ae6ef:0x75305f21e19d4ff4!8m2!3d1.283217!4d103.851911!16s%2Fg%2F11zhxh7j9b!19sChIJ7-Z6S7gZ2jER9E-d4SFfMHU
 https://www.google.com/maps/place/Trustworth+Shipping+Pte.+Ltd./data=!4m7!3m6!1s0x31da190bf81a849f:0xdca07f9b42fb655e!8m2!3d1.283847!4d103.852123!16s%2Fg%2F1v26jmwm!19sChIJn4Qa-AsZ2jERXmX7Qpt_oNw
 https://www.google.com/maps/place/MMC+Relocation/data=!4m7!3m6!1s0x31da199a3024b62d:0x9975a9d708d7b2d4!8m2!3d1.2846453!4d103.8520279!16s%2Fg%2F11h1mg2d07!19sChIJLbYkMJoZ2jER1LLXCNepdZk
+https://www.google.com/maps/place/Atlantic+Forwarding+Pte+Ltd/data=!4m7!3m6!1s0x31da196d79051cd5:0xe54a541bb07a370!8m2!3d1.2841015!4d103.8526518!16s%2Fg%2F1vnrhk56!19sChIJ1RwFeW0Z2jERcKMHu0GlVA4
