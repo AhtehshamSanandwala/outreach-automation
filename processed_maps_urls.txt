@@ -1593,3 +1593,4 @@ https://www.google.com/maps/place/Charis+Associates/data=!4m7!3m6!1s0x31da190eb5
 https://www.google.com/maps/place/Bask/data=!4m7!3m6!1s0x31da190eb7c00001:0x2ed416400e18a9ff!8m2!3d1.2838533!4d103.8519697!16s%2Fg%2F11hz17hv3p!19sChIJAQDAtw4Z2jER_6kYDkAW1C4
 https://www.google.com/maps/place/DSJ+Global+-+Supply+Chain+Recruiters/data=!4m7!3m6!1s0x31da190c163f3e5b:0x51d3499b8f5b0c84!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F11hz7bkv2t!19sChIJWz4_FgwZ2jERhAxbj5tJ01E
 https://www.google.com/maps/place/Capital+Markets+Search+Associates+Pte+Ltd/data=!4m7!3m6!1s0x31da190ea26aaaab:0xfc66b0536bb31fa4!8m2!3d1.2841363!4d103.8511748!16s%2Fg%2F1ptx2zmtd!19sChIJq6pqog4Z2jERpB-za1OwZvw
+https://www.google.com/maps/place/LVI+Associates/data=!4m7!3m6!1s0x31da1928cc98cf75:0x431476c3aa5b63a3!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F11r_tl2tqr!19sChIJdc-YzCgZ2jERo2NbqsN2FEM
