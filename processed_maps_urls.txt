@@ -1066,3 +1066,4 @@ https://www.google.com/maps/place/IJ+Trading+Co.+Pte+Ltd/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/The+American+Chamber+Of+Commerce+in+Singapore+%28AmChamSG%29/data=!4m7!3m6!1s0x31da198da0942379:0x5a35917ebf3068c0!8m2!3d1.3062823!4d103.8319105!16s%2Fg%2F11b6b1klxq!19sChIJeSOUoI0Z2jERwGgwv36RNVo
 https://www.google.com/maps/place/Awin+Resource+International+Pte+Ltd/data=!4m7!3m6!1s0x31da190932680f41:0x43203b88e32d3674!8m2!3d1.2845726!4d103.8527083!16s%2Fg%2F11hz180mn1!19sChIJQQ9oMgkZ2jERdDYt44g7IEM
 https://www.google.com/maps/place/TradeOne/data=!4m7!3m6!1s0x31da190dc6a95555:0x10bf0fac99d0e518!8m2!3d1.2811803!4d103.8495012!16s%2Fg%2F11k9h00gb9!19sChIJVVWpxg0Z2jERGOXQmawPvxA
+https://www.google.com/maps/place/Globalmatics+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19920795a5ab:0xf87bed09b70f6c38!8m2!3d1.3037148!4d103.8332642!16s%2Fg%2F1v9ggj06!19sChIJq6WVB5IZ2jEROGwPtwnte_g
