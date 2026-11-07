@@ -1642,3 +1642,4 @@ https://www.google.com/maps/place/Fiduciary+Asia+Corporate+Services+Pte+Ltd/data
 https://www.google.com/maps/place/Prelude+Corporate+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da17926aeb0471:0x81ebb890c3026871!8m2!3d1.3019921!4d103.8642024!16s%2Fg%2F11b7r5yyq4!19sChIJcQTrapIX2jERcWgCw5C464E
 https://www.google.com/maps/place/Biz+Atom/data=!4m7!3m6!1s0x31da17734910ced1:0x27fbb7007ee545ce!8m2!3d1.2835225!4d103.8522867!16s%2Fg%2F11h3rv9vxx!19sChIJ0c4QSXMX2jERzkXlfgC3-yc
 https://www.google.com/maps/place/Ernst+%26+Young+Singapore/data=!4m7!3m6!1s0x31da190e935b0739:0x77c77d2d5345e085!8m2!3d1.281142!4d103.851928!16s%2Fg%2F1tsbjmzp!19sChIJOQdbkw4Z2jERheBFUy19x3c
+https://www.google.com/maps/place/Coworking+Space+Raffles+Place+-+Centennial+Business+Suites/data=!4m7!3m6!1s0x31da190deb67b851:0x774024a824b44aa2!8m2!3d1.2806153!4d103.8492068!16s%2Fg%2F1t_kd0nq!19sChIJUbhn6w0Z2jERokq0JKgkQHc
