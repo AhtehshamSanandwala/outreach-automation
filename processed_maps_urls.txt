@@ -1202,3 +1202,4 @@ https://www.google.com/maps/place/Tkk+Cargo+%26+Trading/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/JT+International+Freight+Pte+Ltd/data=!4m7!3m6!1s0x31da139241f71dad:0xb5fbb12b581b2620!8m2!3d1.3401423!4d103.941889!16s%2Fg%2F11qprdmlvr!19sChIJrR33QZIT2jERICYbWCux-7U
 https://www.google.com/maps/place/Aspac+Cargo/data=!4m7!3m6!1s0x31da1992726c205d:0x747299579a546ad8!8m2!3d1.3045649!4d103.8339296!16s%2Fg%2F1ptwcc04k!19sChIJXSBscpIZ2jER2GpUmleZcnQ
 https://www.google.com/maps/place/Metrobox+Express+Pte+Ltd/data=!4m7!3m6!1s0x31da19926d40711d:0x861e6c56d665d1f1!8m2!3d1.3045795!4d103.8340621!16s%2Fg%2F1v_z1w4t!19sChIJHXFAbZIZ2jER8dFl1lZsHoY
+https://www.google.com/maps/place/GP+Express+Cargo+Pte+Ltd/data=!4m7!3m6!1s0x31da199273b075af:0xc5dbde65acffa66a!8m2!3d1.3045039!4d103.8337627!16s%2Fg%2F11b5pk4hsm!19sChIJr3Wwc5IZ2jERaqb_rGXe28U
