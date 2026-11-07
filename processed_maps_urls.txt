@@ -1298,3 +1298,4 @@ https://www.google.com/maps/place/UZZ%2B+DGTL+Digital+Agency/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Absolute+Digital/data=!4m7!3m6!1s0x31da17845a4b1209:0x484f3c0ec59b5eec!8m2!3d1.2954409!4d103.8584778!16s%2Fg%2F11jdtsf5qs!19sChIJCRJLWoQX2jER7F6bxQ48T0g
 https://www.google.com/maps/place/NEO360/data=!4m7!3m6!1s0x31da19a0bc2b4fd9:0xc5aee37cca6801bf!8m2!3d1.2984735!4d103.8588807!16s%2Fg%2F11ddyjf372!19sChIJ2U8rvKAZ2jERvwFoynzjrsU
 https://www.google.com/maps/place/Affluence+Public+Relations/data=!4m7!3m6!1s0x31da190e80fc602f:0x3e9681f10db24c8d!8m2!3d1.2831583!4d103.8509744!16s%2Fg%2F1pt_4ldsk!19sChIJL2D8gA4Z2jERjUyyDfGBlj4
+https://www.google.com/maps/place/AdTech+Innovation+Pte.+Limited/data=!4m7!3m6!1s0x31da19f8bd725567:0x8a463698a491c440!8m2!3d1.2844837!4d103.8513447!16s%2Fg%2F11fktj4n8f!19sChIJZ1VyvfgZ2jERQMSRpJg2Roo
