@@ -1886,3 +1886,4 @@ https://www.google.com/maps/place/Mentz+Decker+Asia+Pacific+Pte.+Ltd./data=!4m7!
 https://www.google.com/maps/place/Global+Maritime+Trust+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da190a9a634cc3:0x45a91c432db24e98!8m2!3d1.2856141!4d103.8519726!16s%2Fg%2F1ptyk6r0f!19sChIJw0xjmgoZ2jERmE6yLUMcqUU
 https://www.google.com/maps/place/Reederei+M.+Lauterjung/data=!4m7!3m6!1s0x31da190ecc840001:0x82e4ec378777e2aa!8m2!3d1.2842345!4d103.8524453!16s%2Fg%2F11hz189x45!19sChIJAQCEzA4Z2jERquJ3hzfs5II
 https://www.google.com/maps/place/Singapore+Downtown+Airport+Transfer/data=!4m7!3m6!1s0x31da19b66d6fb75f:0xfa48e498f9f23228!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F11zxhz8ct_!19sChIJX7dvbbYZ2jERKDLy-ZjkSPo
+https://www.google.com/maps/place/Blue+Oceans+Venture+Pte+Ltd/data=!4m7!3m6!1s0x31da19094d735f89:0x7b14fcc302021fe2!8m2!3d1.2838742!4d103.8514941!16s%2Fg%2F1ptxl1f0r!19sChIJiV9zTQkZ2jER4h8CAsP8FHs
