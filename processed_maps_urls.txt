@@ -484,3 +484,6 @@ https://www.google.com/maps/place/Smart+Property+Management+%28S%29+Pte+Ltd/data
 https://www.google.com/maps/place/Integra-It+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da190e991d5233:0xd6c372245fd7db67!8m2!3d1.2844873!4d103.8505607!16s%2Fg%2F1pty1t84d!19sChIJM1IdmQ4Z2jERZ9vXXyRyw9Y
 https://www.google.com/maps/place/Cushman+%26+Wakefield+-+Commercial+Real+Estate+Services/data=!4m7!3m6!1s0x31da190c163e4e9b:0x3495d1fa2e55b484!8m2!3d1.2838605!4d103.8500779!16s%2Fg%2F1tfcw9wr!19sChIJm04-FgwZ2jERhLRVLvrRlTQ
 https://www.google.com/maps/place/ITC+Infotech/data=!4m7!3m6!1s0x31da1975cc9b67c9:0x67ba50e7bde00126!8m2!3d1.2795904!4d103.8494785!16s%2Fg%2F11cs5px_t9!19sChIJyWebzHUZ2jERJgHgvedQumc
+https://www.google.com/maps/place/Wong+Systems+Management+Services/data=!4m7!3m6!1s0x31da198928e3e263:0x845bc13ee3c0bf41!8m2!3d1.3010861!4d103.8268601!16s%2Fg%2F1tgdl253!19sChIJY-LjKIkZ2jERQb_A4z7BW4Q
+https://www.google.com/maps/place/Mindtech+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19a0c8705693:0x2eac73bb3e3cffe7!8m2!3d1.2903343!4d103.8494929!16s%2Fg%2F1ptx9jlkb!19sChIJk1ZwyKAZ2jER5_88PrtzrC4
+https://www.google.com/maps/place/Techease+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x6e3bed499c5d3f29:0x8476b2976a843b7a!8m2!3d1.3333659!4d103.8916892!16s%2Fg%2F11xts2bw0d!19sChIJKT9dnEntO24RejuEapeydoQ
