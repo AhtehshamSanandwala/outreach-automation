@@ -1898,3 +1898,4 @@ https://www.google.com/maps/place/EU+Automation/data=!4m7!3m6!1s0x31da11c6565537
 https://www.google.com/maps/place/Mercury+Mobile/data=!4m7!3m6!1s0x31da19baf526aec7:0x778e73e7a8495e83!8m2!3d1.2835277!4d103.8522906!16s%2Fg%2F1ptz2ptrh!19sChIJx64m9boZ2jERg15JqOdzjnc
 https://www.google.com/maps/place/ASM+Wafer+Process+Equipment+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19092485bb1b:0x14e40ac37c982931!8m2!3d1.2851779!4d103.8529269!16s%2Fg%2F1pty8zf_v!19sChIJG7uFJAkZ2jERMSmYfMMK5BQ
 https://www.google.com/maps/place/Sing+Reo+Pte+Ltd/data=!4m7!3m6!1s0x31da1941195d2e19:0xe04459ce3581a44e!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11vq69srh9!19sChIJGS5dGUEZ2jERTqSBNc5ZROA
+https://www.google.com/maps/place/Interflon+Singapore/data=!4m7!3m6!1s0x84b6b3186849fea5:0x2f442d115682391b!8m2!3d1.2846105!4d103.8527517!16s%2Fg%2F11yhtlrh_l!19sChIJpf5JaBiztoQRGzmCVhEtRC8
