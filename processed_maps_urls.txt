@@ -1570,3 +1570,4 @@ https://www.google.com/maps/place/Selby+Jennings+Pte+Ltd/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/PharmaX+Careers/data=!4m7!3m6!1s0x31da1984aa21b3e7:0xa48c327b2df7c59b!8m2!3d1.2840999!4d103.8513269!16s%2Fg%2F11f62493kx!19sChIJ57MhqoQZ2jERm8X3LXsyjKQ
 https://www.google.com/maps/place/Timeo-Performance/data=!4m7!3m6!1s0x31da190d966f8de1:0x1477f7d4df6799df!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F1hc1zyfh_!19sChIJ4Y1vlg0Z2jER35ln39T3dxQ
 https://www.google.com/maps/place/Intuitive+Recruitment/data=!4m7!3m6!1s0x31da190bb5883527:0xf8920a9892e89bfb!8m2!3d1.2866117!4d103.8492079!16s%2Fg%2F11cjnnv4_s!19sChIJJzWItQsZ2jER-5vokpgKkvg
+https://www.google.com/maps/place/The+Resolute+Hunter+Pte+Ltd/data=!4m7!3m6!1s0x31da190932680f41:0xef22add01c2d1784!8m2!3d1.2845452!4d103.8526975!16s%2Fg%2F11hz187xnw!19sChIJQQ9oMgkZ2jERhBctHNCtIu8
