@@ -1190,3 +1190,4 @@ https://www.google.com/maps/place/Oceanconnect+Singapore+Private+Limited/data=!4
 https://www.google.com/maps/place/Gen-Ex+Cargo+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da199272a9de57:0xf6abbaf8d35eb638!8m2!3d1.3044717!4d103.8339796!16s%2Fg%2F1ptxf0xcm!19sChIJV96pcpIZ2jEROLZe0_i6q_Y
 https://www.google.com/maps/place/Vina+Cargo+Trade+Pte+Ltd/data=!4m7!3m6!1s0x31da199163def35d:0x7f60878485f69f00!8m2!3d1.3027635!4d103.837358!16s%2Fg%2F1ptwc5v4n!19sChIJXfPeY5EZ2jERAJ_2hYSHYH8
 https://www.google.com/maps/place/SCS+Freight+Services/data=!4m7!3m6!1s0x31da19bf96c03c93:0xef1738d15d61cf8e!8m2!3d1.3068478!4d103.8467224!16s%2Fg%2F1ptx0l0ty!19sChIJkzzAlr8Z2jERjs9hXdE4F-8
+https://www.google.com/maps/place/Bti+Cargo+Express/data=!4m7!3m6!1s0x31da19926d40711d:0x4173c497fa2421f3!8m2!3d1.3045649!4d103.8339296!16s%2Fg%2F1tfn_z__!19sChIJHXFAbZIZ2jER8yEk-pfEc0E
