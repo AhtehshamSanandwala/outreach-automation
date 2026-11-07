@@ -1278,3 +1278,4 @@ https://www.google.com/maps/place/Kerl+Distribution+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Digihub+Enterprise+Pte+Ltd/data=!4m7!3m6!1s0x31da16b61a0a84f9:0x729b5e0e11991089!8m2!3d1.3486631!4d103.8423543!16s%2Fg%2F1ptyx9bqn!19sChIJ-YQKGrYW2jERiRCZEQ5em3I
 https://www.google.com/maps/place/Billiton+Metals+Eastern+Pte+Ltd/data=!4m7!3m6!1s0x31da198d7210a95d:0x36cb0361bef37afb!8m2!3d1.306069!4d103.832086!16s%2Fg%2F1pv2k5fyt!19sChIJXakQco0Z2jER-3rzvmEDyzY
 https://www.google.com/maps/place/Pan-West+Far+East+Shopping+Centre/data=!4m7!3m6!1s0x31da1992320efb97:0x2eeed0e39eca9bff!8m2!3d1.305512!4d103.8300944!16s%2Fg%2F1v_sks5v!19sChIJl_sOMpIZ2jER_5vKnuPQ7i4
+https://www.google.com/maps/place/Solutino+Pte+Ltd/data=!4m7!3m6!1s0x31da1bd222a6c47d:0xcb4d255078660c34!8m2!3d1.3059065!4d103.8314983!16s%2Fg%2F11b5wmc75l!19sChIJfcSmItIb2jERNAxmeFAlTcs
