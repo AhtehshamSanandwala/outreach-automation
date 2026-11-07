@@ -1617,3 +1617,4 @@ https://www.google.com/maps/place/Prestige+Headhunters/data=!4m7!3m6!1s0x31da190
 https://www.google.com/maps/place/Hays+Executive/data=!4m7!3m6!1s0x31da190ecc8741db:0x7e2bd6bd8604fb0c!8m2!3d1.2840798!4d103.8525004!16s%2Fg%2F1pt_bzl0r!19sChIJ20GHzA4Z2jERDPsEhr3WK34
 https://www.google.com/maps/place/Global+CxO/data=!4m7!3m6!1s0x31da191d0b80fe01:0x280e523155fb6feb!8m2!3d1.2851792!4d103.8527511!16s%2Fg%2F11ny0lnj3r!19sChIJAf6ACx0Z2jER62_7VTFSDig
 https://www.google.com/maps/place/Cornerstone+International+-+Singapore/data=!4m7!3m6!1s0x31da194c972923f3:0x1e9bb38e1e21c86a!8m2!3d1.2835225!4d103.8522867!16s%2Fg%2F11fwc93v0z!19sChIJ8yMpl0wZ2jERasghHo6zmx4
+https://www.google.com/maps/place/Glocomms+-+Technology+Recruiters+%26+Headhunters/data=!4m7!3m6!1s0x31da19795c40fa69:0x33dc25df949a07b2!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F11svv30rt4!19sChIJafpAXHkZ2jERsgealN8l3DM
