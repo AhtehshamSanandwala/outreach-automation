@@ -1591,3 +1591,4 @@ https://www.google.com/maps/place/Kyle+%26+Associates/data=!4m7!3m6!1s0x31da190e
 https://www.google.com/maps/place/Amethyst+Asia+Partners+Pte+Ltd+%28Amethyst+Partners%29/data=!4m7!3m6!1s0x31da190bffcfc1c9:0xa71ebb7cf9067ec6!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F11hz17c1pp!19sChIJycHP_wsZ2jERxn4G-Xy7Hqc
 https://www.google.com/maps/place/Charis+Associates/data=!4m7!3m6!1s0x31da190eb57b962b:0xbc32c0838b5ea7a8!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F1tdwbf_y!19sChIJK5Z7tQ4Z2jERqKdei4PAMrw
 https://www.google.com/maps/place/Bask/data=!4m7!3m6!1s0x31da190eb7c00001:0x2ed416400e18a9ff!8m2!3d1.2838533!4d103.8519697!16s%2Fg%2F11hz17hv3p!19sChIJAQDAtw4Z2jER_6kYDkAW1C4
+https://www.google.com/maps/place/DSJ+Global+-+Supply+Chain+Recruiters/data=!4m7!3m6!1s0x31da190c163f3e5b:0x51d3499b8f5b0c84!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F11hz7bkv2t!19sChIJWz4_FgwZ2jERhAxbj5tJ01E
