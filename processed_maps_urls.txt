@@ -1018,3 +1018,6 @@ https://www.google.com/maps/place/Yearly+Trading+Co/data=!4m7!3m6!1s0x31da19a094
 https://www.google.com/maps/place/Cities+Trade+Pte+Ltd/data=!4m7!3m6!1s0x31da133327698d49:0x640e5816abfc320f!8m2!3d1.4635484!4d103.810215!16s%2Fg%2F11rxxlxw3m!19sChIJSY1pJzMT2jERDzL8qxZYDmQ
 https://www.google.com/maps/place/Dawood+Trading+%26+Wholesale+Pte.+Ltd./data=!4m7!3m6!1s0x31da18111c0019f3:0x5e0683f998d7f968!8m2!3d1.3142212!4d103.8988291!16s%2Fg%2F11j00stlw6!19sChIJ8xkAHBEY2jERaPnXmPmDBl4
 https://www.google.com/maps/place/OQ+Trading+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19a3294121ff:0x4730868d5cc1c7a8!8m2!3d1.3027635!4d103.837358!16s%2Fg%2F1pv1ct4ql!19sChIJ_yFBKaMZ2jERqMfBXI2GMEc
+https://www.google.com/maps/place/Commerze+Trading+Enterprise/data=!4m7!3m6!1s0x31da190e82301047:0x7753b7c04c3009a3!8m2!3d1.2822446!4d103.8508146!16s%2Fg%2F1ptz2phyr!19sChIJRxAwgg4Z2jERowkwTMC3U3c
+https://www.google.com/maps/place/Universal+Sovereign+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da198ce81c9ded:0x341cb9807bf3580a!8m2!3d1.3068712!4d103.8290528!16s%2Fg%2F1pty4_5vf!19sChIJ7Z0c6IwZ2jERCljze4C5HDQ
+https://www.google.com/maps/place/Singapore+Cogeneration+Steel+Pte+Ltd/data=!4m7!3m6!1s0x31da19ec24042c29:0xeffdd0abfc2a4bf9!8m2!3d1.3122973!4d103.8369923!16s%2Fg%2F1ptxfy8mz!19sChIJKSwEJOwZ2jER-Usq_KvQ_e8
