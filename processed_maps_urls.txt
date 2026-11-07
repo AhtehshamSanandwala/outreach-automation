@@ -510,3 +510,4 @@ https://www.google.com/maps/place/MBFC+Tower+2/data=!4m7!3m6!1s0x31da19e3e6c0f94
 https://www.google.com/maps/place/AUK+Management+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19926d40711d:0x43a7fa3c5be59c1!8m2!3d1.3042934!4d103.8340165!16s%2Fg%2F1tfjn6k7!19sChIJHXFAbZIZ2jERwVm-xaN_OgQ
 https://www.google.com/maps/place/Singapore+Management+University/data=!4m7!3m6!1s0x31da19a38341d719:0xfe9bafb35b312b00!8m2!3d1.2962727!4d103.8501578!16zL20vMDNqNjA5!19sChIJGddBg6MZ2jERACsxW7Ovm_4
 https://www.google.com/maps/place/Human+Managed+Pte.+Ltd./data=!4m7!3m6!1s0x31da19aed6b75435:0x6cfcdf68e00d44f1!8m2!3d1.3144353!4d103.8620639!16s%2Fg%2F11jcmgd883!19sChIJNVS31q4Z2jER8UQN4Gjf_Gw
+https://www.google.com/maps/place/Eunos+Techpark/data=!4m7!3m6!1s0x31da17fac0a6a723:0x168dad5006e4ed5e!8m2!3d1.3344879!4d103.9049722!16s%2Fg%2F1ptynhqfl!19sChIJI6emwPoX2jERXu3kBlCtjRY
