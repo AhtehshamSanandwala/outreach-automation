@@ -986,3 +986,5 @@ https://www.google.com/maps/place/La+Tierra/data=!4m7!3m6!1s0x31da19b5ca3f5ac1:0
 https://www.google.com/maps/place/Far+East+Flora+Market/data=!4m7!3m6!1s0x31da1744e7cf44df:0xecd50c4b88bc66ba!8m2!3d1.337237!4d103.836778!16s%2Fg%2F11c1n1_f7t!19sChIJ30TP50QX2jERuma8iEsM1ew
 https://www.google.com/maps/place/Candipark+Pte.+Ltd./data=!4m7!3m6!1s0x31da198ce87af6e5:0xcd8cfe311d8543b0!8m2!3d1.3065703!4d103.8294759!16s%2Fg%2F11c59xzbzz!19sChIJ5fZ66IwZ2jERsEOFHTH-jM0
 https://www.google.com/maps/place/Hosin+Trading+Pte+Ltd+%28OXO+Ceramic%29-+Balestier+Branch/data=!4m7!3m6!1s0x31da17ac5f0485c3:0xf301564873e7f775!8m2!3d1.3269504!4d103.8445816!16s%2Fg%2F11n8r51yxy!19sChIJw4UEX6wX2jERdffnc0hWAfM
+https://www.google.com/maps/place/Bally+Jewellery+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da196d218b8e13:0x91474657ee03f457!8m2!3d1.3055806!4d103.8299993!16s%2Fg%2F1tftz1wc!19sChIJE46LIW0Z2jERV_QD7ldGR5E
+https://www.google.com/maps/place/Poh+Hua+Industrial+Pte+Ltd+-+Kitchen+Supply/data=!4m7!3m6!1s0x31da139ebec26559:0xb40f4cabf2421bee!8m2!3d1.3714746!4d103.8463609!16s%2Fg%2F11cnb5dp_f!19sChIJWWXCvp4T2jER7htC8qtMD7Q
