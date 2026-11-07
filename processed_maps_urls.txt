@@ -959,3 +959,4 @@ https://www.google.com/maps/place/Prost+Singapore/data=!4m7!3m6!1s0x31da19ecba2c
 https://www.google.com/maps/place/Mdm+Ling+Bakery/data=!4m7!3m6!1s0x31da175177e9f367:0xd260269438563af5!8m2!3d1.3893795!4d103.8492523!16s%2Fg%2F11hzqvrbdg!19sChIJZ_Ppd1EX2jER9TpWOJQmYNI
 https://www.google.com/maps/place/DR%E2%80%99s+Secret+%E2%80%93+Orchard/data=!4m7!3m6!1s0x31da194803a7ce0f:0xa572526dbca62974!8m2!3d1.3028594!4d103.8401706!16s%2Fg%2F11f62jgq88!19sChIJD86nA0gZ2jERdCmmvG1ScqU
 https://www.google.com/maps/place/SoGoodK+Pte+Ltd/data=!4m7!3m6!1s0x31da196fc89d95df:0x70c63f0a721d4f27!8m2!3d1.3063434!4d103.8318606!16s%2Fg%2F11nmj3l3ch!19sChIJ35WdyG8Z2jERJ08dcgo_xnA
+https://www.google.com/maps/place/Compass+Asia+Life+Pte+Ltd/data=!4m7!3m6!1s0x31da198cb98b37bf:0x8122cfd4d9b4d6bd!8m2!3d1.307196!4d103.828453!16s%2Fg%2F1pv1y5t9c!19sChIJvzeLuYwZ2jERvda02dTPIoE
