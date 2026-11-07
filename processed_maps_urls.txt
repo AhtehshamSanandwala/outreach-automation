@@ -1146,3 +1146,4 @@ https://www.google.com/maps/place/Ho+Yun+Mover/data=!4m7!3m6!1s0x31da1913440f0e5
 https://www.google.com/maps/place/Dimerco+Express+Group/data=!4m7!3m6!1s0x31da1871b0cca2c9:0xb189be9273b6a6c4!8m2!3d1.3015309!4d103.9047932!16s%2Fg%2F1tfb_k0q!19sChIJyaLMsHEY2jERxKa2c5K-ibE
 https://www.google.com/maps/place/DHL+Express+Service+Point+-+Far+East+Shopping+Centre+Cheers+Store+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da193a54f87563:0x8711009c33e588b5!8m2!3d1.3056943!4d103.8298885!16s%2Fg%2F11gmxghb5y!19sChIJY3X4VDoZ2jERtYjlM5wAEYc
 https://www.google.com/maps/place/GEODIS+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3d281b7d89a9:0x728212ac59be9b89!8m2!3d1.3760378!4d104.0012629!16s%2Fg%2F11h7s496jf!19sChIJqYl9Gyg92jERiZu-WawSgnI
+https://www.google.com/maps/place/Seafrigo+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da174d0663d923:0xd9e56c67e4086778!8m2!3d1.3519821!4d103.842924!16s%2Fg%2F11fl9m1cy1!19sChIJI9ljBk0X2jEReGcI5Gds5dk
