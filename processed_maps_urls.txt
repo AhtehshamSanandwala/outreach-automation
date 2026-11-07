@@ -1944,3 +1944,4 @@ https://www.google.com/maps/place/iProspect/data=!4m7!3m6!1s0x31da19b1d28a306d:0
 https://www.google.com/maps/place/MIQ+Digital/data=!4m7!3m6!1s0x31da1999caf4cc2f:0x1ce184dcb6cbdc6a!8m2!3d1.2795024!4d103.8437058!16s%2Fg%2F11rzftjppr!19sChIJL8z0ypkZ2jERatzLttyE4Rw
 https://www.google.com/maps/place/OOm+Digital,+Tech+%26+AI+Institute+%28Tanjong+Pagar+International+Plaza%29/data=!4m7!3m6!1s0x31da19aef863d41f:0x4d8f139501aba63f!8m2!3d1.2760013!4d103.8459347!16s%2Fg%2F11y2gnv2ds!19sChIJH9Rj-K4Z2jERP6arAZUTj00
 https://www.google.com/maps/place/more.digital/data=!4m7!3m6!1s0x31da190c88facf83:0xfdba68041acfc3a6!8m2!3d1.2752666!4d103.8463646!16s%2Fg%2F11cjknfyjg!19sChIJg8_6iAwZ2jERpsPPGgRouv0
+https://www.google.com/maps/place/JUZ+Digital/data=!4m7!3m6!1s0x31da190d9688e047:0x6926adcffca4a751!8m2!3d1.2753774!4d103.8426046!16s%2Fg%2F11c59wjjvy!19sChIJR-CIlg0Z2jERUaek_M-tJmk
