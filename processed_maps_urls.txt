@@ -466,3 +466,4 @@ https://www.google.com/maps/place/IT+Consulting+%26+Services/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Searce+%7C+Singapore/data=!4m7!3m6!1s0x31da19a96bcde497:0x45c93c48bfb561c1!8m2!3d1.2852308!4d103.8524113!16s%2Fg%2F11h6nrp52r!19sChIJl-TNa6kZ2jERwWG1v0g8yUU
 https://www.google.com/maps/place/Amnet+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da17e53418985f:0x45843a9bfa47d4d1!8m2!3d1.3344637!4d103.9048833!16s%2Fg%2F1tjx_01q!19sChIJX5gYNOUX2jER0dRH-ps6hEU
 https://www.google.com/maps/place/IT+Desktop+Support+Services/data=!4m7!3m6!1s0x31da19e7c692c8ad:0x9419fb4ead00d00a!8m2!3d1.3183037!4d103.8429438!16s%2Fg%2F11gbkvspzf!19sChIJrciSxucZ2jERCtAArU77GZQ
+https://www.google.com/maps/place/Dalstech+Pte+Ltd/data=!4m7!3m6!1s0x31da19f5f6ab0fcd:0x31a0b37873ff37c2!8m2!3d1.3123535!4d103.8629623!16s%2Fg%2F11fqtc0q3m!19sChIJzQ-r9vUZ2jERwjf_c3izoDE
