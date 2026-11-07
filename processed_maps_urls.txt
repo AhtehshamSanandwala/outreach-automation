@@ -394,3 +394,4 @@ https://www.google.com/maps/place/Digimau/data=!4m7!3m6!1s0x31da11cc3de120d3:0x7
 https://www.google.com/maps/place/Republic+Asia/data=!4m7!3m6!1s0x31da19bdd18dbec9:0xe614e25c144413c8!8m2!3d1.3024279!4d103.8399026!16s%2Fg%2F11hf1b42jg!19sChIJyb6N0b0Z2jERyBNEFFziFOY
 https://www.google.com/maps/place/PR+Agency+SIngapore/data=!4m7!3m6!1s0x31da198d5b8c50a1:0xb810da1b8dd2b9fd!8m2!3d1.306197!4d103.831861!16s%2Fg%2F11hdc4tt6l!19sChIJoVCMW40Z2jER_bnSjRvaELg
 https://www.google.com/maps/place/GCI+Health/data=!4m7!3m6!1s0x31da19ec446aaaab:0x78860f86854d5cb5!8m2!3d1.3109959!4d103.8371141!16s%2Fg%2F11h4djq0zw!19sChIJq6pqROwZ2jERtVxNhYYPhng
+https://www.google.com/maps/place/VCCP+Singapore/data=!4m7!3m6!1s0x31da198acc9a9bcd:0x7a831b24d18d8a2e!8m2!3d1.3164173!4d103.8625531!16s%2Fg%2F11tc1s5nkq!19sChIJzZuazIoZ2jERLoqN0SQbg3o
