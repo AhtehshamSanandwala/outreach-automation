@@ -1837,3 +1837,4 @@ https://www.google.com/maps/place/Rainbow+Logistics+-+EFL+Global+Logistics+%28Pt
 https://www.google.com/maps/place/Somap+International+Pte.+Ltd./data=!4m7!3m6!1s0x31da190ec8100e47:0x6ff0234415a08466!8m2!3d1.283847!4d103.852123!16s%2Fg%2F1tjv105q!19sChIJRw4QyA4Z2jERZoSgFUQj8G8
 https://www.google.com/maps/place/Norse+Shipholding+Pte.+Ltd./data=!4m7!3m6!1s0x31da1be23e617777:0x230a33c08376b5a7!8m2!3d1.2829687!4d103.8508719!16s%2Fg%2F11c1sjj2v7!19sChIJd3dhPuIb2jERp7V2g8AzCiM
 https://www.google.com/maps/place/SingPost+Raffles+Place+Post+Office/data=!4m7!3m6!1s0x31da190e95b68689:0x90b4f844092fc0da!8m2!3d1.2827534!4d103.8518526!16s%2Fg%2F11b6dp56y0!19sChIJiYa2lQ4Z2jER2sAvCUT4tJA
+https://www.google.com/maps/place/DHL+Express+Service+Point+-+SingPost+Raffles+Place+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19b84b7ae6ef:0x75305f21e19d4ff4!8m2!3d1.283217!4d103.851911!16s%2Fg%2F11zhxh7j9b!19sChIJ7-Z6S7gZ2jER9E-d4SFfMHU
