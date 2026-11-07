@@ -1057,3 +1057,4 @@ https://www.google.com/maps/place/Mitsubishi+Corporation+Singapore+Branch/data=!
 https://www.google.com/maps/place/Lau+Sisters+Trading+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da198dac14ca67:0x3d98f2bae3592173!8m2!3d1.3052119!4d103.8305935!16s%2Fg%2F11hcj1s2kt!19sChIJZ8oUrI0Z2jERcyFZ47rymD0
 https://www.google.com/maps/place/Tradebase+Mercantile+Agencies/data=!4m7!3m6!1s0x31da197331257b95:0xc6c21cac1b3a80e0!8m2!3d1.2831786!4d103.8444165!16s%2Fg%2F1tsclhyn!19sChIJlXslMXMZ2jER4IA6G6wcwsY
 https://www.google.com/maps/place/Kimoe+Trading+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da198cc3599731:0xd77d8b2476650e2a!8m2!3d1.3069439!4d103.8291434!16s%2Fg%2F1tdh1cym!19sChIJMZdZw4wZ2jERKg5ldiSLfdc
+https://www.google.com/maps/place/Marina+Bay+Sands+Expo+%26+Convention/data=!4m7!3m6!1s0x31da1905a913542d:0x81a3ad206e972c35!8m2!3d1.282088!4d103.8587715!16s%2Fg%2F11bwq98rr0!19sChIJLVQTqQUZ2jERNSyXbiCto4E
