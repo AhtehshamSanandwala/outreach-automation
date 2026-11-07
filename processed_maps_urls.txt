@@ -1563,3 +1563,4 @@ https://www.google.com/maps/place/HRbiz.sg/data=!4m7!3m6!1s0x31da190ea26aaaab:0x
 https://www.google.com/maps/place/Tom+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1909566ade2d:0x81c13b77afeb1c29!8m2!3d1.284729!4d103.850707!16s%2Fg%2F1ptz6tz73!19sChIJLd5qVgkZ2jERKRzrr3c7wYE
 https://www.google.com/maps/place/Eames+Consulting/data=!4m7!3m6!1s0x31da190e861f6c03:0xe9d9d6d3c598a274!8m2!3d1.2845452!4d103.8526975!16s%2Fg%2F1ptwngs15!19sChIJA2wfhg4Z2jERdKKYxdPW2ek
 https://www.google.com/maps/place/Search+Staffing+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da190eb56e786d:0xba42844150efd70e!8m2!3d1.2842624!4d103.8519925!16s%2Fg%2F12hknt285!19sChIJbXhutQ4Z2jERDtfvUEGEQro
+https://www.google.com/maps/place/Pulsifi+Singapore/data=!4m7!3m6!1s0x31da190d851abec7:0xb6cbe21205cad9db!8m2!3d1.2842897!4d103.8510283!16s%2Fg%2F11qnk7zh91!19sChIJx74ahQ0Z2jER29nKBRLiy7Y
