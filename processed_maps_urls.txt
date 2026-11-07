@@ -1783,3 +1783,4 @@ https://www.google.com/maps/place/Harex+Trading+Co./data=!4m7!3m6!1s0x31da183af4
 https://www.google.com/maps/place/Mandara/data=!4m7!3m6!1s0x31da190ee87ddd53:0x96be971d0ce67852!8m2!3d1.2839738!4d103.8517654!16s%2Fg%2F11bxg0dk19!19sChIJU9196A4Z2jERUnjmDB2XvpY
 https://www.google.com/maps/place/RHODIUM+RESOURCES+PTE+LTD/data=!4m7!3m6!1s0x31da190bfaa2c891:0x9debaf009706205d!8m2!3d1.2832428!4d103.8508359!16s%2Fg%2F11bv38dgvd!19sChIJkcii-gsZ2jERXSAGlwCv650
 https://www.google.com/maps/place/Futures+%28Exchange+Trading+Floor%29/data=!4m7!3m6!1s0x31da190952fdefdb:0x8b25a2c92bce7edb!8m2!3d1.2844948!4d103.8511573!16s%2Fg%2F11c59xw0h2!19sChIJ2-_9UgkZ2jER237OK8miJYs
+https://www.google.com/maps/place/Alcar+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da190eb56e786d:0x2541f1074a3bfc42!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F1ptx4d2wn!19sChIJbXhutQ4Z2jERQvw7SgfxQSU
