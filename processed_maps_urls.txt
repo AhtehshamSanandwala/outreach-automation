@@ -1025,3 +1025,5 @@ https://www.google.com/maps/place/Trading+Technologies/data=!4m7!3m6!1s0x31da190
 https://www.google.com/maps/place/Singapore+Trading+Post/data=!4m7!3m6!1s0x31da1bb923672c0d:0x5f679be3c492dfcf!8m2!3d1.2873156!4d103.8340344!16s%2Fg%2F11b6rph3tn!19sChIJDSxnI7kb2jERz9-SxOObZ18
 https://www.google.com/maps/place/Repsol+Trading+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da19102f0a1787:0x167b004b157b5a43!8m2!3d1.2796538!4d103.853834!16s%2Fg%2F11cs5p9b4s!19sChIJhxcKLxAZ2jERQ1p7FUsAexY
 https://www.google.com/maps/place/Contrac-image+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19a2abde3b39:0x8c418c92a85f3c30!8m2!3d1.2927157!4d103.8566096!16s%2Fg%2F1tncqdtb!19sChIJOTveq6IZ2jERMDxfqJKMQYw
+https://www.google.com/maps/place/Cnooc+Trading+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da190c55555555:0x5f6b702880275879!8m2!3d1.2789475!4d103.8544912!16s%2Fg%2F11c5h32nxm!19sChIJVVVVVQwZ2jEReVgngChwa18
+https://www.google.com/maps/place/Petron+Singapore+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da1991f17e993b:0x69a3a03d6f0d1c24!8m2!3d1.3027623!4d103.8342901!16s%2Fg%2F11hzsv_48h!19sChIJO5l-8ZEZ2jERJBwNbz2go2k
