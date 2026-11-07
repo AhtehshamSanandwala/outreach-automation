@@ -2085,3 +2085,4 @@ https://www.google.com/maps/place/Maxim+Concept+Advertising/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Classic+Advertising+Enterprise/data=!4m7!3m6!1s0x31da196d4cc58479:0x24220c1904a63bd1!8m2!3d1.2789506!4d103.8447349!16s%2Fg%2F1v5fpdx_!19sChIJeYTFTG0Z2jER0TumBBkMIiQ
 https://www.google.com/maps/place/McGallen+%26+Bolden+Pte+Ltd/data=!4m7!3m6!1s0x31da196d4acfec5f:0x3c5a95125fac5607!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F1tcxg912!19sChIJX-zPSm0Z2jERB1asXxKVWjw
 https://www.google.com/maps/place/Atelier+X/data=!4m7!3m6!1s0x31da196d84955a67:0xd6357fe5f39fb75b!8m2!3d1.2792702!4d103.8414653!16s%2Fg%2F11cs5p3gcn!19sChIJZ1qVhG0Z2jERW7ef8-V_NdY
+https://www.google.com/maps/place/ASOLIDPLAN/data=!4m7!3m6!1s0x31da196d75748cd1:0xe3e4a7b77e81a895!8m2!3d1.2801283!4d103.8421141!16s%2Fg%2F11c2jnmm0y!19sChIJ0Yx0dW0Z2jERlaiBfren5OM
