@@ -1467,3 +1467,4 @@ https://www.google.com/maps/place/Hong+Leong+Management+Services+Pte+Ltd/data=!4
 https://www.google.com/maps/place/The+Arcade/data=!4m7!3m6!1s0x31da190ec7a45f71:0x3c0342268c636b68!8m2!3d1.283495!4d103.85243!16s%2Fg%2F1td10smb!19sChIJcV-kxw4Z2jERaGtjjCZCAzw
 https://www.google.com/maps/place/TallRock+Capital+Singapore/data=!4m7!3m6!1s0x31da1902165f0b71:0xee25fabe243e9afc!8m2!3d1.2847537!4d103.8519859!16s%2Fg%2F11fsmc2q5q!19sChIJcQtfFgIZ2jER_Jo-JL76Je4
 https://www.google.com/maps/place/One+Raffles+Quay/data=!4m7!3m6!1s0x31da190e69a21ab1:0x5296aa331191967f!8m2!3d1.2812689!4d103.8519161!16zL20vMDg4Z3N0!19sChIJsRqiaQ4Z2jERf5aRETOqllI
+https://www.google.com/maps/place/The+Heritage+Partnership/data=!4m7!3m6!1s0x31da1901c9cc3063:0x673460d6bed72776!8m2!3d1.2851096!4d103.8510222!16s%2Fg%2F11p01_4ccs!19sChIJYzDMyQEZ2jERdifXvtZgNGc
