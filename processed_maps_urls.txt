@@ -1645,3 +1645,4 @@ https://www.google.com/maps/place/Ernst+%26+Young+Singapore/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Coworking+Space+Raffles+Place+-+Centennial+Business+Suites/data=!4m7!3m6!1s0x31da190deb67b851:0x774024a824b44aa2!8m2!3d1.2806153!4d103.8492068!16s%2Fg%2F1t_kd0nq!19sChIJUbhn6w0Z2jERokq0JKgkQHc
 https://www.google.com/maps/place/CPA+Australia+-+Singapore+Division/data=!4m7!3m6!1s0x31da190eacd8f75d:0xa7d307fa10b4a155!8m2!3d1.284198!4d103.8510441!16s%2Fg%2F11bbrl2ybk!19sChIJXffYrA4Z2jERVaG0EPoH06c
 https://www.google.com/maps/place/Trusted+Services/data=!4m7!3m6!1s0x31da1be74b7897dd:0x9a5c42c0a543e37b!8m2!3d1.3170595!4d103.8631216!16s%2Fg%2F11h5lhwdp7!19sChIJ3Zd4S-cb2jERe-NDpcBCXJo
+https://www.google.com/maps/place/The+World+Secretarial+Pte+Ltd/data=!4m7!3m6!1s0x31da18716c8a5019:0x2a02868e37876b45!8m2!3d1.3016809!4d103.9066958!16s%2Fg%2F1vhkh1ck!19sChIJGVCKbHEY2jERRWuHN46GAio
