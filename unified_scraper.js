@@ -880,8 +880,12 @@ async function scrapeUnified() {
                     }
 
                     try {
-                        await page.goto(company.mapsUrl, { waitUntil: 'domcontentloaded', timeout: 12000 });
-                        await new Promise(r => setTimeout(r, 2500));
+                        if (!page || page.isClosed()) {
+                            page = await browser.newPage();
+                            await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
+                        }
+                        await page.goto(company.mapsUrl, { waitUntil: 'domcontentloaded', timeout: 15000 });
+                        await new Promise(r => setTimeout(r, 2000));
 
                         const sidePanelLoaded = await page.evaluate(() => {
                             return document.querySelector('.Io6YTe.fontBodyMedium.kR99db.fdkmkc') !== null ||
