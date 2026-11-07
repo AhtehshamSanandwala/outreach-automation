@@ -1792,3 +1792,4 @@ https://www.google.com/maps/place/Lim+%26+Tan+Securities+Pte+Ltd/data=!4m7!3m6!1
 https://www.google.com/maps/place/Raffles+Place+MRT+Station+%28NS26%2FEW14%29/data=!4m7!3m6!1s0x31da1975e523fdd7:0x8f5e81e2b4516e2f!8m2!3d1.2842263!4d103.8497683!16s%2Fg%2F11j320m5rh!19sChIJ1_0j5XUZ2jERL25RtOKBXo8
 https://www.google.com/maps/place/Raffles+%26+Raleigh+General+Trading/data=!4m7!3m6!1s0x31da19bb05e284bb:0x857c2bd47d20e5ef!8m2!3d1.3004193!4d103.85218!16s%2Fg%2F1ptvv5_w4!19sChIJu4TiBbsZ2jER7-UgfdQrfIU
 https://www.google.com/maps/place/RES+Exam+Singapore/data=!4m7!3m6!1s0x31da1972f1e99aa1:0x3487009163d0e009!8m2!3d1.284479!4d103.851082!16s%2Fg%2F11v0_4x145!19sChIJoZrp8XIZ2jERCeDQY5EAhzQ
+https://www.google.com/maps/place/Templar+Metal+Traders+Pte+Ltd/data=!4m7!3m6!1s0x31da190eb56e786d:0xca493ad589612557!8m2!3d1.2842624!4d103.8519925!16s%2Fg%2F1ptw7m_l4!19sChIJbXhutQ4Z2jERVyVhidU6Sco
