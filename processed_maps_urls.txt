@@ -1244,3 +1244,4 @@ https://www.google.com/maps/place/Commercial+Supplies+%28Far+East%29+Pte+Ltd/dat
 https://www.google.com/maps/place/Doosan+Bobcat+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0xb1fd35ddabe4c6f:0x21403ebd826de05a!8m2!3d1.3299464!4d103.7446555!16s%2Fg%2F11ypl1_mwv!19sChIJb0y-2l3THwsRWuBtgr0-QCE
 https://www.google.com/maps/place/Campers%27+Corner+Outdoor+Outfitters/data=!4m7!3m6!1s0x31da19a4a95b6985:0xfdadf868ca640355!8m2!3d1.3070504!4d103.84771!16s%2Fg%2F1hc11y2fn!19sChIJhWlbqaQZ2jERVQNkymj4rf0
 https://www.google.com/maps/place/Somerville+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da0f88b248dc59:0xba74ecdcf942912!8m2!3d1.3316712!4d103.6949408!16s%2Fg%2F1tftz1l0!19sChIJWdxIsogP2jEREimUz81Opws
+https://www.google.com/maps/place/Vermeer+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da198c5608c975:0xd8eaf6f951f0f4f!8m2!3d1.305512!4d103.8300944!16s%2Fg%2F11b5pjzqzp!19sChIJdckIVowZ2jERTw8flW-vjg0
