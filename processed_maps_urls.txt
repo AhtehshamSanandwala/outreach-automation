@@ -895,3 +895,4 @@ https://www.google.com/maps/place/Acseta+Pte.+Ltd./data=!4m7!3m6!1s0x31da1785937
 https://www.google.com/maps/place/Clooud+Consulting+LLP+-+Business+Consultants+Singapore/data=!4m7!3m6!1s0x31da1974345e6bef:0x274d39310ce809eb!8m2!3d1.2806884!4d103.8492068!16s%2Fg%2F11p06wg50q!19sChIJ72teNHQZ2jER6wnoDDE5TSc
 https://www.google.com/maps/place/Sapience+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da23206cbf5441:0x771e62c2c972fa9a!8m2!3d1.300211!4d103.8596064!16s%2Fg%2F11c59xylg4!19sChIJQVS_bCAj2jERmvpyycJiHnc
 https://www.google.com/maps/place/Healy+Consultants+%7C+Part+of+Hawksford/data=!4m7!3m6!1s0x31da1993cfffffff:0xbc1f58e8a36c76e!8m2!3d1.2814095!4d103.8510185!16s%2Fg%2F1v9txd_w!19sChIJ____z5MZ2jERbsc2io71wQs
+https://www.google.com/maps/place/Mohan+Management+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x31da190c1d5cc559:0x538275f62f34d5ab!8m2!3d1.2898197!4d103.849595!16s%2Fg%2F11hzsw2m95!19sChIJWcVcHQwZ2jERq9U0L_Z1glM
