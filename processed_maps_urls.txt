@@ -1786,3 +1786,4 @@ https://www.google.com/maps/place/Futures+%28Exchange+Trading+Floor%29/data=!4m7
 https://www.google.com/maps/place/Alcar+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da190eb56e786d:0x2541f1074a3bfc42!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F1ptx4d2wn!19sChIJbXhutQ4Z2jERQvw7SgfxQSU
 https://www.google.com/maps/place/Habacus+Trading+Co./data=!4m7!3m6!1s0x31da190ec6d00001:0xb6fa180ae47bb05c!8m2!3d1.2835225!4d103.8522867!16s%2Fg%2F11p56n685h!19sChIJAQDQxg4Z2jERXLB75AoY-rY
 https://www.google.com/maps/place/Cardest+Grading/data=!4m7!3m6!1s0x31da197425f95d09:0x912282f3748817e7!8m2!3d1.2844047!4d103.8510287!16s%2Fg%2F11z8vp06zl!19sChIJCV35JXQZ2jER5xeIdPOCIpE
+https://www.google.com/maps/place/Singapore+American+Trading+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da190e88870d5d:0x6b83e14c190d4cc6!8m2!3d1.2822121!4d103.8512903!16s%2Fg%2F1tc_brzh!19sChIJXQ2HiA4Z2jERxkwNGUzhg2s
