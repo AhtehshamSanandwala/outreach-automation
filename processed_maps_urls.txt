@@ -1804,3 +1804,4 @@ https://www.google.com/maps/place/Leow+Trading+Co/data=!4m7!3m6!1s0x31da190e8887
 https://www.google.com/maps/place/DP+World+APAC+Regional+Office/data=!4m7!3m6!1s0x88a1f222de89e067:0x10b105ee2fe527eb!8m2!3d1.284863!4d103.8506975!16s%2Fg%2F11sjdpkfjy!19sChIJZ-CJ3iLyoYgR6yflL-4FsRA
 https://www.google.com/maps/place/Singapore+Trading+Post+%28Joo+Chiat%29/data=!4m7!3m6!1s0x31da194d2afe78e1:0x58491b714f2a4ba1!8m2!3d1.3069479!4d103.9040986!16s%2Fg%2F11h55n8pqb!19sChIJ4Xj-Kk0Z2jERoUsqT3EbSVg
 https://www.google.com/maps/place/Kian+Hwa+Trading+Co/data=!4m7!3m6!1s0x31da190edbc312e9:0xdcf60718d35c4395!8m2!3d1.2828248!4d103.8528755!16s%2Fg%2F1tgdl243!19sChIJ6RLD2w4Z2jERlUNc0xgH9tw
+https://www.google.com/maps/place/Huahai+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da190ea2f993e5:0x53e336a7c6989abb!8m2!3d1.2841363!4d103.8511748!16s%2Fg%2F1tdc79s8!19sChIJ5ZP5og4Z2jERu5qYxqc241M
