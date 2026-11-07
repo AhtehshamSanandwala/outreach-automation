@@ -994,3 +994,4 @@ https://www.google.com/maps/place/Swiss+Singapore+Overseas+Enterprises+Pte.+Ltd.
 https://www.google.com/maps/place/Singapore+Global+Trading+Corporation/data=!4m7!3m6!1s0x31da19094a5c9145:0x7ab398dc1c04829d!8m2!3d1.284542!4d103.851951!16s%2Fg%2F1ptwrv5k_!19sChIJRZFcSgkZ2jERnYIEHNyYs3o
 https://www.google.com/maps/place/CMC+Markets+Singapore/data=!4m7!3m6!1s0x31da19094881ecf7:0x89ad74a85b363201!8m2!3d1.2798851!4d103.8514962!16s%2Fg%2F1tg84519!19sChIJ9-yBSAkZ2jERATI2W6h0rYk
 https://www.google.com/maps/place/Fook+Hing+Trading+Co/data=!4m7!3m6!1s0x31da19a5049da53d:0x2f819b4576cf1f5e!8m2!3d1.2969044!4d103.8535693!16s%2Fg%2F1tfnqjbk!19sChIJPaWdBKUZ2jERXh_PdkWbgS8
+https://www.google.com/maps/place/International+Singapore+Exporter+Trading+Co./data=!4m7!3m6!1s0x31da19bd45e13d15:0x986ac654d30c2ec7!8m2!3d1.2992818!4d103.8457524!16s%2Fg%2F1ptx9cdp2!19sChIJFT3hRb0Z2jERxy4M01TGapg
