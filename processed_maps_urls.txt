@@ -1134,3 +1134,4 @@ https://www.google.com/maps/place/Ambassador+Logistic+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Linfox+Logistics+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da198da089053f:0x3d6ab4c0931d69cf!8m2!3d1.3054926!4d103.8315751!16s%2Fg%2F11c1wrmz55!19sChIJPwWJoI0Z2jERz2kdk8C0aj0
 https://www.google.com/maps/place/R%C3%B6hlig+Logistics/data=!4m7!3m6!1s0x31da181907e1c82d:0x449c2b8f559d11ad!8m2!3d1.3359092!4d103.8869263!16s%2Fg%2F11b6s3x2xj!19sChIJLcjhBxkY2jERrRGdVY8rnEQ
 https://www.google.com/maps/place/STAR+CONCORD+PTE+LTD/data=!4m7!3m6!1s0x31da1bc12a8f6763:0xf69e87ce9632664f!8m2!3d1.2752093!4d103.8014332!16s%2Fg%2F11c0v_w1yt!19sChIJY2ePKsEb2jERT2Yyls6HnvY
+https://www.google.com/maps/place/Geodis+Singapore/data=!4m7!3m6!1s0x31da1ab59a1e73b3:0xbc04a17cda50c4ae!8m2!3d1.3129335!4d103.7202467!16s%2Fg%2F1ptz86j4v!19sChIJs3MemrUa2jERrsRQ2nyhBLw
