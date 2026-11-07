@@ -487,3 +487,4 @@ https://www.google.com/maps/place/ITC+Infotech/data=!4m7!3m6!1s0x31da1975cc9b67c
 https://www.google.com/maps/place/Wong+Systems+Management+Services/data=!4m7!3m6!1s0x31da198928e3e263:0x845bc13ee3c0bf41!8m2!3d1.3010861!4d103.8268601!16s%2Fg%2F1tgdl253!19sChIJY-LjKIkZ2jERQb_A4z7BW4Q
 https://www.google.com/maps/place/Mindtech+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19a0c8705693:0x2eac73bb3e3cffe7!8m2!3d1.2903343!4d103.8494929!16s%2Fg%2F1ptx9jlkb!19sChIJk1ZwyKAZ2jER5_88PrtzrC4
 https://www.google.com/maps/place/Techease+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x6e3bed499c5d3f29:0x8476b2976a843b7a!8m2!3d1.3333659!4d103.8916892!16s%2Fg%2F11xts2bw0d!19sChIJKT9dnEntO24RejuEapeydoQ
+https://www.google.com/maps/place/Data+Connect+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da1762e64470d1:0xe73358e6c47392ff!8m2!3d1.333427!4d103.8942808!16s%2Fg%2F11tm_n17qv!19sChIJ0XBE5mIX2jER_5JzxOZYM-c
