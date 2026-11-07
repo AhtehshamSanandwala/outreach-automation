@@ -1086,3 +1086,4 @@ https://www.google.com/maps/place/TradeComm/data=!4m7!3m6!1s0x31da19b0db47f0f1:0
 https://www.google.com/maps/place/Eni+Singapore/data=!4m7!3m6!1s0x31da1991f188a28f:0xc2d41ded444232ac!8m2!3d1.3026716!4d103.8343967!16s%2Fg%2F11c553qzg4!19sChIJj6KI8ZEZ2jERrDJCRO0d1MI
 https://www.google.com/maps/place/Tradehub+21/data=!4m7!3m6!1s0x31da11b4a4a623ab:0x51cdea86a8060ee!8m2!3d1.32854!4d103.7523602!16s%2Fg%2F11sy6sgh2v!19sChIJqyOmpLQR2jER7mCAaqjeHAU
 https://www.google.com/maps/place/Spark+Systems+Pte+Ltd/data=!4m7!3m6!1s0x31da190df2654d8f:0xf3cd318cddde0293!8m2!3d1.2799566!4d103.849325!16s%2Fg%2F11df7ydy4z!19sChIJj01l8g0Z2jERkwLe3YwxzfM
+https://www.google.com/maps/place/Ocean+Financial+Centre+Public+Space/data=!4m7!3m6!1s0x31da190ec0e87f83:0xaaa7dbb76fe429da!8m2!3d1.2832397!4d103.8520217!16s%2Fm%2F03y8zfy!19sChIJg3_owA4Z2jER2inkb7fbp6o
