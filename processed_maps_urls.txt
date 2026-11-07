@@ -373,3 +373,4 @@ https://www.google.com/maps/place/AGENCY/data=!4m7!3m6!1s0x31da1977b332de6b:0xfb
 https://www.google.com/maps/place/Craft+Creative+Pte+Ltd/data=!4m7!3m6!1s0x31da17081b91be63:0xda6de0ede38a1281!8m2!3d1.3155506!4d103.879271!16s%2Fg%2F11j53k8dns!19sChIJY76RGwgX2jERgRKK4-3gbdo
 https://www.google.com/maps/place/DFW+Creative+Pte+Ltd/data=!4m7!3m6!1s0x31da190d9480939d:0x976cd0da751495df!8m2!3d1.2936417!4d103.8414263!16s%2Fg%2F1pyqmzrx7!19sChIJnZOAlA0Z2jER35UUddrQbJc
 https://www.google.com/maps/place/We+Are+Social/data=!4m7!3m6!1s0x31da190d966f8fb5:0xbdd9ab8f1ce6fac7!8m2!3d1.2840798!4d103.8525004!16s%2Fg%2F119vs_f77!19sChIJtY9vlg0Z2jERx_rmHI-r2b0
+https://www.google.com/maps/place/Aleena+Singapore/data=!4m7!3m6!1s0x31da199a8cf023ed:0xc263b8def5de4b!8m2!3d1.3070445!4d103.8283597!16s%2Fg%2F11r_chl_f5!19sChIJ7SPwjJoZ2jERS9713rhjwgA
