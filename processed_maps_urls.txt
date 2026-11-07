@@ -1113,3 +1113,5 @@ https://www.google.com/maps/place/SW+Logistics/data=!4m7!3m6!1s0x31da054f2ca06e5
 https://www.google.com/maps/place/Vanguard+Logistics+Services+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196a8c4c8cff:0x80c923add798b320!8m2!3d1.3053646!4d103.7976278!16s%2Fg%2F1tg_j4n0!19sChIJ_4xMjGoZ2jERILOY160jyYA
 https://www.google.com/maps/place/J+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1ab4c9758995:0x9f2de95e8157e296!8m2!3d1.3117261!4d103.7280385!16s%2Fg%2F1tjyl78p!19sChIJlYl1ybQa2jERluJXgV7pLZ8
 https://www.google.com/maps/place/HUB+Logistics+Group/data=!4m7!3m6!1s0x31da1a9d5ee7dfb9:0x492d45b6dc34c95d!8m2!3d1.3262707!4d103.763132!16s%2Fg%2F1tfg9rqj!19sChIJud_nXp0a2jERXck03LZFLUk
+https://www.google.com/maps/place/Yusen+Logistics/data=!4m7!3m6!1s0x31da3cd6f12f11c3:0xe67d7feb7c7e3511!8m2!3d1.3323658!4d103.961191!16s%2Fg%2F1tdff69d!19sChIJwxEv8dY82jERETV-fOt_feY
+https://www.google.com/maps/place/Mitsui+Soko+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da05b732e3cc0f:0x8cc57a2bfd9f10b7!8m2!3d1.2986029!4d103.6665366!16s%2Fg%2F1xgz898v!19sChIJD8zjMrcF2jERtxCf_St6xYw
