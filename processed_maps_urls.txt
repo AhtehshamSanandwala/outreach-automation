@@ -2091,3 +2091,4 @@ https://www.google.com/maps/place/Simple+Graphics/data=!4m7!3m6!1s0x31da196ced55
 https://www.google.com/maps/place/Promotions+Advertising+and+Marketing+Pte+Ltd/data=!4m7!3m6!1s0x31da19727bb16023:0x553c3aa22eb968ec!8m2!3d1.2804386!4d103.8414108!16s%2Fg%2F1tdbnd87!19sChIJI2Cxe3IZ2jER7Gi5LqI6PFU
 https://www.google.com/maps/place/Ag+Communications+Pte+Ltd/data=!4m7!3m6!1s0x31da196d8a453a57:0x6df1a9f9790f31b8!8m2!3d1.2796351!4d103.8407533!16s%2Fg%2F1vg_9cw8!19sChIJVzpFim0Z2jERuDEPefmp8W0
 https://www.google.com/maps/place/Seed+Design/data=!4m7!3m6!1s0x31da196d0f4a2101:0x984b62567c24d5dc!8m2!3d1.278053!4d103.842299!16s%2Fg%2F11b5phx5gd!19sChIJASFKD20Z2jER3NUkfFZiS5g
+https://www.google.com/maps/place/Kelvin+%26+Frank+Reid+Pte+Ltd/data=!4m7!3m6!1s0x31da190c029b719f:0xff470b72eacaf63d!8m2!3d1.2794509!4d103.841602!16s%2Fg%2F11c59vys3z!19sChIJn3GbAgwZ2jERPfbK6nILR_8
