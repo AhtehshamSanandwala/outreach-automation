@@ -905,3 +905,4 @@ https://www.google.com/maps/place/EON+Consulting+%26+Training+Pte+Ltd/data=!4m7!
 https://www.google.com/maps/place/FTI+Consulting/data=!4m7!3m6!1s0x31da191377716ae1:0x323555f2af014515!8m2!3d1.281142!4d103.851928!16s%2Fg%2F1tg_cky0!19sChIJ4WpxdxMZ2jERFUUBr_JVNTI
 https://www.google.com/maps/place/Sandhurst+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da19a0c161d6e9:0xa03194996169074b!8m2!3d1.2905391!4d103.8494106!16s%2Fg%2F1th54j09!19sChIJ6dZhwaAZ2jERSwdpYZmUMaA
 https://www.google.com/maps/place/Boston+Consulting+Group/data=!4m7!3m6!1s0x31da19094881ecf7:0xa22e5f40096e4897!8m2!3d1.2770324!4d103.8479634!16s%2Fg%2F1tf265cd!19sChIJ9-yBSAkZ2jERl0huCUBfLqI
+https://www.google.com/maps/place/DecodeHR+Pte+Ltd/data=!4m7!3m6!1s0x31da19a5116f320b:0xd63fa62126299759!8m2!3d1.282745!4d103.851171!16s%2Fg%2F11g9qhbbyt!19sChIJCzJvEaUZ2jERWZcpJiGmP9Y
