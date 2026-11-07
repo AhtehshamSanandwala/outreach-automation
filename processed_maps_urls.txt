@@ -1439,3 +1439,4 @@ https://www.google.com/maps/place/Swift+Technical+%28Singapore%29+Pte+Ltd/data=!
 https://www.google.com/maps/place/Compass+Offices+-+Singapore+Land+Tower/data=!4m7!3m6!1s0x31da19fc0a9f950d:0x4ee40d46b546df61!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11fldhm_1y!19sChIJDZWfCvwZ2jERYd9GtUYN5E4
 https://www.google.com/maps/place/Allshores+Corporation+Pte.+Ltd./data=!4m7!3m6!1s0x31da190eadff1b8b:0x17153fcec69715ba!8m2!3d1.2844837!4d103.8513447!16s%2Fg%2F11h7s4ckcl!19sChIJixv_rQ4Z2jERuhWXxs4_FRc
 https://www.google.com/maps/place/Corporate+Management+Services+%28CMS%29/data=!4m7!3m6!1s0x31da190ef5555553:0x7481bfdac9faaaa4!8m2!3d1.281142!4d103.851928!16s%2Fg%2F1vvdrqq8!19sChIJU1VV9Q4Z2jERpKr6ydq_gXQ
+https://www.google.com/maps/place/RT+Compliance+Services+Singapore/data=!4m7!3m6!1s0x31da19586d6cdfff:0x90d4141227bdb888!8m2!3d1.284479!4d103.851082!16s%2Fg%2F11s_xqqc8k!19sChIJ_99sbVgZ2jERiLi9JxIU1JA
