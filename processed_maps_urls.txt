@@ -655,3 +655,4 @@ https://www.google.com/maps/place/Pinnacle+Executive+Search/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Walden/data=!4m7!3m6!1s0x31da19ac375fdcfd:0x29601f2cd0396e5e!8m2!3d1.291922!4d103.8501259!16s%2Fg%2F11t426rtht!19sChIJ_dxfN6wZ2jERXm450CwfYCk
 https://www.google.com/maps/place/Odgers/data=!4m7!3m6!1s0x31da191278aec603:0x5ee17b0a353b9a7a!8m2!3d1.283274!4d103.850883!16s%2Fg%2F11c4kcdgbk!19sChIJA8aueBIZ2jERepo7NQp74V4
 https://www.google.com/maps/place/AP+Executive/data=!4m7!3m6!1s0x31da19aee36c1f11:0x6a8d7f21e468a7a5!8m2!3d1.28405!4d103.8510391!16s%2Fg%2F11f57jtql9!19sChIJER9s464Z2jERpado5CF_jWo
+https://www.google.com/maps/place/Target+Partners+Executive+Search+Pte+Ltd/data=!4m7!3m6!1s0x31da190be01f0e0b:0x2cc3e528f23c816f!8m2!3d1.285475!4d103.850597!16s%2Fg%2F11b6dpc2w1!19sChIJCw4f4AsZ2jERb4E88ijlwyw
