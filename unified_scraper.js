@@ -375,7 +375,8 @@ const CONTACT_KEYWORDS = [
 // contact page and scrape emails from it, plus any Facebook/LinkedIn page
 // linked from the site. Returns
 // { emails, actualWebsite, contactFormUrl, facebook, linkedin }.
-async function scrapeWebsiteDetails(page, website) {
+async function scrapeWebsiteDetails(browser, website) {
+    let sitePage = null;
     try {
         // Skip known ad-network / third-party directory / social-media
         // domains that sometimes leak through as a business's "website" —
@@ -390,29 +391,27 @@ async function scrapeWebsiteDetails(page, website) {
         }
 
         console.log(`🌐 Visiting: ${website}`);
-        // Ensure request interception (potentially left on elsewhere) is
-        // disabled and no stray 'request' listeners remain, so this
-        // navigation isn't blocked/altered by leftover handlers.
-        await page.setRequestInterception(false);
-        page.removeAllListeners('request');
-        // domcontentloaded, not networkidle2: a chat widget, analytics
-        // beacon, or WebSocket keeps the network "busy" indefinitely on a
-        // lot of real small-business sites, which made networkidle2 hang
-        // until the 30s timeout and throw — silently producing an
-        // all-blank row (empty actualWebsite/contactFormUrl/emails/
-        // facebook/linkedin) for a business whose site loaded fine, just
-        // never went network-idle. The nav links/mailto/social hrefs this
-        // function actually reads are static HTML, already present by
-        // domcontentloaded — no need to wait for every subresource anyway.
-        await page.goto(website, { waitUntil: 'domcontentloaded', timeout: 30000 });
-        await new Promise(r => setTimeout(r, 2000));
+        // Create an isolated tab so external site scripts/crashes never affect the Maps page
+        sitePage = await browser.newPage();
+        await sitePage.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
-        // Prefer the canonical/og:url meta tag over page.url() when present,
-        // since it more reliably reflects the "real" homepage URL after any
-        // client-side redirects/rewrites.
-        let actualWebsite = page.url();
+        // Block heavy media/fonts to save bandwidth, accelerate text parsing, and avoid OOM crashes
+        await sitePage.setRequestInterception(true);
+        sitePage.on('request', req => {
+            const rt = req.resourceType();
+            if (['image', 'media', 'font'].includes(rt)) {
+                req.abort();
+            } else {
+                req.continue();
+            }
+        });
+
+        await sitePage.goto(website, { waitUntil: 'domcontentloaded', timeout: 25000 });
+        await new Promise(r => setTimeout(r, 1500));
+
+        let actualWebsite = sitePage.url();
         try {
-            const base = await page.evaluate(() => {
+            const base = await sitePage.evaluate(() => {
                 return document.querySelector('link[rel="canonical"]')?.href ||
                        document.querySelector('meta[property="og:url"]')?.content || '';
             });
@@ -420,15 +419,7 @@ async function scrapeWebsiteDetails(page, website) {
         } catch (_) {}
 
         // Step 1: Find contact page link from homepage.
-        // Scans every same-domain <a href> on the homepage and keeps ones
-        // whose URL path or link text contains any contact-ish keyword —
-        // not just "contact". Plain substring match (lowercased, no
-        // separator-stripping needed: "contact" already matches inside
-        // "Contact-Us"/"contact_us" as-is) against the full CONTACT_KEYWORDS
-        // list is what actually catches a link labelled/hrefed "Get in
-        // Touch" (e.g. /get-in-touch/) that has no literal "contact"
-        // substring anywhere — a real site this missed before this fix.
-        const contactLinks = await page.evaluate((keywords) => {
+        const contactLinks = await sitePage.evaluate((keywords) => {
             const base = window.location.origin;
             const seen = new Set();
             const links = [];
@@ -447,38 +438,9 @@ async function scrapeWebsiteDetails(page, website) {
         }, CONTACT_KEYWORDS);
         const contactPageUrl = contactLinks[0] || '';
 
-        // Step 2: Extract emails from a page, using several complementary
-        // techniques so that whichever method the site uses to publish its
-        // email address gets caught:
-        //   1. mailto: links (the most reliable signal).
-        //   2. Cloudflare's "email protection" obfuscation — emails are
-        //      hex-XOR-encoded in a data-cfemail attribute; this decodes
-        //      them the same way Cloudflare's own JS would.
-        //   3. Plain visible text on the page (innerText) matched via regex.
-        //   4. Raw HTML source matched via regex — catches emails embedded
-        //      in inline scripts / JSON data blobs that aren't in the
-        //      rendered text or DOM attributes.
-        // Methods 2-4 accept an email if it's on the site's own domain, OR
-        // on a well-known free-mail provider (gmail.com etc) — very common
-        // for small/local businesses to publish a Gmail address as their
-        // *only* contact email (unlike banks/enterprises, where that would
-        // be a red flag). Any other off-domain address picked up by these
-        // loose text-scan methods is still rejected, since without a
-        // structured signal there's no reliable way to tell a business's
-        // real off-domain contact apart from an unrelated third-party
-        // address (ad widget, testimonial, footer credit, etc.) mentioned
-        // incidentally on the page. mailto: links (method 1) are the
-        // exception — trusted regardless of domain, since a business that
-        // makes an address clickable has explicitly published it as *the*
-        // way to reach them, even when it's on a different brand/group
-        // domain than the marketing site (e.g. thebombaydigitalcompany.com
-        // linking mailto:info@tbdc.co.in — a real case this was silently
-        // dropping before this fix). Also returns every <a href> plus the
-        // raw HTML on the page, so the caller can pull Facebook/LinkedIn
-        // links out of the same page load instead of paying for a second
-        // evaluate.
+        // Step 2: Extract emails from page
         const extractPageData = async (domain) => {
-            return page.evaluate((domain) => {
+            return sitePage.evaluate((domain) => {
                 const emails = new Set();
                 const emailRegex = /[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}/g;
                 const strictEmailRe = /^[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}$/;
@@ -486,9 +448,6 @@ async function scrapeWebsiteDetails(page, website) {
                     'gmail.com', 'yahoo.com', 'hotmail.com', 'outlook.com', 'icloud.com',
                     'live.com', 'aol.com', 'rediffmail.com', 'protonmail.com', 'msn.com',
                 ];
-                // Without the domain-match safety net, mailto: needs its own
-                // (light) junk filter so it doesn't pick up placeholder/
-                // tracking addresses that happen to be wired up as mailto:.
                 const skipPatterns = [
                     'sentry', 'wixpress', 'example.com', 'domain.com', 'noreply', 'no-reply',
                     'test@', 'user@', 'email@', 'name@', 'your@', 'sample', 'placeholder',
@@ -497,7 +456,7 @@ async function scrapeWebsiteDetails(page, website) {
                 const isJunkEmail = e => !strictEmailRe.test(e) || skipPatterns.some(p => e.includes(p));
                 const isAcceptable = e => e.includes('@' + domain) || freeEmailDomains.some(fd => e.endsWith('@' + fd));
 
-                // 1. mailto: links — trusted regardless of domain (see note above).
+                // 1. mailto: links
                 document.querySelectorAll('a[href^="mailto:"]').forEach(a => {
                     const email = a.getAttribute('href').replace('mailto:', '').split('?')[0].trim().toLowerCase();
                     if (email && !isJunkEmail(email)) emails.add(email);
@@ -522,22 +481,21 @@ async function scrapeWebsiteDetails(page, website) {
                     if (isAcceptable(e)) emails.add(e);
                 });
 
-                // 4. Raw HTML — catches JS-rendered, JSON bootstrap, encoded emails
+                // 4. Raw HTML
                 const html = document.documentElement.innerHTML;
                 (html.match(emailRegex) || []).forEach(e => {
                     e = e.toLowerCase();
                     if (isAcceptable(e)) emails.add(e);
                 });
 
-                // 5. Every anchor href — Facebook/LinkedIn links get filtered
-                // and normalized on the Node side (extractSocialLinks).
+                // 5. Anchor hrefs for social links
                 const anchors = Array.from(document.querySelectorAll('a[href]')).map(a => a.href);
 
                 return { emails: [...emails], anchors, html };
             }, domain);
         };
 
-        const siteDomain = new URL(page.url()).hostname.replace('www.', '');
+        const siteDomain = new URL(sitePage.url()).hostname.replace('www.', '');
 
         // Step 3: Check homepage first
         let homepageData = await extractPageData(siteDomain);
@@ -552,15 +510,12 @@ async function scrapeWebsiteDetails(page, website) {
         };
         ingestSocial(homepageData.anchors, homepageData.html);
 
-        // Step 4: Visit all discovered contact-ish pages (up to 3, from Step
-        // 1) and extract emails + social links from each too, since many
-        // sites only list an email/Facebook/LinkedIn link on their dedicated
-        // /contact or /about page rather than the homepage.
+        // Step 4: Visit discovered contact pages
         let contactFormUrl = contactPageUrl;
         for (const link of contactLinks) {
             try {
-                await page.goto(link, { waitUntil: 'domcontentloaded', timeout: 10000 });
-                await new Promise(r => setTimeout(r, 1500));
+                await sitePage.goto(link, { waitUntil: 'domcontentloaded', timeout: 12000 });
+                await new Promise(r => setTimeout(r, 1200));
                 const linkData = await extractPageData(siteDomain);
                 console.log(`📧 ${link} → ${linkData.emails.length} emails`);
                 linkData.emails.forEach(e => emails.push(e));
@@ -581,6 +536,12 @@ async function scrapeWebsiteDetails(page, website) {
     } catch (error) {
         console.log(`❌ Error scraping ${website}: ${error.message}`);
         return { emails: [], actualWebsite: '', contactFormUrl: '', facebook: [], linkedin: [] };
+    } finally {
+        if (sitePage) {
+            try {
+                if (!sitePage.isClosed()) await sitePage.close();
+            } catch (_) {}
+        }
     }
 }
 
