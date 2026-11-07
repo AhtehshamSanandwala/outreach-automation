@@ -1754,3 +1754,4 @@ https://www.google.com/maps/place/City+Index+SG/data=!4m7!3m6!1s0x31da198629c310
 https://www.google.com/maps/place/Mihaud+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da190d962c8325:0x41e335171aa01453!8m2!3d1.284322!4d103.8509836!16s%2Fg%2F1v2dz0dl!19sChIJJYMslg0Z2jERUxSgGhc140E
 https://www.google.com/maps/place/GXT+%28GEM+Exchange+and+Trading%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da1990e8c00001:0x527540d57d1cd521!8m2!3d1.2831688!4d103.8509703!16s%2Fg%2F11h8cc2vd5!19sChIJAQDA6JAZ2jERIdUcfdVAdVI
 https://www.google.com/maps/place/Brat+Resources/data=!4m7!3m6!1s0x31da19095fc00ff5:0x5ea5f331357fc82f!8m2!3d1.2854707!4d103.8507043!16s%2Fg%2F11hz178jqk!19sChIJ9Q_AXwkZ2jERL8h_NTHzpV4
+https://www.google.com/maps/place/Hock+Eng+Seng+Trading+Company+Pte+Ltd/data=!4m7!3m6!1s0x31da181edbd692a9:0x45118723ca911ba7!8m2!3d1.3220712!4d103.8943651!16s%2Fg%2F1hbpwp2yw!19sChIJqZLW2x4Y2jERpxuRyiOHEUU
