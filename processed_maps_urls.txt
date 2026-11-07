@@ -1218,3 +1218,4 @@ https://www.google.com/maps/place/A+S+Freight/data=!4m7!3m6!1s0x31da19c659526681
 https://www.google.com/maps/place/Alirantara+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1992886a44a5:0x405b39eae3eff771!8m2!3d1.3053552!4d103.8344113!16s%2Fg%2F1w2ywz7b!19sChIJpURqiJIZ2jERcffv4-o5W0A
 https://www.google.com/maps/place/Gross+Cargo+Pte+Ltd/data=!4m7!3m6!1s0x31da3c0cc0d1c477:0xdefc3bcea76f4070!8m2!3d1.382831!4d103.999542!16s%2Fg%2F1tf9_j21!19sChIJd8TRwAw82jERcEBvp847_N4
 https://www.google.com/maps/place/Choon+Huat+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da0f7d351fd145:0xf3e19ced26370ce7!8m2!3d1.328782!4d103.671068!16s%2Fg%2F1trxb6hb!19sChIJRdEfNX0P2jER5ww3Ju2c4fM
+https://www.google.com/maps/place/AVS+Engineering+-+Your+Trusted+Industrial+Equipment+Supplier+in+Singapore/data=!4m7!3m6!1s0x31da05f44f814e41:0x627623c711b19e3c!8m2!3d1.3122601!4d103.7030346!16s%2Fg%2F11y1b0rwj3!19sChIJQU6BT_QF2jERPJ6xEccjdmI
