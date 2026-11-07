@@ -1825,3 +1825,4 @@ https://www.google.com/maps/place/Sk+Shipping+%28Singapore%29+Pte+Ltd/data=!4m7!
 https://www.google.com/maps/place/FLEX+LNG+Management+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da190ecc8741db:0xa2f825d237f4b7f7!8m2!3d1.28422!4d103.8524508!16s%2Fg%2F1ptz0rkh_!19sChIJ20GHzA4Z2jER97f0N9Il-KI
 https://www.google.com/maps/place/Afic+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da190eadffd2e1:0x32c32ef462a957ba!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11fslrxndq!19sChIJ4dL_rQ4Z2jERulepYvQuwzI
 https://www.google.com/maps/place/POPDrop+-+Raffles+Place+Post+Office/data=!4m7!3m6!1s0x31da19ab7c42d8c7:0xe9a0399b2430a899!8m2!3d1.283217!4d103.851911!16s%2Fg%2F11yg9x554k!19sChIJx9hCfKsZ2jERmagwJJs5oOk
+https://www.google.com/maps/place/OOCL+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da190ec81a4111:0xcb166d601a7c4ec7!8m2!3d1.283829!4d103.852099!16s%2Fg%2F11h7s4c_tv!19sChIJEUEayA4Z2jERx058GmBtFss
