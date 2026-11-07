@@ -1180,3 +1180,5 @@ https://www.google.com/maps/place/GFS+Forwarding+Pte+Ltd/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Cargo+Max+Pte+Ltd/data=!4m7!3m6!1s0x31da19dc115ccc8f:0x61644089d2c4f5eb!8m2!3d1.3173664!4d103.858559!16s%2Fg%2F11lglhwkf6!19sChIJj8xcEdwZ2jER6_XE0olAZGE
 https://www.google.com/maps/place/Matrix+Freight+Forwarders+Pte+Ltd/data=!4m7!3m6!1s0x31da19c655555555:0x4580e2b2eb6303f2!8m2!3d1.3744182!4d103.9958061!16s%2Fg%2F11c5gxm8t5!19sChIJVVVVVcYZ2jER8gNj67LigEU
 https://www.google.com/maps/place/Cosco-Feoso+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da198ce81c9ded:0x58ae185049d89730!8m2!3d1.3066492!4d103.8295057!16s%2Fg%2F11b5pj7zvh!19sChIJ7Z0c6IwZ2jERMJfYSVAYrlg
+https://www.google.com/maps/place/Priority+Mail+Express+-+Shenton+Way/data=!4m7!3m6!1s0x31da1923951d6adf:0x2d8a6187f23ffe0!8m2!3d1.2787533!4d103.848602!16s%2Fg%2F11mw4j6cd1!19sChIJ32odlSMZ2jER4P8jfxim2AI
+https://www.google.com/maps/place/Freight+Mark+Logistics/data=!4m7!3m6!1s0x31da3c714a3ecab9:0x63f0170a8997025c!8m2!3d1.3760821!4d104.001142!16s%2Fg%2F11hz17nfdw!19sChIJuco-SnE82jERXAKXiQoX8GM
