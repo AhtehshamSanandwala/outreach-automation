@@ -1106,3 +1106,7 @@ https://www.google.com/maps/place/SG+Logistics+Hub/data=!4m7!3m6!1s0x31da0569b83
 https://www.google.com/maps/place/SG+Pacific+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1bdc275b2b29:0xacb76a5e12370d97!8m2!3d1.2740196!4d103.626694!16s%2Fg%2F11hzqd68_4!19sChIJKStbJ9wb2jERlw03El5qt6w
 https://www.google.com/maps/place/FPS+Global+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3d2f9f8561d5:0x68e9189b4177d9f7!8m2!3d1.271294!4d103.828604!16s%2Fg%2F1tgn27q9!19sChIJ1WGFny892jER99l3QZsY6Wg
 https://www.google.com/maps/place/YS+LOGISTICS+%28S%29+PTE+LTD/data=!4m7!3m6!1s0x31da1ac30f7bd693:0x11a6a0e73669ca00!8m2!3d1.300924!4d103.748443!16s%2Fg%2F1tdf8mpf!19sChIJk9Z7D8Ma2jERAMppNuegphE
+https://www.google.com/maps/place/QSA+Marine+%26+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da19bb0daade35:0xe1d9ac22300028a7!8m2!3d1.3005243!4d103.8521508!16s%2Fg%2F1tlgvgvj!19sChIJNd6qDbsZ2jERpygAMCKs2eE
+https://www.google.com/maps/place/SINGAPORE+LOGISTICS+%26+TRANSPORTS+PTE+LTD/data=!4m7!3m6!1s0x31da17744f1bd243:0x462220a2e47f2302!8m2!3d1.3894036!4d103.8710161!16s%2Fg%2F11z58s5g04!19sChIJQ9IbT3QX2jERAiN_5KIgIkY
+https://www.google.com/maps/place/ST+Logistics+Pte+Ltd+%28HQ%29/data=!4m7!3m6!1s0x31da05ec9aaf5d87:0x624649cf165ca336!8m2!3d1.3143988!4d103.6571505!16s%2Fg%2F11g8wjd4ts!19sChIJh12vmuwF2jERNqNcFs9JRmI
+https://www.google.com/maps/place/SW+Logistics/data=!4m7!3m6!1s0x31da054f2ca06e59:0x5c2dcabd41868cc7!8m2!3d1.3131571!4d103.7198847!16s%2Fg%2F11c524qh8l!19sChIJWW6gLE8F2jERx4yGQb3KLVw
