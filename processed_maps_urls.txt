@@ -2049,3 +2049,4 @@ https://www.google.com/maps/place/Blub+Creative/data=!4m7!3m6!1s0x31da192e927a9d
 https://www.google.com/maps/place/AGG+Global+Pte+Ltd/data=!4m7!3m6!1s0x31da19c697d95fc1:0xc28c8fb0918330be!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11rqcft64p!19sChIJwV_Zl8YZ2jERvjCDkbCPjMI
 https://www.google.com/maps/place/Nicosia+Creative+Expresso+%28NiCE%29/data=!4m7!3m6!1s0x31da19bd1acdcde9:0xc142b620a14e7321!8m2!3d1.278342!4d103.841783!16s%2Fg%2F1ptxqmxlz!19sChIJ6c3NGr0Z2jERIXNOoSC2QsE
 https://www.google.com/maps/place/Whiz+Creative/data=!4m7!3m6!1s0x31da191343fb9f2d:0xcf2568a3f3947f38!8m2!3d1.275896!4d103.845933!16s%2Fg%2F1pv1h09k4!19sChIJLZ_7QxMZ2jEROH-U86NoJc8
+https://www.google.com/maps/place/The+Thinc+Group+Pte.+Ltd./data=!4m7!3m6!1s0x31da196d7ea9648b:0x245de3f79eda9c5!8m2!3d1.2802377!4d103.8424941!16s%2Fg%2F11bw5_316h!19sChIJi2Spfm0Z2jERxanteT_eRQI
