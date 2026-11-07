@@ -501,3 +501,4 @@ https://www.google.com/maps/place/SingCERT/data=!4m7!3m6!1s0x31da1bc0a37dbde9:0x
 https://www.google.com/maps/place/Jobstreet+by+SEEK,+Singapore/data=!4m7!3m6!1s0x31da1972af33ef25:0xa367b046aa847f4d!8m2!3d1.2769995!4d103.8458222!16s%2Fg%2F1thvq684!19sChIJJe8zr3IZ2jERTX-EqkawZ6M
 https://www.google.com/maps/place/Capital+Tower+Urban+Plaza/data=!4m7!3m6!1s0x31da191255b0653d:0xe082dd672c485a45!8m2!3d1.2775187!4d103.8475466!16s%2Fg%2F119x2z0tr!19sChIJPWWwVRIZ2jERRVpILGfdguA
 https://www.google.com/maps/place/Princeton+Digital+Group+%28Global+HQ%29/data=!4m7!3m6!1s0x31da19316387694b:0xa0483b3713a375f4!8m2!3d1.2817945!4d103.8500307!16s%2Fg%2F11pwxvbg4r!19sChIJS2mHYzEZ2jER9HWjEzc7SKA
+https://www.google.com/maps/place/Data+Centre+World+Asia/data=!4m7!3m6!1s0x31da19ded03362e3:0x940e403f9853368d!8m2!3d1.2739162!4d103.8444964!16s%2Fg%2F11gy56xr5f!19sChIJ42Iz0N4Z2jERjTZTmD9ADpQ
