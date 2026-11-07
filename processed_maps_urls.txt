@@ -1119,3 +1119,4 @@ https://www.google.com/maps/place/CEVA+Logistics/data=!4m7!3m6!1s0x31da1ab340454
 https://www.google.com/maps/place/Jetsea+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c0cc0d1c477:0xecf3340889f5b69e!8m2!3d1.382831!4d103.999542!16s%2Fg%2F1trtrvb4!19sChIJd8TRwAw82jERnrb1iQg08-w
 https://www.google.com/maps/place/Delta+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1abdaea71131:0x6e57982d651b0b17!8m2!3d1.3357363!4d103.7482934!16s%2Fg%2F1tmg8yvm!19sChIJMRGnrr0a2jERFwsbZS2YV24
 https://www.google.com/maps/place/KMS+SUPPLY+CHAIN+SERVICES+PTE+LTD/data=!4m7!3m6!1s0x31da10753dfc9d87:0x263b590e1d16c392!8m2!3d1.328296!4d103.7531194!16s%2Fg%2F11bwl36trm!19sChIJh538PXUQ2jERksMWHQ5ZOyY
+https://www.google.com/maps/place/S.A.+Paribahan+%28S%29+Pte.+Ltd.+Logistics+Parcel+%26+Courier+Services/data=!4m7!3m6!1s0x31da19c657c647d3:0x40e027543296feca!8m2!3d1.3107337!4d103.853679!16s%2Fg%2F11f2wlt_kx!19sChIJ00fGV8YZ2jERyv6WMlQn4EA
