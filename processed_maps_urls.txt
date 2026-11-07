@@ -437,3 +437,4 @@ https://www.google.com/maps/place/Accrets+International+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/INFOC/data=!4m7!3m6!1s0x31da1bd23d454fff:0xd4953702a220ce95!8m2!3d1.3301415!4d103.7444497!16s%2Fg%2F11_v27qdr!19sChIJ_09FPdIb2jERlc4gogI3ldQ
 https://www.google.com/maps/place/Opensource+Pte.+Ltd./data=!4m7!3m6!1s0x31da19cbe1ea7fa7:0x6fb00ff8f9195c7a!8m2!3d1.3115151!4d103.8630373!16s%2Fg%2F11ggr6trps!19sChIJp3_q4csZ2jERelwZ-fgPsG8
 https://www.google.com/maps/place/IT+Block+Singapore/data=!4m7!3m6!1s0x31da19651f2eb087:0x927bfd9b3f278f0a!8m2!3d1.3127815!4d103.9036443!16s%2Fg%2F11gm8d0cwm!19sChIJh7AuH2UZ2jERCo8nP5v9e5I
+https://www.google.com/maps/place/Managed+IT+Asia/data=!4m7!3m6!1s0x31da17fac0a6a723:0x457ba09cea8d1776!8m2!3d1.3344637!4d103.9048833!16s%2Fg%2F11c67wkwb4!19sChIJI6emwPoX2jERdheN6pyge0U
