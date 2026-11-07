@@ -2026,3 +2026,4 @@ https://www.google.com/maps/place/ATEES+Pte+Ltd/data=!4m7!3m6!1s0x31da191344eb2c
 https://www.google.com/maps/place/Studio+Ensemble/data=!4m7!3m6!1s0x31da1973391cae73:0x7798e720f2484ab4!8m2!3d1.2801153!4d103.8416293!16s%2Fg%2F11b6xjyh9p!19sChIJc64cOXMZ2jERtEpI8iDnmHc
 https://www.google.com/maps/place/Avitron+Marke/data=!4m7!3m6!1s0x31da192cf142f591:0xb5cd85b19de57f56!8m2!3d1.2764312!4d103.8457609!16s%2Fg%2F11gy292xh6!19sChIJkfVC8SwZ2jERVn_lnbGFzbU
 https://www.google.com/maps/place/Flag%26Mountains/data=!4m7!3m6!1s0x31da106e3e129b4d:0x7bee7a5318884afc!8m2!3d1.2749455!4d103.8434094!16s%2Fg%2F1ptwyz313!19sChIJTZsSPm4Q2jER_EqIGFN67ns
+https://www.google.com/maps/place/AsiaBlaze+Design/data=!4m7!3m6!1s0x31da191343eb5b27:0xf167f2660380cbdb!8m2!3d1.2757791!4d103.846096!16s%2Fg%2F1tk_lt2x!19sChIJJ1vrQxMZ2jER28uAA2byZ_E
