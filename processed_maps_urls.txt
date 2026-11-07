@@ -1184,3 +1184,4 @@ https://www.google.com/maps/place/Priority+Mail+Express+-+Shenton+Way/data=!4m7!
 https://www.google.com/maps/place/Freight+Mark+Logistics/data=!4m7!3m6!1s0x31da3c714a3ecab9:0x63f0170a8997025c!8m2!3d1.3760821!4d104.001142!16s%2Fg%2F11hz17nfdw!19sChIJuco-SnE82jERXAKXiQoX8GM
 https://www.google.com/maps/place/Oceanconnect+Singapore+Private+Limited/data=!4m7!3m6!1s0x31da198da089668d:0xc6f7a4b1f59af14c!8m2!3d1.305493!4d103.831575!16s%2Fg%2F1ptx3y4c2!19sChIJjWaJoI0Z2jERTPGa9bGk98Y
 https://www.google.com/maps/place/Central+Express+Lines+Pte+Ltd/data=!4m7!3m6!1s0x31da196743df4cf5:0xabe703be689776a3!8m2!3d1.2730202!4d103.8288487!16s%2Fg%2F1thq2tkm!19sChIJ9UzfQ2cZ2jERo3aXaL4D56s
+https://www.google.com/maps/place/Transpeed+Cargo+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c702975b65f:0x87ade2c226dbd2ad!8m2!3d1.3742564!4d103.9957846!16s%2Fg%2F1thzr9d2!19sChIJX7Z1KXA82jERrdLbJsLirYc
