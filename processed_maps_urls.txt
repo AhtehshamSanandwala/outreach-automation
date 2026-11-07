@@ -1214,3 +1214,4 @@ https://www.google.com/maps/place/Aboitiz+Balikbayan+%28Singapore%29+Pte+Ltd/dat
 https://www.google.com/maps/place/Provincial+Cargo+Express+Pte+Ltd/data=!4m7!3m6!1s0x31da199273a40769:0x206a67c9b05871ff!8m2!3d1.3045039!4d103.8337627!16s%2Fg%2F11b5pj19yg!19sChIJaQekc5IZ2jER_3FYsMlnaiA
 https://www.google.com/maps/place/Phoenix+Agencies+Pte+Ltd/data=!4m7!3m6!1s0x31da198d3e83a005:0xeeb81c423aec16f7!8m2!3d1.3068907!4d103.8314033!16s%2Fg%2F1ptzshrs9!19sChIJBaCDPo0Z2jER9xbsOkIcuO4
 https://www.google.com/maps/place/TCB+Group/data=!4m7!3m6!1s0x31da165c757e7203:0xe2e8e8a58455acd4!8m2!3d1.314!4d103.84425!16s%2Fg%2F1ptx7_4gz!19sChIJA3J-dVwW2jER1KxVhKXo6OI
+https://www.google.com/maps/place/A+S+Freight/data=!4m7!3m6!1s0x31da19c659526681:0x773290ff770833d4!8m2!3d1.3109549!4d103.8538209!16s%2Fg%2F1ptxzvzl2!19sChIJgWZSWcYZ2jER1DMId_-QMnc
