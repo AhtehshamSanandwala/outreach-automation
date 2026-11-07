@@ -1102,3 +1102,5 @@ https://www.google.com/maps/place/SH+Ground+%7C+3PL+Logistics+%26+Freight+Servic
 https://www.google.com/maps/place/Enterprise+Logistics+Centre/data=!4m7!3m6!1s0x31da067a2a1ad215:0xcd57e46671076080!8m2!3d1.2975905!4d103.6295961!16s%2Fg%2F1ptxxdvft!19sChIJFdIaKnoG2jERgGAHcWbkV80
 https://www.google.com/maps/place/ST+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1a9d76e2be3f:0xef571f060baa6292!8m2!3d1.3254308!4d103.7613258!16s%2Fg%2F1tdjnnx6!19sChIJP77idp0a2jERkmKqCwYfV-8
 https://www.google.com/maps/place/GEODIS+%7C+Freight+Forwarding+%26+Contract+Logistics/data=!4m7!3m6!1s0x31da059911bd3d0d:0x8103969682612b5b!8m2!3d1.3117618!4d103.6748726!16s%2Fg%2F1tfqngf6!19sChIJDT29EZkF2jERWythgpaWA4E
+https://www.google.com/maps/place/SG+Logistics+Hub/data=!4m7!3m6!1s0x31da0569b83c8747:0x1080c21a46f8624d!8m2!3d1.3122601!4d103.7030347!16s%2Fg%2F11c5j6zq01!19sChIJR4c8uGkF2jERTWL4RhrCgBA
+https://www.google.com/maps/place/SG+Pacific+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1bdc275b2b29:0xacb76a5e12370d97!8m2!3d1.2740196!4d103.626694!16s%2Fg%2F11hzqd68_4!19sChIJKStbJ9wb2jERlw03El5qt6w
