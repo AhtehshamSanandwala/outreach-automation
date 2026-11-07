@@ -1648,3 +1648,4 @@ https://www.google.com/maps/place/Trusted+Services/data=!4m7!3m6!1s0x31da1be74b7
 https://www.google.com/maps/place/The+World+Secretarial+Pte+Ltd/data=!4m7!3m6!1s0x31da18716c8a5019:0x2a02868e37876b45!8m2!3d1.3016809!4d103.9066958!16s%2Fg%2F1vhkh1ck!19sChIJGVCKbHEY2jERRWuHN46GAio
 https://www.google.com/maps/place/CSC/data=!4m7!3m6!1s0x31da191b8740c8cd:0xd0039855077ccdd8!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F11nnzjkz7q!19sChIJzchAhxsZ2jER2M18B1WYA9A
 https://www.google.com/maps/place/VIVOS+Pte.+Ltd./data=!4m7!3m6!1s0x31da19dd7a147e97:0x3876e1a0f822a0cb!8m2!3d1.280357!4d103.8480142!16s%2Fg%2F11wqb6pp_6!19sChIJl34Uet0Z2jERy6Ai-KDhdjg
+https://www.google.com/maps/place/Priority+Mail+Express+-+Raffles+Place/data=!4m7!3m6!1s0x31da19eb536835b1:0xbd9273d9d3b15ec1!8m2!3d1.2839166!4d103.8524693!16s%2Fg%2F11j94f1v0h!19sChIJsTVoU-sZ2jERwV6x09lzkr0
