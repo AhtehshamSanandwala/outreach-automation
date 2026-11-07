@@ -1485,3 +1485,4 @@ https://www.google.com/maps/place/Orchard+Global+Asset+Management/data=!4m7!3m6!
 https://www.google.com/maps/place/Seaarland+Management+Services+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da1909547de3e5:0x224a8b80c584a0d!8m2!3d1.2844431!4d103.8510638!16s%2Fg%2F1tdnbs0l!19sChIJ5eN9VAkZ2jERDUpYDLioJAI
 https://www.google.com/maps/place/Singapore+Land+Tower/data=!4m7!3m6!1s0x31da19003bf40a3f:0x502176cc05d31f73!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11xrk_xdkl!19sChIJPwr0OwAZ2jERcx_TBcx2IVA
 https://www.google.com/maps/place/The+Health+Advisory+Clinic/data=!4m7!3m6!1s0x31da1930c527a1d1:0xaddd6e54a3856735!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11k1952vq1!19sChIJ0aEnxTAZ2jERNWeFo1Ru3a0
+https://www.google.com/maps/place/One+Raffles+Place/data=!4m7!3m6!1s0x31da19212f6c635f:0x798b557d63250098!8m2!3d1.2843801!4d103.8510181!16zL20vMDY2OWdk!19sChIJX2NsLyEZ2jERmAAlY31Vi3k
