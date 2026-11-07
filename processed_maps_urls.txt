@@ -1901,3 +1901,4 @@ https://www.google.com/maps/place/Sing+Reo+Pte+Ltd/data=!4m7!3m6!1s0x31da1941195
 https://www.google.com/maps/place/Interflon+Singapore/data=!4m7!3m6!1s0x84b6b3186849fea5:0x2f442d115682391b!8m2!3d1.2846105!4d103.8527517!16s%2Fg%2F11yhtlrh_l!19sChIJpf5JaBiztoQRGzmCVhEtRC8
 https://www.google.com/maps/place/Industries/data=!4m7!3m6!1s0x31da190949c15555:0x5d9bb6fa9da54202!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11qpy3wxq2!19sChIJVVXBSQkZ2jERAkKlnfq2m10
 https://www.google.com/maps/place/JCB+Sales+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da190ee87ddd53:0x93f7a3c5467cd1fd!8m2!3d1.2830822!4d103.8529553!16s%2Fg%2F1pv0mvw4y!19sChIJU9196A4Z2jER_dF8RsWj95M
+https://www.google.com/maps/place/Phil+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da165f2d423393:0xd638865fb217c8bd!8m2!3d1.3255565!4d103.8981991!16s%2Fg%2F1ptzvgy2_!19sChIJkzNCLV8W2jERvcgXsl-GONY
