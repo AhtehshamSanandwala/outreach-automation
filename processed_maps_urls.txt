@@ -1913,3 +1913,4 @@ https://www.google.com/maps/place/John+Crane+Singapore+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Oval+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da19092485bb1b:0xf992c3b3bec9c18e!8m2!3d1.2851779!4d103.8529269!16s%2Fg%2F1ptz03qv_!19sChIJG7uFJAkZ2jERjsHJvrPDkvk
 https://www.google.com/maps/place/Sutco+Singapore+PTE.LTD./data=!4m7!3m6!1s0x31da19856368bdbd:0xd981490390e25dce!8m2!3d1.2833994!4d103.850868!16s%2Fg%2F11ljsyp9kk!19sChIJvb1oY4UZ2jERzl3ikANJgdk
 https://www.google.com/maps/place/Reliance+Metalcenter+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da19092485bb1b:0xa5f512e96f5f15d7!8m2!3d1.2851779!4d103.8529269!16s%2Fg%2F1pty72ytx!19sChIJG7uFJAkZ2jER1xVfb-kS9aU
+https://www.google.com/maps/place/Oilfield+Services+%26+Supplies/data=!4m7!3m6!1s0x31da0f57602ba3f7:0x502e5e995f75a62!8m2!3d1.3311163!4d103.6480958!16s%2Fg%2F1pp2vdtzp!19sChIJ96MrYFcP2jERYlr3lenlAgU
