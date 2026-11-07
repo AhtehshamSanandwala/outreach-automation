@@ -1283,3 +1283,4 @@ https://www.google.com/maps/place/Ptc+Medical+Products+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Farm+Produce+Hardware/data=!4m7!3m6!1s0x31da198cc83f539b:0x6fb811f3cb1f0d03!8m2!3d1.3074014!4d103.8289606!16s%2Fg%2F11hz1p2sf6!19sChIJm1M_yIwZ2jERAw0fy_MRuG8
 https://www.google.com/maps/place/Phoon+Huat+@+Toa+Payoh/data=!4m7!3m6!1s0x100405014e72488d:0xbe8b2540b389ffbb!8m2!3d1.3412061!4d103.8469797!16s%2Fg%2F1q67qfkb0!19sChIJjUhyTgEFBBARu_-Js0Ali74
 https://www.google.com/maps/place/Bosch+%28South+East+Asia%29/data=!4m7!3m6!1s0x31da173f04ee8211:0x9b34199f6689444b!8m2!3d1.3475716!4d103.8413215!16s%2Fg%2F1vlqmr1m!19sChIJEYLuBD8X2jERS0SJZp8ZNJs
+https://www.google.com/maps/place/Sleep+Easy+Clinic/data=!4m7!3m6!1s0x31da19895b65aa4f:0x7b652906109ad14f!8m2!3d1.3045755!4d103.8340344!16s%2Fg%2F11gjn89v53!19sChIJT6plW4kZ2jERT9GaEAYpZXs
