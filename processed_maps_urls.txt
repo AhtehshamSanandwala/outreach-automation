@@ -1931,3 +1931,4 @@ https://www.google.com/maps/place/SKA+Associates+Pte+Ltd/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Tata+Steel+International+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da190ec8100e47:0x9bff2d2106d9bdfe!8m2!3d1.2838533!4d103.8519697!16s%2Fg%2F1tfyb2lb!19sChIJRw4QyA4Z2jER_r3ZBiEt_5s
 https://www.google.com/maps/place/Intav+Pte.+Ltd./data=!4m7!3m6!1s0x31da19479bfef3c3:0x8c7d4e88ebee8e2e!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F11z0g90ytc!19sChIJw_P-m0cZ2jERLo7u64hOfYw
 https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da196981fe5375:0xeb254f9e18e1247b!8m2!3d1.2835101!4d103.8524281!16s%2Fg%2F11z34yxwmt!19sChIJdVP-gWkZ2jEReyThGJ5PJes
+https://www.google.com/maps/place/Cape/data=!4m7!3m6!1s0x31da190939163be1:0xb932da0b80552be6!8m2!3d1.285164!4d103.852302!16s%2Fg%2F1pt_5nlg0!19sChIJ4TsWOQkZ2jER5itVgAvaMrk
