@@ -1828,3 +1828,4 @@ https://www.google.com/maps/place/POPDrop+-+Raffles+Place+Post+Office/data=!4m7!
 https://www.google.com/maps/place/OOCL+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da190ec81a4111:0xcb166d601a7c4ec7!8m2!3d1.283829!4d103.852099!16s%2Fg%2F11h7s4c_tv!19sChIJEUEayA4Z2jERx058GmBtFss
 https://www.google.com/maps/place/Logistics+Consulting+Asia/data=!4m7!3m6!1s0x31da190ea26ef6d9:0xeced85638a759e7!8m2!3d1.2841363!4d103.8511748!16s%2Fg%2F1ptyhyvlr!19sChIJ2fZuog4Z2jER51mnOFbYzg4
 https://www.google.com/maps/place/Global+Tanker+Pool+Pte.+Ltd./data=!4m7!3m6!1s0x31da1909547de3e5:0xbbc561af5c0ab6cf!8m2!3d1.2844948!4d103.8511573!16s%2Fg%2F1tnkzxvp!19sChIJ5eN9VAkZ2jERz7YKXK9hxbs
+https://www.google.com/maps/place/RAFFLES+TANKERS+Pte+Ltd/data=!4m7!3m6!1s0x31da19825037d6c3:0x479b10e1149abe2!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F11thph0l5s!19sChIJw9Y3UIIZ2jER4qtJEQ6xeQQ
