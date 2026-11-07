@@ -399,3 +399,6 @@ https://www.google.com/maps/place/McGagh+Communications+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Hill%2BKnowlton+Strategies/data=!4m7!3m6!1s0x31da19af855856cb:0x3e0516349234c5f6!8m2!3d1.3109959!4d103.8371141!16s%2Fg%2F1tg2h5_0!19sChIJy1ZYha8Z2jER9sU0kjQWBT4
 https://www.google.com/maps/place/DesignAgency+-+Singapore/data=!4m7!3m6!1s0x31da19a5fb46bf8d:0x7a3c988490ddeabb!8m2!3d1.310203!4d103.8415072!16s%2Fg%2F11d_d09thv!19sChIJjb9G-6UZ2jERu-rdkISYPHo
 https://www.google.com/maps/place/ARKADEMIE+CREATIVE+PTE.+LTD./data=!4m7!3m6!1s0x31da19d9977b827b:0x86968e84550130e6!8m2!3d1.3183044!4d103.8429447!16s%2Fg%2F11p5lt18sg!19sChIJe4J7l9kZ2jER5jABVYSOloY
+https://www.google.com/maps/place/Francis+Khymberlie+Creative+Engineering/data=!4m7!3m6!1s0x31da198d1005da75:0x5fc7498543e2aabd!8m2!3d1.3071116!4d103.8285773!16s%2Fg%2F1tfvdqlw!19sChIJddoFEI0Z2jERvariQ4VJx18
+https://www.google.com/maps/place/Robot+Monkey+Digital/data=!4m7!3m6!1s0x31da1953d5a8d0eb:0xb53bf7b0d2075f36!8m2!3d1.3079487!4d103.8325852!16s%2Fg%2F11y3k901rd!19sChIJ69Co1VMZ2jERNl8H0rD3O7U
+https://www.google.com/maps/place/Social+media+Agency+in+Singapore/data=!4m7!3m6!1s0x31da198d5b8c50a1:0x51788dc939059fa3!8m2!3d1.306197!4d103.831861!16s%2Fg%2F11hd9qg960!19sChIJoVCMW40Z2jERo58FOcmNeFE
