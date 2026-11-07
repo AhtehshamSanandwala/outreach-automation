@@ -4,6 +4,33 @@
 // ════════════════════════════════════════════════════════════════════════════
 'use strict';
 
+const fs = require('fs');
+const path = require('path');
+
+// ── Lightweight .env File Loader ─────────────────────────────────────────────
+// Automatically reads .env from the project root if present, without external dependencies.
+try {
+  const envPath = path.resolve(__dirname, '.env');
+  if (fs.existsSync(envPath)) {
+    const lines = fs.readFileSync(envPath, 'utf8').split('\n');
+    for (const line of lines) {
+      const trimmed = line.trim();
+      if (!trimmed || trimmed.startsWith('#')) continue;
+      const eqIdx = trimmed.indexOf('=');
+      if (eqIdx !== -1) {
+        const key = trimmed.slice(0, eqIdx).trim();
+        let val = trimmed.slice(eqIdx + 1).trim();
+        if ((val.startsWith('"') && val.endsWith('"')) || (val.startsWith("'") && val.endsWith("'"))) {
+          val = val.slice(1, -1);
+        }
+        if (!(key in process.env)) {
+          process.env[key] = val;
+        }
+      }
+    }
+  }
+} catch (_) {}
+
 // ── Spintax Resolver ─────────────────────────────────────────────────────────
 // Resolves patterns like "{Hi|Hello|Hey}" into a randomly chosen variation.
 function resolveSpintax(text) {
@@ -127,9 +154,12 @@ function getNextContact(urlOrHint = '') {
   _contactIndex++;
 
   const full = `${base.first_name} ${base.last_name}`.trim();
-  const rawPhone = process.env.DIGIFORGE_PHONE;
-  const cleanDigits = rawPhone.replace(/\D/g, '');
-  const localDigits = cleanDigits.startsWith('65') ? cleanDigits.slice(2) : cleanDigits;
+  let cleanDigits = (process.env.DIGIFORGE_PHONE || '').replace(/\D/g, '');
+  let localDigits = cleanDigits.startsWith('65') ? cleanDigits.slice(2) : cleanDigits;
+  if (!localDigits || localDigits.length < 8) {
+    localDigits = '80000000'; // Temporary 8-digit Singapore placeholder until real number is added
+  }
+  const rawPhone = `+65 ${localDigits}`;
 
   const { subject, message } = selectAnglePayload(urlOrHint, full);
 
