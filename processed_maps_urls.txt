@@ -530,3 +530,5 @@ https://www.google.com/maps/place/IMD+Business+School+Southeast+Asia+and+Oceania
 https://www.google.com/maps/place/InfoTech+Global+Pte+Ltd/data=!4m7!3m6!1s0x31da19123af15f01:0x874636e8b0f1966d!8m2!3d1.2780362!4d103.8497325!16s%2Fg%2F1pt_1620b!19sChIJAV_xOhIZ2jERbZbxsOg2Roc
 https://www.google.com/maps/place/IT+and+HR+Consulting/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x367bb79dba27eea9!8m2!3d1.279136!4d103.844656!16s%2Fg%2F1ptybgzty!19sChIJS9l9TW0Z2jERqe4nup23ezY
 https://www.google.com/maps/place/CoWorkSpace+Serviced+Office+-+6+Raffles+Quay/data=!4m7!3m6!1s0x31da1972d44d5607:0x85753fd51613251!8m2!3d1.2818427!4d103.8514289!16s%2Fg%2F11wp373dw2!19sChIJB1ZN1HIZ2jERUTJhUf1TVwg
+https://www.google.com/maps/place/Maxen+Management+Services/data=!4m7!3m6!1s0x31da19ef9af8d145:0x6291e63c5102f6ec!8m2!3d1.3164945!4d103.83546!16s%2Fg%2F1tk9n8r5!19sChIJRdH4mu8Z2jER7PYCUTzmkWI
+https://www.google.com/maps/place/Cyber+Security+Agency+of+Singapore+%28CSA%29/data=!4m7!3m6!1s0x31da1912bb7472c3:0x47230b69c8d71126!8m2!3d1.4156383!4d103.9109278!16s%2Fg%2F11dxmkjsn6!19sChIJw3J0uxIZ2jERJhHXyGkLI0c
