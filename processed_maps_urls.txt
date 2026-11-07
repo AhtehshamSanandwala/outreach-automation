@@ -844,3 +844,4 @@ https://www.google.com/maps/place/Moore+Stephens+LLP/data=!4m7!3m6!1s0x31da19134
 https://www.google.com/maps/place/Foo+Kon+Tan/data=!4m7!3m6!1s0x31da190ec8c87661:0xe1fe96a7166fc7ba!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11g6qvvmm3!19sChIJYXbIyA4Z2jERusdvFqeW_uE
 https://www.google.com/maps/place/HLB+Atrede/data=!4m7!3m6!1s0x31da1912b505351f:0xc850b7f4baa62e1f!8m2!3d1.2786701!4d103.8449497!16s%2Fg%2F11lgy3c4r6!19sChIJHzUFtRIZ2jERHy6muvS3UMg
 https://www.google.com/maps/place/Nexia+Singapore+PAC/data=!4m7!3m6!1s0x31da19222a5b0c9d:0xb2cdc4e483ef8c2d!8m2!3d1.2812688!4d103.850022!16s%2Fg%2F11j1m191zk!19sChIJnQxbKiIZ2jERLYzvg-TEzbI
+https://www.google.com/maps/place/JIA+YUE+%28S%29+LLP/data=!4m7!3m6!1s0x31da1bcd96c5e9f3:0x7e854ebe412d8619!8m2!3d1.3012282!4d103.8398653!16s%2Fg%2F11h4dhyv2k!19sChIJ8-nFls0b2jERGYYtQb5OhX4
