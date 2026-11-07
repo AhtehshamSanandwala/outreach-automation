@@ -769,3 +769,4 @@ https://www.google.com/maps/place/Piloto+Asia+-+Singapore+Company+Registration+S
 https://www.google.com/maps/place/Fastcorp+Pte+Ltd/data=!4m7!3m6!1s0x31da19b8dcb7885f:0xee481f0ea005a01f!8m2!3d1.2937015!4d103.8528073!16s%2Fg%2F11gj0wck44!19sChIJX4i33LgZ2jERH6AFoA4fSO4
 https://www.google.com/maps/place/Assembly+Works/data=!4m7!3m6!1s0x31da198004dc0001:0xe52f03c2eaf38fed!8m2!3d1.2852093!4d103.8447228!16s%2Fg%2F11hzsvsb_v!19sChIJAQDcBIAZ2jER7Y_z6sIDL-U
 https://www.google.com/maps/place/Expede+Tech+Pte.+Ltd./data=!4m7!3m6!1s0x31da1752730591dd:0x17e29066d906b100!8m2!3d1.2895385!4d103.8496034!16s%2Fg%2F11j69tkp3k!19sChIJ3ZEFc1IX2jERALEG2WaQ4hc
+https://www.google.com/maps/place/BSP+Management/data=!4m7!3m6!1s0x31da19bb0daade35:0xaff31e422d75fcb8!8m2!3d1.2977022!4d103.8565921!16s%2Fg%2F1vc7_b5g!19sChIJNd6qDbsZ2jERuPx1LUIe868
