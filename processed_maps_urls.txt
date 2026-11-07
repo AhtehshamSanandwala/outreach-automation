@@ -1729,3 +1729,4 @@ https://www.google.com/maps/place/Singapore+Trading+Corporation/data=!4m7!3m6!1s
 https://www.google.com/maps/place/IG+Asia/data=!4m7!3m6!1s0x31da190fd0931f45:0x5e7f73d53d1e2a4f!8m2!3d1.2848783!4d103.8522674!16s%2Fg%2F11gfcf22bd!19sChIJRR-T0A8Z2jERTyoePdVzf14
 https://www.google.com/maps/place/Arcade+Florist+%26+Trading+Co/data=!4m7!3m6!1s0x31da190ebf1189b9:0x4d7668647a8ff4db!8m2!3d1.2835611!4d103.8522914!16s%2Fg%2F1v7pv_19!19sChIJuYkRvw4Z2jER2_SPemRodk0
 https://www.google.com/maps/place/The+Straits+Trading+Company+Limited/data=!4m7!3m6!1s0x31da190c92f731ff:0x3327a341dfea5e3a!8m2!3d1.2994163!4d103.8576444!16s%2Fg%2F1ptvr2tx4!19sChIJ_zH3kgwZ2jEROl7q30GjJzM
+https://www.google.com/maps/place/ELTF+Trading/data=!4m7!3m6!1s0x31da190949c15555:0x6043c3a3bf2f0c30!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11fm4yhvlp!19sChIJVVXBSQkZ2jERMAwvv6PDQ2A
