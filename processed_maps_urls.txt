@@ -1458,3 +1458,4 @@ https://www.google.com/maps/place/Anchanto/data=!4m7!3m6!1s0x31da19a0c720a313:0x
 https://www.google.com/maps/place/Infosys+Limited/data=!4m7!3m6!1s0x31da190935400001:0xcfdfc975b95e5c30!8m2!3d1.2840788!4d103.8520448!16s%2Fg%2F1ptz3ltf8!19sChIJAQBANQkZ2jERMFxeuXXJ388
 https://www.google.com/maps/place/Premier+Fiduciary/data=!4m7!3m6!1s0x31da1909530b635d:0xba2e45577b39dc17!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F1pv0cgy14!19sChIJXWMLUwkZ2jERF9w5e1dFLro
 https://www.google.com/maps/place/BTI+Executive+Search+Singapore/data=!4m7!3m6!1s0x31da190e7efa7a37:0xeac44e60ddcea1ca!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11fmx02xs2!19sChIJN3r6fg4Z2jERyqHO3WBOxOo
+https://www.google.com/maps/place/Kaizen+Institute+Singapore/data=!4m7!3m6!1s0x31da190c27837fb1:0xc386fce1b6ac591a!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F1pv0zvf7b!19sChIJsX-DJwwZ2jERGlmstuH8hsM
