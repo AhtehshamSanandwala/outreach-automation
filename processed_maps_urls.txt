@@ -1763,3 +1763,4 @@ https://www.google.com/maps/place/One+And+Only+Point+Trading+Private+Limited./da
 https://www.google.com/maps/place/SAM+SINGAPORE+PTE+LTD./data=!4m7!3m6!1s0x31da19a7286aafa5:0xf233ebff8adce009!8m2!3d1.2851304!4d103.8523773!16s%2Fg%2F11j59h5dnv!19sChIJpa9qKKcZ2jERCeDciv_rM_I
 https://www.google.com/maps/place/Fiat+Money+Changer/data=!4m7!3m6!1s0x31da190ec6d00001:0x594ed8774ff51e98!8m2!3d1.283523!4d103.852287!16s%2Fg%2F11ggs7t3db!19sChIJAQDQxg4Z2jERmB71T3fYTlk
 https://www.google.com/maps/place/Bharat+Building/data=!4m7!3m6!1s0x31da190ea2f993e5:0x88ed70c508775e7!8m2!3d1.2834942!4d103.8512159!16s%2Fg%2F1tg5x49w!19sChIJ5ZP5og4Z2jER53WHUAzXjgg
+https://www.google.com/maps/place/Chin+Huay+Trading+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da19d08981daa7:0x86e17c0204e68bf8!8m2!3d1.2844146!4d103.8510184!16s%2Fg%2F11sr60hxsg!19sChIJp9qBidAZ2jER-IvmBAJ84YY
