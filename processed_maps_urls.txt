@@ -1812,3 +1812,4 @@ https://www.google.com/maps/place/Global+Logistic+Properties+Limited/data=!4m7!3
 https://www.google.com/maps/place/Happi+Pte.+Ltd./data=!4m7!3m6!1s0x31da190eb7c00001:0x4edfd2bd6c3662db!8m2!3d1.2838533!4d103.8519697!16s%2Fg%2F11p56m_wxp!19sChIJAQDAtw4Z2jER22I2bL3S304
 https://www.google.com/maps/place/Cara+Shipping+Pte.+Limited/data=!4m7!3m6!1s0x31da1909566ae3b3:0xfc2ec4a80b47a257!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F1tdmbdnv!19sChIJs-NqVgkZ2jERV6JHC6jELvw
 https://www.google.com/maps/place/Premier+Shipping/data=!4m7!3m6!1s0x31da19095357a2af:0xa93a1fb3e1715f9a!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11hz180l9v!19sChIJr6JXUwkZ2jERml9x4bMfOqk
+https://www.google.com/maps/place/DHL+Express+Service+Point+-+SPEEDBOX+PTE+LTD+-+THE+ARCADE+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19daea010bdb:0xe495bbe0fc5ce69e!8m2!3d1.2835336!4d103.8524118!16s%2Fg%2F11v0gwb3kc!19sChIJ2wsB6toZ2jERnuZc_OC7leQ
