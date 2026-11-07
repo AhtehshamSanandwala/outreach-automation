@@ -990,3 +990,5 @@ https://www.google.com/maps/place/Bally+Jewellery+%28Singapore%29+Pte.+Ltd./data
 https://www.google.com/maps/place/Poh+Hua+Industrial+Pte+Ltd+-+Kitchen+Supply/data=!4m7!3m6!1s0x31da139ebec26559:0xb40f4cabf2421bee!8m2!3d1.3714746!4d103.8463609!16s%2Fg%2F11cnb5dp_f!19sChIJWWXCvp4T2jER7htC8qtMD7Q
 https://www.google.com/maps/place/Uncle+Miki+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19921df0631d:0x72d12fcfee40f710!8m2!3d1.3032125!4d103.8342576!16s%2Fg%2F1pt_81t5g!19sChIJHWPwHZIZ2jEREPdA7s8v0XI
 https://www.google.com/maps/place/PTT+International+Trading+Business+Unit/data=!4m7!3m6!1s0x31da1992205ba871:0xca181d18c3a21d4b!8m2!3d1.3026439!4d103.8356093!16s%2Fg%2F1tg9q6fb!19sChIJcahbIJIZ2jERSx2iwxgdGMo
+https://www.google.com/maps/place/Swiss+Singapore+Overseas+Enterprises+Pte.+Ltd./data=!4m7!3m6!1s0x31da190beba08a43:0x47a65cfa54587873!8m2!3d1.2853394!4d103.8493474!16s%2Fg%2F11gn1_qgc9!19sChIJQ4qg6wsZ2jERc3hYVPpcpkc
+https://www.google.com/maps/place/Singapore+Global+Trading+Corporation/data=!4m7!3m6!1s0x31da19094a5c9145:0x7ab398dc1c04829d!8m2!3d1.284542!4d103.851951!16s%2Fg%2F1ptwrv5k_!19sChIJRZFcSgkZ2jERnYIEHNyYs3o
