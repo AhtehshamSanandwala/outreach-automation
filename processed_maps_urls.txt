@@ -1149,3 +1149,4 @@ https://www.google.com/maps/place/GEODIS+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Seafrigo+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da174d0663d923:0xd9e56c67e4086778!8m2!3d1.3519821!4d103.842924!16s%2Fg%2F11fl9m1cy1!19sChIJI9ljBk0X2jEReGcI5Gds5dk
 https://www.google.com/maps/place/EBC+Lifestyle+Hub+Pte+Ltd/data=!4m7!3m6!1s0x31da16b61a0a84f9:0xbdedfb87fcc7465b!8m2!3d1.3840653!4d103.828087!16s%2Fg%2F1tfr7q21!19sChIJ-YQKGrYW2jERW0bH_If77b0
 https://www.google.com/maps/place/Land+Transport+Authority+-+Customer+Service+Centre/data=!4m7!3m6!1s0x31da1724f07f1107:0x642b615a28897299!8m2!3d1.3570638!4d103.8370074!16s%2Fg%2F1tkmk1fk!19sChIJBxF_8CQX2jERmXKJKFphK2Q
+https://www.google.com/maps/place/Golden+Wall+Flatted+Factory/data=!4m7!3m6!1s0x31da17bfa54e6e13:0x73fa099865217b40!8m2!3d1.3268727!4d103.8484917!16s%2Fg%2F11h32r2ctk!19sChIJE25Opb8X2jERQHshZZgJ-nM
