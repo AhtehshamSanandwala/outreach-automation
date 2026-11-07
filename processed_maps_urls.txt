@@ -1706,3 +1706,4 @@ https://www.google.com/maps/place/Pernod+Ricard+Singapore+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/Brand+Distribution+Asia+Pacific/data=!4m7!3m6!1s0x31da19e45e0eb3d9:0xab6f10d7bb14b56d!8m2!3d1.2855965!4d103.8522747!16s%2Fg%2F11fslxs2g9!19sChIJ2bMOXuQZ2jERbbUUu9cQb6s
 https://www.google.com/maps/place/Prodigus+Group+LLP/data=!4m7!3m6!1s0x31da190ea276aeed:0x6caf0d859370d454!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F1ptxrktk7!19sChIJ7a52og4Z2jERVNRwk4UNr2w
 https://www.google.com/maps/place/Sinopec+Hong+Kong+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19a93c49d9dd:0x4e110a2eceb83714!8m2!3d1.2854707!4d103.8507043!16s%2Fg%2F1td27vhj!19sChIJ3dlJPKkZ2jERFDe4zi4KEU4
+https://www.google.com/maps/place/Note+di+Sicilia/data=!4m7!3m6!1s0x31da190ea26aaaab:0x2f3da24f29f88640!8m2!3d1.2841363!4d103.8511748!16s%2Fg%2F1ptxp7z90!19sChIJq6pqog4Z2jERQIb4KU-iPS8
