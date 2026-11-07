@@ -1869,3 +1869,4 @@ https://www.google.com/maps/place/Kumiai+Navigation+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Lovely+khatun/data=!4m7!3m6!1s0x31da19860b2b7a8f:0xc6196f4444cd66c0!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11pw0g2tdt!19sChIJj3orC4YZ2jERwGbNRERvGcY
 https://www.google.com/maps/place/Falcon+Group+%28Singapore+Office%29/data=!4m7!3m6!1s0x31da1972dfe03843:0x1d5600c53b3fafe!8m2!3d1.2830123!4d103.852015!16s%2Fg%2F11fd_lxcxb!19sChIJQzjg33IZ2jER_vqzUwxg1QE
 https://www.google.com/maps/place/Transasia+Pacific+Ggnr+Pte.+Ltd./data=!4m7!3m6!1s0x31da190e9ecc1339:0x513c0451aaa7075b!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F1thnl8_h!19sChIJORPMng4Z2jERWwenqlEEPFE
+https://www.google.com/maps/place/Suba+Shipping+Co+Pte.+Ltd./data=!4m7!3m6!1s0x31da1914b5e8c1f1:0xb26a65c9afea6d9b!8m2!3d1.2832757!4d103.8509698!16s%2Fg%2F11cs5mphpp!19sChIJ8cHotRQZ2jERm23qr8llarI
