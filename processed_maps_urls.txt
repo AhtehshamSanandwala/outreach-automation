@@ -1116,3 +1116,4 @@ https://www.google.com/maps/place/HUB+Logistics+Group/data=!4m7!3m6!1s0x31da1a9d
 https://www.google.com/maps/place/Yusen+Logistics/data=!4m7!3m6!1s0x31da3cd6f12f11c3:0xe67d7feb7c7e3511!8m2!3d1.3323658!4d103.961191!16s%2Fg%2F1tdff69d!19sChIJwxEv8dY82jERETV-fOt_feY
 https://www.google.com/maps/place/Mitsui+Soko+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da05b732e3cc0f:0x8cc57a2bfd9f10b7!8m2!3d1.2986029!4d103.6665366!16s%2Fg%2F1xgz898v!19sChIJD8zjMrcF2jERtxCf_St6xYw
 https://www.google.com/maps/place/CEVA+Logistics/data=!4m7!3m6!1s0x31da1ab340454b95:0x17838c3f16d06c62!8m2!3d1.3135544!4d103.7299832!16s%2Fg%2F11gh9q5wpj!19sChIJlUtFQLMa2jERYmzQFj-Mgxc
+https://www.google.com/maps/place/Jetsea+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c0cc0d1c477:0xecf3340889f5b69e!8m2!3d1.382831!4d103.999542!16s%2Fg%2F1trtrvb4!19sChIJd8TRwAw82jERnrb1iQg08-w
