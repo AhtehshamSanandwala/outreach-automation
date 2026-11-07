@@ -1091,3 +1091,4 @@ https://www.google.com/maps/place/Leftright+Corporate+Pte.+Ltd./data=!4m7!3m6!1s
 https://www.google.com/maps/place/GB+Building/data=!4m7!3m6!1s0x31da191263ec830f:0xf5ca6741bab90604!8m2!3d1.2788941!4d103.8481739!16s%2Fg%2F11clydgwnb!19sChIJD4PsYxIZ2jERBAa5ukFnyvU
 https://www.google.com/maps/place/Trade+Techniques+Pte+Ltd/data=!4m7!3m6!1s0x31da19bbd63e10a5:0x4409902e69ac9604!8m2!3d1.3030999!4d103.8530261!16s%2Fg%2F1tgntrh0!19sChIJpRA-1rsZ2jERBJasaS6QCUQ
 https://www.google.com/maps/place/Pinedale+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da198c8f573957:0xa1f99776b6f3e67f!8m2!3d1.3057439!4d103.8281273!16s%2Fg%2F1ptwk1hzz!19sChIJVzlXj4wZ2jERf-bztnaX-aE
+https://www.google.com/maps/place/RMG+Logistics+Singapore/data=!4m7!3m6!1s0x2c7f3ab171c9a7e5:0x850b212d222b80d4!8m2!3d1.4196322!4d103.8349176!16s%2Fg%2F11srzrxyhx!19sChIJ5afJcbE6fywR1IArIi0hC4U
