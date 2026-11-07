@@ -1757,3 +1757,4 @@ https://www.google.com/maps/place/Brat+Resources/data=!4m7!3m6!1s0x31da19095fc00
 https://www.google.com/maps/place/Hock+Eng+Seng+Trading+Company+Pte+Ltd/data=!4m7!3m6!1s0x31da181edbd692a9:0x45118723ca911ba7!8m2!3d1.3220712!4d103.8943651!16s%2Fg%2F1hbpwp2yw!19sChIJqZLW2x4Y2jERpxuRyiOHEUU
 https://www.google.com/maps/place/Phillip+Nova+Pte+Ltd/data=!4m7!3m6!1s0x31da19a42cdfde3b:0x9456e118805dc446!8m2!3d1.2940041!4d103.8525676!16s%2Fg%2F1tf5h4s9!19sChIJO97fLKQZ2jERRsRdgBjhVpQ
 https://www.google.com/maps/place/JETRO+Singapore/data=!4m7!3m6!1s0x31da190e74173db1:0x81fb8670a2d06ad9!8m2!3d1.2814095!4d103.8510185!16s%2Fg%2F1wc45hwj!19sChIJsT0XdA4Z2jER2WrQonCG-4E
+https://www.google.com/maps/place/Raffemet+Pte+Ltd/data=!4m7!3m6!1s0x31da190ec652335d:0x547ed86b0aba6bd5!8m2!3d1.2842345!4d103.8524453!16s%2Fg%2F1tdnhn31!19sChIJXTNSxg4Z2jER1Wu6CmvYflQ
