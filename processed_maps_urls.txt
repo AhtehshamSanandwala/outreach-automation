@@ -1795,3 +1795,4 @@ https://www.google.com/maps/place/RES+Exam+Singapore/data=!4m7!3m6!1s0x31da1972f
 https://www.google.com/maps/place/Templar+Metal+Traders+Pte+Ltd/data=!4m7!3m6!1s0x31da190eb56e786d:0xca493ad589612557!8m2!3d1.2842624!4d103.8519925!16s%2Fg%2F1ptw7m_l4!19sChIJbXhutQ4Z2jERVyVhidU6Sco
 https://www.google.com/maps/place/Johnson+Electric+World+Trade+Ltd/data=!4m7!3m6!1s0x31da19094a5c9145:0xc7d4fda75b7f1b96!8m2!3d1.284542!4d103.851951!16s%2Fg%2F1ptzgqyy7!19sChIJRZFcSgkZ2jERlht_W6f91Mc
 https://www.google.com/maps/place/Raffles+Place/data=!4m7!3m6!1s0x31da190eb1b2d71b:0x731110650698ac8c!8m2!3d1.2848147!4d103.8515218!16s%2Fg%2F1tgyz2wd!19sChIJG9eysQ4Z2jERjKyYBmUQEXM
+https://www.google.com/maps/place/Jsw+International+Tradecorp/data=!4m7!3m6!1s0x31da190ea1c00001:0xa75734b8b35f726f!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F11r2rsy1d3!19sChIJAQDAoQ4Z2jERb3Jfs7g0V6c
