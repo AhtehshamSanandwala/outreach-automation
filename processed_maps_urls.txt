@@ -668,3 +668,5 @@ https://www.google.com/maps/place/CA+Search+Pte+Ltd/data=!4m7!3m6!1s0x31da190bfa
 https://www.google.com/maps/place/EXEC-SEARCH+PARTNERS+PTE.+LTD/data=!4m7!3m6!1s0x31da190deca7f301:0x406e651fd00c9647!8m2!3d1.2806884!4d103.8492068!16s%2Fg%2F11c0r59rtf!19sChIJAfOn7A0Z2jERR5YM0B9lbkA
 https://www.google.com/maps/place/Executive+Search+Nusantara/data=!4m7!3m6!1s0x31da190d9480939d:0x1e76d251217a36af!8m2!3d1.2806153!4d103.8492068!16s%2Fg%2F11b5pkmc5n!19sChIJnZOAlA0Z2jERrzZ6IVHSdh4
 https://www.google.com/maps/place/Integrated+Executive+Search+%26+Placement+Pte+Ltd/data=!4m7!3m6!1s0x31da1911fa4a8225:0x78c20e0d1b9a0d2a!8m2!3d1.2792448!4d103.8510643!16s%2Fg%2F11c1wss1tx!19sChIJJYJK-hEZ2jERKg2aGw0Owng
+https://www.google.com/maps/place/One+Search+Consulting/data=!4m7!3m6!1s0x31da19af037f5a69:0x7bd6b7755b47b4d3!8m2!3d1.2953149!4d103.8594992!16s%2Fg%2F1ptwh8fwy!19sChIJaVp_A68Z2jER07RHW3W31ns
+https://www.google.com/maps/place/Agensi+Pekerjaan+Mason+Recruitment/data=!4m7!3m6!1s0x31da192bfcac7ab1:0x78ea1eac56dd5910!8m2!3d1.2852093!4d103.8447228!16s%2Fg%2F11h_7m_k_v!19sChIJsXqs_CsZ2jEREFndVqwe6ng
