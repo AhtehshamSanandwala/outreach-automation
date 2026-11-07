@@ -881,3 +881,5 @@ https://www.google.com/maps/place/Singapore+Golding+%26+Golding/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Intergest+Singapore/data=!4m7!3m6!1s0x31da1996b23c5555:0x42b6b26ee0a49d5a!8m2!3d1.3024886!4d103.8393219!16s%2Fg%2F11q7_00_kl!19sChIJVVU8spYZ2jERWp2k4G6ytkI
 https://www.google.com/maps/place/%EC%9D%B4%EA%B9%80%EC%BB%A8%EC%84%A4%ED%8C%85+%7C+Lee+Kim+Alliance/data=!4m7!3m6!1s0x31da191343eb5b27:0xd4ca5f46d3233be5!8m2!3d1.3003862!4d103.8370187!16s%2Fg%2F1tczy0l_!19sChIJJ1vrQxMZ2jER5Tsj00ZfytQ
 https://www.google.com/maps/place/Oakfield+%26+Associates/data=!4m7!3m6!1s0x31da19f2bab0f7d7:0xd1c5155654c388a7!8m2!3d1.3082055!4d103.8584474!16s%2Fg%2F11h58fknpy!19sChIJ1_ewuvIZ2jERp4jDVFYVxdE
+https://www.google.com/maps/place/Strix+Strategies+Pte+Ltd/data=!4m7!3m6!1s0x31da196fbe796c17:0x873181cec80c0a02!8m2!3d1.3052953!4d103.8471364!16s%2Fg%2F11m_g96kzb!19sChIJF2x5vm8Z2jERAgoMyM6BMYc
+https://www.google.com/maps/place/American+Expat+Tax+Services/data=!4m7!3m6!1s0x31da19faaba2e9bb:0x48731429bd9ce5aa!8m2!3d1.3062932!4d103.8318472!16s%2Fg%2F11clvhx73m!19sChIJu-miq_oZ2jERquWcvSkUc0g
