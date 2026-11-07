@@ -1193,3 +1193,4 @@ https://www.google.com/maps/place/SCS+Freight+Services/data=!4m7!3m6!1s0x31da19b
 https://www.google.com/maps/place/Bti+Cargo+Express/data=!4m7!3m6!1s0x31da19926d40711d:0x4173c497fa2421f3!8m2!3d1.3045649!4d103.8339296!16s%2Fg%2F1tfn_z__!19sChIJHXFAbZIZ2jER8yEk-pfEc0E
 https://www.google.com/maps/place/JAS+Worldwide+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da19aee3b3353f:0xf8c729a24ab4b42d!8m2!3d1.3001684!4d103.8372951!16s%2Fg%2F1ptw3dtbb!19sChIJPzWz464Z2jERLbS0SqIpx_g
 https://www.google.com/maps/place/Royal+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da19cb8b8a002f:0x11039e4150aa5061!8m2!3d1.3069439!4d103.8291434!16s%2Fg%2F11fkwcv5d5!19sChIJLwCKi8sZ2jERYVCqUEGeAxE
+https://www.google.com/maps/place/Moscow+Container+Line+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da198ce81c9ded:0x329ae424863d8735!8m2!3d1.3066492!4d103.8295057!16s%2Fg%2F1ptxqyzv7!19sChIJ7Z0c6IwZ2jERNYc9hiTkmjI
