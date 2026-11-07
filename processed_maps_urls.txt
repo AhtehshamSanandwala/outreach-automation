@@ -731,3 +731,6 @@ https://www.google.com/maps/place/Lanturn:+Modern+Corporate+and+Fund+Services/da
 https://www.google.com/maps/place/JJ+%26+E+-+Company+Registration+-+Company+Secretary/data=!4m7!3m6!1s0x31da19136a20998d:0x1fcef0087cc48fe2!8m2!3d1.2757519!4d103.845924!16s%2Fg%2F1tjclzxq!19sChIJjZkgahMZ2jER4o_EfAjwzh8
 https://www.google.com/maps/place/BusinessDistrict+Pte+Ltd/data=!4m7!3m6!1s0x31da19da475b92e1:0x7df2e97f8e2e15c!8m2!3d1.3192491!4d103.8927959!16s%2Fg%2F11qp1n43cy!19sChIJ4ZJbR9oZ2jERXOHi-Jcu3wc
 https://www.google.com/maps/place/AVIS+Corporate+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da1938f99167df:0xf59b2768eef32c05!8m2!3d1.2902739!4d103.849227!16s%2Fg%2F11h7n7jh87!19sChIJ32eR-TgZ2jERBSzz7mgnm_U
+https://www.google.com/maps/place/Singapore+Secretarial+Services+Co.+Pte+Ltd/data=!4m7!3m6!1s0x31da19b390bbaf9f:0xe9367728fa41851c!8m2!3d1.3020331!4d103.8642687!16s%2Fg%2F11b5pk44h1!19sChIJn6-7kLMZ2jERHIVB-ih3Nuk
+https://www.google.com/maps/place/Chua+Secretarial+%26+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da19bb0daade35:0xe9331efadf590335!8m2!3d1.2995431!4d103.8524235!16s%2Fg%2F1vr39pvs!19sChIJNd6qDbsZ2jERNQNZ3_oeM-k
+https://www.google.com/maps/place/DNA+Corporate+Services+-+Accounting,+Taxation,+Corporate+Secretarial/data=!4m7!3m6!1s0x31da1772f87d0983:0xa17af7a175d7611b!8m2!3d1.3327454!4d103.8905097!16s%2Fg%2F11jfdw0kn7!19sChIJgwl9-HIX2jERG2HXdaH3eqE
