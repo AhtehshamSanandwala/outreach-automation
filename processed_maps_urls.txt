@@ -761,3 +761,4 @@ https://www.google.com/maps/place/Prudential+Corporate+Services+Pte+Ltd/data=!4m
 https://www.google.com/maps/place/Chartered+Governance+Institute+of+Singapore/data=!4m7!3m6!1s0x31da19ba446a2227:0x9f5dc59a3438a8c8!8m2!3d1.3009038!4d103.8543262!16s%2Fg%2F1tdm5vf3!19sChIJJyJqRLoZ2jERyKg4NJrFXZ8
 https://www.google.com/maps/place/DP+SME+Advisory/data=!4m7!3m6!1s0x31da1913440efdfb:0xdeef31f367b1314d!8m2!3d1.2749455!4d103.8434094!16s%2Fg%2F1ptxcj1yz!19sChIJ-_0ORBMZ2jERTTGxZ_Mx794
 https://www.google.com/maps/place/Assetion+Corporate+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da1656f7e1ba1d:0xfed6b105950c7844!8m2!3d1.2923407!4d103.8508826!16s%2Fg%2F11f3ryngb4!19sChIJHbrh91YW2jERRHgMlQWx1v4
+https://www.google.com/maps/place/OneStop+Professional+Services/data=!4m7!3m6!1s0x31da197fb3082b45:0x6edd5d899b450180!8m2!3d1.2757608!4d103.8455519!16s%2Fg%2F11gx__7x_d!19sChIJRSsIs38Z2jERgAFFm4ld3W4
