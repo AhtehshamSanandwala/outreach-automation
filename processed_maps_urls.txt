@@ -1490,3 +1490,4 @@ https://www.google.com/maps/place/Access+Solutions+International+Pte+Ltd/data=!4
 https://www.google.com/maps/place/City+Building+Management+Pte.+Ltd./data=!4m7!3m6!1s0x31da190ea1cf8ca9:0x9101637c2de5e82c!8m2!3d1.2832428!4d103.8508359!16s%2Fg%2F11cs5phss5!19sChIJqYzPoQ4Z2jERLOjlLXxjAZE
 https://www.google.com/maps/place/Retail+Management+Solutions+%28RMS%29/data=!4m7!3m6!1s0x31da190e70a55555:0x4eadd9e07fae30d2!8m2!3d1.2814095!4d103.8510185!16s%2Fg%2F11gbsmr00r!19sChIJVVWlcA4Z2jER0jCuf-DZrU4
 https://www.google.com/maps/place/Accuracy/data=!4m7!3m6!1s0x31da19b4f58aea2f:0xbf810f1cf21f1737!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11fp3s5vp2!19sChIJL-qK9bQZ2jERNxcf8hwPgb8
+https://www.google.com/maps/place/Epiq/data=!4m7!3m6!1s0x31da19094a5c9145:0x9c607d18d9d9e8ea!8m2!3d1.2813651!4d103.8510075!16s%2Fg%2F11clzhbtvb!19sChIJRZFcSgkZ2jER6ujZ2Rh9YJw
