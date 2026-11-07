@@ -1723,3 +1723,4 @@ https://www.google.com/maps/place/BC+International+Trading+Co.+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/Raffles+Trading+Co.+Ltd/data=!4m7!3m6!1s0x31da190c2f72c1ff:0x7279973e13a53f80!8m2!3d1.2825522!4d103.8501056!16s%2Fg%2F11c1ws9ktx!19sChIJ_8FyLwwZ2jERgD-lEz6XeXI
 https://www.google.com/maps/place/OANDA+Asia+Pacific/data=!4m7!3m6!1s0x31da190c86355949:0x305eb447dd4297f9!8m2!3d1.2848464!4d103.8510682!16s%2Fg%2F1tgrzg04!19sChIJSVk1hgwZ2jER-ZdC3Ue0XjA
 https://www.google.com/maps/place/Hanwa+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19137500743f:0xa8cad53eab3f3e47!8m2!3d1.284918!4d103.850684!16s%2Fg%2F1txnlzsr!19sChIJP3QAdRMZ2jERRz4_qz7Vyqg
+https://www.google.com/maps/place/GBR+International/data=!4m7!3m6!1s0x31da190e70a55555:0xcf89686c0e3dac4a!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11r2rtn7m0!19sChIJVVWlcA4Z2jERSqw9Dmxoic8
