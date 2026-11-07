@@ -1095,3 +1095,4 @@ https://www.google.com/maps/place/RMG+Logistics+Singapore/data=!4m7!3m6!1s0x2c7f
 https://www.google.com/maps/place/TSL+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1bf0044ffc91:0x913cceed8c5de5dc!8m2!3d1.3279715!4d103.752459!16s%2Fg%2F11fgkf0975!19sChIJkfxPBPAb2jER3OVdjO3OPJE
 https://www.google.com/maps/place/Danke+Logistics+%28Singapore%29/data=!4m7!3m6!1s0x31da19d927adae2d:0xd4be118b6f638200!8m2!3d1.2953522!4d103.8584051!16s%2Fg%2F11g4hd1vv_!19sChIJLa6tJ9kZ2jERAIJjb4sRvtQ
 https://www.google.com/maps/place/Kang+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da05973534782b:0xc8f5a698b494e188!8m2!3d1.319004!4d103.6717982!16s%2Fg%2F11hbfkpc25!19sChIJK3g0NZcF2jERiOGUtJim9cg
+https://www.google.com/maps/place/LCH+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da106e5f9701f3:0xd0f0bfbd241e2271!8m2!3d1.338864!4d103.7590781!16s%2Fg%2F11clt8l4mc!19sChIJ8wGXX24Q2jERcSIeJL2_8NA
