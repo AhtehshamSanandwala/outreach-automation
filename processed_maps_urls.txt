@@ -1887,3 +1887,4 @@ https://www.google.com/maps/place/Global+Maritime+Trust+%28Singapore%29+Pte+Ltd/
 https://www.google.com/maps/place/Reederei+M.+Lauterjung/data=!4m7!3m6!1s0x31da190ecc840001:0x82e4ec378777e2aa!8m2!3d1.2842345!4d103.8524453!16s%2Fg%2F11hz189x45!19sChIJAQCEzA4Z2jERquJ3hzfs5II
 https://www.google.com/maps/place/Singapore+Downtown+Airport+Transfer/data=!4m7!3m6!1s0x31da19b66d6fb75f:0xfa48e498f9f23228!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F11zxhz8ct_!19sChIJX7dvbbYZ2jERKDLy-ZjkSPo
 https://www.google.com/maps/place/Blue+Oceans+Venture+Pte+Ltd/data=!4m7!3m6!1s0x31da19094d735f89:0x7b14fcc302021fe2!8m2!3d1.2838742!4d103.8514941!16s%2Fg%2F1ptxl1f0r!19sChIJiV9zTQkZ2jER4h8CAsP8FHs
+https://www.google.com/maps/place/ESEEGET+PTE+LTD/data=!4m7!3m6!1s0x31da19d21d7c8f27:0xb0ec571b4ecc75ec!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11p5rh_hss!19sChIJJ498HdIZ2jER7HXMThtX7LA
