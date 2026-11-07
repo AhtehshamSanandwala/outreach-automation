@@ -1211,3 +1211,4 @@ https://www.google.com/maps/place/Ants+Logistic+Pte+Ltd/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Maritima+Allied+Pte.+Ltd./data=!4m7!3m6!1s0x31da198d69abf685:0x802ff0da7f128014!8m2!3d1.3065981!4d103.8320871!16s%2Fg%2F1tcxrrtd!19sChIJhfaraY0Z2jERFIASf9rwL4A
 https://www.google.com/maps/place/Mainfreight+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da190dd6657065:0x26d175dbf83e2a7!8m2!3d1.2816976!4d103.8504719!16s%2Fg%2F11c59vxgqh!19sChIJZXBl1g0Z2jERp-KDv10XbQI
 https://www.google.com/maps/place/Aboitiz+Balikbayan+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da199272b15bbf:0xe4f204530233bdf5!8m2!3d1.3043767!4d103.8338798!16s%2Fg%2F1thd466v!19sChIJv1uxcpIZ2jER9b0zAlME8uQ
+https://www.google.com/maps/place/Provincial+Cargo+Express+Pte+Ltd/data=!4m7!3m6!1s0x31da199273a40769:0x206a67c9b05871ff!8m2!3d1.3045039!4d103.8337627!16s%2Fg%2F11b5pj19yg!19sChIJaQekc5IZ2jER_3FYsMlnaiA
