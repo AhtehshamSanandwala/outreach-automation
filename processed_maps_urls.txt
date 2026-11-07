@@ -1082,3 +1082,4 @@ https://www.google.com/maps/place/Tensors+Internationl+Trading+Co.,+Ltd/data=!4m
 https://www.google.com/maps/place/Singapore+Trading+Co+Ltd/data=!4m7!3m6!1s0x3404007e7b2b1df3:0xe1ec60634b8f046d!8m2!3d22.287603!4d114.149145!16s%2Fg%2F11b69f9mrq!19sChIJ8x0re34ABDQRbQSPS2Ng7OE
 https://www.google.com/maps/place/KGI+Securities+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da19127ee32f35:0xc5343915b77c6fc2!8m2!3d1.2787323!4d103.8493095!16s%2Fg%2F11b7ln5pcs!19sChIJNS_jfhIZ2jERwm98txU5NMU
 https://www.google.com/maps/place/The+Edge+Singapore/data=!4m7!3m6!1s0x31da190d8f7ce017:0xc6161d4e5af00d31!8m2!3d1.2802481!4d103.849385!16s%2Fg%2F11c52_3nzr!19sChIJF-B8jw0Z2jERMQ3wWk4dFsY
+https://www.google.com/maps/place/TradeComm/data=!4m7!3m6!1s0x31da19b0db47f0f1:0x582be41a3c425d24!8m2!3d1.3023857!4d103.8585231!16s%2Fg%2F1ptwb7y37!19sChIJ8fBH27AZ2jERJF1CPBrkK1g
