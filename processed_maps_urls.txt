@@ -2060,3 +2060,4 @@ https://www.google.com/maps/place/Societal+Pte+Ltd/data=!4m7!3m6!1s0x31da196f1f2
 https://www.google.com/maps/place/Fellows+Creative+Staff+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da19c3086e73a7:0xa5ef712f0fa8fa86!8m2!3d1.2754246!4d103.8455886!16s%2Fg%2F11jl2wp180!19sChIJp3NuCMMZ2jERhvqoDy9x76U
 https://www.google.com/maps/place/Jehm+Studio/data=!4m7!3m6!1s0x31da191344c00001:0xca6bdc6a408d9eaa!8m2!3d1.2748517!4d103.8459131!16s%2Fg%2F11fm4yk955!19sChIJAQDARBMZ2jERqp6NQGrca8o
 https://www.google.com/maps/place/CARBON/data=!4m7!3m6!1s0x31da1972841c2b4d:0x6a51082236f6e166!8m2!3d1.2789906!4d103.8414342!16s%2Fg%2F11c60592vc!19sChIJTSschHIZ2jERZuH2NiIIUWo
+https://www.google.com/maps/place/Zhen+Creatives+Pte+Ltd/data=!4m7!3m6!1s0x31da196b5b353d7d:0x4a398c8f6069976e!8m2!3d1.2744297!4d103.8439188!16s%2Fg%2F11bbwp64c0!19sChIJfT01W2sZ2jERbpdpYI-MOUo
