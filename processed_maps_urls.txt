@@ -1878,3 +1878,4 @@ https://www.google.com/maps/place/TecEx+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Drake+International,+On-site+Services,+Singapore/data=!4m7!3m6!1s0x31da19d5660ed6e3:0x139c564befde5ec8!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11shnmz461!19sChIJ49YOZtUZ2jERyF7e70tWnBM
 https://www.google.com/maps/place/Eilux/data=!4m7!3m6!1s0x31da190ea26aaaab:0x4bbc1f77c50733c7!8m2!3d1.2833721!4d103.8509835!16s%2Fg%2F1ptvwdr_q!19sChIJq6pqog4Z2jERxzMHxXcfvEs
 https://www.google.com/maps/place/PAL+Line+Pte+Ltd/data=!4m7!3m6!1s0x31da17f246728dd1:0x87d5736e600e4949!8m2!3d1.304372!4d103.9033896!16s%2Fg%2F1ptyt6gp9!19sChIJ0Y1yRvIX2jERSUkOYG5z1Yc
+https://www.google.com/maps/place/PK+International+Agencies+Pte+Ltd/data=!4m7!3m6!1s0x31da190ea276aeed:0xeded5346bbc6b188!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F1ptwjd49v!19sChIJ7a52og4Z2jERiLHGu0ZT7e0
