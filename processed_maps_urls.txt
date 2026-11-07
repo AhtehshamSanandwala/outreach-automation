@@ -1140,3 +1140,4 @@ https://www.google.com/maps/place/IXS+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Priority+Mail+Express+Pte.+Ltd./data=!4m7!3m6!1s0x31da1992134660ed:0x5ca5eb022e2ec072!8m2!3d1.3045755!4d103.8340344!16s%2Fg%2F11clvxbf42!19sChIJ7WBGE5IZ2jERcsAuLgLrpVw
 https://www.google.com/maps/place/AGI+Freight+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3c76ea47cc3b:0x9e4288981556a407!8m2!3d1.3752448!4d104.0034259!16s%2Fg%2F1tg9f1wp!19sChIJO8xH6nY82jERB6RWFZiIQp4
 https://www.google.com/maps/place/Airport+Logistics+Park/data=!4m7!3m6!1s0x31da3c76c161d69d:0xbc474f573f4f0d1a!8m2!3d1.3756646!4d104.0026817!16s%2Fm%2F02q_4y1!19sChIJndZhwXY82jERGg1PP1dPR7w
+https://www.google.com/maps/place/Movinghouse+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19ed3270dd69:0x6deb3a1012629533!8m2!3d1.3079978!4d103.8354287!16s%2Fg%2F1ptwrcj_0!19sChIJad1wMu0Z2jERM5ViEhA6620
