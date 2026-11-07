@@ -1810,3 +1810,4 @@ https://www.google.com/maps/place/Prestige+Shipping/data=!4m7!3m6!1s0x31da19473a
 https://www.google.com/maps/place/Dt+Global+Freight+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da190eb7c00001:0xd4b4e380ff7d99dc!8m2!3d1.2838533!4d103.8519697!16s%2Fg%2F11lgy3d064!19sChIJAQDAtw4Z2jER3Jl9_4DjtNQ
 https://www.google.com/maps/place/Global+Logistic+Properties+Limited/data=!4m7!3m6!1s0x31da19092485bb1b:0x4944994f82a22f37!8m2!3d1.2851779!4d103.8529269!16s%2Fg%2F1ptvqb307!19sChIJG7uFJAkZ2jERNy-igk-ZREk
 https://www.google.com/maps/place/Happi+Pte.+Ltd./data=!4m7!3m6!1s0x31da190eb7c00001:0x4edfd2bd6c3662db!8m2!3d1.2838533!4d103.8519697!16s%2Fg%2F11p56m_wxp!19sChIJAQDAtw4Z2jER22I2bL3S304
+https://www.google.com/maps/place/Cara+Shipping+Pte.+Limited/data=!4m7!3m6!1s0x31da1909566ae3b3:0xfc2ec4a80b47a257!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F1tdmbdnv!19sChIJs-NqVgkZ2jERV6JHC6jELvw
