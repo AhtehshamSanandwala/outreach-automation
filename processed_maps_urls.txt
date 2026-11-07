@@ -1560,3 +1560,4 @@ https://www.google.com/maps/place/Salling+Search/data=!4m7!3m6!1s0x31da196d678b2
 https://www.google.com/maps/place/Just+Recruit+Singapore/data=!4m7!3m6!1s0x31da178dc09e8a07:0xdaed5114d318ed00!8m2!3d1.2851228!4d103.8523753!16s%2Fg%2F11dxdwqczh!19sChIJB4qewI0X2jERAO0Y0xRR7do
 https://www.google.com/maps/place/RecruitPlus+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da196d2f584759:0x44c943ea98d6e81b!8m2!3d1.2781758!4d103.8480935!16s%2Fg%2F1tc_brzz!19sChIJWUdYL20Z2jERG-jWmOpDyUQ
 https://www.google.com/maps/place/HRbiz.sg/data=!4m7!3m6!1s0x31da190ea26aaaab:0x227bf0344a66a083!8m2!3d1.2841363!4d103.8511748!16s%2Fg%2F1ptyrxc29!19sChIJq6pqog4Z2jERg6BmSjTweyI
+https://www.google.com/maps/place/Tom+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1909566ade2d:0x81c13b77afeb1c29!8m2!3d1.284729!4d103.850707!16s%2Fg%2F1ptz6tz73!19sChIJLd5qVgkZ2jERKRzrr3c7wYE
