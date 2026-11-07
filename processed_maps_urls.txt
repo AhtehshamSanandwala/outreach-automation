@@ -810,3 +810,4 @@ https://www.google.com/maps/place/Timcole/data=!4m7!3m6!1s0x31da100912eaaaab:0x4
 https://www.google.com/maps/place/KJ+Advisory+Pte+Ltd/data=!4m7!3m6!1s0x31da17065d1717d3:0x1a1441827a799593!8m2!3d1.283534!4d103.8522634!16s%2Fg%2F11ftjygg3v!19sChIJ0xcXXQYX2jERk5V5eoJBFBo
 https://www.google.com/maps/place/SMATS+Group+Singapore/data=!4m7!3m6!1s0x31da19b997300bfd:0x6df5ac0c6bf144c3!8m2!3d1.3042119!4d103.854319!16s%2Fg%2F1ptyqp91y!19sChIJ_Qswl7kZ2jERw0Txawys9W0
 https://www.google.com/maps/place/Precursor+Assurance+LLP/data=!4m7!3m6!1s0x31da19bbdab2d67f:0x91e5506c9d8c31ae!8m2!3d1.2812688!4d103.850022!16s%2Fg%2F11g6bf7sf2!19sChIJf9ay2rsZ2jERrjGMnWxQ5ZE
+https://www.google.com/maps/place/Excellence+Singapore+Group/data=!4m7!3m6!1s0x31da190a7ea2ad03:0x154e9f8a6a001f0!8m2!3d1.2819853!4d103.8493856!16s%2Fg%2F12hv47lz6!19sChIJA62ifgoZ2jER8AGgpvjpVAE
