@@ -445,3 +445,4 @@ https://www.google.com/maps/place/Microsoft+Singapore/data=!4m7!3m6!1s0x31da190e
 https://www.google.com/maps/place/Swiftly/data=!4m7!3m6!1s0x31da11d4a3f26a31:0xfef54e3a34fe340d!8m2!3d1.2953522!4d103.8584051!16s%2Fg%2F11tg0gqp4w!19sChIJMWryo9QR2jERDTT-NDpO9f4
 https://www.google.com/maps/place/One+IBC+Singapore/data=!4m7!3m6!1s0x31da190ec6cfe827:0x8130d4a99586d2d4!8m2!3d1.278646!4d103.8484196!16s%2Fg%2F11fx8j8wzk!19sChIJJ-jPxg4Z2jER1NKGlanUMIE
 https://www.google.com/maps/place/Osome/data=!4m7!3m6!1s0x31da19122db0bf35:0x254078798e0b5ea7!8m2!3d1.278502!4d103.8416788!16s%2Fg%2F11f6nn_739!19sChIJNb-wLRIZ2jERp14Ljnl4QCU
+https://www.google.com/maps/place/Singapore+IT+Solutions+-+D%26S+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1823b804b9d1:0xc7fa2c6634f30fd0!8m2!3d1.3200589!4d103.8872314!16s%2Fg%2F1tfkc2y_!19sChIJ0bkEuCMY2jER0A_zNGYs-sc
