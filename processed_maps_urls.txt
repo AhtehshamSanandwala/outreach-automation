@@ -1137,3 +1137,6 @@ https://www.google.com/maps/place/STAR+CONCORD+PTE+LTD/data=!4m7!3m6!1s0x31da1bc
 https://www.google.com/maps/place/Geodis+Singapore/data=!4m7!3m6!1s0x31da1ab59a1e73b3:0xbc04a17cda50c4ae!8m2!3d1.3129335!4d103.7202467!16s%2Fg%2F1ptz86j4v!19sChIJs3MemrUa2jERrsRQ2nyhBLw
 https://www.google.com/maps/place/SWAT+Mobility/data=!4m7!3m6!1s0x31da19ee9d7df875:0x26063357049f201f!8m2!3d1.3123318!4d103.8370008!16s%2Fg%2F11gy9pn_1w!19sChIJdfh9ne4Z2jERHyCfBFczBiY
 https://www.google.com/maps/place/IXS+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da198cff772d8f:0x9aaaaaaab703dd43!8m2!3d1.3055779!4d103.830139!16s%2Fg%2F1ptx5r3zs!19sChIJjy13_4wZ2jERQ90Dt6qqqpo
+https://www.google.com/maps/place/Priority+Mail+Express+Pte.+Ltd./data=!4m7!3m6!1s0x31da1992134660ed:0x5ca5eb022e2ec072!8m2!3d1.3045755!4d103.8340344!16s%2Fg%2F11clvxbf42!19sChIJ7WBGE5IZ2jERcsAuLgLrpVw
+https://www.google.com/maps/place/AGI+Freight+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3c76ea47cc3b:0x9e4288981556a407!8m2!3d1.3752448!4d104.0034259!16s%2Fg%2F1tg9f1wp!19sChIJO8xH6nY82jERB6RWFZiIQp4
+https://www.google.com/maps/place/Airport+Logistics+Park/data=!4m7!3m6!1s0x31da3c76c161d69d:0xbc474f573f4f0d1a!8m2!3d1.3756646!4d104.0026817!16s%2Fm%2F02q_4y1!19sChIJndZhwXY82jERGg1PP1dPR7w
