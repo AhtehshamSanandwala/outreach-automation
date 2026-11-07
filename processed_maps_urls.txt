@@ -1730,3 +1730,4 @@ https://www.google.com/maps/place/IG+Asia/data=!4m7!3m6!1s0x31da190fd0931f45:0x5
 https://www.google.com/maps/place/Arcade+Florist+%26+Trading+Co/data=!4m7!3m6!1s0x31da190ebf1189b9:0x4d7668647a8ff4db!8m2!3d1.2835611!4d103.8522914!16s%2Fg%2F1v7pv_19!19sChIJuYkRvw4Z2jER2_SPemRodk0
 https://www.google.com/maps/place/The+Straits+Trading+Company+Limited/data=!4m7!3m6!1s0x31da190c92f731ff:0x3327a341dfea5e3a!8m2!3d1.2994163!4d103.8576444!16s%2Fg%2F1ptvr2tx4!19sChIJ_zH3kgwZ2jEROl7q30GjJzM
 https://www.google.com/maps/place/ELTF+Trading/data=!4m7!3m6!1s0x31da190949c15555:0x6043c3a3bf2f0c30!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11fm4yhvlp!19sChIJVVXBSQkZ2jERMAwvv6PDQ2A
+https://www.google.com/maps/place/Winson+Oil+Trading+Pte+Ltd+-+Singapore/data=!4m7!3m6!1s0x31da19121926c605:0x266f2184d04e88a3!8m2!3d1.2847981!4d103.8499253!16s%2Fg%2F1v3dpn66!19sChIJBcYmGRIZ2jERo4hO0IQhbyY
