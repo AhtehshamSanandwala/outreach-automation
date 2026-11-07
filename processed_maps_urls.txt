@@ -1054,3 +1054,6 @@ https://www.google.com/maps/place/Alzys+Global+Pte+Ltd/data=!4m7!3m6!1s0x31da190
 https://www.google.com/maps/place/Singapore+Chinese+Chamber+of+Commerce+%26+Industry/data=!4m7!3m6!1s0x31da19a15197fb03:0xd94d3c4c1183044b!8m2!3d1.2932581!4d103.8502938!16s%2Fg%2F1v41xzf0!19sChIJA_uXUaEZ2jERSwSDEUw8Tdk
 https://www.google.com/maps/place/British+Chamber+Of+Commerce+Singapore/data=!4m7!3m6!1s0x31da190dbdf53163:0x6e46c00451ef6325!8m2!3d1.2808084!4d103.8479793!16s%2Fg%2F1tdw5kwc!19sChIJYzH1vQ0Z2jERJWPvUQTARm4
 https://www.google.com/maps/place/Mitsubishi+Corporation+Singapore+Branch/data=!4m7!3m6!1s0x31da19a93c3a8e79:0x4edd14ea32d7ea56!8m2!3d1.2927927!4d103.8603403!16s%2Fg%2F1tfpm6cz!19sChIJeY46PKkZ2jERVurXMuoU3U4
+https://www.google.com/maps/place/Lau+Sisters+Trading+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da198dac14ca67:0x3d98f2bae3592173!8m2!3d1.3052119!4d103.8305935!16s%2Fg%2F11hcj1s2kt!19sChIJZ8oUrI0Z2jERcyFZ47rymD0
+https://www.google.com/maps/place/Tradebase+Mercantile+Agencies/data=!4m7!3m6!1s0x31da197331257b95:0xc6c21cac1b3a80e0!8m2!3d1.2831786!4d103.8444165!16s%2Fg%2F1tsclhyn!19sChIJlXslMXMZ2jER4IA6G6wcwsY
+https://www.google.com/maps/place/Kimoe+Trading+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da198cc3599731:0xd77d8b2476650e2a!8m2!3d1.3069439!4d103.8291434!16s%2Fg%2F1tdh1cym!19sChIJMZdZw4wZ2jERKg5ldiSLfdc
