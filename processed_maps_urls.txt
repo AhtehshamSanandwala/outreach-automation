@@ -447,3 +447,7 @@ https://www.google.com/maps/place/One+IBC+Singapore/data=!4m7!3m6!1s0x31da190ec6
 https://www.google.com/maps/place/Osome/data=!4m7!3m6!1s0x31da19122db0bf35:0x254078798e0b5ea7!8m2!3d1.278502!4d103.8416788!16s%2Fg%2F11f6nn_739!19sChIJNb-wLRIZ2jERp14Ljnl4QCU
 https://www.google.com/maps/place/Singapore+IT+Solutions+-+D%26S+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1823b804b9d1:0xc7fa2c6634f30fd0!8m2!3d1.3200589!4d103.8872314!16s%2Fg%2F1tfkc2y_!19sChIJ0bkEuCMY2jER0A_zNGYs-sc
 https://www.google.com/maps/place/Ensign+InfoSecurity+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19cafdbebca5:0xb357b02e09cca187!8m2!3d1.3145322!4d103.8658689!16s%2Fg%2F1pv1sm9ql!19sChIJpby-_coZ2jERh6HMCS6wV7M
+https://www.google.com/maps/place/Info-Tech+Systems+Ltd./data=!4m7!3m6!1s0x31da19cd1e967f21:0x5543f3609fe63715!8m2!3d1.3169804!4d103.8632762!16s%2Fg%2F1td5nsvy!19sChIJIX-WHs0Z2jERFTfmn2DzQ1U
+https://www.google.com/maps/place/Corporate+Management+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da198d6d60ffd5:0x1a61eb6ace099e05!8m2!3d1.3061335!4d103.8318719!16s%2Fg%2F1ptx2p544!19sChIJ1f9gbY0Z2jERBZ4JzmrrYRo
+https://www.google.com/maps/place/iSupporT+Service+Singapore/data=!4m7!3m6!1s0x31da1b626b78f85f:0xf664c20bc5976c26!8m2!3d1.2880977!4d103.7912731!16s%2Fg%2F11j8p8zjbh!19sChIJX_h4a2Ib2jERJmyXxQvCZPY
+https://www.google.com/maps/place/Corporate+IT+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da19ca573b6079:0xccc665988c31e80a!8m2!3d1.3097929!4d103.8649985!16s%2Fg%2F1ptvvnzbc!19sChIJeWA7V8oZ2jERCugxjJhlxsw
