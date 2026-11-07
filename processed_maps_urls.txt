@@ -1753,3 +1753,4 @@ https://www.google.com/maps/place/Transnational+Trading+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/City+Index+SG/data=!4m7!3m6!1s0x31da198629c31045:0x7fa557686943ed1a!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11gsml28ct!19sChIJRRDDKYYZ2jERGu1DaWhXpX8
 https://www.google.com/maps/place/Mihaud+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da190d962c8325:0x41e335171aa01453!8m2!3d1.284322!4d103.8509836!16s%2Fg%2F1v2dz0dl!19sChIJJYMslg0Z2jERUxSgGhc140E
 https://www.google.com/maps/place/GXT+%28GEM+Exchange+and+Trading%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da1990e8c00001:0x527540d57d1cd521!8m2!3d1.2831688!4d103.8509703!16s%2Fg%2F11h8cc2vd5!19sChIJAQDA6JAZ2jERIdUcfdVAdVI
+https://www.google.com/maps/place/Brat+Resources/data=!4m7!3m6!1s0x31da19095fc00ff5:0x5ea5f331357fc82f!8m2!3d1.2854707!4d103.8507043!16s%2Fg%2F11hz178jqk!19sChIJ9Q_AXwkZ2jERL8h_NTHzpV4
