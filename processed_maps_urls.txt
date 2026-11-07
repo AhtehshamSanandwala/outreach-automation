@@ -1459,3 +1459,4 @@ https://www.google.com/maps/place/Infosys+Limited/data=!4m7!3m6!1s0x31da19093540
 https://www.google.com/maps/place/Premier+Fiduciary/data=!4m7!3m6!1s0x31da1909530b635d:0xba2e45577b39dc17!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F1pv0cgy14!19sChIJXWMLUwkZ2jERF9w5e1dFLro
 https://www.google.com/maps/place/BTI+Executive+Search+Singapore/data=!4m7!3m6!1s0x31da190e7efa7a37:0xeac44e60ddcea1ca!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11fmx02xs2!19sChIJN3r6fg4Z2jERyqHO3WBOxOo
 https://www.google.com/maps/place/Kaizen+Institute+Singapore/data=!4m7!3m6!1s0x31da190c27837fb1:0xc386fce1b6ac591a!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F1pv0zvf7b!19sChIJsX-DJwwZ2jERGlmstuH8hsM
+https://www.google.com/maps/place/Comp-Age+Management+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da190ea26aaaab:0x6e4ceb0c9ae42e1f!8m2!3d1.2841363!4d103.8511748!16s%2Fg%2F1pt_f7ts5!19sChIJq6pqog4Z2jERHy7kmgzrTG4
