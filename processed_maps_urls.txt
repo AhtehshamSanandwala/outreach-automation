@@ -806,3 +806,4 @@ https://www.google.com/maps/place/Wealthbridge+Corporate+Services/data=!4m7!3m6!
 https://www.google.com/maps/place/ALPSTAR+MANAGEMENT+SERVICES+PTE.+LTD/data=!4m7!3m6!1s0x31da190dc6ce8e1f:0xb3ebe93994f04098!8m2!3d1.2811457!4d103.849367!16s%2Fg%2F11ckqn9v8x!19sChIJH47Oxg0Z2jERmEDwlDnp67M
 https://www.google.com/maps/place/CZ+CONSULTANCY/data=!4m7!3m6!1s0x31da192c9cbf3463:0x75c5e1ecdf36c10!8m2!3d1.276109!4d103.845924!16s%2Fg%2F11fp4zzjsf!19sChIJYzS_nCwZ2jEREGzzzR5eXAc
 https://www.google.com/maps/place/Harvest+Accounting+Pte.+Ltd./data=!4m7!3m6!1s0x31da19a6152ce081:0xa215ff67c580ac5f!8m2!3d1.2800305!4d103.8492068!16s%2Fg%2F11fk8hnmn3!19sChIJgeAsFaYZ2jERX6yAxWf_FaI
+https://www.google.com/maps/place/Timcole/data=!4m7!3m6!1s0x31da100912eaaaab:0x4b130a8fd0af468a!8m2!3d1.2984735!4d103.8588807!16s%2Fg%2F11h4djdr4r!19sChIJq6rqEgkQ2jERikav0I8KE0s
