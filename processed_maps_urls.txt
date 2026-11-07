@@ -1469,3 +1469,4 @@ https://www.google.com/maps/place/TallRock+Capital+Singapore/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/One+Raffles+Quay/data=!4m7!3m6!1s0x31da190e69a21ab1:0x5296aa331191967f!8m2!3d1.2812689!4d103.8519161!16zL20vMDg4Z3N0!19sChIJsRqiaQ4Z2jERf5aRETOqllI
 https://www.google.com/maps/place/The+Heritage+Partnership/data=!4m7!3m6!1s0x31da1901c9cc3063:0x673460d6bed72776!8m2!3d1.2851096!4d103.8510222!16s%2Fg%2F11p01_4ccs!19sChIJYzDMyQEZ2jERdifXvtZgNGc
 https://www.google.com/maps/place/Alter+Domus+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da190e995bdb81:0x64983f69a8a848ed!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11c59x9jjr!19sChIJgdtbmQ4Z2jER7UioqGk_mGQ
+https://www.google.com/maps/place/Ee+Peng+Kee+Management+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da190e810fde99:0x7ae37f8d2401c428!8m2!3d1.2809381!4d103.8506447!16s%2Fg%2F1pv0wyz5y!19sChIJmd4PgQ4Z2jERKMQBJI1_43o
