@@ -1853,3 +1853,4 @@ https://www.google.com/maps/place/TORM+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Raffles+Place+Jetty/data=!4m7!3m6!1s0x31da190968f240ef:0xc45a2d77598b4960!8m2!3d1.2856697!4d103.8513407!16s%2Fg%2F11gf60tzxg!19sChIJ70DyaAkZ2jERYEmLWXctWsQ
 https://www.google.com/maps/place/Pacific+Logistics+Group+%28PLG%29+Tuas+HQ+Building/data=!4m7!3m6!1s0x31da07d3f4f60e7f:0xf8f262457eccd38e!8m2!3d1.2663988!4d103.6226744!16s%2Fg%2F11hbntslll!19sChIJfw729NMH2jERjtPMfkVi8vg
 https://www.google.com/maps/place/Braemar+Seascope+%28Dry+Cargo%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1909367350d7:0x2b11c83c361ebd37!8m2!3d1.284676!4d103.852153!16s%2Fg%2F11btlpybvl!19sChIJ11BzNgkZ2jERN70eNjzIESs
+https://www.google.com/maps/place/Raffles+Pl+Stn+Exit+F/data=!4m7!3m6!1s0x31da190e812835f3:0xaa170cb3059df885!8m2!3d1.2822404!4d103.8509741!16s%2Fg%2F1thscfv4!19sChIJ8zUogQ4Z2jERhfidBbMMF6o
