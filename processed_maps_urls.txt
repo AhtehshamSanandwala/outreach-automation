@@ -1846,3 +1846,4 @@ https://www.google.com/maps/place/AVIC+International+Investments+Limited/data=!4
 https://www.google.com/maps/place/Glory+Ship+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da190ec8166a39:0x68970e39b6c74887!8m2!3d1.283847!4d103.852123!16s%2Fg%2F11b6dd7wx3!19sChIJOWoWyA4Z2jERh0jHtjkOl2g
 https://www.google.com/maps/place/GoComet+Solutions+Pte.+Ltd./data=!4m7!3m6!1s0x31da19bc0bbdedaf:0xadaea2dc026c89b0!8m2!3d1.283535!4d103.8522374!16s%2Fg%2F11hzsvry0w!19sChIJr-29C7wZ2jERsIlsAtyirq0
 https://www.google.com/maps/place/Aidahar+Asia+PTE+LTD/data=!4m7!3m6!1s0x31da19374498b597:0x9c10f6f09892b355!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11kh905vdh!19sChIJl7WYRDcZ2jERVbOSmPD2EJw
+https://www.google.com/maps/place/Minmetals+Shipping+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da190ec8100e47:0xa51ab8cf84af66e7!8m2!3d1.283847!4d103.852123!16s%2Fg%2F1vb99l3y!19sChIJRw4QyA4Z2jER52avhM-4GqU
