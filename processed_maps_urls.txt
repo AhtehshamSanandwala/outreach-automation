@@ -2087,3 +2087,4 @@ https://www.google.com/maps/place/McGallen+%26+Bolden+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Atelier+X/data=!4m7!3m6!1s0x31da196d84955a67:0xd6357fe5f39fb75b!8m2!3d1.2792702!4d103.8414653!16s%2Fg%2F11cs5p3gcn!19sChIJZ1qVhG0Z2jERW7ef8-V_NdY
 https://www.google.com/maps/place/ASOLIDPLAN/data=!4m7!3m6!1s0x31da196d75748cd1:0xe3e4a7b77e81a895!8m2!3d1.2801283!4d103.8421141!16s%2Fg%2F11c2jnmm0y!19sChIJ0Yx0dW0Z2jERlaiBfren5OM
 https://www.google.com/maps/place/The+Fox+Agency+International+Inc./data=!4m7!3m6!1s0x31da1913414889b7:0x3a5af49c0bb56b7c!8m2!3d1.275982!4d103.845942!16s%2Fg%2F1ptwcc044!19sChIJt4lIQRMZ2jERfGu1C5z0Wjo
+https://www.google.com/maps/place/Simple+Graphics/data=!4m7!3m6!1s0x31da196ced5516f7:0xf81441a5ac85f74a!8m2!3d1.2762165!4d103.8428378!16s%2Fg%2F1pv1_n6_m!19sChIJ9xZV7WwZ2jERSveFrKVBFPg
