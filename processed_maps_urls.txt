@@ -591,3 +591,7 @@ https://www.google.com/maps/place/Adecco+Personnel+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Super+Employment/data=!4m7!3m6!1s0x31da198cff58f201:0x612cc1c088a25049!8m2!3d1.3054612!4d103.829864!16s%2Fg%2F1tkkrc_w!19sChIJAfJY_4wZ2jERSVCiiMDBLGE
 https://www.google.com/maps/place/Stars+and+Sky+Employment+Agency/data=!4m7!3m6!1s0x31da198083a70cdf:0x1a986cf514540d61!8m2!3d1.2923024!4d103.8509163!16s%2Fg%2F11tbv0rgy3!19sChIJ3wyng4AZ2jERYQ1UFPVsmBo
 https://www.google.com/maps/place/KABABAYAN+FAR+EAST+MANPOWER+%26+SERVICES/data=!4m7!3m6!1s0x31da198cff58f201:0xddc06f34cbafa064!8m2!3d1.3054032!4d103.8301709!16s%2Fg%2F1tdz2bdp!19sChIJAfJY_4wZ2jERZKCvyzRvwN0
+https://www.google.com/maps/place/Job+Express+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da106dadf95555:0xa422273b88e934fc!8m2!3d1.3382477!4d103.7557994!16s%2Fg%2F11r2rt1916!19sChIJVVX5rW0Q2jER_DTpiDsnIqQ
+https://www.google.com/maps/place/Quali-Staff+International/data=!4m7!3m6!1s0x31da198cc0aefd57:0x2594010b344e019f!8m2!3d1.3069528!4d103.8291265!16s%2Fg%2F11cs5p6ykf!19sChIJV_2uwIwZ2jERnwFONAsBlCU
+https://www.google.com/maps/place/RS+International+Resource+-+Manpower+Employment+Agency/data=!4m7!3m6!1s0x31da178279a03ea1:0x91e5ce741da61bbb!8m2!3d1.3285126!4d103.8757516!16s%2Fg%2F11f6620gss!19sChIJoT6geYIX2jERuxumHXTO5ZE
+https://www.google.com/maps/place/Firstcare+Employment+Pte+Ltd+%7C+Recruitment+Agency/data=!4m7!3m6!1s0x31da108a62dc68a9:0x1f2ef0cbbf5a4f82!8m2!3d1.3382184!4d103.7561756!16s%2Fg%2F1tdbz4hc!19sChIJqWjcYooQ2jERgk9av8vwLh8
