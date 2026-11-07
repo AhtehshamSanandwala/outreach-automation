@@ -527,3 +527,6 @@ https://www.google.com/maps/place/iZeno/data=!4m7!3m6!1s0x31da19cde3794d39:0xbbc
 https://www.google.com/maps/place/Spectrum+Business+Solutions/data=!4m7!3m6!1s0x31da197c8c890335:0x336f016a50fa5158!8m2!3d1.2828776!4d103.8499315!16s%2Fg%2F11nnvrxbvp!19sChIJNQOJjHwZ2jERWFH6UGoBbzM
 https://www.google.com/maps/place/TADA+Station/data=!4m7!3m6!1s0x31da1774f8455039:0x2e9e1c9f01e1bb9b!8m2!3d1.35851!4d103.834031!16s%2Fg%2F11pd2hv_41!19sChIJOVBF-HQX2jERm7vhAZ8cni4
 https://www.google.com/maps/place/IMD+Business+School+Southeast+Asia+and+Oceania/data=!4m7!3m6!1s0x31da19391e1a297d:0x8b59b7bf61e03780!8m2!3d1.3050257!4d103.7877448!16s%2Fg%2F11h79k4ncv!19sChIJfSkaHjkZ2jERgDfgYb-3WYs
+https://www.google.com/maps/place/InfoTech+Global+Pte+Ltd/data=!4m7!3m6!1s0x31da19123af15f01:0x874636e8b0f1966d!8m2!3d1.2780362!4d103.8497325!16s%2Fg%2F1pt_1620b!19sChIJAV_xOhIZ2jERbZbxsOg2Roc
+https://www.google.com/maps/place/IT+and+HR+Consulting/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x367bb79dba27eea9!8m2!3d1.279136!4d103.844656!16s%2Fg%2F1ptybgzty!19sChIJS9l9TW0Z2jERqe4nup23ezY
+https://www.google.com/maps/place/CoWorkSpace+Serviced+Office+-+6+Raffles+Quay/data=!4m7!3m6!1s0x31da1972d44d5607:0x85753fd51613251!8m2!3d1.2818427!4d103.8514289!16s%2Fg%2F11wp373dw2!19sChIJB1ZN1HIZ2jERUTJhUf1TVwg
