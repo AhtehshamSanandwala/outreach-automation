@@ -1453,3 +1453,4 @@ https://www.google.com/maps/place/Swiss+Asia+Financial+Services+Pte+Ltd/data=!4m
 https://www.google.com/maps/place/St.+James%27s+Place/data=!4m7!3m6!1s0x31da190eacb58e55:0x8b5876450d79847!8m2!3d1.2848562!4d103.8510227!16s%2Fg%2F1tg7zzyn!19sChIJVY61rA4Z2jERR5jXUGSHtQg
 https://www.google.com/maps/place/IMTF+Banking+Software+Pte.+Ltd./data=!4m7!3m6!1s0x31da190d9bf6d1d3:0x81b5466d9afea2a7!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F1ptzbnb9r!19sChIJ09H2mw0Z2jERp6L-mm1GtYE
 https://www.google.com/maps/place/Nomura+Research+Institute+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da190fd41e053d:0xf48b805aacfcc143!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F1q64kfdj2!19sChIJPQUe1A8Z2jERQ8H8rFqAi_Q
+https://www.google.com/maps/place/Sovereign+Management+Services+Pte.+Ltd.+%28Singapore%29/data=!4m7!3m6!1s0x31da190e7deadefb:0x2278f0cbf1324c43!8m2!3d1.2846876!4d103.8499426!16s%2Fg%2F1v1kmct9!19sChIJ-97qfQ4Z2jERQ0wy8cvweCI
