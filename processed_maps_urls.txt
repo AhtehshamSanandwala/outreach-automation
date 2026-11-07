@@ -1653,3 +1653,4 @@ https://www.google.com/maps/place/CBD+Office+Space/data=!4m7!3m6!1s0x31da1908e72
 https://www.google.com/maps/place/BR+Law+Corporation+Main+Branch+-+Republic+Plaza/data=!4m7!3m6!1s0x31da19a43a24b979:0x5111929c8a724b2e!8m2!3d1.2831028!4d103.8509067!16s%2Fg%2F11svfd8tbv!19sChIJebkkOqQZ2jERLktyipySEVE
 https://www.google.com/maps/place/Heritage+Fiduciary+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19094d735f89:0xe868162b69460c92!8m2!3d1.2846774!4d103.8521006!16s%2Fg%2F12m95v7t9!19sChIJiV9zTQkZ2jERkgxGaSsWaOg
 https://www.google.com/maps/place/Braze+APAC/data=!4m7!3m6!1s0x31da19e1aaac0137:0x9ef5307d1453c2f3!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F11fflzfbmy!19sChIJNwGsquEZ2jER88JTFH0w9Z4
+https://www.google.com/maps/place/Cornspring+PTE/data=!4m7!3m6!1s0x31da19004566d277:0xb44c0e28674880f5!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11wj4yq98t!19sChIJd9JmRQAZ2jER9YBIZygOTLQ
