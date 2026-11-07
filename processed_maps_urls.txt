@@ -889,3 +889,5 @@ https://www.google.com/maps/place/Everfaith+Organization/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Premier+Formations+%28Singapore%29+Pte+Limited/data=!4m7!3m6!1s0x31da198cf8b1b369:0x75950c90ed5361b4!8m2!3d1.305592!4d103.829925!16s%2Fg%2F1ptwb8jmt!19sChIJabOx-IwZ2jERtGFT7ZAMlXU
 https://www.google.com/maps/place/AccProfessionals+Pte+Ltd/data=!4m7!3m6!1s0x31da19b08ff9c995:0xe5b1597caa06fbf3!8m2!3d1.305512!4d103.8300944!16s%2Fg%2F11nlcc1sfd!19sChIJlcn5j7AZ2jER8_sGqnxZseU
 https://www.google.com/maps/place/Quahe+Woo+%26+Palmer+LLC/data=!4m7!3m6!1s0x31da3d11f46c5465:0xeab1102c07f17fba!8m2!3d1.3330281!4d103.8389255!16s%2Fg%2F1ptx4chj_!19sChIJZVRs9BE92jERun_xBywQseo
+https://www.google.com/maps/place/Vision+Consultancy+Network+Pte.+Ltd./data=!4m7!3m6!1s0x31da198a03d7be75:0x1f9e451dc905a386!8m2!3d1.3059065!4d103.8314983!16s%2Fg%2F11n63806wb!19sChIJdb7XA4oZ2jERhqMFyR1Fnh8
+https://www.google.com/maps/place/Hoh+Law+Corporation+@+Ang+Mo+Kio+Central/data=!4m7!3m6!1s0x31da17634d258515:0xb7a74c4fbf56783!8m2!3d1.3707531!4d103.8471648!16s%2Fg%2F1tfjycld!19sChIJFYUlTWMX2jERg2f1-8R0egs
