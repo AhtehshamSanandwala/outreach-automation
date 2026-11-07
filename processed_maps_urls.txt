@@ -1910,3 +1910,4 @@ https://www.google.com/maps/place/iJooz+Vending+machine/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/QB+jooze/data=!4m7!3m6!1s0x31da1900558db1b5:0x67f9214bb92cb103!8m2!3d1.2822004!4d103.8526513!16s%2Fg%2F11zg_pg482!19sChIJtbGNVQAZ2jERA7EsuUsh-Wc
 https://www.google.com/maps/place/ESAM+Asia/data=!4m7!3m6!1s0xa7ed6d3b1bf76f75:0xdaaa78e663ea21a5!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11pdfvh2b6!19sChIJdW_3Gztt7acRpSHqY-Z4qto
 https://www.google.com/maps/place/John+Crane+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da190ef15e2591:0x1c836d352a50095e!8m2!3d1.282387!4d103.852437!16s%2Fg%2F1ptv_zm_8!19sChIJkSVe8Q4Z2jERXglQKjVtgxw
+https://www.google.com/maps/place/Oval+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da19092485bb1b:0xf992c3b3bec9c18e!8m2!3d1.2851779!4d103.8529269!16s%2Fg%2F1ptz03qv_!19sChIJG7uFJAkZ2jERjsHJvrPDkvk
