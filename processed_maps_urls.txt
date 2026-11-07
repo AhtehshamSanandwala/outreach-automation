@@ -799,3 +799,4 @@ https://www.google.com/maps/place/Vistra+Singapore/data=!4m7!3m6!1s0x31da1909488
 https://www.google.com/maps/place/SHORTS+PTE+LTD/data=!4m7!3m6!1s0x31da191882ea286f:0x4a6160c98ee14744!8m2!3d1.285539!4d103.851667!16s%2Fg%2F11n85jnz6q!19sChIJbyjqghgZ2jERREfhjslgYUo
 https://www.google.com/maps/place/JBL+Corporate+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da191f41256fa7:0xf436e319c0a7bdf7!8m2!3d1.3001685!4d103.8372952!16s%2Fg%2F11h5kg6703!19sChIJp28lQR8Z2jER972nwBnjNvQ
 https://www.google.com/maps/place/Rikvin+Singapore+%28InCorp+Global+Group%29/data=!4m7!3m6!1s0x31da190c24ef212d:0xc4162221cf51b9d9!8m2!3d1.2810808!4d103.8498992!16s%2Fg%2F11f3ztv38_!19sChIJLSHvJAwZ2jER2blRzyEiFsQ
+https://www.google.com/maps/place/Enterprise+Assurance+PAC/data=!4m7!3m6!1s0x31da1991e0382277:0xcebdc20d50c77d0c!8m2!3d1.2891465!4d103.8467157!16s%2Fg%2F11w1zdb8qw!19sChIJdyI44JEZ2jERDH3HUA3Cvc4
