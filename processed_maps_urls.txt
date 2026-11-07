@@ -1822,3 +1822,4 @@ https://www.google.com/maps/place/Regent+Shipping+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Fomento+Associated+Singapore+Holdings+Pte.+Ltd./data=!4m7!3m6!1s0x31da190eadffac4f:0xfb6846f6100ad49!8m2!3d1.2844837!4d103.8513447!16s%2Fg%2F11fmvky500!19sChIJT6z_rQ4Z2jERSa0AYW-Etg8
 https://www.google.com/maps/place/Xscale+Pte.+Ltd./data=!4m7!3m6!1s0x31da19d9df4d332f:0x8bd39a479d9e8b36!8m2!3d1.2846105!4d103.8527517!16s%2Fg%2F11p5dsktn5!19sChIJLzNN39kZ2jERNouenUea04s
 https://www.google.com/maps/place/Sk+Shipping+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da190e9ecc1339:0xd277affb4297c6bc!8m2!3d1.2832428!4d103.8508359!16s%2Fg%2F1v1kmcth!19sChIJORPMng4Z2jERvMaXQvuvd9I
+https://www.google.com/maps/place/FLEX+LNG+Management+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da190ecc8741db:0xa2f825d237f4b7f7!8m2!3d1.28422!4d103.8524508!16s%2Fg%2F1ptz0rkh_!19sChIJ20GHzA4Z2jER97f0N9Il-KI
