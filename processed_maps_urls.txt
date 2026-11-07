@@ -1721,3 +1721,4 @@ https://www.google.com/maps/place/PPT+Energy+Trading+Singapore+Pte+Ltd/data=!4m7
 https://www.google.com/maps/place/APACTRADE+PTE+LTD/data=!4m7!3m6!1s0x31da190ecc840001:0xe567966a58b6bad8!8m2!3d1.2838974!4d103.8514533!16s%2Fg%2F11fy4xswtq!19sChIJAQCEzA4Z2jER2Lq2WGqWZ-U
 https://www.google.com/maps/place/BC+International+Trading+Co.+Ltd/data=!4m7!3m6!1s0x31da190ec8166a39:0xe4ed6ddd7193aaa1!8m2!3d1.283847!4d103.852123!16s%2Fg%2F1pv07tf62!19sChIJOWoWyA4Z2jERoaqTcd1t7eQ
 https://www.google.com/maps/place/Raffles+Trading+Co.+Ltd/data=!4m7!3m6!1s0x31da190c2f72c1ff:0x7279973e13a53f80!8m2!3d1.2825522!4d103.8501056!16s%2Fg%2F11c1ws9ktx!19sChIJ_8FyLwwZ2jERgD-lEz6XeXI
+https://www.google.com/maps/place/OANDA+Asia+Pacific/data=!4m7!3m6!1s0x31da190c86355949:0x305eb447dd4297f9!8m2!3d1.2848464!4d103.8510682!16s%2Fg%2F1tgrzg04!19sChIJSVk1hgwZ2jER-ZdC3Ue0XjA
