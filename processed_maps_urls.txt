@@ -773,3 +773,4 @@ https://www.google.com/maps/place/BSP+Management/data=!4m7!3m6!1s0x31da19bb0daad
 https://www.google.com/maps/place/FidCorp+Services+Private+Limited/data=!4m7!3m6!1s0x31da19b76b34b733:0x126faab7e8018341!8m2!3d1.3069439!4d103.8291434!16s%2Fg%2F11jb05ph8y!19sChIJM7c0a7cZ2jERQYMB6LeqbxI
 https://www.google.com/maps/place/AG+Singapore/data=!4m7!3m6!1s0x31da196d4cc303d5:0x42213ef79918114b!8m2!3d1.2923195!4d103.8508508!16s%2Fg%2F11g8krn5_f!19sChIJ1QPDTG0Z2jERSxEYmfc-IUI
 https://www.google.com/maps/place/Verti+Corporate+Pte+Ltd/data=!4m7!3m6!1s0x31da19fb06c29935:0xff1eeea1068fb5d0!8m2!3d1.2900089!4d103.8494332!16s%2Fg%2F11h8qwsl3x!19sChIJNZnCBvsZ2jER0LWPBqHuHv8
+https://www.google.com/maps/place/VentureHaven+Pte+Ltd/data=!4m7!3m6!1s0x31da190b6bb30247:0xaf9ddfa315a75967!8m2!3d1.2851692!4d103.8460672!16s%2Fg%2F11bxjlc01b!19sChIJRwKzawsZ2jERZ1mnFaPfna8
