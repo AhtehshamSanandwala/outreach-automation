@@ -1281,3 +1281,4 @@ https://www.google.com/maps/place/Pan-West+Far+East+Shopping+Centre/data=!4m7!3m
 https://www.google.com/maps/place/Solutino+Pte+Ltd/data=!4m7!3m6!1s0x31da1bd222a6c47d:0xcb4d255078660c34!8m2!3d1.3059065!4d103.8314983!16s%2Fg%2F11b5wmc75l!19sChIJfcSmItIb2jERNAxmeFAlTcs
 https://www.google.com/maps/place/Ptc+Medical+Products+Pte+Ltd/data=!4m7!3m6!1s0x31da198cc1a61f7b:0x3de94d44adb1b573!8m2!3d1.3069439!4d103.8291434!16s%2Fg%2F1ts2xt3s!19sChIJex-mwYwZ2jERc7WxrURN6T0
 https://www.google.com/maps/place/Farm+Produce+Hardware/data=!4m7!3m6!1s0x31da198cc83f539b:0x6fb811f3cb1f0d03!8m2!3d1.3074014!4d103.8289606!16s%2Fg%2F11hz1p2sf6!19sChIJm1M_yIwZ2jERAw0fy_MRuG8
+https://www.google.com/maps/place/Phoon+Huat+@+Toa+Payoh/data=!4m7!3m6!1s0x100405014e72488d:0xbe8b2540b389ffbb!8m2!3d1.3412061!4d103.8469797!16s%2Fg%2F1q67qfkb0!19sChIJjUhyTgEFBBARu_-Js0Ali74
