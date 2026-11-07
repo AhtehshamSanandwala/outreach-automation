@@ -1725,3 +1725,4 @@ https://www.google.com/maps/place/OANDA+Asia+Pacific/data=!4m7!3m6!1s0x31da190c8
 https://www.google.com/maps/place/Hanwa+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19137500743f:0xa8cad53eab3f3e47!8m2!3d1.284918!4d103.850684!16s%2Fg%2F1txnlzsr!19sChIJP3QAdRMZ2jERRz4_qz7Vyqg
 https://www.google.com/maps/place/GBR+International/data=!4m7!3m6!1s0x31da190e70a55555:0xcf89686c0e3dac4a!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11r2rtn7m0!19sChIJVVWlcA4Z2jERSqw9Dmxoic8
 https://www.google.com/maps/place/TradeTogether+Pte+Ltd/data=!4m7!3m6!1s0x31da1903686c3b87:0xa7be2246510d28e6!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F11wj4zs322!19sChIJhztsaAMZ2jER5igNUUYivqc
+https://www.google.com/maps/place/Singapore+Trading+Corporation/data=!4m7!3m6!1s0x31da196b5e7ac707:0x8a01aaadb4ce794a!8m2!3d1.2806884!4d103.8492068!16s%2Fg%2F11kd7xssy6!19sChIJB8d6XmsZ2jERSnnOtK2qAYo
