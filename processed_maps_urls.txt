@@ -1262,3 +1262,5 @@ https://www.google.com/maps/place/Raffles+City+Convention+Centre/data=!4m7!3m6!1
 https://www.google.com/maps/place/Lidnak+Global+Pte+Ltd/data=!4m7!3m6!1s0x31da19094c2651bb:0xee135e3fce5f7a54!8m2!3d1.314!4d103.84425!16s%2Fg%2F1tf40gj7!19sChIJu1EmTAkZ2jERVHpfzj9eE-4
 https://www.google.com/maps/place/Sing+Heng+Industrial+Supplies+Pte+Ltd/data=!4m7!3m6!1s0x31da1365c441ace5:0x3f315dc9f72ae679!8m2!3d1.452606!4d103.811945!16s%2Fg%2F1ptxrm0m4!19sChIJ5axBxGUT2jEReeYq98ldMT8
 https://www.google.com/maps/place/MEDEL+Singapore/data=!4m7!3m6!1s0x31da1baccfffffff:0x118a174d5d6905ac!8m2!3d1.3040538!4d103.834336!16s%2Fg%2F11bx55ywxd!19sChIJ____z6wb2jERrAVpXU0XihE
+https://www.google.com/maps/place/TIGER+EQUIPMENTS+SINGAPORE+PTE.LTD./data=!4m7!3m6!1s0x24ebe0a38abb6435:0x5e08a754e860a439!8m2!3d30.0118369!4d101.4425782!16s%2Fg%2F11vpvclkst!19sChIJNWS7iqPg6yQROaRg6FSnCF4
+https://www.google.com/maps/place/Multico+Infracore+Holdings+Pte+Ltd/data=!4m7!3m6!1s0x31da07e9e1a40923:0x508f2b399d10a9bf!8m2!3d1.289582!4d103.6304509!16s%2Fg%2F11jdcymk3_!19sChIJIwmk4ekH2jERv6kQnTkrj1A
