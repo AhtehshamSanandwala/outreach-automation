@@ -1260,3 +1260,4 @@ https://www.google.com/maps/place/GMK+Metals+%26+Trading+%28Singapore%29+Pte+Ltd
 https://www.google.com/maps/place/Song-Cho+%28Imp+%26+Exp%29+Pte+Ltd+-+MAPEX/data=!4m7!3m6!1s0x31da178964d7e995:0xb341ea86da257c62!8m2!3d1.34863!4d103.8410333!16s%2Fg%2F11h71jkbj8!19sChIJlenXZIkX2jERYnwl2obqQbM
 https://www.google.com/maps/place/Raffles+City+Convention+Centre/data=!4m7!3m6!1s0x31da19a67e1cda67:0xbdb7ce78de402ad8!8m2!3d1.293396!4d103.8534619!16s%2Fg%2F1v3kd__l!19sChIJZ9ocfqYZ2jER2CpA3njOt70
 https://www.google.com/maps/place/Lidnak+Global+Pte+Ltd/data=!4m7!3m6!1s0x31da19094c2651bb:0xee135e3fce5f7a54!8m2!3d1.314!4d103.84425!16s%2Fg%2F1tf40gj7!19sChIJu1EmTAkZ2jERVHpfzj9eE-4
+https://www.google.com/maps/place/Sing+Heng+Industrial+Supplies+Pte+Ltd/data=!4m7!3m6!1s0x31da1365c441ace5:0x3f315dc9f72ae679!8m2!3d1.452606!4d103.811945!16s%2Fg%2F1ptxrm0m4!19sChIJ5axBxGUT2jEReeYq98ldMT8
