@@ -1833,3 +1833,4 @@ https://www.google.com/maps/place/Logis+Ltd/data=!4m7!3m6!1s0x31da190ea26aaaab:0
 https://www.google.com/maps/place/United+Arab+Shipping+Agency+Company+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da190935400001:0xd0a5b47021a58c75!8m2!3d1.2844371!4d103.8521508!16s%2Fg%2F1pv0dvkhq!19sChIJAQBANQkZ2jERdYylIXC0pdA
 https://www.google.com/maps/place/Singpost+Post+Box/data=!4m7!3m6!1s0x31da192b797dafed:0xc96c82afb1291c99!8m2!3d1.2849184!4d103.8517549!16s%2Fg%2F11rvbyxhp7!19sChIJ7a99eSsZ2jERmRwpsa-CbMk
 https://www.google.com/maps/place/Tasman+Orient+Line+Ltd/data=!4m7!3m6!1s0x31da190953a264e1:0x1848e61b3c39ca22!8m2!3d1.2844431!4d103.8510638!16s%2Fg%2F1tf5b87b!19sChIJ4WSiUwkZ2jERIso5PBvmSBg
+https://www.google.com/maps/place/Rainbow+Logistics+-+EFL+Global+Logistics+%28Pte.%29+Ltd/data=!4m7!3m6!1s0x31da1909384ad9b7:0xaafe77d4ae3e9622!8m2!3d1.28503!4d103.8522382!16s%2Fg%2F11llnxpg08!19sChIJt9lKOAkZ2jERIpY-rtR3_qo
