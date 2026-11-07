@@ -1424,3 +1424,4 @@ https://www.google.com/maps/place/IdeaX+Creative+Labs/data=!4m7!3m6!1s0x31da19fa
 https://www.google.com/maps/place/The+Ad+Makers+Pte+Ltd/data=!4m7!3m6!1s0x31da19cbe4254ac7:0x9aaaa0c85952750f!8m2!3d1.2856516!4d103.8520531!16s%2Fg%2F11c1ph1jgq!19sChIJx0ol5MsZ2jERD3VSWcigqpo
 https://www.google.com/maps/place/Brunswick+Group/data=!4m7!3m6!1s0x31da190969fd9013:0xf6bd6d40efc4de6b!8m2!3d1.2844024!4d103.8509818!16s%2Fg%2F11b5wkpgf8!19sChIJE5D9aQkZ2jERa97E70BtvfY
 https://www.google.com/maps/place/PubMatic/data=!4m7!3m6!1s0x31da19093eac9c33:0x725781e52c486cbc!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F11fxcfj6mm!19sChIJM5ysPgkZ2jERvGxILOWBV3I
+https://www.google.com/maps/place/Buddy+Media,+Inc./data=!4m7!3m6!1s0x31da19094a5c9145:0xf342764f19f4084e!8m2!3d1.284542!4d103.851951!16s%2Fg%2F1ptwr611r!19sChIJRZFcSgkZ2jERTgj0GU92QvM
