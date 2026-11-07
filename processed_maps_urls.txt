@@ -996,3 +996,4 @@ https://www.google.com/maps/place/CMC+Markets+Singapore/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Fook+Hing+Trading+Co/data=!4m7!3m6!1s0x31da19a5049da53d:0x2f819b4576cf1f5e!8m2!3d1.2969044!4d103.8535693!16s%2Fg%2F1tfnqjbk!19sChIJPaWdBKUZ2jERXh_PdkWbgS8
 https://www.google.com/maps/place/International+Singapore+Exporter+Trading+Co./data=!4m7!3m6!1s0x31da19bd45e13d15:0x986ac654d30c2ec7!8m2!3d1.2992818!4d103.8457524!16s%2Fg%2F1ptx9cdp2!19sChIJFT3hRb0Z2jERxy4M01TGapg
 https://www.google.com/maps/place/Tiger+Brokers+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19967670bb47:0xc7c42114dc5fe07f!8m2!3d1.284877!4d103.8506063!16s%2Fg%2F11j6skhk2c!19sChIJR7twdpYZ2jERf-Bf3BQhxMc
+https://www.google.com/maps/place/CMC+Invest+Singapore/data=!4m7!3m6!1s0xa03fe83a6d28e67f:0xdff21eeb7fb1acd7!8m2!3d1.2801318!4d103.851169!16s%2Fg%2F11kp_9w1b3!19sChIJf-YobTroP6AR16yxf-se8t8
