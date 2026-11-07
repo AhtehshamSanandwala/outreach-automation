@@ -1624,3 +1624,4 @@ https://www.google.com/maps/place/First+Trust+Corporate+Services/data=!4m7!3m6!1
 https://www.google.com/maps/place/Corporate+House+%26+Partners+LLP/data=!4m7!3m6!1s0x31da19094a5c9145:0xfb55b76ca34968f!8m2!3d1.2799189!4d103.8501622!16s%2Fg%2F11byxf9szw!19sChIJRZFcSgkZ2jERj5Y0ynZbtQ8
 https://www.google.com/maps/place/Luther+LLP/data=!4m7!3m6!1s0x31da190915c4eec7:0x79b07ccc65307cc8!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F1tvt7w0v!19sChIJx-7EFQkZ2jERyHwwZcx8sHk
 https://www.google.com/maps/place/KCK+Corpserve+Pte.+Ltd./data=!4m7!3m6!1s0x31da19a5ab291e55:0x75938ac55a37060d!8m2!3d1.2845102!4d103.8512289!16s%2Fg%2F11b6c_fxxh!19sChIJVR4pq6UZ2jERDQY3WsWKk3U
+https://www.google.com/maps/place/Cloudern+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da19f19871680b:0x2ec6f002b9c692c9!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11nz38ss0x!19sChIJC2hxmPEZ2jERyZLGuQLwxi4
