@@ -2066,3 +2066,4 @@ https://www.google.com/maps/place/DreamWorks+Advertising+Pte+Ltd/data=!4m7!3m6!1
 https://www.google.com/maps/place/COLLAB+DESIGN+GROUP/data=!4m7!3m6!1s0x31da19f09a6308f3:0x9fac3be9f3d645e7!8m2!3d1.2793671!4d103.8434364!16s%2Fg%2F11htlkcfjd!19sChIJ8whjmvAZ2jER50XW8-k7rJ8
 https://www.google.com/maps/place/The+DFRNT+Agency+%28Singapore%29/data=!4m7!3m6!1s0x4643b7548330211:0x7a7b7e647447f12!8m2!3d1.2760013!4d103.8459347!16s%2Fg%2F11x8gb2fvb!19sChIJEQIzSHU7ZAQREn9ER-a3pwc
 https://www.google.com/maps/place/PA-TATA-TATA/data=!4m7!3m6!1s0x31da1716a60d9671:0xe5169373dba2e2b2!8m2!3d1.2765012!4d103.8379632!16s%2Fg%2F11hy9hhw8y!19sChIJcZYNphYX2jERsuKi23OTFuU
+https://www.google.com/maps/place/VaynerMedia+Asia+Pacific/data=!4m7!3m6!1s0x31da1975191978c1:0xd2ae8bbbbb736169!8m2!3d1.2728498!4d103.8409484!16s%2Fg%2F11t3_xckq3!19sChIJwXgZGXUZ2jERaWFzu7uLrtI
