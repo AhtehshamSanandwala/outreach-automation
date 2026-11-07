@@ -1265,3 +1265,4 @@ https://www.google.com/maps/place/MEDEL+Singapore/data=!4m7!3m6!1s0x31da1baccfff
 https://www.google.com/maps/place/TIGER+EQUIPMENTS+SINGAPORE+PTE.LTD./data=!4m7!3m6!1s0x24ebe0a38abb6435:0x5e08a754e860a439!8m2!3d30.0118369!4d101.4425782!16s%2Fg%2F11vpvclkst!19sChIJNWS7iqPg6yQROaRg6FSnCF4
 https://www.google.com/maps/place/Multico+Infracore+Holdings+Pte+Ltd/data=!4m7!3m6!1s0x31da07e9e1a40923:0x508f2b399d10a9bf!8m2!3d1.289582!4d103.6304509!16s%2Fg%2F11jdcymk3_!19sChIJIwmk4ekH2jERv6kQnTkrj1A
 https://www.google.com/maps/place/Active+Aging+LLP+%28Pressalit+Singapore%29/data=!4m7!3m6!1s0x31da199804a12a3d:0x6ba79c62f8cbe6d1!8m2!3d1.2978865!4d103.8440749!16s%2Fg%2F1ptyvrxpw!19sChIJPSqhBJgZ2jER0ebL-GKcp2s
+https://www.google.com/maps/place/Multico+Power+Drive+Pte+Ltd/data=!4m7!3m6!1s0x31da0687568df3b1:0x53b300c6471c6d87!8m2!3d1.289627!4d103.6304251!16s%2Fg%2F1tlgvgh8!19sChIJsfONVocG2jERh20cR8YAs1M
