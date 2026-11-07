@@ -1835,3 +1835,4 @@ https://www.google.com/maps/place/Singpost+Post+Box/data=!4m7!3m6!1s0x31da192b79
 https://www.google.com/maps/place/Tasman+Orient+Line+Ltd/data=!4m7!3m6!1s0x31da190953a264e1:0x1848e61b3c39ca22!8m2!3d1.2844431!4d103.8510638!16s%2Fg%2F1tf5b87b!19sChIJ4WSiUwkZ2jERIso5PBvmSBg
 https://www.google.com/maps/place/Rainbow+Logistics+-+EFL+Global+Logistics+%28Pte.%29+Ltd/data=!4m7!3m6!1s0x31da1909384ad9b7:0xaafe77d4ae3e9622!8m2!3d1.28503!4d103.8522382!16s%2Fg%2F11llnxpg08!19sChIJt9lKOAkZ2jERIpY-rtR3_qo
 https://www.google.com/maps/place/Somap+International+Pte.+Ltd./data=!4m7!3m6!1s0x31da190ec8100e47:0x6ff0234415a08466!8m2!3d1.283847!4d103.852123!16s%2Fg%2F1tjv105q!19sChIJRw4QyA4Z2jERZoSgFUQj8G8
+https://www.google.com/maps/place/Norse+Shipholding+Pte.+Ltd./data=!4m7!3m6!1s0x31da1be23e617777:0x230a33c08376b5a7!8m2!3d1.2829687!4d103.8508719!16s%2Fg%2F11c1sjj2v7!19sChIJd3dhPuIb2jERp7V2g8AzCiM
