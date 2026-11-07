@@ -516,3 +516,5 @@ https://www.google.com/maps/place/AECOM+Singapore/data=!4m7!3m6!1s0x31da19a5624c
 https://www.google.com/maps/place/Aggasys+Solutions+Pte.+Ltd./data=!4m7!3m6!1s0x31da173e5ea71865:0xb44328fa11ebfed1!8m2!3d1.3591235!4d103.8343748!16s%2Fg%2F1v3hxh86!19sChIJZRinXj4X2jER0f7rEfooQ7Q
 https://www.google.com/maps/place/PIXAKNIGHTS+PTE.+LTD./data=!4m7!3m6!1s0x31da191343eb5b27:0xf270bcce2143650!8m2!3d1.324928!4d103.8943765!16s%2Fg%2F1q6kk4r12!19sChIJJ1vrQxMZ2jERUDYU4swLJw8
 https://www.google.com/maps/place/German+Centre/data=!4m7!3m6!1s0x31da1aa0d5fb499d:0x7fa159a59651a73e!8m2!3d1.3249723!4d103.7463454!16s%2Fg%2F11cjkgxj16!19sChIJnUn71aAa2jERPqdRlqVZoX8
+https://www.google.com/maps/place/P+E+Management+Services/data=!4m7!3m6!1s0x31da19eaf0c944db:0x4463dbefc0cd9f8d!8m2!3d1.3099198!4d103.8430697!16s%2Fg%2F1tdlrs_8!19sChIJ20TJ8OoZ2jERjZ_NwO_bY0Q
+https://www.google.com/maps/place/Rezolva+Pte+Ltd/data=!4m7!3m6!1s0x31da1781eb0d0933:0x5d1ea1b131e0e517!8m2!3d1.3369291!4d103.8860053!16s%2Fg%2F11rtpsfq15!19sChIJMwkN64EX2jERF-XgMbGhHl0
