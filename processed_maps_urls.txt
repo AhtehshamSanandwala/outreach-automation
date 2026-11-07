@@ -614,3 +614,5 @@ https://www.google.com/maps/place/South+West+Employment+Agency/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/1st+Allbest+Human+Resource+Pte+Ltd/data=!4m7!3m6!1s0x31da175454f94d17:0x9feae80f4ee2f0c1!8m2!3d1.305512!4d103.8300944!16s%2Fg%2F11rwl27047!19sChIJF035VFQX2jERwfDiTg_o6p8
 https://www.google.com/maps/place/Recruitment+Central+Pte+Ltd/data=!4m7!3m6!1s0x31da1975b3f6d227:0x5ab53841870f8e90!8m2!3d1.3263781!4d103.896255!16s%2Fg%2F1tfzv00n!19sChIJJ9L2s3UZ2jERkI4Ph0E4tVo
 https://www.google.com/maps/place/Averise+Agency/data=!4m7!3m6!1s0x31da19926d40711d:0x8716f6e7d3b378e9!8m2!3d1.3045795!4d103.8340621!16s%2Fg%2F1tffrfsn!19sChIJHXFAbZIZ2jER6Xiz0-f2Foc
+https://www.google.com/maps/place/Gm+Employment+Agency+Pte.+Ltd./data=!4m7!3m6!1s0x31da19c82b1aaaab:0xb15fc4dbb17c3acd!8m2!3d1.3078912!4d103.8591949!16s%2Fg%2F11j4sv1h4g!19sChIJq6oaK8gZ2jERzTp8sdvEX7E
+https://www.google.com/maps/place/Top+One+Employment+Agency+Pte+Ltd/data=!4m7!3m6!1s0x31da19813182dc77:0x5b6dde8673c9e14c!8m2!3d1.3126996!4d103.8599433!16s%2Fg%2F11rz2bcpf5!19sChIJd9yCMYEZ2jERTOHJc4bebVs
