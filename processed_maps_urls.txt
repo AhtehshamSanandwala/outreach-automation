@@ -506,3 +506,4 @@ https://www.google.com/maps/place/Credence/data=!4m7!3m6!1s0x31da19641d3046d3:0x
 https://www.google.com/maps/place/UIC+Building/data=!4m7!3m6!1s0x31da19123af15f01:0x8b867cc6e9437ebe!8m2!3d1.2780811!4d103.8497031!16s%2Fg%2F11g9j0rt8b!19sChIJAV_xOhIZ2jERvn5D6cZ8hos
 https://www.google.com/maps/place/FT+Consulting+Group/data=!4m7!3m6!1s0x31da190dbf694191:0xc3eaefdf2a42838f!8m2!3d1.3237928!4d103.8144771!16s%2Fg%2F1tcx9qfz!19sChIJkUFpvw0Z2jERj4NCKt_v6sM
 https://www.google.com/maps/place/Maxilabour+Management+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19b90a376109:0x36455803c61329b4!8m2!3d1.3045125!4d103.8533614!16s%2Fg%2F1tf_dyhl!19sChIJCWE3CrkZ2jERtCkTxgNYRTY
+https://www.google.com/maps/place/MBFC+Tower+2/data=!4m7!3m6!1s0x31da19e3e6c0f949:0x12662f3c509c7939!8m2!3d1.2797474!4d103.8538191!16s%2Fg%2F11smvqkgt9!19sChIJSfnA5uMZ2jEROXmcUDwvZhI
