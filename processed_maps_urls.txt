@@ -984,3 +984,5 @@ https://www.google.com/maps/place/Eastern+Rice+Dumpling/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Mama+Warehouse/data=!4m7!3m6!1s0x4e0a5992097455d:0x86c18c7ceeed9837!8m2!3d1.3840046!4d103.8260536!16s%2Fg%2F11p6632s8p!19sChIJXUWXIJml4AQRN5jt7nyMwYY
 https://www.google.com/maps/place/La+Tierra/data=!4m7!3m6!1s0x31da19b5ca3f5ac1:0xa5d871d2bba3a573!8m2!3d1.3062319!4d103.8363217!16s%2Fg%2F11j1bn7jnl!19sChIJwVo_yrUZ2jERc6Wju9Jx2KU
 https://www.google.com/maps/place/Far+East+Flora+Market/data=!4m7!3m6!1s0x31da1744e7cf44df:0xecd50c4b88bc66ba!8m2!3d1.337237!4d103.836778!16s%2Fg%2F11c1n1_f7t!19sChIJ30TP50QX2jERuma8iEsM1ew
+https://www.google.com/maps/place/Candipark+Pte.+Ltd./data=!4m7!3m6!1s0x31da198ce87af6e5:0xcd8cfe311d8543b0!8m2!3d1.3065703!4d103.8294759!16s%2Fg%2F11c59xzbzz!19sChIJ5fZ66IwZ2jERsEOFHTH-jM0
+https://www.google.com/maps/place/Hosin+Trading+Pte+Ltd+%28OXO+Ceramic%29-+Balestier+Branch/data=!4m7!3m6!1s0x31da17ac5f0485c3:0xf301564873e7f775!8m2!3d1.3269504!4d103.8445816!16s%2Fg%2F11n8r51yxy!19sChIJw4UEX6wX2jERdffnc0hWAfM
