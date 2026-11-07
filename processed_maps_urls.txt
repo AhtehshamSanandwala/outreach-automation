@@ -1074,3 +1074,4 @@ https://www.google.com/maps/place/BusinessForSale.sg/data=!4m7!3m6!1s0x31da18254
 https://www.google.com/maps/place/Singaporean-German+Chamber+of+Industry+and+Commerce/data=!4m7!3m6!1s0x31da1aa0d2b4723d:0x2fd3715e87eac770!8m2!3d1.3249072!4d103.7463859!16s%2Fg%2F1tdlrt0k!19sChIJPXK00qAa2jERcMfqh15x0y8
 https://www.google.com/maps/place/J+K+Info+Tech+%26+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19b91c390f87:0xe0522d8f78ec948d!8m2!3d1.3109895!4d103.8530044!16s%2Fg%2F11c46fqq8l!19sChIJhw85HLkZ2jERjZTseI8tUuA
 https://www.google.com/maps/place/Sri+Raghavendra+Construction+%26+Trading+Co.+Pte.+Ltd./data=!4m7!3m6!1s0x31da19c65326553d:0xdbc250a24912bf81!8m2!3d1.3102113!4d103.8540924!16s%2Fg%2F11h51k4xb2!19sChIJPVUmU8YZ2jERgb8SSaJQwts
+https://www.google.com/maps/place/Shima+Trading+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19a2abde3b39:0xb5e3767f64d8653!8m2!3d1.298048!4d103.844577!16s%2Fg%2F1tj8_1br!19sChIJOTveq6IZ2jERU4ZN9mc3Xgs
