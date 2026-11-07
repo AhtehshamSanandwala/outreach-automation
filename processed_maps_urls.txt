@@ -1651,3 +1651,4 @@ https://www.google.com/maps/place/VIVOS+Pte.+Ltd./data=!4m7!3m6!1s0x31da19dd7a14
 https://www.google.com/maps/place/Priority+Mail+Express+-+Raffles+Place/data=!4m7!3m6!1s0x31da19eb536835b1:0xbd9273d9d3b15ec1!8m2!3d1.2839166!4d103.8524693!16s%2Fg%2F11j94f1v0h!19sChIJsTVoU-sZ2jERwV6x09lzkr0
 https://www.google.com/maps/place/CBD+Office+Space/data=!4m7!3m6!1s0x31da1908e72fffff:0x7c0598dc8c7a237d!8m2!3d1.284493!4d103.8514567!16s%2Fg%2F11gh2swcqg!19sChIJ__8v5wgZ2jERfSN6jNyYBXw
 https://www.google.com/maps/place/BR+Law+Corporation+Main+Branch+-+Republic+Plaza/data=!4m7!3m6!1s0x31da19a43a24b979:0x5111929c8a724b2e!8m2!3d1.2831028!4d103.8509067!16s%2Fg%2F11svfd8tbv!19sChIJebkkOqQZ2jERLktyipySEVE
+https://www.google.com/maps/place/Heritage+Fiduciary+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19094d735f89:0xe868162b69460c92!8m2!3d1.2846774!4d103.8521006!16s%2Fg%2F12m95v7t9!19sChIJiV9zTQkZ2jERkgxGaSsWaOg
