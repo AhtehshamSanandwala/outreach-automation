@@ -1416,3 +1416,4 @@ https://www.google.com/maps/place/Iris+Singapore/data=!4m7!3m6!1s0x31da190c6377c
 https://www.google.com/maps/place/Branding+Agency+Singapore/data=!4m7!3m6!1s0x31da190011112357:0x973aa0870bc6e597!8m2!3d1.2835611!4d103.8522914!16s%2Fg%2F11ntsywcrg!19sChIJVyMREQAZ2jERl-XGC4egOpc
 https://www.google.com/maps/place/Corporate+Talent/data=!4m7!3m6!1s0x31da190be6ad96a9:0xeb02e4b8cdd44999!8m2!3d1.2849309!4d103.8509995!16s%2Fg%2F1ptx4c5nj!19sChIJqZat5gsZ2jERmUnUzbjkAus
 https://www.google.com/maps/place/Maillander+SG+Pte+Ltd/data=!4m7!3m6!1s0x31da19b745ffc883:0x5e8fccfde95ce2ee!8m2!3d1.2832717!4d103.8508519!16s%2Fg%2F11srrpck4k!19sChIJg8j_RbcZ2jER7uJc6f3Mj14
+https://www.google.com/maps/place/Artishoo/data=!4m7!3m6!1s0x31da190935400001:0x39fd5beca7dd27a9!8m2!3d1.2841089!4d103.852015!16s%2Fg%2F1ptx5fp39!19sChIJAQBANQkZ2jERqSfdp-xb_Tk
