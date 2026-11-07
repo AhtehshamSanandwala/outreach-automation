@@ -497,3 +497,4 @@ https://www.google.com/maps/place/FS.com+Singapore+%28Office+and+Warehouse%29/da
 https://www.google.com/maps/place/Dalstech+Pte+Ltd/data=!4m7!3m6!1s0x31da19f5f6ab0fcd:0x31a0b37873ff37c2!8m2!3d1.312354!4d103.862962!16s%2Fg%2F11fqtc0q3m!19sChIJzQ-r9vUZ2jERwjf_c3izoDE
 https://www.google.com/maps/place/Servcorp+-+Marina+Bay+Financial+Centre/data=!4m7!3m6!1s0x31da191028b94791:0xb8a77e5eef01e3f1!8m2!3d1.2797137!4d103.8539394!16s%2Fg%2F1tmkhh22!19sChIJkUe5KBAZ2jER8eMB715-p7g
 https://www.google.com/maps/place/The+Executive+Centre+-+Ocean+Financial+Centre/data=!4m7!3m6!1s0x31da190ebfae9eaf:0xbbf6d74ccd54d482!8m2!3d1.2830123!4d103.852015!16s%2Fg%2F11cn0sy0vr!19sChIJr56uvw4Z2jERgtRUzUzX9rs
+https://www.google.com/maps/place/SingCERT/data=!4m7!3m6!1s0x31da1bc0a37dbde9:0x32f658bc04a36f55!8m2!3d1.278909!4d103.845805!16s%2Fg%2F1ptzpsgx2!19sChIJ6b19o8Ab2jERVW-jBLxY9jI
