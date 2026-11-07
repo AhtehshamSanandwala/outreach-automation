@@ -467,3 +467,4 @@ https://www.google.com/maps/place/Searce+%7C+Singapore/data=!4m7!3m6!1s0x31da19a
 https://www.google.com/maps/place/Amnet+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da17e53418985f:0x45843a9bfa47d4d1!8m2!3d1.3344637!4d103.9048833!16s%2Fg%2F1tjx_01q!19sChIJX5gYNOUX2jER0dRH-ps6hEU
 https://www.google.com/maps/place/IT+Desktop+Support+Services/data=!4m7!3m6!1s0x31da19e7c692c8ad:0x9419fb4ead00d00a!8m2!3d1.3183037!4d103.8429438!16s%2Fg%2F11gbkvspzf!19sChIJrciSxucZ2jERCtAArU77GZQ
 https://www.google.com/maps/place/Dalstech+Pte+Ltd/data=!4m7!3m6!1s0x31da19f5f6ab0fcd:0x31a0b37873ff37c2!8m2!3d1.3123535!4d103.8629623!16s%2Fg%2F11fqtc0q3m!19sChIJzQ-r9vUZ2jERwjf_c3izoDE
+https://www.google.com/maps/place/Techpoint/data=!4m7!3m6!1s0x31da1740093c5177:0xf73652b8e9431e56!8m2!3d1.3894295!4d103.8494297!16s%2Fg%2F11g0jl562z!19sChIJd1E8CUAX2jERVh5D6bhSNvc
