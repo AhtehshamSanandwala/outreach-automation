@@ -1215,3 +1215,4 @@ https://www.google.com/maps/place/Provincial+Cargo+Express+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/Phoenix+Agencies+Pte+Ltd/data=!4m7!3m6!1s0x31da198d3e83a005:0xeeb81c423aec16f7!8m2!3d1.3068907!4d103.8314033!16s%2Fg%2F1ptzshrs9!19sChIJBaCDPo0Z2jER9xbsOkIcuO4
 https://www.google.com/maps/place/TCB+Group/data=!4m7!3m6!1s0x31da165c757e7203:0xe2e8e8a58455acd4!8m2!3d1.314!4d103.84425!16s%2Fg%2F1ptx7_4gz!19sChIJA3J-dVwW2jER1KxVhKXo6OI
 https://www.google.com/maps/place/A+S+Freight/data=!4m7!3m6!1s0x31da19c659526681:0x773290ff770833d4!8m2!3d1.3109549!4d103.8538209!16s%2Fg%2F1ptxzvzl2!19sChIJgWZSWcYZ2jER1DMId_-QMnc
+https://www.google.com/maps/place/Alirantara+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1992886a44a5:0x405b39eae3eff771!8m2!3d1.3053552!4d103.8344113!16s%2Fg%2F1w2ywz7b!19sChIJpURqiJIZ2jERcffv4-o5W0A
