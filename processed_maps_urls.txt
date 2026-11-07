@@ -1859,3 +1859,4 @@ https://www.google.com/maps/place/Novem+Coal+Resources+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Transnet+Resources/data=!4m7!3m6!1s0x31da190ec83ddc87:0x70e8882a6b2298a3!8m2!3d1.2838533!4d103.8519697!16s%2Fg%2F1ptwrp9c5!19sChIJh9w9yA4Z2jERo5giayqI6HA
 https://www.google.com/maps/place/Klaveness+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da19a936c551cd:0x8ff249ffb2225e5e!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F1tfsdyjx!19sChIJzVHFNqkZ2jERXl4isv9J8o8
 https://www.google.com/maps/place/Raffles+Place+MRT+Exit+H/data=!4m7!3m6!1s0x31da19dd0c0e29b3:0xc88afd3ee6a5cbbe!8m2!3d1.2853651!4d103.851567!16s%2Fg%2F11stfs070p!19sChIJsykODN0Z2jERvsul5j79isg
+https://www.google.com/maps/place/Fairfield+Chemical/data=!4m7!3m6!1s0x31da19093193c71d:0x2087fbf966efa433!8m2!3d1.2845436!4d103.8527397!16s%2Fg%2F1vc_mw81!19sChIJHceTMQkZ2jERM6TvZvn7hyA
