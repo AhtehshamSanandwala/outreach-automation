@@ -1088,3 +1088,6 @@ https://www.google.com/maps/place/Tradehub+21/data=!4m7!3m6!1s0x31da11b4a4a623ab
 https://www.google.com/maps/place/Spark+Systems+Pte+Ltd/data=!4m7!3m6!1s0x31da190df2654d8f:0xf3cd318cddde0293!8m2!3d1.2799566!4d103.849325!16s%2Fg%2F11df7ydy4z!19sChIJj01l8g0Z2jERkwLe3YwxzfM
 https://www.google.com/maps/place/Ocean+Financial+Centre+Public+Space/data=!4m7!3m6!1s0x31da190ec0e87f83:0xaaa7dbb76fe429da!8m2!3d1.2832397!4d103.8520217!16s%2Fm%2F03y8zfy!19sChIJg3_owA4Z2jER2inkb7fbp6o
 https://www.google.com/maps/place/Leftright+Corporate+Pte.+Ltd./data=!4m7!3m6!1s0x31da19cb9650af07:0xa7caca4b45a19e70!8m2!3d1.298243!4d103.844147!16s%2Fg%2F11gvy16vv_!19sChIJB69QlssZ2jERcJ6hRUvKyqc
+https://www.google.com/maps/place/GB+Building/data=!4m7!3m6!1s0x31da191263ec830f:0xf5ca6741bab90604!8m2!3d1.2788941!4d103.8481739!16s%2Fg%2F11clydgwnb!19sChIJD4PsYxIZ2jERBAa5ukFnyvU
+https://www.google.com/maps/place/Trade+Techniques+Pte+Ltd/data=!4m7!3m6!1s0x31da19bbd63e10a5:0x4409902e69ac9604!8m2!3d1.3030999!4d103.8530261!16s%2Fg%2F1tgntrh0!19sChIJpRA-1rsZ2jERBJasaS6QCUQ
+https://www.google.com/maps/place/Pinedale+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da198c8f573957:0xa1f99776b6f3e67f!8m2!3d1.3057439!4d103.8281273!16s%2Fg%2F1ptwk1hzz!19sChIJVzlXj4wZ2jERf-bztnaX-aE
