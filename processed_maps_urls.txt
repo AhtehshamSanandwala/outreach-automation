@@ -1759,3 +1759,4 @@ https://www.google.com/maps/place/Phillip+Nova+Pte+Ltd/data=!4m7!3m6!1s0x31da19a
 https://www.google.com/maps/place/JETRO+Singapore/data=!4m7!3m6!1s0x31da190e74173db1:0x81fb8670a2d06ad9!8m2!3d1.2814095!4d103.8510185!16s%2Fg%2F1wc45hwj!19sChIJsT0XdA4Z2jER2WrQonCG-4E
 https://www.google.com/maps/place/Raffemet+Pte+Ltd/data=!4m7!3m6!1s0x31da190ec652335d:0x547ed86b0aba6bd5!8m2!3d1.2842345!4d103.8524453!16s%2Fg%2F1tdnhn31!19sChIJXTNSxg4Z2jER1Wu6CmvYflQ
 https://www.google.com/maps/place/Andoman+Trading+%26+Shipping+Co.+Pte.+Ltd./data=!4m7!3m6!1s0x31da190eacb58e55:0xdbea9cc03b54b91d!8m2!3d1.284358!4d103.8510616!16s%2Fg%2F11f3x4nxz_!19sChIJVY61rA4Z2jERHblUO8Cc6ts
+https://www.google.com/maps/place/One+And+Only+Point+Trading+Private+Limited./data=!4m7!3m6!1s0x31da190ec6d00001:0x236c261ab194f585!8m2!3d1.2835225!4d103.8522867!16s%2Fg%2F11vzfpfykd!19sChIJAQDQxg4Z2jERhfWUsRombCM
