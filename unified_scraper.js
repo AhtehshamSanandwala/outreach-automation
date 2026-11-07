@@ -990,7 +990,15 @@ async function scrapeUnified() {
                         }
 
                     } catch (error) {
-                        console.log(`❌ Error processing ${company.name}: ${error.message}`);
+                        console.log(`❌ Error processing Maps details for ${company.name}: ${error.message}`);
+                        if (error.message.includes('Target closed') || error.message.includes('Session closed')) {
+                            try {
+                                if (browser.isConnected()) {
+                                    page = await browser.newPage();
+                                    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
+                                }
+                            } catch (_) {}
+                        }
                     }
 
                     // ── Cross-worker de-dupe check + claim ──────────────────
@@ -1014,7 +1022,7 @@ async function scrapeUnified() {
                             fullCompanyData.website = u.origin;
                         } catch (_) {}
                         console.log(`🌐 Checking website details for: ${fullCompanyData.name}`);
-                        const websiteDetails = await scrapeWebsiteDetails(page, fullCompanyData.website);
+                        const websiteDetails = await scrapeWebsiteDetails(browser, fullCompanyData.website);
 
                         emails = websiteDetails.emails;
                         emailCount = emails.length;
