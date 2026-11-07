@@ -1040,3 +1040,5 @@ https://www.google.com/maps/place/City+Developments+Limited/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Traders@Work+Pte+Ltd/data=!4m7!3m6!1s0x31da19f044586a5d:0xe7fdbbaee147d1c0!8m2!3d1.3249723!4d103.8794067!16s%2Fg%2F11fmq4w5_7!19sChIJXWpYRPAZ2jERwNFH4a67_ec
 https://www.google.com/maps/place/Association+of+Trade+and+Commerce+%28ATC%29+-+Singapore/data=!4m7!3m6!1s0x31da17755b735ca7:0xea6ddabafb346ab4!8m2!3d1.3358564!4d103.885446!16s%2Fg%2F11z8k0l_cd!19sChIJp1xzW3UX2jERtGo0-7rabeo
 https://www.google.com/maps/place/International+Trading+Associates,+Singapore/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x351a4e7cd94fde23!8m2!3d1.278646!4d103.8484196!16s%2Fg%2F11cmfg8mql!19sChIJS9l9TW0Z2jERI95P2XxOGjU
+https://www.google.com/maps/place/Sin+Teck+Soon+Trading+Co./data=!4m7!3m6!1s0x31da19bf5aba0b9b:0x4baf3a59ac925a6e!8m2!3d1.307231!4d103.849823!16s%2Fg%2F1ptz663lf!19sChIJmwu6Wr8Z2jERblqSrFk6r0s
+https://www.google.com/maps/place/Support+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da196c90f435ed:0xaabc44db48d56259!8m2!3d1.2754969!4d103.8428206!16s%2Fg%2F1ptz9kvsy!19sChIJ7TX0kGwZ2jERWWLVSNtEvKo
