@@ -1017,3 +1017,4 @@ https://www.google.com/maps/place/Commodity+International/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Yearly+Trading+Co/data=!4m7!3m6!1s0x31da19a094b99abf:0x5459531ac2df693e!8m2!3d1.2901877!4d103.8488702!16s%2Fg%2F1tdms43l!19sChIJv5q5lKAZ2jERPmnfwhpTWVQ
 https://www.google.com/maps/place/Cities+Trade+Pte+Ltd/data=!4m7!3m6!1s0x31da133327698d49:0x640e5816abfc320f!8m2!3d1.4635484!4d103.810215!16s%2Fg%2F11rxxlxw3m!19sChIJSY1pJzMT2jERDzL8qxZYDmQ
 https://www.google.com/maps/place/Dawood+Trading+%26+Wholesale+Pte.+Ltd./data=!4m7!3m6!1s0x31da18111c0019f3:0x5e0683f998d7f968!8m2!3d1.3142212!4d103.8988291!16s%2Fg%2F11j00stlw6!19sChIJ8xkAHBEY2jERaPnXmPmDBl4
+https://www.google.com/maps/place/OQ+Trading+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19a3294121ff:0x4730868d5cc1c7a8!8m2!3d1.3027635!4d103.837358!16s%2Fg%2F1pv1ct4ql!19sChIJ_yFBKaMZ2jERqMfBXI2GMEc
