@@ -2190,3 +2190,4 @@ https://www.google.com/maps/place/Hmlet+Singapore+%28Formerly+Habyt%29/data=!4m7
 https://www.google.com/maps/place/The+Arris/data=!4m7!3m6!1s0x31da196c63b5306d:0x4315e19019e09acb!8m2!3d1.2753469!4d103.8416613!16s%2Fg%2F1ptxq4z14!19sChIJbTC1Y2wZ2jERy5rgGZDhFUM
 https://www.google.com/maps/place/Le+Kaki+Wellness+%28Tanjong+Pagar%29/data=!4m7!3m6!1s0x31da190f16dcd1a1:0x2ee5f58ffd6bcb20!8m2!3d1.276067!4d103.8427712!16s%2Fg%2F11ph6bphhp!19sChIJodHcFg8Z2jERIMtr_Y_15S4
 https://www.google.com/maps/place/PT+TESCO+ENERGY/data=!4m7!3m6!1s0x31da191344c00001:0x679cbf90a3caecdb!8m2!3d1.2758484!4d103.8459749!16s%2Fg%2F11hz17lcnc!19sChIJAQDARBMZ2jER2-zKo5C_nGc
+https://www.google.com/maps/place/Asgard+Project+Solutions/data=!4m7!3m6!1s0x31da190b7873bb37:0x85edae924859cf3a!8m2!3d1.27606!4d103.846092!16s%2Fg%2F11b8_p7z4t!19sChIJN7tzeAsZ2jEROs9ZSJKu7YU
