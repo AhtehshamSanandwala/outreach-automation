@@ -481,3 +481,5 @@ https://www.google.com/maps/place/Corporate+Visions+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Aristou+Pte+Ltd/data=!4m7!3m6!1s0x31da19a6cb9ab6cd:0x35416022fa82256c!8m2!3d1.297193!4d103.8549477!16s%2Fg%2F11bwd8tw6t!19sChIJzbaay6YZ2jERbCWC-iJgQTU
 https://www.google.com/maps/place/ISS+Facility+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da1bd1f8d45645:0x1d859a0d698a9985!8m2!3d1.2647618!4d103.8191831!16s%2Fg%2F1tdhjbrh!19sChIJRVbU-NEb2jERhZmKaQ2ahR0
 https://www.google.com/maps/place/Smart+Property+Management+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1703865ab827:0x175cb611e3788c22!8m2!3d1.3478143!4d103.8421034!16s%2Fg%2F11t29ftb8t!19sChIJJ7hahgMX2jERIox44xG2XBc
+https://www.google.com/maps/place/Integra-It+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da190e991d5233:0xd6c372245fd7db67!8m2!3d1.2844873!4d103.8505607!16s%2Fg%2F1pty1t84d!19sChIJM1IdmQ4Z2jERZ9vXXyRyw9Y
+https://www.google.com/maps/place/Cushman+%26+Wakefield+-+Commercial+Real+Estate+Services/data=!4m7!3m6!1s0x31da190c163e4e9b:0x3495d1fa2e55b484!8m2!3d1.2838605!4d103.8500779!16s%2Fg%2F1tfcw9wr!19sChIJm04-FgwZ2jERhLRVLvrRlTQ
