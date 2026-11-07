@@ -785,3 +785,6 @@ https://www.google.com/maps/place/RDC+Corporate+F.K.A+Red+Dot+Consult/data=!4m7!
 https://www.google.com/maps/place/DrewCorp+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da190ebf14087d:0x14baf86a49ad1a88!8m2!3d1.2831801!4d103.8520125!16s%2Fg%2F1tf_qd51!19sChIJfQgUvw4Z2jERiBqtSWr4uhQ
 https://www.google.com/maps/place/Britasia+Business+Management+%26+Secretarial+Service/data=!4m7!3m6!1s0x31da19b9a67e3f0d:0xc2785ded057ae8c7!8m2!3d1.3048132!4d103.8538981!16s%2Fg%2F1ptzzm1qv!19sChIJDT9-prkZ2jERx-h6Be1deMI
 https://www.google.com/maps/place/Ronghe+Business+Services+Pte+Ltd/data=!4m7!3m6!1s0x2df0c9482da1f37f:0xcab6fa66667f353c!8m2!3d1.306203!4d103.8319184!16s%2Fg%2F11x2hvnf2p!19sChIJf_OhLUjJ8C0RPDV_Zmb6tso
+https://www.google.com/maps/place/Alpadis+%28Singapore%29+Pte.Ltd./data=!4m7!3m6!1s0x31da196d62b366cd:0xccb80ec092669e34!8m2!3d1.2832446!4d103.8496597!16s%2Fg%2F11b6bbllmr!19sChIJzWazYm0Z2jERNJ5mksAOuMw
+https://www.google.com/maps/place/Singapore+Company+Secretary/data=!4m7!3m6!1s0x31da19a0760fe8cd:0x5297c8bcdcaa3bac!8m2!3d1.2837595!4d103.8428391!16s%2Fg%2F11fm4ynm_9!19sChIJzegPdqAZ2jERrDuq3LzIl1I
+https://www.google.com/maps/place/Plutus+Corporate+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da191307770115:0xe98574d0b4074f2a!8m2!3d1.2791514!4d103.8433963!16s%2Fg%2F11sv_d2__4!19sChIJFQF3BxMZ2jERKk8HtNB0hek
