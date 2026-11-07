@@ -1002,3 +1002,5 @@ https://www.google.com/maps/place/Bulk+Trading+Far+East+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Central+Commercial+Trading+Co.+Pte+Ltd/data=!4m7!3m6!1s0x31da1831195fe9cb:0x300fb6e52a6947d4!8m2!3d1.31377!4d103.876253!16s%2Fg%2F1ptx4d2w0!19sChIJy-lfGTEY2jER1EdpKuW2DzA
 https://www.google.com/maps/place/Gees+Trading+Company/data=!4m7!3m6!1s0x31da19bafb996bc3:0xbda6c6b75bef3def!8m2!3d1.3004652!4d103.8536697!16s%2Fg%2F1thq2tmb!19sChIJw2uZ-7oZ2jER7z3vW7fGpr0
 https://www.google.com/maps/place/Honest+Trading+Co.+Pte.+Ltd./data=!4m7!3m6!1s0x31da19b7c4024673:0x4a4b43e949e6c8e0!8m2!3d1.3068068!4d103.8581941!16s%2Fg%2F1xtd_2f8!19sChIJc0YCxLcZ2jER4MjmSelDS0o
+https://www.google.com/maps/place/Afghan+Malaya+Trading+Co+Pte+Ltd+%2F+AMTC/data=!4m7!3m6!1s0x31da199147f75b3b:0x91c72a50f2eccd51!8m2!3d1.3027623!4d103.8342901!16s%2Fg%2F1v3hxhdq!19sChIJO1v3R5EZ2jERUc3s8lAqx5E
+https://www.google.com/maps/place/Export+Trading+Commodities+Pte+Ltd/data=!4m7!3m6!1s0x31da190953ef540d:0xc4711d1f10ecb2e7!8m2!3d1.275833!4d103.8460131!16s%2Fg%2F11b6c_rz3r!19sChIJDVTvUwkZ2jER57LsEB8dccQ
