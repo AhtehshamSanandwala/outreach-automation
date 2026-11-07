@@ -1375,3 +1375,4 @@ https://www.google.com/maps/place/G+Cloud/data=!4m7!3m6!1s0x2fd04fd92a5f4c05:0x6
 https://www.google.com/maps/place/SleekDigital+-+Software+Development/data=!4m7!3m6!1s0x31da1799e039337d:0xeca8ee778bd8507f!8m2!3d1.2814095!4d103.8510185!16s%2Fg%2F11gm8br9hx!19sChIJfTM54JkX2jERf1DYi3fuqOw
 https://www.google.com/maps/place/8CLICKS+Pte+Ltd/data=!4m7!3m6!1s0x31da135c949e3a31:0x7a944cf5a1000acf!8m2!3d1.2920765!4d103.8582135!16s%2Fg%2F11bychzqzy!19sChIJMTqelFwT2jERzwoAofVMlHo
 https://www.google.com/maps/place/Stitch+Interactive/data=!4m7!3m6!1s0x31da197b6180bb73:0x4b4f87401d9c20e9!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11j5hqzsbd!19sChIJc7uAYXsZ2jER6SCcHUCHT0s
+https://www.google.com/maps/place/FASTARTUP/data=!4m7!3m6!1s0x31da17920ff312d5:0x4cd9a59361bf17b5!8m2!3d1.2871064!4d103.8478796!16s%2Fg%2F11g6rkxkxk!19sChIJ1RLzD5IX2jERtRe_YZOl2Uw
