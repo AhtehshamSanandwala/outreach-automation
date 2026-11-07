@@ -1993,3 +1993,4 @@ https://www.google.com/maps/place/SJ+Digital+Media+Solutions/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Omni+Digital+Pte+Ltd/data=!4m7!3m6!1s0x31da19309b79b6e9:0xc436bfc1b4d0ce5a!8m2!3d1.3116405!4d103.87484!16s%2Fg%2F11t47lq5w3!19sChIJ6bZ5mzAZ2jERWs7QtMG_NsQ
 https://www.google.com/maps/place/vBase+Digital+-+Singapore/data=!4m7!3m6!1s0x31da196d5d863b5f:0xcd61e4a1830acce8!8m2!3d1.2729678!4d103.8424254!16s%2Fg%2F1tlbr7dt!19sChIJXzuGXW0Z2jER6MwKg6HkYc0
 https://www.google.com/maps/place/VVCARES+Singapore/data=!4m7!3m6!1s0x31da1465c63ab697:0x7c3526bf8bcf37f2!8m2!3d1.2759273!4d103.8461053!16s%2Fg%2F11b806d54c!19sChIJl7Y6xmUU2jER8jfPi78mNXw
+https://www.google.com/maps/place/Maple+Commerce/data=!4m7!3m6!1s0x31da1912cd43448b:0xf2c3eae7d6d6c80e!8m2!3d1.314!4d103.84425!16s%2Fg%2F1tfg55br!19sChIJi0RDzRIZ2jERDsjW1ufqw_I
