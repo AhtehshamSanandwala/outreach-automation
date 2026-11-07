@@ -1851,3 +1851,4 @@ https://www.google.com/maps/place/Epsco+%28Asia+Pacific%29+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/Gianna+Ship+Chandelling/data=!4m7!3m6!1s0x31da190953120bcd:0xafce14038d9bddcf!8m2!3d1.284479!4d103.851082!16s%2Fg%2F11vqsfgt07!19sChIJzQsSUwkZ2jERz92bjQMUzq8
 https://www.google.com/maps/place/TORM+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da1909468a3493:0xf0a9ff055a754e44!8m2!3d1.285539!4d103.851667!16s%2Fg%2F1tjdnvy7!19sChIJkzSKRgkZ2jERRE51WgX_qfA
 https://www.google.com/maps/place/Raffles+Place+Jetty/data=!4m7!3m6!1s0x31da190968f240ef:0xc45a2d77598b4960!8m2!3d1.2856697!4d103.8513407!16s%2Fg%2F11gf60tzxg!19sChIJ70DyaAkZ2jERYEmLWXctWsQ
+https://www.google.com/maps/place/Pacific+Logistics+Group+%28PLG%29+Tuas+HQ+Building/data=!4m7!3m6!1s0x31da07d3f4f60e7f:0xf8f262457eccd38e!8m2!3d1.2663988!4d103.6226744!16s%2Fg%2F11hbntslll!19sChIJfw729NMH2jERjtPMfkVi8vg
