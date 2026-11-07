@@ -1319,3 +1319,4 @@ https://www.google.com/maps/place/A65+Singapore/data=!4m7!3m6!1s0x31da1944949779
 https://www.google.com/maps/place/Wow+Digital/data=!4m7!3m6!1s0x31da198ce39c31eb:0x8f7db5ffe3f0dffd!8m2!3d1.2779081!4d103.8496597!16s%2Fg%2F11sf07vcdf!19sChIJ6zGc44wZ2jER_d_w4_-1fY8
 https://www.google.com/maps/place/Copyleft.+A+Leftie+Company+Pte+Ltd/data=!4m7!3m6!1s0x31da196e63c6460b:0xfc9da2f7fdc442b3!8m2!3d1.2899605!4d103.8492354!16s%2Fg%2F11h92d2t81!19sChIJC0bGY24Z2jERs0LE_feinfw
 https://www.google.com/maps/place/Heroes+of+Digital/data=!4m7!3m6!1s0x31da108a7d8deb93:0x92562da64d9605f9!8m2!3d1.3430116!4d103.8459846!16s%2Fg%2F11bxg2th77!19sChIJk-uNfYoQ2jER-QWWTaYtVpI
+https://www.google.com/maps/place/Addlly+AI/data=!4m7!3m6!1s0x31da1943c8baa801:0x7536a78c07f6d4c9!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11kjgcz2yh!19sChIJAai6yEMZ2jERydT2B4ynNnU
