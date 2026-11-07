@@ -1247,3 +1247,4 @@ https://www.google.com/maps/place/Somerville+%28Singapore%29+Pte+Ltd/data=!4m7!3
 https://www.google.com/maps/place/Vermeer+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da198c5608c975:0xd8eaf6f951f0f4f!8m2!3d1.305512!4d103.8300944!16s%2Fg%2F11b5pjzqzp!19sChIJdckIVowZ2jERTw8flW-vjg0
 https://www.google.com/maps/place/Snap-on+Tools+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da16b6c76e7e01:0x96af29efc0abce90!8m2!3d1.3862404!4d103.828902!16s%2Fg%2F1vfzbprv!19sChIJAX5ux7YW2jERkM6rwO8pr5Y
 https://www.google.com/maps/place/Bechtel+Equipment+Services/data=!4m7!3m6!1s0x31da190d9df0717d:0x8443f9a22899181b!8m2!3d1.2912074!4d103.857656!16s%2Fg%2F1tltjwpz!19sChIJfXHwnQ0Z2jERGxiZKKL5Q4Q
+https://www.google.com/maps/place/Chang+Yong+Seng+Tools+%26+Hardware+Enterprise/data=!4m7!3m6!1s0x31da175d6bed6d91:0x61f312823a290450!8m2!3d1.3349866!4d103.8434795!16s%2Fg%2F1vr39pny!19sChIJkW3ta10X2jERUAQpOoIS82E
