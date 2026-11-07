@@ -1856,3 +1856,4 @@ https://www.google.com/maps/place/Braemar+Seascope+%28Dry+Cargo%29+Pte+Ltd/data=
 https://www.google.com/maps/place/Raffles+Pl+Stn+Exit+F/data=!4m7!3m6!1s0x31da190e812835f3:0xaa170cb3059df885!8m2!3d1.2822404!4d103.8509741!16s%2Fg%2F1thscfv4!19sChIJ8zUogQ4Z2jERhfidBbMMF6o
 https://www.google.com/maps/place/Csc+Oil+Transportation+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da190ec8100e47:0x71a670bae32f67d2!8m2!3d1.283847!4d103.852123!16s%2Fg%2F1tg4yyf5!19sChIJRw4QyA4Z2jER0mcv47pwpnE
 https://www.google.com/maps/place/Novem+Coal+Resources+Pte+Ltd/data=!4m7!3m6!1s0x31da190ea26aaaab:0x198524ad9077f229!8m2!3d1.2841363!4d103.8511748!16s%2Fg%2F1ptw79mhf!19sChIJq6pqog4Z2jERKfJ3kK0khRk
+https://www.google.com/maps/place/Transnet+Resources/data=!4m7!3m6!1s0x31da190ec83ddc87:0x70e8882a6b2298a3!8m2!3d1.2838533!4d103.8519697!16s%2Fg%2F1ptwrp9c5!19sChIJh9w9yA4Z2jERo5giayqI6HA
