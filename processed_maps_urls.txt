@@ -3355,3 +3355,4 @@ https://www.google.com/maps/place/Mediterranean+Shipping+Co.+%28Switzerland%29+A
 https://www.google.com/maps/place/Sumec+Ocean+Transportation/data=!4m7!3m6!1s0x31da1902e626b011:0x3fd91e1dedddf408!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F11twm5t14h!19sChIJEbAm5gIZ2jERCPTd7R0e2T8
 https://www.google.com/maps/place/Access+World+Logistics+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1bc76d0dce65:0xed51cefae5b01d68!8m2!3d1.278027!4d103.8479839!16s%2Fg%2F11cnzf95jy!19sChIJZc4Nbccb2jERaB2w5frOUe0
 https://www.google.com/maps/place/TheLorry+Singapore/data=!4m7!3m6!1s0x31da1a52e9bfd76f:0xdedc6515ced58106!8m2!3d1.2923324!4d103.8508263!16s%2Fg%2F11dxsrsfs6!19sChIJb9e_6VIa2jERBoHVzhVl3N4
+https://www.google.com/maps/place/Swire+Shipping+Pte+Ltd/data=!4m7!3m6!1s0x31da19b2297544ef:0x10727b039d4ad7f9!8m2!3d1.3009751!4d103.8624354!16s%2Fg%2F11c1xk0hdr!19sChIJ70R1KbIZ2jER-ddKnQN7chA
