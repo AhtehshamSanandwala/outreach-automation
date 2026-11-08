@@ -2904,3 +2904,4 @@ https://www.google.com/maps/place/Mower+Store/data=!4m7!3m6!1s0x31da196bb287bf33
 https://www.google.com/maps/place/Outokumpu/data=!4m7!3m6!1s0x31da1913402e979d:0x27ab5fd479fb3420!8m2!3d1.275692!4d103.8457215!16s%2Fg%2F1tmpshmr!19sChIJnZcuQBMZ2jERIDT7edRfqyc
 https://www.google.com/maps/place/Atrcz+International/data=!4m7!3m6!1s0x31da196b44fc6b43:0x893c9ba37d0265d5!8m2!3d1.2745039!4d103.8439529!16s%2Fg%2F1ptvtrc28!19sChIJQ2v8RGsZ2jER1WUCfaObPIk
 https://www.google.com/maps/place/JL+Monarch+International+Pte+Ltd/data=!4m7!3m6!1s0x31da196d8ea35bfd:0xee7e145a3d87c99!8m2!3d1.2793962!4d103.840855!16s%2Fg%2F1ptvwwds4!19sChIJ_Vujjm0Z2jERmXzYo0Xh5w4
+https://www.google.com/maps/place/Hawk+Electronics+Pte.+Ltd./data=!4m7!3m6!1s0x31da1962dc75b6f1:0xa76d6a48ef340b08!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11fvb_sbg6!19sChIJ8bZ13GIZ2jERCAs070hqbac
