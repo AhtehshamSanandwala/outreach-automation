@@ -2845,3 +2845,4 @@ https://www.google.com/maps/place/Kamigumi+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Landmark+Freight+Forwarder/data=!4m7!3m6!1s0x31da1914bb2c0cc3:0x48308d9af3b08ec3!8m2!3d1.2745484!4d103.8458325!16s%2Fg%2F1tdq82q0!19sChIJwwwsuxQZ2jERw46w85qNMEg
 https://www.google.com/maps/place/Sanco+Line/data=!4m7!3m6!1s0x31da1914a5acc06b:0xe0f0e6cfe6c23777!8m2!3d1.274627!4d103.845714!16s%2Fg%2F1ptxvf1kl!19sChIJa8CspRQZ2jERdzfC5s_m8OA
 https://www.google.com/maps/place/SPI+Marine+%28Asia%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196cd55a9dfb:0x4e6858d29ea35935!8m2!3d1.277356!4d103.844768!16s%2Fg%2F11btm9_8kv!19sChIJ-51a1WwZ2jERNVmjntJYaE4
+https://www.google.com/maps/place/ALPS+Global+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da13391e2cbbbd:0xe2c12c7c0a8131fa!8m2!3d1.4351696!4d103.8048721!16s%2Fg%2F11sy0z9cpl!19sChIJvbssHjkT2jER-jGBCnwsweI
