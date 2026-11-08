@@ -3313,3 +3313,4 @@ https://www.google.com/maps/place/Confiserie+Newton+-+Leonidas/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Jasons+Deli+Marina+Bay+Sands/data=!4m7!3m6!1s0x31da1905d114f1ff:0xa02c9023888cf1c3!8m2!3d1.285969!4d103.859775!16s%2Fg%2F1232kxhqh!19sChIJ__EU0QUZ2jERw_GMiCOQLKA
 https://www.google.com/maps/place/MBS+Events+Plaza+Public+Space/data=!4m7!3m6!1s0x31da19a32425276f:0x6491415249b7c500!8m2!3d1.2859162!4d103.860089!16s%2Fg%2F1w3444cf!19sChIJbyclJKMZ2jERAMW3SVJBkWQ
 https://www.google.com/maps/place/The+Wholesale+Shop/data=!4m7!3m6!1s0x31da19b0f927e627:0xf3889eada74c6aa6!8m2!3d1.3008489!4d103.8589793!16s%2Fg%2F1pty4_tfn!19sChIJJ-Yn-bAZ2jERpmpMp62eiPM
+https://www.google.com/maps/place/ABC+Bargain+Centre/data=!4m7!3m6!1s0x31da19ba592a112b:0x9c68b43cbdc2c49!8m2!3d1.3007103!4d103.854602!16s%2Fg%2F11ckqrkfsh!19sChIJKxEqWboZ2jERSSzcy0OLxgk
