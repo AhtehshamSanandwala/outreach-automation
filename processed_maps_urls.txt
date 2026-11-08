@@ -3271,3 +3271,4 @@ https://www.google.com/maps/place/Code+Green+Private+Limited/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Cetaphil+Singapore/data=!4m7!3m6!1s0x31da19834320f703:0xff354fa6e30f7834!8m2!3d1.2955349!4d103.8597392!16s%2Fg%2F11h4dhx4dr!19sChIJA_cgQ4MZ2jERNHgP46ZPNf8
 https://www.google.com/maps/place/The+Macallan+House+Singapore/data=!4m7!3m6!1s0x31da1906ed41f823:0x992632c00b97662b!8m2!3d1.2949737!4d103.8536409!16s%2Fg%2F11lq1p69l0!19sChIJI_hB7QYZ2jERK2aXC8AyJpk
 https://www.google.com/maps/place/Seara+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da1223591c1d43:0x1cd3730eebdfe63c!8m2!3d1.295621!4d103.8565416!16s%2Fg%2F11gg9fnlct!19sChIJQx0cWSMS2jERPObf6w5z0xw
+https://www.google.com/maps/place/Vietnam+Food+Products+Pte+Ltd/data=!4m7!3m6!1s0x31da15c15f98a5c3:0x2bf0f23e7a0e6c15!8m2!3d1.302015!4d103.8641201!16s%2Fg%2F11xky0w0zz!19sChIJw6WYX8EV2jERFWwOej7y8Cs
