@@ -2766,3 +2766,4 @@ https://www.google.com/maps/place/Popstation+@+Tanjong+Pagar+PO/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Cantonment+Link+Warehousing+Pte+Lttd/data=!4m7!3m6!1s0x31da196bcb6ffcdf:0x19b4e33ff8c002c7!8m2!3d1.273012!4d103.840626!16s%2Fg%2F1thwxzjb!19sChIJ3_xvy2sZ2jERxwLA-D_jtBk
 https://www.google.com/maps/place/Ace+International+Freight+%26+Logistics/data=!4m7!3m6!1s0x31da196d54daf3ef:0x4ec3f64946ee718f!8m2!3d1.2789778!4d103.8447537!16s%2Fg%2F11c59xwqnl!19sChIJ7_PaVG0Z2jERj3HuRkn2w04
 https://www.google.com/maps/place/Nexxcojaya+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da196b5faa9021:0xd237db2c1387a4c4!8m2!3d1.274929!4d103.843549!16s%2Fg%2F1tf7d5my!19sChIJIZCqX2sZ2jERxKSHEyzbN9I
+https://www.google.com/maps/place/Weinberg+Logistics+%26+Distribution+Pte+Ltd/data=!4m7!3m6!1s0x31da196b59fa3cc3:0x662cde3102b866f6!8m2!3d1.2748708!4d103.8439569!16s%2Fg%2F1trvhysf!19sChIJwzz6WWsZ2jER9ma4AjHeLGY
