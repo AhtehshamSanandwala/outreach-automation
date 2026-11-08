@@ -3127,3 +3127,4 @@ https://www.google.com/maps/place/Marina+One+East+Tower/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Innergy+Consulting+Pte.+Ltd./data=!4m7!3m6!1s0x31da1901099a8de1:0x58bff8eee7c503da!8m2!3d1.2795521!4d103.8548526!16s%2Fg%2F11htyhz8l3!19sChIJ4Y2aCQEZ2jER2gPF5-74v1g
 https://www.google.com/maps/place/EmiNET+Pte+Ltd/data=!4m7!3m6!1s0x31da181e402eff25:0xba06f03b55f87631!8m2!3d1.3349415!4d103.8869606!16s%2Fg%2F1vyn1csr!19sChIJJf8uQB4Y2jERMXb4VTvwBro
 https://www.google.com/maps/place/Informatica+S.E.A.+Pte.+Ltd./data=!4m7!3m6!1s0x31da19b061e5ef3b:0x57b99b456e5b06a2!8m2!3d1.300164!4d103.8577221!16s%2Fg%2F1thvdfxg!19sChIJO-_lYbAZ2jERogZbbkWbuVc
+https://www.google.com/maps/place/JDT+Management+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19a728155555:0x962083f2bfd412af!8m2!3d1.2912803!4d103.8510486!16s%2Fg%2F1ttdvzkx!19sChIJVVUVKKcZ2jERrxLUv_KDIJY
