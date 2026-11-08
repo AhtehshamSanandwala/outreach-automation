@@ -2852,3 +2852,4 @@ https://www.google.com/maps/place/Premier+Freight+Services/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Freight+Master/data=!4m7!3m6!1s0x31da1914a496aaab:0x7744dabd7f3bc94e!8m2!3d1.2745484!4d103.8458325!16s%2Fg%2F11fmw_hn85!19sChIJq6qWpBQZ2jERTsk7f73aRHc
 https://www.google.com/maps/place/Ernst-Rayner+International/data=!4m7!3m6!1s0x31da19135d3c8167:0x29f1b7181f08fb37!8m2!3d1.2756113!4d103.8461268!16s%2Fg%2F11c59x0hdn!19sChIJZ4E8XRMZ2jERN_sIHxi38Sk
 https://www.google.com/maps/place/Seaworld+Freight/data=!4m7!3m6!1s0x31da1914bb4bf737:0xf72069e1f3c4f49e!8m2!3d1.2736152!4d103.8447006!16s%2Fg%2F11fm4yd3ch!19sChIJN_dLuxQZ2jERnvTE8-FpIPc
+https://www.google.com/maps/place/Mac-Nels+Agencies+Pte+Ltd/data=!4m7!3m6!1s0x31da196d23b14707:0x3fbcdeec35493157!8m2!3d1.2777867!4d103.8435437!16s%2Fg%2F11b6dghhf9!19sChIJB0exI20Z2jERVzFJNezevD8
