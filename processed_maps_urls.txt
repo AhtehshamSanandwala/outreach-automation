@@ -3078,3 +3078,4 @@ https://www.google.com/maps/place/Red+Dot+Design+Museum/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Creative+Foundry/data=!4m7!3m6!1s0x31da19e5f59d2d99:0x6e43ce9de838f7bf!8m2!3d1.2782794!4d103.847904!16s%2Fg%2F11lmvxvx4n!19sChIJmS2d9eUZ2jERv_c46J3OQ24
 https://www.google.com/maps/place/CMFAS+Academy/data=!4m7!3m6!1s0x31da194117225dd9:0xb39400567d5479a1!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F11h2g4k1fz!19sChIJ2V0iF0EZ2jERoXlUfVYAlLM
 https://www.google.com/maps/place/Spoon/data=!4m7!3m6!1s0x31da1979fef5083d:0x8d527360290cf3d!8m2!3d1.3318196!4d103.8907241!16s%2Fg%2F1tf_dyfy!19sChIJPQj1_nkZ2jERPc-QAjYn1Qg
+https://www.google.com/maps/place/the+Hive+North+Bridge+Road/data=!4m7!3m6!1s0x31da19492df02b6d:0xc42e5ccb53f53da4!8m2!3d1.2899199!4d103.8494699!16s%2Fg%2F11sbh9hcz2!19sChIJbSvwLUkZ2jERpD31U8tcLsQ
