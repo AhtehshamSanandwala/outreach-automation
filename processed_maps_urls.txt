@@ -3308,3 +3308,4 @@ https://www.google.com/maps/place/Tomal+Global+Pte+Ltd/data=!4m7!3m6!1s0x31da194
 https://www.google.com/maps/place/BullionStar/data=!4m7!3m6!1s0x31da19102f0905d1:0x84514482d11d3320!8m2!3d1.2883172!4d103.8471729!16s%2Fg%2F11_v5m163!19sChIJ0QUJLxAZ2jERIDMd0YJEUYQ
 https://www.google.com/maps/place/Oakley+Marina+Bay+Sands/data=!4m7!3m6!1s0x31da191a0204f56f:0xa2a99b1add16a3ca!8m2!3d1.2858477!4d103.8595607!16s%2Fg%2F11h4ttqkn0!19sChIJb_UEAhoZ2jERyqMW3RqbqaI
 https://www.google.com/maps/place/Gealubes+Consulting+%26+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da1929ae94d117:0x8427f8241f5d5fab!8m2!3d1.2792463!4d103.8541121!16s%2Fg%2F11q83cyh97!19sChIJF9GUrikZ2jERq19dHyT4J4Q
+https://www.google.com/maps/place/Aesop+Marina+Bay+Sands/data=!4m7!3m6!1s0x31da193854007f93:0x890bdb11ea52ecf!8m2!3d1.2833576!4d103.8592167!16s%2Fg%2F11h_k29frs!19sChIJk38AVDgZ2jERzy6lHrG9kAg
