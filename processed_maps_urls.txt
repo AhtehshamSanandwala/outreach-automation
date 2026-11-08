@@ -2819,3 +2819,4 @@ https://www.google.com/maps/place/Hapag-lloyd+%28Singapore%29+Pte+Ltd/data=!4m7!
 https://www.google.com/maps/place/DHL+Express+Service+Point+-+SingPost+Tanjong+Pagar+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19dce2a5b085:0x5470deb000fdda03!8m2!3d1.2748632!4d103.8426344!16s%2Fg%2F11xzctq9fr!19sChIJhbCl4twZ2jERA9r9ALDecFQ
 https://www.google.com/maps/place/Federated+Cargo+Line+Pte+Ltd/data=!4m7!3m6!1s0x31da0f8855555555:0xd7181936126e8c77!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11rkhzj47v!19sChIJVVVVVYgP2jERd4xuEjYZGNc
 https://www.google.com/maps/place/GAC+Cargo+Systems+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1912cc9fe55b:0x90014c4ae2586062!8m2!3d1.278261!4d103.844907!16s%2Fg%2F1pv5xymrj!19sChIJW-WfzBIZ2jERYmBY4kpMAZA
+https://www.google.com/maps/place/Da+Freight+%26+Transport+Services/data=!4m7!3m6!1s0x31da191350000263:0x6949a5b48799cdf1!8m2!3d1.2757739!4d103.8458904!16s%2Fg%2F1pv0lscn0!19sChIJYwIAUBMZ2jER8c2Zh7SlSWk
