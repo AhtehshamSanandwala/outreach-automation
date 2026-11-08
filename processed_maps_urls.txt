@@ -3086,3 +3086,4 @@ https://www.google.com/maps/place/Sustainable+Singapore+Gallery/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Marina+Bay+Sands+Pte+Ltd/data=!4m7!3m6!1s0x31da190ea26aaaab:0x8bc625eca2ea748e!8m2!3d1.2841363!4d103.8511748!16s%2Fg%2F1ptwqgjzw!19sChIJq6pqog4Z2jERjnTqouwlxos
 https://www.google.com/maps/place/Central+Real+Estate+Pte+Ltd/data=!4m7!3m6!1s0x31da190e4778c195:0x4fca189803ee8954!8m2!3d1.2810049!4d103.8529005!16s%2Fg%2F1hhwqqhn6!19sChIJlcF4Rw4Z2jERVInuA5gYyk8
 https://www.google.com/maps/place/VisualMediaWorks/data=!4m7!3m6!1s0x31da196d7a4b0a1b:0x73be6352bc4c9fc6!8m2!3d1.2887531!4d103.8121168!16s%2Fg%2F1tfqngqm!19sChIJGwpLem0Z2jERxp9MvFJjvnM
+https://www.google.com/maps/place/Approach+Media+Pvt.+Ltd./data=!4m7!3m6!1s0x395e84e36388cc29:0x65ecf6aebbedfe62!8m2!3d23.0319592!4d72.5614144!16s%2Fg%2F1tfgmt6f!19sChIJKcyIY-OEXjkRYv7tu6727GU
