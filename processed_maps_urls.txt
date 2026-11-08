@@ -2921,3 +2921,4 @@ https://www.google.com/maps/place/SUISSE+SING+PTE+LTD/data=!4m7!3m6!1s0x31da1913
 https://www.google.com/maps/place/Ramin+Enterprise+Pte+Limited/data=!4m7!3m6!1s0x31da1912cc9fe55b:0x986b93a07d7b111b!8m2!3d1.2782725!4d103.8448709!16s%2Fg%2F1pv1mwz2m!19sChIJW-WfzBIZ2jERGxF7faCTa5g
 https://www.google.com/maps/place/Pacific+Material+Resources+Pte+Ltd/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x426136776541407d!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1ptyc2tmd!19sChIJS9l9TW0Z2jERfUBBZXc2YUI
 https://www.google.com/maps/place/EverPeak+International/data=!4m7!3m6!1s0x31da196b5f0745bd:0x21e5daaf63852bed!8m2!3d1.274929!4d103.843549!16s%2Fg%2F1ptvrx4jr!19sChIJvUUHX2sZ2jER7SuFY6_a5SE
+https://www.google.com/maps/place/Grace+Resources/data=!4m7!3m6!1s0x31da191343eb5b27:0x3d47ed29e41c80c3!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F1ptyzf2s7!19sChIJJ1vrQxMZ2jERw4Ac5CntRz0
