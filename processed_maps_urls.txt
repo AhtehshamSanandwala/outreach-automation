@@ -3421,3 +3421,4 @@ https://www.google.com/maps/place/Big+Bus+Tours+Singapore/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Bayfront+Stn+Exit+B%2FMBS/data=!4m7!3m6!1s0x31da19043805318f:0xd1610965e5e8eab2!8m2!3d1.2832122!4d103.8601026!16s%2Fg%2F11g_g04d_!19sChIJjzEFOAQZ2jERsuro5WUJYdE
 https://www.google.com/maps/place/The+Helix+Bridge/data=!4m7!3m6!1s0x31da19071707804f:0xe96cc4b454cf960c!8m2!3d1.2874774!4d103.8606326!16zL20vMGgxcGt6!19sChIJT4AHFwcZ2jERDJbPVLTEbOk
 https://www.google.com/maps/place/Marina+Bay+Financial+Centre/data=!4m7!3m6!1s0x31da1910270aeb8d:0xf630249fcb3bb998!8m2!3d1.2795941!4d103.8544222!16s%2Fg%2F11jz5fnw8x!19sChIJjesKJxAZ2jERmLk7y58kMPY
+https://www.google.com/maps/place/Leviev/data=!4m7!3m6!1s0x31da190683a4877f:0xf7e69f174e9befa5!8m2!3d1.2846149!4d103.8596699!16s%2Fg%2F11b6d5982z!19sChIJf4ekgwYZ2jERpe-bThef5vc
