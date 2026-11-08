@@ -2725,3 +2725,4 @@ https://www.google.com/maps/place/Linksource+Trading+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Maha+Construction+%26+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da196d4d7dd94b:0xecdc347940897027!8m2!3d1.279136!4d103.844656!16s%2Fg%2F1pty8tkw6!19sChIJS9l9TW0Z2jERJ3CJQHk03Ow
 https://www.google.com/maps/place/Mangala+Shipping+%26+Trading/data=!4m7!3m6!1s0x31da1913598b22b7:0xfdafd04da4a111dd!8m2!3d1.274507!4d103.8458107!16s%2Fg%2F1th60xbv!19sChIJtyKLWRMZ2jER3RGhpE3Qr_0
 https://www.google.com/maps/place/United+Logistics+%26+Distribution+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da196b1a4556c1:0xc17881c0f8ae627!8m2!3d1.2731951!4d103.8428677!16s%2Fg%2F11hzsw2t35!19sChIJwVZFGmsZ2jERJ-aKDxyIFww
+https://www.google.com/maps/place/OOCL+Logistics+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1914b9782c85:0x951a8aa1ac66f492!8m2!3d1.2742752!4d103.8456739!16s%2Fg%2F1tmxnjq1!19sChIJhSx4uRQZ2jERkvRmrKGKGpU
