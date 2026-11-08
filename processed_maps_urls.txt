@@ -2628,3 +2628,4 @@ https://www.google.com/maps/place/Boon+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da196
 https://www.google.com/maps/place/Indigo+Precious+Metals+Pte+Ltd/data=!4m7!3m6!1s0x31da190c2564aa4b:0xab6e06c8dffe02b2!8m2!3d1.2787411!4d103.8407367!16s%2Fg%2F11bwf7wkvv!19sChIJS6pkJQwZ2jERsgL-38gGbqs
 https://www.google.com/maps/place/Kempar+Energy+Pte+Ltd/data=!4m7!3m6!1s0x31da190dc0ea6e8b:0xd1d79efb72995d13!8m2!3d1.2761154!4d103.8453521!16s%2Fg%2F1ptx9bt0n!19sChIJi27qwA0Z2jERE12Zcvue19E
 https://www.google.com/maps/place/The+Home+Shoppe/data=!4m7!3m6!1s0x31da1969b1ae58ed:0xade187a557ddbabb!8m2!3d1.2720491!4d103.83671!16s%2Fg%2F1tv21p3l!19sChIJ7ViusWkZ2jERu7rdV6WH4a0
+https://www.google.com/maps/place/Homesmart/data=!4m7!3m6!1s0x31da05fceae5934d:0x8d1a5d7bb2d2bddf!8m2!3d1.2801053!4d103.8416799!16s%2Fg%2F11q96n9_9l!19sChIJTZPl6vwF2jER373SsntdGo0
