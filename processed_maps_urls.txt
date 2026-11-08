@@ -3099,3 +3099,4 @@ https://www.google.com/maps/place/Marina-+Bay+Shipping+Group/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/IBM+Singapore/data=!4m7!3m6!1s0x31da1910b6106bcd:0x82985c88aa8472b3!8m2!3d1.2792463!4d103.8541121!16s%2Fg%2F11fcsgtrrf!19sChIJzWsQthAZ2jERs3KEqohcmII
 https://www.google.com/maps/place/Apple+Marina+Bay+Sands/data=!4m7!3m6!1s0x31da1991834f6acf:0xf423cdd3d68a7b0e!8m2!3d1.2832991!4d103.8575597!16s%2Fg%2F11kwtxg5pj!19sChIJz2pPg5EZ2jERDnuK1tPNI_Q
 https://www.google.com/maps/place/Marina+Bay+Sands+Pte.+Ltd./data=!4m7!3m6!1s0x31da190e95000001:0x2cab872264989217!8m2!3d1.2830496!4d103.8518791!16s%2Fg%2F11mv_49p5w!19sChIJAQAAlQ4Z2jERF5KYZCKHqyw
+https://www.google.com/maps/place/Rhodo+Property+%26+Estate+Management+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da190b46a3f531:0x82a802a23dfe9057!8m2!3d1.2847371!4d103.8461936!16s%2Fg%2F1td22z1q!19sChIJMfWjRgsZ2jERV5D-PaICqII
