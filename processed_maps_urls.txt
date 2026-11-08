@@ -3396,3 +3396,4 @@ https://www.google.com/maps/place/SingPost+Postbox+%7C+Posting+Box+Only/data=!4m
 https://www.google.com/maps/place/Singapore+Maxi+Cabs+by+Book+Maxi+Cab+%7C+Wheelchair+Maxi+Cab+%7C+Singapore+to+Malaysia+Private+Car+Taxi+Transport/data=!4m7!3m6!1s0x31da19a3dfa7fdb7:0xf28b6ef18ee9d238!8m2!3d1.2953872!4d103.8584671!16s%2Fg%2F11pz2vt8_k!19sChIJt_2n36MZ2jERONLpjvFui_I
 https://www.google.com/maps/place/Hanssy+Shipping+Pte.+Ltd./data=!4m7!3m6!1s0x31da19a93c22cd7f:0x2e8af011e8a6316b!8m2!3d1.2926907!4d103.8602587!16s%2Fg%2F1thkp6d4!19sChIJf80iPKkZ2jERazGm6BHwii4
 https://www.google.com/maps/place/Marina+Bay+Overpass+Viewing+Point/data=!4m7!3m6!1s0x31da19047a6a6f8f:0xdbdcaa923b2102fa!8m2!3d1.2824861!4d103.8617392!16s%2Fg%2F11c2j6_3y7!19sChIJj29qegQZ2jER-gIhO5Kq3Ns
+https://www.google.com/maps/place/Esplanade+Jetty/data=!4m7!3m6!1s0x31da1907fd755181:0x2aadec73cae1eb2e!8m2!3d1.2885787!4d103.8564977!16s%2Fg%2F11gdrzs7xz!19sChIJgVF1_QcZ2jERLuvhynPsrSo
