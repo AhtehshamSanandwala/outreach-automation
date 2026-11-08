@@ -2969,3 +2969,4 @@ https://www.google.com/maps/place/Confer+%28s+E+A%29+Shipping+Pte+Ltd/data=!4m7!
 https://www.google.com/maps/place/Innoveus+Technologies/data=!4m7!3m6!1s0x31da196d2fb795bf:0xe1ada53a4d123033!8m2!3d1.277896!4d103.8442299!16s%2Fg%2F11b5phsrq7!19sChIJv5W3L20Z2jERMzASTTqlreE
 https://www.google.com/maps/place/Den+Hartogh+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da1952ebbe8d91:0xa24eb539983ee7b6!8m2!3d1.2734969!4d103.8412373!16s%2Fg%2F11fnkrf74f!19sChIJkY2-61IZ2jERtuc-mDm1TqI
 https://www.google.com/maps/place/Glints+Global+Pte+Ltd/data=!4m7!3m6!1s0x31da191346af3aa1:0xccd19fb949ed78e0!8m2!3d1.2759394!4d103.8458633!16s%2Fg%2F1ptxcj1z2!19sChIJoTqvRhMZ2jER4HjtSbmf0cw
+https://www.google.com/maps/place/Elements+Mobile/data=!4m7!3m6!1s0x31da191343eb85cd:0x764f5d3eab119c13!8m2!3d1.2759234!4d103.8458675!16s%2Fg%2F1ptxlt6sr!19sChIJzYXrQxMZ2jERE5wRqz5dT3Y
