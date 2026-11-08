@@ -3269,3 +3269,4 @@ https://www.google.com/maps/place/Sweet+Tooth/data=!4m7!3m6!1s0x31da19a87755eaab
 https://www.google.com/maps/place/Lubritrade+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19a510000001:0x3117eddc295c131!8m2!3d1.2966742!4d103.8545193!16s%2Fg%2F1v_z6fc0!19sChIJAQAAEKUZ2jERMcGVwt1-EQM
 https://www.google.com/maps/place/Code+Green+Private+Limited/data=!4m7!3m6!1s0x31da1902e8c4e3f1:0x81117ab2c6b3d8ba!8m2!3d1.314!4d103.84425!16s%2Fg%2F11jg5vhh7y!19sChIJ8ePE6AIZ2jERutizxrJ6EYE
 https://www.google.com/maps/place/Cetaphil+Singapore/data=!4m7!3m6!1s0x31da19834320f703:0xff354fa6e30f7834!8m2!3d1.2955349!4d103.8597392!16s%2Fg%2F11h4dhx4dr!19sChIJA_cgQ4MZ2jERNHgP46ZPNf8
+https://www.google.com/maps/place/The+Macallan+House+Singapore/data=!4m7!3m6!1s0x31da1906ed41f823:0x992632c00b97662b!8m2!3d1.2949737!4d103.8536409!16s%2Fg%2F11lq1p69l0!19sChIJI_hB7QYZ2jERK2aXC8AyJpk
