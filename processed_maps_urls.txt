@@ -3204,3 +3204,4 @@ https://www.google.com/maps/place/GPW+Asia/data=!4m7!3m6!1s0x31da190d1198215f:0x
 https://www.google.com/maps/place/AGGREGATE+CONSULTANCY+SERVICES+PTE.+LTD./data=!4m7!3m6!1s0x31da19a0beeaaaab:0x7c142b61c0d231f2!8m2!3d1.2900088!4d103.8494331!16s%2Fg%2F11hd9ljqml!19sChIJq6rqvqAZ2jER8jHSwGErFHw
 https://www.google.com/maps/place/Arup+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da196b77ede699:0x24013580cbc99bde!8m2!3d1.2786776!4d103.8473788!16s%2Fg%2F1v3lmgbn!19sChIJmebtd2sZ2jER3pvJy4A1ASQ
 https://www.google.com/maps/place/CCG+Catalyst/data=!4m7!3m6!1s0x31da19facf5e4ead:0xfac712e01535bf83!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F11rx1mtvf4!19sChIJrU5ez_oZ2jERg781FeASx_o
+https://www.google.com/maps/place/BDA+International+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da198dfb48a817:0x41190520c59d1efb!8m2!3d1.2797934!4d103.8538274!16s%2Fg%2F11js8n1yh0!19sChIJF6hI-40Z2jER-x6dxSAFGUE
