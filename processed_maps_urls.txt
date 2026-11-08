@@ -2661,3 +2661,4 @@ https://www.google.com/maps/place/Grasshopper/data=!4m7!3m6!1s0x31da190c8e6a9c09
 https://www.google.com/maps/place/Ex+Trade+Singapore/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x5c1df17748b6cee0!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1ptvy32bw!19sChIJS9l9TW0Z2jER4M62SHfxHVw
 https://www.google.com/maps/place/Silver+Beryl+Trading/data=!4m7!3m6!1s0x31da191344074535:0xa5d085689fe87d63!8m2!3d1.2758977!4d103.8458975!16s%2Fg%2F1ptyrwfr3!19sChIJNUUHRBMZ2jERY33on2iF0KU
 https://www.google.com/maps/place/Arkos+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da196d29aa54d5:0x290b342ebabe0891!8m2!3d1.27751!4d103.8443596!16s%2Fg%2F1tjz0wty!19sChIJ1VSqKW0Z2jERkQi-ui40Cyk
+https://www.google.com/maps/place/Concentrate+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da1972740c0f77:0xca7c12e514a690ac!8m2!3d1.2799011!4d103.8407295!16s%2Fg%2F11c1wrw14r!19sChIJdw8MdHIZ2jERrJCmFOUSfMo
