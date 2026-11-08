@@ -3144,3 +3144,4 @@ https://www.google.com/maps/place/Asia+Square+Tower+2/data=!4m7!3m6!1s0x31da1911
 https://www.google.com/maps/place/Leica+Store+Marina+Bay+Sands/data=!4m7!3m6!1s0x31da199173870ac1:0x7cf4eacbfeb80feb!8m2!3d1.2844013!4d103.8602927!16s%2Fg%2F11b5phwy0y!19sChIJwQqHc5EZ2jER6w-4_svq9Hw
 https://www.google.com/maps/place/FPT+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da19a12c1a32e3:0x3c0b8a9355a0ef02!8m2!3d1.3108896!4d103.8638855!16s%2Fg%2F1tcx9qj7!19sChIJ4zIaLKEZ2jERAu-gVZOKCzw
 https://www.google.com/maps/place/Evtec+Management+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da19a727fd017d:0x19d87b81e33a4186!8m2!3d1.291359!4d103.851346!16s%2Fg%2F11c1wsrds3!19sChIJfQH9J6cZ2jERhkE644F72Bk
+https://www.google.com/maps/place/Marina+Bay+Link+Mall/data=!4m7!3m6!1s0x31da19007079cf61:0xc98d8daa96b81801!8m2!3d1.2803193!4d103.8535027!16s%2Fg%2F11zkv6v_nw!19sChIJYc95cAAZ2jERARi4lqqNjck
