@@ -3016,3 +3016,4 @@ https://www.google.com/maps/place/Prizm+Group+Singapore/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Marina+Bay+Sands+Singapore/data=!4m10!3m9!1s0x31da19ee4cc09203:0x26c9afefa555dd7!5m2!4m1!1i2!8m2!3d1.2837575!4d103.8591065!16zL20vMGRkOTAz!19sChIJA5LATO4Z2jER111V-v6abAI
 https://www.google.com/maps/place/Content+Outfit/data=!4m7!3m6!1s0x31da19102f0905d1:0x95e912c4137b27fb!8m2!3d1.2792463!4d103.8541121!16s%2Fg%2F11qmsvvw1n!19sChIJ0QUJLxAZ2jER-yd7E8QS6ZU
 https://www.google.com/maps/place/Digitalix/data=!4m7!3m6!1s0x31da198127105cab:0x35708370561c0bac!8m2!3d1.2912061!4d103.8576768!16s%2Fg%2F11x0npcc82!19sChIJq1wQJ4EZ2jERrAscVnCDcDU
+https://www.google.com/maps/place/GIPNETIX+PTE.+LTD./data=!4m7!3m6!1s0x31da195c5aa056f3:0xbbe130d0c774155!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F11qqj303z4!19sChIJ81agWlwZ2jERVUF3DA0Tvgs
