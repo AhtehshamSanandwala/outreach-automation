@@ -2600,3 +2600,4 @@ https://www.google.com/maps/place/Baycus+Pte+Ltd/data=!4m7!3m6!1s0x31da197992785
 https://www.google.com/maps/place/WEDO+Tools+Pte+Ltd/data=!4m7!3m6!1s0x31da17f06d89645d:0x3d1f64782a55bdf0!8m2!3d1.2759844!4d103.8441821!16s%2Fg%2F11grvhb1w4!19sChIJXWSJbfAX2jER8L1VKnhkHz0
 https://www.google.com/maps/place/Yong+Wen+Food+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1ab3c400e139:0x4d728571da0d5b8a!8m2!3d1.3322248!4d103.7157423!16s%2Fg%2F1pv00myh_!19sChIJOeEAxLMa2jERilsN2nGFck0
 https://www.google.com/maps/place/Onemas+Pte+Ltd/data=!4m7!3m6!1s0x31da196deb6a7111:0x872e190b77307a75!8m2!3d1.278812!4d103.840373!16s%2Fg%2F1ptw88rlq!19sChIJEXFq620Z2jERdXowdwsZLoc
+https://www.google.com/maps/place/Vsource+Global+Enterprises/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x85c15fd8e9a01da3!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1ptyn67wn!19sChIJS9l9TW0Z2jERox2g6dhfwYU
