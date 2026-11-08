@@ -2735,3 +2735,4 @@ https://www.google.com/maps/place/Ft+Logistics+%28Asia%29+Pte.+Ltd./data=!4m7!3m
 https://www.google.com/maps/place/Scan+Global+Logistics+%28Singapore%29+Ltd./data=!4m7!3m6!1s0x31da1963be6cf04b:0x46ca13cbdf210d74!8m2!3d1.2738552!4d103.8444647!16s%2Fg%2F11syv28gz9!19sChIJS_BsvmMZ2jERdA0h38sTykY
 https://www.google.com/maps/place/Central+Logistics+Org+Pte+Ltd/data=!4m7!3m6!1s0x31da19133945e013:0x5fb6191c82668f39!8m2!3d1.2764491!4d103.8458497!16s%2Fg%2F11vqty081r!19sChIJE-BFORMZ2jEROY9mghwZtl8
 https://www.google.com/maps/place/BCS+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da196d12e0b8c5:0xe36567858d155387!8m2!3d1.2785073!4d103.8428328!16s%2Fg%2F1ptwx6ktz!19sChIJxbjgEm0Z2jERh1MVjYVnZeM
+https://www.google.com/maps/place/Ucs+Logistics+%26+Ware+Housing+Pte+Ltd/data=!4m7!3m6!1s0x31da196af1cb60ef:0x2dfcd634b09d1402!8m2!3d1.2719849!4d103.8425706!16s%2Fg%2F1tdjtjtj!19sChIJ72DL8WoZ2jERAhSdsDTW_C0
