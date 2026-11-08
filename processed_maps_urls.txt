@@ -3311,3 +3311,4 @@ https://www.google.com/maps/place/Gealubes+Consulting+%26+Trading+Pte+Ltd/data=!
 https://www.google.com/maps/place/Aesop+Marina+Bay+Sands/data=!4m7!3m6!1s0x31da193854007f93:0x890bdb11ea52ecf!8m2!3d1.2833576!4d103.8592167!16s%2Fg%2F11h_k29frs!19sChIJk38AVDgZ2jERzy6lHrG9kAg
 https://www.google.com/maps/place/Confiserie+Newton+-+Leonidas/data=!4m7!3m6!1s0x31da19a62599703d:0x19f2a9afc6527e1c!8m2!3d1.2920047!4d103.8558964!16s%2Fg%2F1ptyt6grc!19sChIJPXCZJaYZ2jERHH5Sxq-p8hk
 https://www.google.com/maps/place/Jasons+Deli+Marina+Bay+Sands/data=!4m7!3m6!1s0x31da1905d114f1ff:0xa02c9023888cf1c3!8m2!3d1.285969!4d103.859775!16s%2Fg%2F1232kxhqh!19sChIJ__EU0QUZ2jERw_GMiCOQLKA
+https://www.google.com/maps/place/MBS+Events+Plaza+Public+Space/data=!4m7!3m6!1s0x31da19a32425276f:0x6491415249b7c500!8m2!3d1.2859162!4d103.860089!16s%2Fg%2F1w3444cf!19sChIJbyclJKMZ2jERAMW3SVJBkWQ
