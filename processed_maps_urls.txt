@@ -3139,3 +3139,4 @@ https://www.google.com/maps/place/ti%26m+Pte.+Ltd./data=!4m7!3m6!1s0x31da19aec75
 https://www.google.com/maps/place/PwC+Singapore/data=!4m7!3m6!1s0x31da190c4b0d2cbf:0x71a244bd7297d91e!8m2!3d1.278132!4d103.852771!16s%2Fg%2F1thzr964!19sChIJvywNSwwZ2jERHtmXcr1EonE
 https://www.google.com/maps/place/Marina+Bay+Residences/data=!4m7!3m6!1s0x31da19101ea399e3:0xf7d62b73e8e047db!8m2!3d1.2796864!4d103.8550598!16s%2Fm%2F0wfb23n!19sChIJ45mjHhAZ2jER20fg6HMr1vc
 https://www.google.com/maps/place/Tfw+Management+Services/data=!4m7!3m6!1s0x31da19b067c532ad:0x14d7e77d7e3d6476!8m2!3d1.300164!4d103.8577305!16s%2Fg%2F11p56n6dl_!19sChIJrTLFZ7AZ2jERdmQ9fn3n1xQ
+https://www.google.com/maps/place/Ranosys/data=!4m7!3m6!1s0x31da1008418efa93:0x736b82ed244141a3!8m2!3d1.3329636!4d103.8905053!16s%2Fg%2F1tfpm61_!19sChIJk_qOQQgQ2jERo0FBJO2Ca3M
