@@ -2882,3 +2882,4 @@ https://www.google.com/maps/place/Summit+Shipping+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/FTI+Container+Lines/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x72caae5ecab36c0a!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1ptwpnxsg!19sChIJS9l9TW0Z2jERCmyzyl6uynI
 https://www.google.com/maps/place/Kor-mac+Agency+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196b5a4f8459:0x73700cad6d671155!8m2!3d1.2746577!4d103.8439508!16s%2Fg%2F1tmg41hl!19sChIJWYRPWmsZ2jERVRFnba0McHM
 https://www.google.com/maps/place/Cyber+Shipping+Pte+Ltd/data=!4m7!3m6!1s0x31da196ce70613f7:0xf17d9146bca54bc!8m2!3d1.2771409!4d103.8429565!16s%2Fg%2F1td7f7ld!19sChIJ9xMG52wZ2jERvFTKaxTZFw8
+https://www.google.com/maps/place/Gateway+Container+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19121926c605:0xb8afcd544f838e2f!8m2!3d1.276003!4d103.8475421!16s%2Fg%2F1tvm08dv!19sChIJBcYmGRIZ2jERL46DT1TNr7g
