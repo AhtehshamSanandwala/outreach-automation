@@ -2624,3 +2624,4 @@ https://www.google.com/maps/place/Puen+Trading+Pte+Ltd+-+SKYLON/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Mitsuiwa+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1912220b830f:0xb83d04b87a35c822!8m2!3d1.2729986!4d103.8424063!16s%2Fg%2F1tqt75bk!19sChIJD4MLIhIZ2jERIsg1ergEPbg
 https://www.google.com/maps/place/Mororan+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da190f645b88dd:0x909e1f4368b0795f!8m2!3d1.2767766!4d103.8388475!16s%2Fg%2F11j57s5d_6!19sChIJ3YhbZA8Z2jERX3mwaEMfnpA
 https://www.google.com/maps/place/Ben+Foods+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da054bf84365f1:0x322fe767e6de2f54!8m2!3d1.3124271!4d103.7243652!16s%2Fg%2F1tgvb3pk!19sChIJ8WVD-EsF2jERVC_e5mfnLzI
+https://www.google.com/maps/place/Boon+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da196ce70613f7:0xafcb83b01384046e!8m2!3d1.2760013!4d103.8459347!16s%2Fg%2F1tl7l717!19sChIJ9xMG52wZ2jERbgSEE7CDy68
