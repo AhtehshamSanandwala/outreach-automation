@@ -2296,3 +2296,6 @@ https://www.google.com/maps/place/TRC+Employment+Agency+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/RecruiterPal/data=!4m7!3m6!1s0x31da17f3a9e4d013:0x3ea2ef67c4b8a7cd!8m2!3d1.2758609!4d103.8464093!16s%2Fg%2F11bbw_k0jx!19sChIJE9DkqfMX2jERzae4xGfvoj4
 https://www.google.com/maps/place/Golden+Kayin+Manpower+Pte+Ltd/data=!4m7!3m6!1s0x31da196c9e8f5ee3:0x99536cca15ecc30d!8m2!3d1.2752254!4d103.8430478!16s%2Fg%2F1ptvsn805!19sChIJ416PnmwZ2jERDcPsFcpsU5k
 https://www.google.com/maps/place/Manfield+Employment+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19a54ce256bf:0x45c2eee8157bcc0d!8m2!3d1.2808417!4d103.8485681!16s%2Fg%2F1ptvrksg_!19sChIJv1biTKUZ2jERDcx7FejuwkU
+https://www.google.com/maps/place/Best+United+Employment+Agency/data=!4m7!3m6!1s0x31da191343eb5b27:0x5baba828625a315f!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F11c59x5bsb!19sChIJJ1vrQxMZ2jERXzFaYiioq1s
+https://www.google.com/maps/place/I+Plus+Q+Human+Resources+Pte+Ltd/data=!4m7!3m6!1s0x31da196d4acfec5f:0xbe24a50019cf604c!8m2!3d1.2786504!4d103.8446097!16s%2Fg%2F1vm77zny!19sChIJX-zPSm0Z2jERTGDPGQClJL4
+https://www.google.com/maps/place/Bps+Placement+Services+Private+Limited/data=!4m7!3m6!1s0x31da1912cd43448b:0xcfc2a6ac0d253e36!8m2!3d1.2782725!4d103.8448709!16s%2Fg%2F1tngms__!19sChIJi0RDzRIZ2jERNj4lDaymws8
