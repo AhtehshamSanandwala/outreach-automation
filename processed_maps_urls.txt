@@ -2302,3 +2302,7 @@ https://www.google.com/maps/place/Bps+Placement+Services+Private+Limited/data=!4
 https://www.google.com/maps/place/Achieve+Group+Recruitment+Agency,+Singapore/data=!4m7!3m6!1s0x31da190c2ae7aa05:0xed1d859d6f3950f7!8m2!3d1.3189418!4d103.8944605!16s%2Fg%2F1tcyhkh4!19sChIJBarnKgwZ2jER91A5b52FHe0
 https://www.google.com/maps/place/Recruitment+agency+Silver+Guardian/data=!4m7!3m6!1s0x31da191b0d09e4b7:0xe31f2ed828346654!8m2!3d1.2811803!4d103.8495012!16s%2Fg%2F11z4qryrrx!19sChIJt-QJDRsZ2jERVGY0KNguH-M
 https://www.google.com/maps/place/HR+Connectus+Pte+Ltd/data=!4m7!3m6!1s0x31da1918f287eb61:0xa667c82d2ba0bba!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11fhwgqgh_!19sChIJYeuH8hgZ2jERugu60oJ8Zgo
+https://www.google.com/maps/place/Goodyear+Employment+Services+Agency/data=!4m7!3m6!1s0x31da191343ed086d:0x29dfb3bc6b89db60!8m2!3d1.275854!4d103.845954!16s%2Fg%2F1ptwj2pnh!19sChIJbQjtQxMZ2jERYNuJa7yz3yk
+https://www.google.com/maps/place/Clarist+Resources/data=!4m7!3m6!1s0x31da196d4acfec5f:0x3c957317f946e4ea!8m2!3d1.2789506!4d103.8447349!16s%2Fg%2F1thzldw4!19sChIJX-zPSm0Z2jER6uRG-RdzlTw
+https://www.google.com/maps/place/Halcyon+Knights+Singapore+-+Executive+IT+Search+%26+IT+Recruitment+Specialists/data=!4m7!3m6!1s0x31da1912f8d7c3e7:0x2a7e9f27ca3ef93f!8m2!3d1.281816!4d103.8484454!16s%2Fg%2F11c1_vhk6w!19sChIJ58PX-BIZ2jERP_k-yieffio
+https://www.google.com/maps/place/ML+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da1913440f0e5b:0xb19c55e413efc892!8m2!3d1.2760013!4d103.8459347!16s%2Fg%2F1tdvb2sp!19sChIJWw4PRBMZ2jERksjvE-RVnLE
