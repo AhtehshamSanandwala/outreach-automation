@@ -3379,3 +3379,4 @@ https://www.google.com/maps/place/Hazel+Wrights+Logistics+Pte.+Ltd./data=!4m7!3m
 https://www.google.com/maps/place/Eng+Lee+Shipping+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da1974bed7ff71:0x401c302d3dfaf496!8m2!3d1.2871839!4d103.8451368!16s%2Fg%2F1tg7zzzn!19sChIJcf_XvnQZ2jERlvT6PS0wHEA
 https://www.google.com/maps/place/Orient+Express+Forwarding+Pte+Ltd/data=!4m7!3m6!1s0x31da182e36635a41:0xa2ff3cea94de8e2b!8m2!3d1.318505!4d103.8762859!16s%2Fg%2F1tqyc00p!19sChIJQVpjNi4Y2jERK47elOo8_6I
 https://www.google.com/maps/place/New+Wave+Transport+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19aedbf982b9:0xc8f7a42e37c516bf!8m2!3d1.2946235!4d103.8597056!16s%2Fg%2F1w0qyfn4!19sChIJuYL5264Z2jERvxbFNy6k98g
+https://www.google.com/maps/place/Eastern+Pacific+Shipping+Pte+Ltd/data=!4m7!3m6!1s0x31da19a93dc7be49:0x33d21219e3fa23c4!8m2!3d1.2927362!4d103.8603223!16s%2Fg%2F11b7m9hv06!19sChIJSb7HPakZ2jERxCP64xkS0jM
