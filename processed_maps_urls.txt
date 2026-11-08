@@ -2737,3 +2737,4 @@ https://www.google.com/maps/place/Central+Logistics+Org+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/BCS+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da196d12e0b8c5:0xe36567858d155387!8m2!3d1.2785073!4d103.8428328!16s%2Fg%2F1ptwx6ktz!19sChIJxbjgEm0Z2jERh1MVjYVnZeM
 https://www.google.com/maps/place/Ucs+Logistics+%26+Ware+Housing+Pte+Ltd/data=!4m7!3m6!1s0x31da196af1cb60ef:0x2dfcd634b09d1402!8m2!3d1.2719849!4d103.8425706!16s%2Fg%2F1tdjtjtj!19sChIJ72DL8WoZ2jERAhSdsDTW_C0
 https://www.google.com/maps/place/Singapore+Shipping+Corporation+Limited/data=!4m7!3m6!1s0x31da196bbb41adf5:0x379f2cc924f9a289!8m2!3d1.2734969!4d103.8412373!16s%2Fg%2F11c5bs6jcr!19sChIJ9a1Bu2sZ2jERiaL5JMksnzc
+https://www.google.com/maps/place/Pacific+Orient+Sea+Transport+Pte+Ltd/data=!4m7!3m6!1s0x31da196d792e4171:0x3862bdd2a7e2525!8m2!3d1.2795425!4d103.8424415!16s%2Fg%2F1ptz3ltfv!19sChIJcUEueW0Z2jERJSV-Kt0rhgM
