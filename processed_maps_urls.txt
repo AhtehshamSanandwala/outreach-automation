@@ -2325,3 +2325,5 @@ https://www.google.com/maps/place/Bayes+Recruitment+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Project+Search+Pte+Ltd/data=!4m7!3m6!1s0x31da19d4c52e05a7:0xb8e03a99eeb61806!8m2!3d1.2798791!4d103.8438186!16s%2Fg%2F11q9tcfl6f!19sChIJpwUuxdQZ2jERBhi27pk64Lg
 https://www.google.com/maps/place/Active+Consultancy+Service/data=!4m7!3m6!1s0x31da196c87745565:0xf63392cf9cae8d0e!8m2!3d1.275726!4d103.842667!16s%2Fg%2F1tpf4nrw!19sChIJZVV0h2wZ2jERDo2unM-SM_Y
 https://www.google.com/maps/place/Smart+Recruitment38/data=!4m7!3m6!1s0x31da196d3b8b3c9f:0x2b8fcf54c26b379f!8m2!3d1.2782067!4d103.84371!16s%2Fg%2F1ptxq4z17!19sChIJnzyLO20Z2jERnzdrwlTPjys
+https://www.google.com/maps/place/Bj+Harvest+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da196bb5000001:0x47e3cd72a0e251a0!8m2!3d1.273125!4d103.8406987!16s%2Fg%2F11fnwhk__7!19sChIJAQAAtWsZ2jERoFHioHLN40c
+https://www.google.com/maps/place/Fairway+Employment+Agency+Pte+Ltd/data=!4m7!3m6!1s0x31da196bb500e17f:0xb66b32c45c75f560!8m2!3d1.273012!4d103.840626!16s%2Fg%2F1ptz0rkjc!19sChIJf-EAtWsZ2jERYPV1XMQya7Y
