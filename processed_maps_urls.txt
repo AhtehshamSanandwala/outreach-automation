@@ -3391,3 +3391,4 @@ https://www.google.com/maps/place/Suntec+Loading+Bay/data=!4m7!3m6!1s0x31da191da
 https://www.google.com/maps/place/Merlion+Jetty/data=!4m7!3m6!1s0x31da1908f1402d43:0x27fa2379abbb1604!8m2!3d1.2864199!4d103.8545508!16s%2Fg%2F11gf30g690!19sChIJQy1A8QgZ2jERBBa7q3kj-ic
 https://www.google.com/maps/place/EZIE/data=!4m7!3m6!1s0x31da191c512d01ed:0xe97d63be0c2421ae!8m2!3d1.2997901!4d103.8556799!16s%2Fg%2F11pd2w7q00!19sChIJ7QEtURwZ2jERriEkDL5jfek
 https://www.google.com/maps/place/Singapore+DimAl+Asia+Ground+Transport/data=!4m7!3m6!1s0x31da19a920eaba7d:0xd347a9fddac2214c!8m2!3d1.2920715!4d103.859851!16s%2Fg%2F11fz2vgg2g!19sChIJfbrqIKkZ2jERTCHC2v2pR9M
+https://www.google.com/maps/place/Nanhai+Logistics+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19aedbf982b9:0x573d03ccb8bf5db!8m2!3d1.294737!4d103.8597413!16s%2Fg%2F1tvt7w2y!19sChIJuYL5264Z2jER2_WLyzzQcwU
