@@ -3070,3 +3070,4 @@ https://www.google.com/maps/place/The+Live+Design+Project/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Graphikate+Private+Limited/data=!4m7!3m6!1s0x31da1912cc9fe55b:0x34b45fe133152b50!8m2!3d1.3188483!4d103.8927745!16s%2Fg%2F1pv1_0d60!19sChIJW-WfzBIZ2jERUCsVM-FftDQ
 https://www.google.com/maps/place/Bayfront+Event+Space/data=!4m7!3m6!1s0x31da1905436e2a11:0x8401d33ad47c7668!8m2!3d1.280581!4d103.8572689!16s%2Fg%2F11dxsbdp47!19sChIJESpuQwUZ2jERaHZ81DrTAYQ
 https://www.google.com/maps/place/Motion:+for+Impact/data=!4m7!3m6!1s0x31da19b0d180e6ed:0x3dbf4560362f013b!8m2!3d1.2809642!4d103.8457024!16s%2Fg%2F1tp24syf!19sChIJ7eaA0bAZ2jEROwEvNmBFvz0
+https://www.google.com/maps/place/BLK+J/data=!4m7!3m6!1s0x31da183822d2b287:0xdbba6ed0b7330583!8m2!3d1.2800305!4d103.8492068!16s%2Fg%2F11f5bxwlq4!19sChIJh7LSIjgY2jERgwUzt9Buuts
