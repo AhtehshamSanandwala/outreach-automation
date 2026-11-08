@@ -2700,3 +2700,4 @@ https://www.google.com/maps/place/NYLON+COFFEE+SG/data=!4m7!3m6!1s0x31da196c396d
 https://www.google.com/maps/place/Karyasindo+Trading+LLP/data=!4m7!3m6!1s0x31da19131e42693f:0x6360efb4c89cafb0!8m2!3d1.2772797!4d103.8465299!16s%2Fg%2F1pv60f9zv!19sChIJP2lCHhMZ2jERsK-cyLTvYGM
 https://www.google.com/maps/place/Cinsano+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da196d3230aa49:0x579ce272e11628da!8m2!3d1.2781359!4d103.8444952!16s%2Fg%2F1tg9f1qb!19sChIJSaowMm0Z2jER2igW4XLinFc
 https://www.google.com/maps/place/Asia+Business+Trade+Association/data=!4m7!3m6!1s0x31da19200a2d1edd:0xbed9da26fa006038!8m2!3d1.2782869!4d103.8407585!16s%2Fg%2F11j0p15spz!19sChIJ3R4tCiAZ2jEROGAA-iba2b4
+https://www.google.com/maps/place/Sinnan+Shipping+%26+Trading+Co+%28pte%29+Ltd/data=!4m7!3m6!1s0x31da196d066ffe6b:0x36e375aa83d83f64!8m2!3d1.27789!4d103.842272!16s%2Fg%2F1tfmfb0g!19sChIJa_5vBm0Z2jERZD_Yg6p14zY
