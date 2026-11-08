@@ -2799,3 +2799,4 @@ https://www.google.com/maps/place/WE+Freight+Pte+Ltd/data=!4m7!3m6!1s0x31da196bb
 https://www.google.com/maps/place/SF+Maritime+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da196ba4d00001:0xd9eca5c96664c5bc!8m2!3d1.2734955!4d103.8412354!16s%2Fg%2F11g10jll2d!19sChIJAQDQpGsZ2jERvMVkZsml7Nk
 https://www.google.com/maps/place/Flavia+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da191344c00001:0x2ee8aab299128146!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F11lky59dwp!19sChIJAQDARBMZ2jERRoESmbKq6C4
 https://www.google.com/maps/place/BBC+Chartering+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da191377716ae1:0x4b0c09bb9e8b6181!8m2!3d1.2769369!4d103.8456166!16s%2Fg%2F1tdbnd7t!19sChIJ4WpxdxMZ2jERgWGLnrsJDEs
+https://www.google.com/maps/place/Evershine+Shipping+%26+Logistics+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da196b5999cfd7:0xce81cc73fbc0dc8e!8m2!3d1.2748219!4d103.84395!16s%2Fg%2F11dxf0wf_3!19sChIJ18-ZWWsZ2jERjtzA-3PMgc4
