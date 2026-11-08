@@ -2596,3 +2596,4 @@ https://www.google.com/maps/place/YunNanLiSiKa/data=!4m7!3m6!1s0x31da195d486446e
 https://www.google.com/maps/place/Verbato+Trading/data=!4m7!3m6!1s0x31da191343eb5b27:0xb937fe71c5256bb5!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F11b6d4bw7k!19sChIJJ1vrQxMZ2jERtWslxXH-N7k
 https://www.google.com/maps/place/Swiss+Cake+Shop/data=!4m7!3m6!1s0x31da196c8e921fdd:0xadb403bb3ff53d9c!8m2!3d1.2758828!4d103.8424077!16s%2Fg%2F11b6dnqbzt!19sChIJ3R-SjmwZ2jERnD31P7sDtK0
 https://www.google.com/maps/place/International+Fibre+Resources+Pte+Ltd/data=!4m7!3m6!1s0x31da19135fd36203:0xfcb1d252630534c3!8m2!3d1.275806!4d103.846204!16s%2Fg%2F11b6_dct3f!19sChIJA2LTXxMZ2jERwzQFY1LSsfw
+https://www.google.com/maps/place/Baycus+Pte+Ltd/data=!4m7!3m6!1s0x31da19799278534d:0xe79c4df41ed6176c!8m2!3d1.2753319!4d103.8426333!16s%2Fg%2F11njkhft7q!19sChIJTVN4knkZ2jERbBfWHvRNnOc
