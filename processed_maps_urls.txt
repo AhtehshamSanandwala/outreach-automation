@@ -3050,3 +3050,4 @@ https://www.google.com/maps/place/Salt+Creatives/data=!4m7!3m6!1s0x31da179213f08
 https://www.google.com/maps/place/BBH+Singapore/data=!4m7!3m6!1s0x31da199fd8af70ff:0xc37c9cb9dfa3326f!8m2!3d1.2972086!4d103.8571199!16s%2Fg%2F11cjk35rk2!19sChIJ_3Cv2J8Z2jERbzKj37mcfMM
 https://www.google.com/maps/place/Blak+Labs/data=!4m7!3m6!1s0x31da19b13fed5bc1:0xbfeebb742d73ebd9!8m2!3d1.311461!4d103.863627!16s%2Fg%2F1tdvb2vh!19sChIJwVvtP7EZ2jER2etzLXS77r8
 https://www.google.com/maps/place/INSIDEOUT/data=!4m7!3m6!1s0x31da196f1c2fe921:0x392ee2a6300da6f4!8m2!3d1.2846027!4d103.8481381!16s%2Fg%2F11hz1820pf!19sChIJIekvHG8Z2jER9KYNMKbiLjk
+https://www.google.com/maps/place/Asylum+Creative/data=!4m7!3m6!1s0x31da190d39b37805:0x42ec17e0881db503!8m2!3d1.2900088!4d103.8494331!16s%2Fg%2F1tf6zg9m!19sChIJBXizOQ0Z2jERA7UdiOAX7EI
