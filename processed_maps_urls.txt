@@ -3083,3 +3083,4 @@ https://www.google.com/maps/place/Marina+One+West+Tower/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Art+SG/data=!4m7!3m6!1s0x31da190a92825555:0x4eb1a24f36d99ac5!8m2!3d1.2830632!4d103.8579965!16s%2Fg%2F11fmx0bh3s!19sChIJVVWCkgoZ2jERxZrZNk-isU4
 https://www.google.com/maps/place/Listed+Creative/data=!4m7!3m6!1s0x31da196b1a05fe1b:0x81a8ec52c12d20c8!8m2!3d1.2831367!4d103.841587!16s%2Fg%2F11jv32m1k4!19sChIJG_4FGmsZ2jERyCAtwVLsqIE
 https://www.google.com/maps/place/Sustainable+Singapore+Gallery/data=!4m7!3m6!1s0x31da18e32baea851:0x526e62d6a4c30d74!8m2!3d1.2802738!4d103.8711395!16s%2Fm%2F0138mykd!19sChIJUaiuK-MY2jERdA3DpNZiblI
+https://www.google.com/maps/place/Marina+Bay+Sands+Pte+Ltd/data=!4m7!3m6!1s0x31da190ea26aaaab:0x8bc625eca2ea748e!8m2!3d1.2841363!4d103.8511748!16s%2Fg%2F1ptwqgjzw!19sChIJq6pqog4Z2jERjnTqouwlxos
