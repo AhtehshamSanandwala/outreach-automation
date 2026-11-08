@@ -3242,3 +3242,4 @@ https://www.google.com/maps/place/Meekco.Asia/data=!4m7!3m6!1s0x31da173a015796a9
 https://www.google.com/maps/place/Stephenson+Harwood+%28Singapore%29+Alliance/data=!4m7!3m6!1s0x31da1909547dabd5:0xd73348ec2931215a!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F1vvdrqps!19sChIJ1at9VAkZ2jERWiExKexIM9c
 https://www.google.com/maps/place/Bitc+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da19720747aef9:0xae87e7b59d3fe81d!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F11rfpvgs14!19sChIJ-a5HB3IZ2jERHeg_nbXnh64
 https://www.google.com/maps/place/SANDBOX+CONSULTING+PTE.+LTD./data=!4m7!3m6!1s0x31da1791fed67569:0x3dea5fab09542229!8m2!3d1.2997453!4d103.8606664!16s%2Fg%2F11jq2p3jzf!19sChIJaXXW_pEX2jERKSJUCatf6j0
+https://www.google.com/maps/place/Beacon+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3a9e4d013:0x17be03048d7f59d8!8m2!3d1.2868797!4d103.8401485!16s%2Fg%2F1ptz5xb_0!19sChIJE9DkqfMX2jER2Fl_jQQDvhc
