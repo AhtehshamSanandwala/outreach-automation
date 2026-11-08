@@ -3072,3 +3072,4 @@ https://www.google.com/maps/place/Bayfront+Event+Space/data=!4m7!3m6!1s0x31da190
 https://www.google.com/maps/place/Motion:+for+Impact/data=!4m7!3m6!1s0x31da19b0d180e6ed:0x3dbf4560362f013b!8m2!3d1.2809642!4d103.8457024!16s%2Fg%2F1tp24syf!19sChIJ7eaA0bAZ2jEROwEvNmBFvz0
 https://www.google.com/maps/place/BLK+J/data=!4m7!3m6!1s0x31da183822d2b287:0xdbba6ed0b7330583!8m2!3d1.2800305!4d103.8492068!16s%2Fg%2F11f5bxwlq4!19sChIJh7LSIjgY2jERgwUzt9Buuts
 https://www.google.com/maps/place/Homecraft+Designer/data=!4m7!3m6!1s0x66459f0e6c24ba71:0xd8a5e3997d7d9318!8m2!3d1.2792665!4d103.8544615!16s%2Fg%2F11ld8ht3rj!19sChIJcbokbA6fRWYRGJN9fZnjpdg
+https://www.google.com/maps/place/Aurora+Creative/data=!4m7!3m6!1s0x31da198d9c15eaab:0x7fae196574d98d2a!8m2!3d1.278037!4d103.8479783!16s%2Fg%2F11wc1rbh8y!19sChIJq-oVnI0Z2jERKo3ZdGUZrn8
