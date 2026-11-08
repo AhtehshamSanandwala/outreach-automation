@@ -2530,3 +2530,4 @@ https://www.google.com/maps/place/Leong+Yick+Loong+Chop/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Sia+Huat+Retail+Store/data=!4m7!3m6!1s0x31da190cd334e1c7:0x19b1fef290ee791b!8m2!3d1.2823872!4d103.8447394!16s%2Fg%2F1tdr5pt6!19sChIJx-E00wwZ2jERG3nukPL-sRk
 https://www.google.com/maps/place/DeRocks+Trading/data=!4m7!3m6!1s0x31da1914a73b4fb5:0x6da861c393c775e7!8m2!3d1.2760031!4d103.8459242!16s%2Fg%2F11fx_57qgm!19sChIJtU87pxQZ2jER53XHk8NhqG0
 https://www.google.com/maps/place/Del+Monte+Pacific+Ltd/data=!4m7!3m6!1s0x31da196d9368c77b:0x1472dd21d88c066!8m2!3d1.2789342!4d103.8406415!16s%2Fg%2F1ptz663k4!19sChIJe8dok20Z2jERZsCIHdItRwE
+https://www.google.com/maps/place/Dumex+Singapore/data=!4m7!3m6!1s0x31da057dead4ea5d:0xbfa93d1b833f40ca!8m2!3d1.2749256!4d103.8453627!16s%2Fg%2F1ptynnxc4!19sChIJXerU6n0F2jERykA_gxs9qb8
