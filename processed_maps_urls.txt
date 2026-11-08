@@ -2418,3 +2418,4 @@ https://www.google.com/maps/place/A1+Business/data=!4m7!3m6!1s0x31da0ff655ac955d
 https://www.google.com/maps/place/Oakwood+Corporate+Services+Pte+Ltd/data=!4m7!3m6!1s0x4b57c61cb35a6503:0xd061ed87e158ac19!8m2!3d1.2777366!4d103.8476215!16s%2Fg%2F11kr8l79zy!19sChIJA2VasxzGV0sRGaxY4YftYdA
 https://www.google.com/maps/place/Trustnet+Corporate+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19a227621847:0x1df1ef0cf7c8113f!8m2!3d1.2750321!4d103.8435511!16s%2Fg%2F11fmldqct0!19sChIJRxhiJ6IZ2jERPxHI9wzv8R0
 https://www.google.com/maps/place/SCS+Global+Consulting+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1913440f0e35:0x3d4af2d9f54fca8e!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F1tfb_k1m!19sChIJNQ4PRBMZ2jERjspP9dnySj0
+https://www.google.com/maps/place/Gauge+-+Accounting+Services+in+Singapore/data=!4m7!3m6!1s0x31da19708eb7ed97:0x6e9c2b3e6dbaaafd!8m2!3d1.2825612!4d103.850586!16s%2Fg%2F11gjt5_vw9!19sChIJl-23jnAZ2jER_aq6bT4rnG4
