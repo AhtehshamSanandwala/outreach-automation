@@ -3137,3 +3137,4 @@ https://www.google.com/maps/place/ZENITH+Boutique+Marina+Bay+Sands/data=!4m7!3m6
 https://www.google.com/maps/place/Central+Management+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da1975a8425217:0x57d2491eb18ead61!8m2!3d1.2923407!4d103.8508826!16s%2Fg%2F11lpxyj2lm!19sChIJF1JCqHUZ2jERYa2OsR5J0lc
 https://www.google.com/maps/place/ti%26m+Pte.+Ltd./data=!4m7!3m6!1s0x31da19aec7598091:0x2923bcadeb6c9afe!8m2!3d1.2817288!4d103.850561!16s%2Fg%2F11k0svz05d!19sChIJkYBZx64Z2jER_pps6628Iyk
 https://www.google.com/maps/place/PwC+Singapore/data=!4m7!3m6!1s0x31da190c4b0d2cbf:0x71a244bd7297d91e!8m2!3d1.278132!4d103.852771!16s%2Fg%2F1thzr964!19sChIJvywNSwwZ2jERHtmXcr1EonE
+https://www.google.com/maps/place/Marina+Bay+Residences/data=!4m7!3m6!1s0x31da19101ea399e3:0xf7d62b73e8e047db!8m2!3d1.2796864!4d103.8550598!16s%2Fm%2F0wfb23n!19sChIJ45mjHhAZ2jER20fg6HMr1vc
