@@ -2293,3 +2293,4 @@ https://www.google.com/maps/place/Recruit,+Place+%26+Train/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Asia+Search+Pte+Ltd/data=!4m7!3m6!1s0x31da191375007441:0xf827583a4ef6e25d!8m2!3d1.2760123!4d103.8473908!16s%2Fg%2F11cmzmh5m3!19sChIJQXQAdRMZ2jERXeL2TjpYJ_g
 https://www.google.com/maps/place/Lucky-1+Employment+Agency/data=!4m7!3m6!1s0x31da196c90f435ed:0x3b92ade8169126d7!8m2!3d1.2753319!4d103.8426333!16s%2Fg%2F1ptxrxhbn!19sChIJ7TX0kGwZ2jER1yaRFuitkjs
 https://www.google.com/maps/place/TRC+Employment+Agency+Pte+Ltd/data=!4m7!3m6!1s0x31da196c90f435ed:0xd6ad90f23183b4bd!8m2!3d1.2754969!4d103.8428206!16s%2Fg%2F1ptx_v2nb!19sChIJ7TX0kGwZ2jERvbSDMfKQrdY
+https://www.google.com/maps/place/RecruiterPal/data=!4m7!3m6!1s0x31da17f3a9e4d013:0x3ea2ef67c4b8a7cd!8m2!3d1.2758609!4d103.8464093!16s%2Fg%2F11bbw_k0jx!19sChIJE9DkqfMX2jERzae4xGfvoj4
