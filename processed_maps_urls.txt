@@ -2545,3 +2545,4 @@ https://www.google.com/maps/place/Transmed+International+Pte+Ltd/data=!4m7!3m6!1
 https://www.google.com/maps/place/Blackbird+Group+Pte.+Ltd./data=!4m7!3m6!1s0x31da1950e073494b:0xec76b79ec533220c!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11h109wc95!19sChIJS0lz4FAZ2jERDCIzxZ63duw
 https://www.google.com/maps/place/Dessert+and+Palettes/data=!4m7!3m6!1s0x31da196d3c8446f5:0xe272f9e10d89fd9c!8m2!3d1.2781025!4d103.8436326!16s%2Fg%2F1pv00z9k4!19sChIJ9UaEPG0Z2jERnP2JDeH5cuI
 https://www.google.com/maps/place/Wholesale+Sg/data=!4m7!3m6!1s0x31da175bf8b28d75:0xcd35594afcb409ee!8m2!3d1.3340163!4d103.9012818!16s%2Fg%2F11gy316bf6!19sChIJdY2y-FsX2jER7gm0_EpZNc0
+https://www.google.com/maps/place/Global+Profectus+Trade+Pte.+Ltd./data=!4m7!3m6!1s0x31da196cab2c1b97:0x587afdbcd01aa8dd!8m2!3d1.2748689!4d103.8440435!16s%2Fg%2F11mr2_tvhn!19sChIJlxssq2wZ2jER3aga0Lz9elg
