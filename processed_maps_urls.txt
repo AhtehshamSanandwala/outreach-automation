@@ -2942,3 +2942,4 @@ https://www.google.com/maps/place/Gotop+Offshore+Industrial+Pte+Ltd/data=!4m7!3m
 https://www.google.com/maps/place/Marshal+International+Resources+Pte+Ltd/data=!4m7!3m6!1s0x31da196d2cbadd81:0x58766de0d272eaf3!8m2!3d1.2777341!4d103.8447455!16s%2Fg%2F1ptzgrw78!19sChIJgd26LG0Z2jER8-py0uBtdlg
 https://www.google.com/maps/place/Red+Scarlet+Private+Ltd/data=!4m7!3m6!1s0x31da1913467e095f:0x2d919c29dc8e3306!8m2!3d1.275937!4d103.845715!16s%2Fg%2F1ptx_th1y!19sChIJXwl-RhMZ2jERBjOO3CmckS0
 https://www.google.com/maps/place/PROSE+Technologies+%28Singapore%29+Pte.Ltd/data=!4m7!3m6!1s0x31da19c25bc739cd:0xf4c970e97f439e93!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11vhcylbn1!19sChIJzTnHW8IZ2jERk55Df-lwyfQ
+https://www.google.com/maps/place/The+Daily+Bread/data=!4m7!3m6!1s0x31da196d7d677387:0x15edd61dc30e4e66!8m2!3d1.2796996!4d103.8425502!16s%2Fg%2F11c59xk04x!19sChIJh3NnfW0Z2jERZk4Owx3W7RU
