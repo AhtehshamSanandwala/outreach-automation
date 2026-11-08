@@ -2346,3 +2346,6 @@ https://www.google.com/maps/place/Newbridge/data=!4m7!3m6!1s0x31da19f5df3943c9:0
 https://www.google.com/maps/place/Principle+Partners+-+Connecting+People/data=!4m7!3m6!1s0x1004015142ff52a1:0xfbf1408a64fa3762!8m2!3d1.2798917!4d103.8469745!16s%2Fg%2F11b6d7dmcc!19sChIJoVL_QlEBBBARYjf6ZIpA8fs
 https://www.google.com/maps/place/ExecutiveDNA+Pte+Ltd/data=!4m7!3m6!1s0x31da190ea900eadf:0xe7ee58ddcc3848d!8m2!3d1.275888!4d103.845931!16s%2Fg%2F11b8c2rzzs!19sChIJ3-oAqQ4Z2jERjYTD3I3lfg4
 https://www.google.com/maps/place/eXecSearch/data=!4m7!3m6!1s0x31da191343ed1df9:0x24573cc002b9bb2f!8m2!3d1.274697!4d103.8458379!16s%2Fg%2F1ptwzl7pg!19sChIJ-R3tQxMZ2jERL7u5AsA8VyQ
+https://www.google.com/maps/place/Boyd+%26+Moore+Executive+Search+%28Singapore%29/data=!4m7!3m6!1s0x31da191263ec830d:0xf7c76c3d545881f0!8m2!3d1.281929!4d103.8500923!16s%2Fg%2F11bvvyc5df!19sChIJDYPsYxIZ2jER8IFYVD1sx_c
+https://www.google.com/maps/place/TRINITY+HR+SOLUTIONS+Pte+Ltd/data=!4m7!3m6!1s0x31da196bb3f7a9cb:0x12450800dc795811!8m2!3d1.2745576!4d103.8439716!16s%2Fg%2F11dyncm8f6!19sChIJy6n3s2sZ2jEREVh53AAIRRI
+https://www.google.com/maps/place/Themis+Search+Pte.+Ltd./data=!4m7!3m6!1s0x31da194fabb6654f:0x44272a51f814723f!8m2!3d1.2782794!4d103.847904!16s%2Fg%2F11z62_hwb3!19sChIJT2W2q08Z2jERP3IU-FEqJ0Q
