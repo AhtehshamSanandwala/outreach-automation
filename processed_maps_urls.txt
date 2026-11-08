@@ -3363,3 +3363,4 @@ https://www.google.com/maps/place/Asia+Marine+Logistics+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/5M+Global+Logistics/data=!4m7!3m6!1s0x31da19a57eca5669:0x212bcfa616d4f47c!8m2!3d1.2963543!4d103.8559451!16s%2Fg%2F1ptwjkbf3!19sChIJaVbKfqUZ2jERfPTUFqbPKyE
 https://www.google.com/maps/place/Global+Offshore+Logistics/data=!4m7!3m6!1s0x31da190df35aaaab:0xc8baee15bc2fb822!8m2!3d1.2800305!4d103.8492068!16s%2Fg%2F11hz17j8j8!19sChIJq6pa8w0Z2jERIrgvvBXuusg
 https://www.google.com/maps/place/BLUE+OCEAN+MARINE+SERVICES+PTE+LTD/data=!4m7!3m6!1s0x31da1313f4a00f63:0x36a8cafb661bb300!8m2!3d1.2810763!4d103.8517885!16s%2Fg%2F11qf_wv00l!19sChIJYw-g9BMT2jERALMbZvvKqDY
+https://www.google.com/maps/place/Lighthouse+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3d2eefcc14e1:0xbca27174bbb1bb!8m2!3d1.2984708!4d103.8588833!16s%2Fg%2F11t3_zyv56!19sChIJ4RTM7y492jERu7G7dHGivAA
