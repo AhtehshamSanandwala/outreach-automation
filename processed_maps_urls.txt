@@ -2730,3 +2730,4 @@ https://www.google.com/maps/place/MCC+Transport/data=!4m7!3m6!1s0x31da196bbb2e45
 https://www.google.com/maps/place/BLUE+LOGISTICS/data=!4m7!3m6!1s0x31da19b57213037d:0x5a84116ec1e3ee2b!8m2!3d1.2755443!4d103.8456811!16s%2Fg%2F11v0qzs4r7!19sChIJfQMTcrUZ2jERK-7jwW4RhFo
 https://www.google.com/maps/place/Supreme+International+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1931aeaf9417:0x8a72a127ea00cd69!8m2!3d1.2734969!4d103.8412373!16s%2Fg%2F11fs9n7cc9!19sChIJF5SvrjEZ2jERac0A6iehcoo
 https://www.google.com/maps/place/Eagletainer+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da196749c227d1:0x1eedd73efe6b7733!8m2!3d1.2734969!4d103.8412373!16s%2Fg%2F1thx1k25!19sChIJ0SfCSWcZ2jERM3dr_j7X7R4
+https://www.google.com/maps/place/Royal+Star+Logistic+Pte+Ltd/data=!4m7!3m6!1s0x31da19127f05e6dd:0x9c3aee196c2a705a!8m2!3d1.2759137!4d103.8462311!16s%2Fg%2F11f3s1tjd3!19sChIJ3eYFfxIZ2jERWnAqbBnuOpw
