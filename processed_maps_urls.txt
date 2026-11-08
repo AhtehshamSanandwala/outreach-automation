@@ -2945,3 +2945,4 @@ https://www.google.com/maps/place/PROSE+Technologies+%28Singapore%29+Pte.Ltd/dat
 https://www.google.com/maps/place/The+Daily+Bread/data=!4m7!3m6!1s0x31da196d7d677387:0x15edd61dc30e4e66!8m2!3d1.2796996!4d103.8425502!16s%2Fg%2F11c59xk04x!19sChIJh3NnfW0Z2jERZk4Owx3W7RU
 https://www.google.com/maps/place/Borderfree+Trading%26Services/data=!4m7!3m6!1s0x31da191346460d47:0x495c6806f70fc6e!8m2!3d1.2760252!4d103.8456488!16s%2Fg%2F1pty1htf2!19sChIJRw1GRhMZ2jERbvxwb4DGlQQ
 https://www.google.com/maps/place/Sara+Traders+Pte+Ltd/data=!4m7!3m6!1s0x31da191344397d1f:0xf64d93c51da8dfec!8m2!3d1.2758639!4d103.8457783!16s%2Fg%2F1ptxgxqcs!19sChIJH305RBMZ2jER7N-oHcWTTfY
+https://www.google.com/maps/place/Ark+Scientific+Pte+Ltd/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x2834ce13840a7e4c!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1pv0251s6!19sChIJS9l9TW0Z2jERTH4KhBPONCg
