@@ -3097,3 +3097,4 @@ https://www.google.com/maps/place/Instant+Management+Services/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/The+Digital+Gadgets+Marina+Bay+Sands/data=!4m7!3m6!1s0x31da192ee1c54997:0x56ddf07a16e7d56f!8m2!3d1.2840455!4d103.8594545!16s%2Fg%2F11ry9tk0z5!19sChIJl0nF4S4Z2jERb9XnFnrw3VY
 https://www.google.com/maps/place/Marina-+Bay+Shipping+Group/data=!4m7!3m6!1s0x31da1975f48a31d7:0xf9f91d6568fcfc74!8m2!3d1.2845452!4d103.8526975!16s%2Fg%2F11fvsty_xf!19sChIJ1zGK9HUZ2jERdPz8aGUd-fk
 https://www.google.com/maps/place/IBM+Singapore/data=!4m7!3m6!1s0x31da1910b6106bcd:0x82985c88aa8472b3!8m2!3d1.2792463!4d103.8541121!16s%2Fg%2F11fcsgtrrf!19sChIJzWsQthAZ2jERs3KEqohcmII
+https://www.google.com/maps/place/Apple+Marina+Bay+Sands/data=!4m7!3m6!1s0x31da1991834f6acf:0xf423cdd3d68a7b0e!8m2!3d1.2832991!4d103.8575597!16s%2Fg%2F11kwtxg5pj!19sChIJz2pPg5EZ2jERDnuK1tPNI_Q
