@@ -2643,3 +2643,4 @@ https://www.google.com/maps/place/Ren+%26+Zhang+Worldwide+Trading+%28S%29+Pte+Lt
 https://www.google.com/maps/place/Pacific+Resources+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da190f8b3baf41:0x8c257bbc3ea83ff2!8m2!3d1.2753676!4d103.8463986!16s%2Fg%2F11ypn7h9_m!19sChIJQa87iw8Z2jER8j-oPrx7JYw
 https://www.google.com/maps/place/Ketan+Trading+Co/data=!4m7!3m6!1s0x31da196b5acd09d7:0x1db69a50a51e59f4!8m2!3d1.2745039!4d103.8439529!16s%2Fg%2F1thzldw1!19sChIJ1wnNWmsZ2jER9FkepVCath0
 https://www.google.com/maps/place/Water+8+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da191343dc13b7:0x280093a27d7366d3!8m2!3d1.275896!4d103.84601!16s%2Fg%2F1ptyz3b6d!19sChIJtxPcQxMZ2jER02ZzfaKTACg
+https://www.google.com/maps/place/Harbour+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da191342fc5003:0xe01f99c092b9a2bb!8m2!3d1.2757462!4d103.8460956!16s%2Fg%2F1ptw49t3d!19sChIJA1D8QhMZ2jERu6K5ksCZH-A
