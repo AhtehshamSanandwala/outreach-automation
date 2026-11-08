@@ -2980,3 +2980,4 @@ https://www.google.com/maps/place/Totoku+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1
 https://www.google.com/maps/place/Hoyer-Odfjell+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1914bfeffdfd:0xbff9d06e6252d81e!8m2!3d1.2739069!4d103.846216!16s%2Fg%2F1pty0g753!19sChIJ_f3vvxQZ2jERHthSYm7Q-b8
 https://www.google.com/maps/place/EHS+Solutions+Singapore/data=!4m7!3m6!1s0x31da191343eb5b27:0xf2ff8fc40c122a7c!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F1pt_f7tsd!19sChIJJ1vrQxMZ2jERfCoSDMSP__I
 https://www.google.com/maps/place/TechWiz/data=!4m7!3m6!1s0x31da19131e42693f:0xe77ca1a96e3e71a2!8m2!3d1.2772797!4d103.8465299!16s%2Fg%2F1ptw400kb!19sChIJP2lCHhMZ2jERonE-bqmhfOc
+https://www.google.com/maps/place/Buds+%26+Buds+Associates+Pte+Ltd/data=!4m7!3m6!1s0x31da196d4d7dd94b:0xe5088cfdb833fbf!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1ptx__8nr!19sChIJS9l9TW0Z2jERvz-D28-IUA4
