@@ -1037,3 +1037,5 @@ https://www.linkedin.com/company/louis-dreyfus-company
 https://www.linkedin.com/company/cosentino
 https://www.linkedin.com/company/themacallan
 https://www.linkedin.com/company/takeda-pharmaceuticals
+https://www.linkedin.com/company/van-cleef-&-arpels
+https://www.linkedin.com/company/van-cleef-&amp;-arpels
