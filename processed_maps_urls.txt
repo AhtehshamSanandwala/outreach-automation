@@ -2999,3 +2999,4 @@ https://www.google.com/maps/place/ThriveLive/data=!4m7!3m6!1s0x31da3d139dbe2a91:
 https://www.google.com/maps/place/QSS+GROUP/data=!4m7!3m6!1s0x31da1978ca5526cf:0x992adfd95bff44e1!8m2!3d1.2795092!4d103.8541591!16s%2Fg%2F11sw41hwmt!19sChIJzyZVyngZ2jER4UT_W9nfKpk
 https://www.google.com/maps/place/BizzmanWeb/data=!4m7!3m6!1s0x31da19cf26d99937:0x1092892c8d09e867!8m2!3d1.2806138!4d103.8528076!16s%2Fg%2F11hzn4t_6z!19sChIJN5nZJs8Z2jERZ-gJjSyJkhA
 https://www.google.com/maps/place/Confidence+Communication+Pte.+Ltd./data=!4m7!3m6!1s0x31da19bf5f6a5ce1:0x7ff1b2b107472303!8m2!3d1.2813793!4d103.8528525!16s%2Fg%2F11v9kvbcmr!19sChIJ4VxqX78Z2jERAyNHB7Gy8X8
+https://www.google.com/maps/place/KKBC+SINGAPORE+PTE.+LTD./data=!4m7!3m6!1s0x31da1922fa2cd5a7:0x31250d4852b98879!8m2!3d1.2801981!4d103.8542167!16s%2Fg%2F11jfv5vbsz!19sChIJp9Us-iIZ2jEReYi5UkgNJTE
