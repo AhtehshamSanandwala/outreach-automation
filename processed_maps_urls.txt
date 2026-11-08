@@ -2710,3 +2710,4 @@ https://www.google.com/maps/place/World+Trade+Group+Limited/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/V+Logistics+%26+Trading+%28Pte.%29+Ltd./data=!4m7!3m6!1s0x31da1913389a60c3:0xae400f935b571874!8m2!3d1.276017!4d103.845922!16s%2Fg%2F11bwqft8fl!19sChIJw2CaOBMZ2jERdBhXW5MPQK4
 https://www.google.com/maps/place/Berjaya+International+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da196b013ba677:0x676501d70257a106!8m2!3d1.272967!4d103.8421539!16s%2Fg%2F1ptx_th1z!19sChIJd6Y7AWsZ2jERBqFXAtcBZWc
 https://www.google.com/maps/place/Jisc+Investment+%26+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da191345e5510d:0x7935844421123f3d!8m2!3d1.2758854!4d103.8455852!16s%2Fg%2F1ptz65tqw!19sChIJDVHlRRMZ2jERPT8SIUSENXk
+https://www.google.com/maps/place/JJ+Forwarding+%26+Trading/data=!4m7!3m6!1s0x31da1912cb58fe29:0x8c5254aae11544d9!8m2!3d1.2782725!4d103.8448709!16s%2Fg%2F11c59wnxn0!19sChIJKf5YyxIZ2jER2UQV4apUUow
