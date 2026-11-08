@@ -2582,3 +2582,4 @@ https://www.google.com/maps/place/Pharchem+Industries+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Nineteen86/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x8b8aeeaf0fdb90c7!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1pt_9wsqb!19sChIJS9l9TW0Z2jERx5DbD6_uios
 https://www.google.com/maps/place/Buzzfit/data=!4m7!3m6!1s0x31da19131e42693f:0x68576a894422b891!8m2!3d1.2772797!4d103.8465299!16s%2Fg%2F1ptxwt9j0!19sChIJP2lCHhMZ2jERkbgiRIlqV2g
 https://www.google.com/maps/place/Kawaken+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da134631ec6759:0x9744b28fc90f7531!8m2!3d1.2759073!4d103.8462067!16s%2Fg%2F1tfwmgl0!19sChIJWWfsMUYT2jERMXUPyY-yRJc
+https://www.google.com/maps/place/Associated+Tobacco+Company+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196d2df8576d:0xe05262db5f99777f!8m2!3d1.2780891!4d103.8445455!16s%2Fg%2F1ptzmnqvr!19sChIJbVf4LW0Z2jERf3eZX9tiUuA
