@@ -2647,3 +2647,4 @@ https://www.google.com/maps/place/Harbour+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Hock+Ho+Seng+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da196b48115507:0x2d8157c3b613cc0c!8m2!3d1.2731276!4d103.8450984!16s%2Fg%2F1tdmmkvw!19sChIJB1URSGsZ2jERDMwTtsNXgS0
 https://www.google.com/maps/place/Eshan+Trading/data=!4m7!3m6!1s0x31da196d44c22993:0xa1250c0e10037e8e!8m2!3d1.2790748!4d103.843815!16s%2Fg%2F1ptvt7h72!19sChIJkynCRG0Z2jERjn4DEA4MJaE
 https://www.google.com/maps/place/Solution+Engineering+%26+Trading/data=!4m7!3m6!1s0x31da191343eb5b27:0x80a0cb18aed17a6e!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F11b5pjs8p7!19sChIJJ1vrQxMZ2jERbnrRrhjLoIA
+https://www.google.com/maps/place/Pelagic+Resources+Pte+Ltd/data=!4m7!3m6!1s0x31da180564255867:0x93519641dcdbca9c!8m2!3d1.2797486!4d103.8430016!16s%2Fg%2F11j3vh_p8n!19sChIJZ1glZAUY2jERnMrb3EGWUZM
