@@ -2848,3 +2848,4 @@ https://www.google.com/maps/place/SPI+Marine+%28Asia%29+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/ALPS+Global+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da13391e2cbbbd:0xe2c12c7c0a8131fa!8m2!3d1.4351696!4d103.8048721!16s%2Fg%2F11sy0z9cpl!19sChIJvbssHjkT2jER-jGBCnwsweI
 https://www.google.com/maps/place/Cargo+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da1972a93cb05d:0x54e6bd4b2b534fe1!8m2!3d1.2799633!4d103.8443176!16s%2Fg%2F1tgnjljw!19sChIJXbA8qXIZ2jER4U9TK0u95lQ
 https://www.google.com/maps/place/Mobility+Shipping+Pte+Ltd/data=!4m7!3m6!1s0x31da196a8dad099b:0x5bcaffabcab45e50!8m2!3d1.2719849!4d103.8425706!16s%2Fg%2F1ttdkhmq!19sChIJmwmtjWoZ2jERUF60yqv_yls
+https://www.google.com/maps/place/Premier+Freight+Services/data=!4m7!3m6!1s0x31da1912d385f309:0xad0b89aff46df335!8m2!3d1.277968!4d103.8452548!16s%2Fg%2F1ptv_6v80!19sChIJCfOF0xIZ2jERNfNt9K-JC60
