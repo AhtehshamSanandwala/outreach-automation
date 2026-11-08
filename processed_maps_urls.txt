@@ -2891,3 +2891,4 @@ https://www.google.com/maps/place/GDS+Express+Services+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Oceanbridge+Freight+%28S%29+PTE+LTD/data=!4m7!3m6!1s0x31da196b6da281e9:0x917ed24313287a0b!8m2!3d1.2740275!4d103.8425851!16s%2Fg%2F1ptxjtfv6!19sChIJ6YGibWsZ2jERC3ooE0PSfpE
 https://www.google.com/maps/place/Doughil+Express+%26+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da1914a5acc06b:0xac66952af0bc5520!8m2!3d1.274627!4d103.845714!16s%2Fg%2F1ptx88y53!19sChIJa8CspRQZ2jERIFW88CqVZqw
 https://www.google.com/maps/place/Buyers+Consolidators+Ltd/data=!4m7!3m6!1s0x31da19134728c2f3:0x470d9fc67ed3a481!8m2!3d1.276079!4d103.845863!16s%2Fg%2F1pty_t0ym!19sChIJ88IoRxMZ2jERgaTTfsafDUc
+https://www.google.com/maps/place/JAS+Forwarding+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c0cc3c6c92b:0x338df85ae48fd8ab!8m2!3d1.382831!4d103.999542!16s%2Fg%2F1thkp6hs!19sChIJK8nGwww82jERq9iP5Fr4jTM
