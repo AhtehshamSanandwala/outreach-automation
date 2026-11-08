@@ -3387,3 +3387,4 @@ https://www.google.com/maps/place/NORDEN+Shipping+%28Singapore%29+Pte.+Ltd./data
 https://www.google.com/maps/place/Anshin+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da190a6274355f:0x376bf5fafdf24d0a!8m2!3d1.288372!4d103.8479386!16s%2Fg%2F1tf0555r!19sChIJXzV0YgoZ2jERCk3y_fr1azc
 https://www.google.com/maps/place/Marina+South+Ferries/data=!4m7!3m6!1s0x31da19701f930a6f:0x470deb2b025b6276!8m2!3d1.2708991!4d103.8632567!16s%2Fg%2F11fhvyqh5v!19sChIJbwqTH3AZ2jERdmJbAivrDUc
 https://www.google.com/maps/place/Luggage+Storage+Gardens+By+The+Bay+-+Radical+Storage/data=!4m7!3m6!1s0x31da19089a115d9f:0x150eb966dad2049a!8m2!3d1.284235!4d103.858982!16s%2Fg%2F11yxn7lqpp!19sChIJn10RmggZ2jERmgTS2ma5DhU
+https://www.google.com/maps/place/Suntec+Loading+Bay/data=!4m7!3m6!1s0x31da191da6186bd1:0x50f4562c706e599d!8m2!3d1.2947195!4d103.8574535!16s%2Fg%2F11h_wsbt23!19sChIJ0WsYph0Z2jERnVlucCxW9FA
