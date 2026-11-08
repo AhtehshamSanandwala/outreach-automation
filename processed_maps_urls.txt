@@ -2583,3 +2583,6 @@ https://www.google.com/maps/place/Nineteen86/data=!4m7!3m6!1s0x31da196d4d7dd94b:
 https://www.google.com/maps/place/Buzzfit/data=!4m7!3m6!1s0x31da19131e42693f:0x68576a894422b891!8m2!3d1.2772797!4d103.8465299!16s%2Fg%2F1ptxwt9j0!19sChIJP2lCHhMZ2jERkbgiRIlqV2g
 https://www.google.com/maps/place/Kawaken+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da134631ec6759:0x9744b28fc90f7531!8m2!3d1.2759073!4d103.8462067!16s%2Fg%2F1tfwmgl0!19sChIJWWfsMUYT2jERMXUPyY-yRJc
 https://www.google.com/maps/place/Associated+Tobacco+Company+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196d2df8576d:0xe05262db5f99777f!8m2!3d1.2780891!4d103.8445455!16s%2Fg%2F1ptzmnqvr!19sChIJbVf4LW0Z2jERf3eZX9tiUuA
+https://www.google.com/maps/place/Karentirta+Pte+Ltd/data=!4m7!3m6!1s0x31da196d2fb4f573:0xf3c373eaacf2dfe6!8m2!3d1.277896!4d103.8442299!16s%2Fg%2F1ptw323q2!19sChIJc_W0L20Z2jER5t_yrOpzw_M
+https://www.google.com/maps/place/Yummy+Desserts+Pte.+Ltd./data=!4m7!3m6!1s0x31da196b5f0e9a29:0x8c2b2804d2eedde1!8m2!3d1.274961!4d103.843575!16s%2Fg%2F11c59xf6gv!19sChIJKZoOX2sZ2jER4d3u0gQoK4w
+https://www.google.com/maps/place/Eng+Ban+Hong+Company/data=!4m7!3m6!1s0x31da196dcccaf9f1:0x524e8b286201f3f5!8m2!3d1.2774397!4d103.8400926!16s%2Fg%2F1pty0fmlp!19sChIJ8fnKzG0Z2jER9fMBYiiLTlI
