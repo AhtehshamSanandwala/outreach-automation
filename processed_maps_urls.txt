@@ -2543,3 +2543,4 @@ https://www.google.com/maps/place/the+littlebox/data=!4m7!3m6!1s0x31da1913420c81
 https://www.google.com/maps/place/Corney+%26+Barrow+Singapore/data=!4m7!3m6!1s0x31da19e270310515:0x18eff35b3a6d41f6!8m2!3d1.2739236!4d103.8444671!16s%2Fg%2F11ghsb5cbl!19sChIJFQUxcOIZ2jER9kFtOlvz7xg
 https://www.google.com/maps/place/Transmed+International+Pte+Ltd/data=!4m7!3m6!1s0x31da196dec84b6b3:0x5c2ad46147507d0b!8m2!3d1.2788457!4d103.8402085!16s%2Fg%2F1ptz03f1n!19sChIJs7aE7G0Z2jERC31QR2HUKlw
 https://www.google.com/maps/place/Blackbird+Group+Pte.+Ltd./data=!4m7!3m6!1s0x31da1950e073494b:0xec76b79ec533220c!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11h109wc95!19sChIJS0lz4FAZ2jERDCIzxZ63duw
+https://www.google.com/maps/place/Dessert+and+Palettes/data=!4m7!3m6!1s0x31da196d3c8446f5:0xe272f9e10d89fd9c!8m2!3d1.2781025!4d103.8436326!16s%2Fg%2F1pv00z9k4!19sChIJ9UaEPG0Z2jERnP2JDeH5cuI
