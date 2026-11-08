@@ -2271,3 +2271,7 @@ https://www.google.com/maps/place/Ethos+BeathChapman+%28EBC%29+Singapore/data=!4
 https://www.google.com/maps/place/MMC+Success+Pte+Ltd/data=!4m7!3m6!1s0x31da1b38fc9bc9b3:0x9887ff886f31c5e2!8m2!3d1.2827663!4d103.8499485!16s%2Fg%2F11sbhl0slf!19sChIJs8mb_Dgb2jER4sUxb4j_h5g
 https://www.google.com/maps/place/Cornerstone+Global+Partners+%28CGP%29+Singapore+-+Executive+Recruitment+Firm/data=!4m7!3m6!1s0x31da198ae1f40751:0x98c6fcba27027ce!8m2!3d1.2828624!4d103.8499894!16s%2Fg%2F11pdmgyh82!19sChIJUQf04YoZ2jERzidwostvjAk
 https://www.google.com/maps/place/Tempserv+Pte+Ltd/data=!4m7!3m6!1s0x31da1913440f0e5b:0x314dc1345cdfcdbd!8m2!3d1.2757021!4d103.8461091!16s%2Fg%2F1tgqfyfn!19sChIJWw4PRBMZ2jERvc3fXDTBTTE
+https://www.google.com/maps/place/EMS+Employment+Agency/data=!4m7!3m6!1s0x31da19737b4f046b:0x17f1ec2e576df372!8m2!3d1.284095!4d103.8425309!16s%2Fg%2F1tk8l2_1!19sChIJawRPe3MZ2jERcvNtVy7s8Rc
+https://www.google.com/maps/place/Intellisearch+-+Singapore+Recruitment+Agency/data=!4m7!3m6!1s0x31da19134418ff2d:0x989bc75fa1bfd0ac!8m2!3d1.2758609!4d103.8464093!16s%2Fg%2F11b6xr9r2k!19sChIJLf8YRBMZ2jERrNC_oV_Hm5g
+https://www.google.com/maps/place/Home+Team+Career+Centre/data=!4m7!3m6!1s0x31da196dd613cf15:0xd036644a28a51cea!8m2!3d1.2778849!4d103.8392303!16s%2Fg%2F11b6c5nst5!19sChIJFc8T1m0Z2jER6hylKEpkNtA
+https://www.google.com/maps/place/HR+Millennium+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da1973520b47cf:0x234f70358f087d95!8m2!3d1.2756426!4d103.845827!16s%2Fg%2F1tfprsrp!19sChIJz0cLUnMZ2jERlX0IjzVwTyM
