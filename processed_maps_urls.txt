@@ -3079,3 +3079,4 @@ https://www.google.com/maps/place/Creative+Foundry/data=!4m7!3m6!1s0x31da19e5f59
 https://www.google.com/maps/place/CMFAS+Academy/data=!4m7!3m6!1s0x31da194117225dd9:0xb39400567d5479a1!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F11h2g4k1fz!19sChIJ2V0iF0EZ2jERoXlUfVYAlLM
 https://www.google.com/maps/place/Spoon/data=!4m7!3m6!1s0x31da1979fef5083d:0x8d527360290cf3d!8m2!3d1.3318196!4d103.8907241!16s%2Fg%2F1tf_dyfy!19sChIJPQj1_nkZ2jERPc-QAjYn1Qg
 https://www.google.com/maps/place/the+Hive+North+Bridge+Road/data=!4m7!3m6!1s0x31da19492df02b6d:0xc42e5ccb53f53da4!8m2!3d1.2899199!4d103.8494699!16s%2Fg%2F11sbh9hcz2!19sChIJbSvwLUkZ2jERpD31U8tcLsQ
+https://www.google.com/maps/place/Marina+One+West+Tower/data=!4m7!3m6!1s0x31da1995d1353a77:0x7571f2c9b9280de5!8m2!3d1.2781402!4d103.8525715!16s%2Fg%2F11fn9d4xcj!19sChIJdzo10ZUZ2jER5Q0oucnycXU
