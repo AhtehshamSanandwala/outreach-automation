@@ -3210,3 +3210,4 @@ https://www.google.com/maps/place/Fair+Consulting+Singapore+Pte.Ltd./data=!4m7!3
 https://www.google.com/maps/place/Strategix+Asia/data=!4m7!3m6!1s0x31da1929d07e39b3:0xc4778f95990fd94f!8m2!3d1.2784217!4d103.8514742!16s%2Fg%2F11vj8zpf34!19sChIJszl-0CkZ2jERT9kPmZWPd8Q
 https://www.google.com/maps/place/Capelle+Consulting/data=!4m7!3m6!1s0x31da19a6d80fdeb1:0xd5e812fd313b101e!8m2!3d1.3122413!4d103.8627501!16s%2Fg%2F11b7c7fdvv!19sChIJsd4P2KYZ2jERHhA7Mf0S6NU
 https://www.google.com/maps/place/Clifford+Chance+Singapore/data=!4m7!3m6!1s0x31da190e334a518f:0xcfe647c6ee3858e!8m2!3d1.2789775!4d103.8545957!16s%2Fg%2F1ptzvn378!19sChIJj1FKMw4Z2jERjoXjbnxk_gw
+https://www.google.com/maps/place/Brenda+Bence+International/data=!4m7!3m6!1s0x31da19ea833f6c6d:0x5ef4af9f44add7aa!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F11v44_z6l0!19sChIJbWw_g-oZ2jERqtetRJ-v9F4
