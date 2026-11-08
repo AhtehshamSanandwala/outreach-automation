@@ -2603,3 +2603,6 @@ https://www.google.com/maps/place/Onemas+Pte+Ltd/data=!4m7!3m6!1s0x31da196deb6a7
 https://www.google.com/maps/place/Vsource+Global+Enterprises/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x85c15fd8e9a01da3!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1ptyn67wn!19sChIJS9l9TW0Z2jERox2g6dhfwYU
 https://www.google.com/maps/place/Bern+Enterprise/data=!4m7!3m6!1s0x31da19135ee1333d:0x62b7e58cf21ad19c!8m2!3d1.2755627!4d103.8457502!16s%2Fg%2F1ptz58v0h!19sChIJPTPhXhMZ2jERnNEa8ozlt2I
 https://www.google.com/maps/place/ALL-IN+Corporation+Pte.+Ltd./data=!4m7!3m6!1s0x31da191344c00001:0x41534eb0fa450d82!8m2!3d1.2751663!4d103.84567!16s%2Fg%2F11g8wh7shq!19sChIJAQDARBMZ2jERgg1F-rBOU0E
+https://www.google.com/maps/place/WJ+Lloyds+Pte+Ltd/data=!4m7!3m6!1s0x31da191343ecbb1d:0xa83e72017fcad6c0!8m2!3d1.275848!4d103.845965!16s%2Fg%2F1pv2q6l5p!19sChIJHbvsQxMZ2jERwNbKfwFyPqg
+https://www.google.com/maps/place/TMS+Trader+Pte+Ltd/data=!4m7!3m6!1s0x31da1914c59c5597:0x9ce2a42de315fda8!8m2!3d1.273445!4d103.845595!16s%2Fg%2F1pt_m11ff!19sChIJl1WcxRQZ2jERqP0V4y2k4pw
+https://www.google.com/maps/place/Liebherr+Appliances+Flagship+Store/data=!4m7!3m6!1s0x31da195ca832575f:0xf269b2b806deb6ac!8m2!3d1.2776542!4d103.8442214!16s%2Fg%2F11j7cvblmh!19sChIJX1cyqFwZ2jERrLbeBriyafI
