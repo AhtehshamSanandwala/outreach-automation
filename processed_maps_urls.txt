@@ -2924,3 +2924,4 @@ https://www.google.com/maps/place/EverPeak+International/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Grace+Resources/data=!4m7!3m6!1s0x31da191343eb5b27:0x3d47ed29e41c80c3!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F1ptyzf2s7!19sChIJJ1vrQxMZ2jERw4Ac5CntRz0
 https://www.google.com/maps/place/K+J+Kim+Co.+Pte+Ltd/data=!4m7!3m6!1s0x31da1913469b6cc9:0x68277733b0ac3e01!8m2!3d1.275942!4d103.845772!16s%2Fg%2F1ptz59fgc!19sChIJyWybRhMZ2jERAT6ssDN3J2g
 https://www.google.com/maps/place/Pro+E+Quest+Enterprise/data=!4m7!3m6!1s0x31da1913467d2e81:0x8b9854b13dc7c94e!8m2!3d1.275955!4d103.84571!16s%2Fg%2F1pty0f9w4!19sChIJgS59RhMZ2jERTsnHPbFUmIs
+https://www.google.com/maps/place/Techway+Technical+Servcies+and+Supply/data=!4m7!3m6!1s0x31da191343eed84d:0x990a180e8a98102b!8m2!3d1.275872!4d103.845965!16s%2Fg%2F1pv5x00gq!19sChIJTdjuQxMZ2jERKxCYig4YCpk
