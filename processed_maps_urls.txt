@@ -3060,3 +3060,4 @@ https://www.google.com/maps/place/Mills+Creative+Pte+Ltd/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/FJORD+CREATIVE+RESOURCE+PTE+LTD/data=!4m7!3m6!1s0x31da1a4099121cef:0xe186b0a8c7403363!8m2!3d1.3359304!4d103.8849268!16s%2Fg%2F12hk8kvp_!19sChIJ7xwSmUAa2jERYzNAx6iwhuE
 https://www.google.com/maps/place/VUCA+VUCA+DESIGN+PTE+LTD/data=!4m7!3m6!1s0x31da19cb3d7ea391:0xeb9ea0f233fdff94!8m2!3d1.282321!4d103.8526087!16s%2Fg%2F11spd7hf10!19sChIJkaN-PcsZ2jERlP_9M_Kgnus
 https://www.google.com/maps/place/Marina+Bay+Sands+Talent+Hub/data=!4m7!3m6!1s0x31da1906c077ee2d:0xb5e2a2968a79d4a7!8m2!3d1.2856151!4d103.8604684!16s%2Fg%2F11cn12rrz5!19sChIJLe53wAYZ2jERp9R5ipai4rU
+https://www.google.com/maps/place/Mercury+Creative+Pte+Ltd/data=!4m7!3m6!1s0x31da19125ab26869:0x66f88d3587725e51!8m2!3d1.2870826!4d103.8408451!16s%2Fg%2F11cs5yq7fp!19sChIJaWiyWhIZ2jERUV5yhzWN-GY
