@@ -3315,3 +3315,4 @@ https://www.google.com/maps/place/MBS+Events+Plaza+Public+Space/data=!4m7!3m6!1s
 https://www.google.com/maps/place/The+Wholesale+Shop/data=!4m7!3m6!1s0x31da19b0f927e627:0xf3889eada74c6aa6!8m2!3d1.3008489!4d103.8589793!16s%2Fg%2F1pty4_tfn!19sChIJJ-Yn-bAZ2jERpmpMp62eiPM
 https://www.google.com/maps/place/ABC+Bargain+Centre/data=!4m7!3m6!1s0x31da19ba592a112b:0x9c68b43cbdc2c49!8m2!3d1.3007103!4d103.854602!16s%2Fg%2F11ckqrkfsh!19sChIJKxEqWboZ2jERSSzcy0OLxgk
 https://www.google.com/maps/place/Elephant+%26+Coral/data=!4m7!3m6!1s0x31da19910d53bb0d:0xd7cfa3c3d86743e9!8m2!3d1.2954273!4d103.8583327!16s%2Fg%2F11_pwfvpv!19sChIJDbtTDZEZ2jER6UNn2MOjz9c
+https://www.google.com/maps/place/AnnAik+Limited/data=!4m7!3m6!1s0x31da0f55a944084b:0xa64e15f2b60e1236!8m2!3d1.3300614!4d103.6431212!16s%2Fg%2F1tg9q63c!19sChIJSwhEqVUP2jERNhIOtvIVTqY
