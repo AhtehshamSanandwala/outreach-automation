@@ -3332,3 +3332,4 @@ https://www.google.com/maps/place/Posco+International+Singapore+Pte.+Ltd./data=!
 https://www.google.com/maps/place/Variantz+%28Singapore+%26+Asia+Pacific%29/data=!4m7!3m6!1s0x31da190fe0285f4b:0xe5b2bc99bbf6b0a5!8m2!3d1.2915251!4d103.8578138!16s%2Fg%2F1tg8450b!19sChIJS18o4A8Z2jERpbD2u5m8suU
 https://www.google.com/maps/place/Insta360+Suntec+Store+Singapore/data=!4m7!3m6!1s0x31da19973e2b5e27:0x8369f00cb639a10a!8m2!3d1.2943816!4d103.858071!16s%2Fg%2F11x_qfgx_4!19sChIJJ14rPpcZ2jERCqE5tgzwaYM
 https://www.google.com/maps/place/PARKROYAL+COLLECTION+Marina+Bay/data=!4m7!3m6!1s0x47d8a789de28768b:0xf44170676b474694!8m2!3d1.2917922!4d103.8571184!16zL20vMDhmZl9i!19sChIJi3Yo3omn2EcRlEZHa2dwQfQ
+https://www.google.com/maps/place/Stone+Island/data=!4m7!3m6!1s0x31da19028e05177d:0x1c3fa19f7684405e!8m2!3d1.2838847!4d103.8585427!16s%2Fg%2F11nytnpg4s!19sChIJfRcFjgIZ2jERXkCEdp-hPxw
