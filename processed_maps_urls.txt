@@ -2644,3 +2644,4 @@ https://www.google.com/maps/place/Pacific+Resources+Trading+Pte+Ltd/data=!4m7!3m
 https://www.google.com/maps/place/Ketan+Trading+Co/data=!4m7!3m6!1s0x31da196b5acd09d7:0x1db69a50a51e59f4!8m2!3d1.2745039!4d103.8439529!16s%2Fg%2F1thzldw1!19sChIJ1wnNWmsZ2jER9FkepVCath0
 https://www.google.com/maps/place/Water+8+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da191343dc13b7:0x280093a27d7366d3!8m2!3d1.275896!4d103.84601!16s%2Fg%2F1ptyz3b6d!19sChIJtxPcQxMZ2jER02ZzfaKTACg
 https://www.google.com/maps/place/Harbour+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da191342fc5003:0xe01f99c092b9a2bb!8m2!3d1.2757462!4d103.8460956!16s%2Fg%2F1ptw49t3d!19sChIJA1D8QhMZ2jERu6K5ksCZH-A
+https://www.google.com/maps/place/Hock+Ho+Seng+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da196b48115507:0x2d8157c3b613cc0c!8m2!3d1.2731276!4d103.8450984!16s%2Fg%2F1tdmmkvw!19sChIJB1URSGsZ2jERDMwTtsNXgS0
