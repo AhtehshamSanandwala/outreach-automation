@@ -3439,3 +3439,4 @@ https://www.google.com/maps/place/Spectrama+Marine+%26+Industrial+Supplies+Pte+L
 https://www.google.com/maps/place/Manali+Group/data=!4m7!3m6!1s0x31da19102f0905d1:0x3a64e894f712a436!8m2!3d1.2789395!4d103.8544898!16s%2Fg%2F1pv26hnc_!19sChIJ0QUJLxAZ2jERNqQS95ToZDo
 https://www.google.com/maps/place/CHM+Equipment+%26+Services/data=!4m7!3m6!1s0x31da1900422cf057:0xc4dac6012d983c5c!8m2!3d1.2996198!4d103.8605805!16s%2Fg%2F11zkstzfvh!19sChIJV_AsQgAZ2jERXDyYLQHG2sQ
 https://www.google.com/maps/place/Marine+International+Pte+Ltd/data=!4m7!3m6!1s0x31da180ae08a804d:0xd8ce5ee418e1a688!8m2!3d1.3249521!4d103.8793956!16s%2Fg%2F1trtrv30!19sChIJTYCK4AoY2jERiKbhGOReztg
+https://www.google.com/maps/place/Novus+Technik+Pte+Ltd/data=!4m7!3m6!1s0x31da19d6d43aa35b:0xebf7863498151fad!8m2!3d1.2797934!4d103.8538274!16s%2Fg%2F1pt_6vffc!19sChIJW6M61NYZ2jERrR8VmDSG9-s
