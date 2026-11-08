@@ -2842,3 +2842,4 @@ https://www.google.com/maps/place/Csk+Lines+Agencies+%281998%29/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Fastlink+Shipping+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da196b599095a7:0xe4a3d242b8c8dc11!8m2!3d1.2748708!4d103.8439569!16s%2Fg%2F1ptw5vmm7!19sChIJp5WQWWsZ2jEREdzIuELSo-Q
 https://www.google.com/maps/place/Speed+Container+Line+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196b5a3a63fb:0xb227ce55e2b256f6!8m2!3d1.274713!4d103.843957!16s%2Fg%2F11b8_tfb4y!19sChIJ-2M6WmsZ2jER9lay4lXOJ7I
 https://www.google.com/maps/place/Kamigumi+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da190070b3d291:0x40456d66d38b2213!8m2!3d1.2760013!4d103.8459347!16s%2Fg%2F11z2q8d03k!19sChIJkdKzcAAZ2jEREyKL02ZtRUA
+https://www.google.com/maps/place/Landmark+Freight+Forwarder/data=!4m7!3m6!1s0x31da1914bb2c0cc3:0x48308d9af3b08ec3!8m2!3d1.2745484!4d103.8458325!16s%2Fg%2F1tdq82q0!19sChIJwwwsuxQZ2jERw46w85qNMEg
