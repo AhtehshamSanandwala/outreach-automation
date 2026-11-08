@@ -2634,3 +2634,4 @@ https://www.google.com/maps/place/Alfa+H+Mart/data=!4m7!3m6!1s0x31da196c6f3ad2b9
 https://www.google.com/maps/place/Coinut+%28Coins+U+Trust%29+Singapore%27s+Longest-running+Digital+Asset+Business/data=!4m7!3m6!1s0x31da1bcfe85c5faf:0x8dbcf8b0fe33842e!8m2!3d1.2769025!4d103.8459217!16s%2Fg%2F11g4bv85gz!19sChIJr19c6M8b2jERLoQz_rD4vI0
 https://www.google.com/maps/place/IRIIS+Trading+Hub/data=!4m7!3m6!1s0x31da1912b5a69601:0x8abdb0566610421f!8m2!3d1.278651!4d103.845013!16s%2Fg%2F11gb3n578g!19sChIJAZamtRIZ2jERH0IQZlawvYo
 https://www.google.com/maps/place/Wee+Chai+Trading/data=!4m7!3m6!1s0x31da19131489b309:0x7956cf6ad55e152!8m2!3d1.2760865!4d103.8468681!16s%2Fg%2F1pv25lbxl!19sChIJCbOJFBMZ2jERUuFVrfZslQc
+https://www.google.com/maps/place/Chin+Heng+Chan+Trading/data=!4m7!3m6!1s0x31da196ce9091467:0x3c65fb4886af7a2b!8m2!3d1.2767013!4d103.8431376!16s%2Fg%2F1thp5j2k!19sChIJZxQJ6WwZ2jERK3qvhkj7ZTw
