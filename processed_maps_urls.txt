@@ -2862,3 +2862,4 @@ https://www.google.com/maps/place/Rapport+Forwarding/data=!4m7!3m6!1s0x31da19134
 https://www.google.com/maps/place/Associated+Carriage+%26+Warehousing+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19134151fa05:0xa791fb7f3090c2bb!8m2!3d1.2759528!4d103.8459246!16s%2Fg%2F1ptwg6wr1!19sChIJBfpRQRMZ2jERu8KQMH_7kac
 https://www.google.com/maps/place/Jardine+Freight+Services/data=!4m7!3m6!1s0x31da1914a73b5823:0x35385733247ac26e!8m2!3d1.2749346!4d103.8458329!16s%2Fg%2F11c1wszxtx!19sChIJI1g7pxQZ2jERbsJ6JDNXODU
 https://www.google.com/maps/place/Accura+Groupage+Services+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196a8c889355:0x7ec3a4f226d93996!8m2!3d1.271419!4d103.842328!16s%2Fg%2F1ptymqpq6!19sChIJVZOIjGoZ2jERljnZJvKkw34
+https://www.google.com/maps/place/International+Shipholding+Corporation/data=!4m7!3m6!1s0x31da196b1dabac13:0x2670972cafab461a!8m2!3d1.2728931!4d103.8428324!16s%2Fg%2F1ptzsnyr9!19sChIJE6yrHWsZ2jERGkarryyXcCY
