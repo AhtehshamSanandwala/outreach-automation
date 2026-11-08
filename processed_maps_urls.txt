@@ -2580,3 +2580,5 @@ https://www.google.com/maps/place/VCT+Group+of+Wineries+Asia+Pte+Ltd/data=!4m7!3
 https://www.google.com/maps/place/Living+DNA+Rugs+%26+Carpets+%28City+Branch%29/data=!4m7!3m6!1s0x31da19ede497858d:0xbb28aaa58303a7f8!8m2!3d1.279877!4d103.8416227!16s%2Fg%2F11ts10ck49!19sChIJjYWX5O0Z2jER-KcDg6WqKLs
 https://www.google.com/maps/place/Pharchem+Industries+Ltd/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x743e49beb7f676b5!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1pv0qfkr0!19sChIJS9l9TW0Z2jERtXb2t75JPnQ
 https://www.google.com/maps/place/Nineteen86/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x8b8aeeaf0fdb90c7!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1pt_9wsqb!19sChIJS9l9TW0Z2jERx5DbD6_uios
+https://www.google.com/maps/place/Buzzfit/data=!4m7!3m6!1s0x31da19131e42693f:0x68576a894422b891!8m2!3d1.2772797!4d103.8465299!16s%2Fg%2F1ptxwt9j0!19sChIJP2lCHhMZ2jERkbgiRIlqV2g
+https://www.google.com/maps/place/Kawaken+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da134631ec6759:0x9744b28fc90f7531!8m2!3d1.2759073!4d103.8462067!16s%2Fg%2F1tfwmgl0!19sChIJWWfsMUYT2jERMXUPyY-yRJc
