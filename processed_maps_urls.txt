@@ -2769,3 +2769,4 @@ https://www.google.com/maps/place/Nexxcojaya+%28Singapore%29+Pte.+Ltd./data=!4m7
 https://www.google.com/maps/place/Weinberg+Logistics+%26+Distribution+Pte+Ltd/data=!4m7!3m6!1s0x31da196b59fa3cc3:0x662cde3102b866f6!8m2!3d1.2748708!4d103.8439569!16s%2Fg%2F1trvhysf!19sChIJwzz6WWsZ2jER9ma4AjHeLGY
 https://www.google.com/maps/place/POPDrop+-+Tanjong+Pagar+Post+Office/data=!4m7!3m6!1s0x31da19a70b15acbd:0xe244130bcd2dad66!8m2!3d1.2748632!4d103.8426344!16s%2Fg%2F11ygfnpqhn!19sChIJvawVC6cZ2jERZq0tzQsTROI
 https://www.google.com/maps/place/Slade+Shipping+Far+East/data=!4m7!3m6!1s0x31da196d79994045:0x3c9611ae0d6cdb97!8m2!3d1.279279!4d103.8422041!16s%2Fg%2F11bt_jflg8!19sChIJRUCZeW0Z2jERl9tsDa4Rljw
+https://www.google.com/maps/place/EES+Freight+Services+Pte+Ltd+%28Main+Office%29/data=!4m7!3m6!1s0x31da196d3c56009b:0xf71079117c10c9f2!8m2!3d1.2799566!4d103.849325!16s%2Fg%2F1td0d09d!19sChIJmwBWPG0Z2jER8skQfBF5EPc
