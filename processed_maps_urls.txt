@@ -2655,3 +2655,4 @@ https://www.google.com/maps/place/Hong+Jiang+Yuan+Trading/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Royal+Trinity+Trading/data=!4m7!3m6!1s0x31da196d7dac3307:0xc117f75200ad9f2e!8m2!3d1.2796443!4d103.8422556!16s%2Fg%2F1ptw0sl2x!19sChIJBzOsfW0Z2jERLp-tAFL3F8E
 https://www.google.com/maps/place/J%27s+International+Trading/data=!4m7!3m6!1s0x31da191343eb5b27:0x76ea63b099efa375!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F11b5pj9ljd!19sChIJJ1vrQxMZ2jERdaPvmbBj6nY
 https://www.google.com/maps/place/BaFang+Trading/data=!4m7!3m6!1s0x31da196b23135643:0xb37713d9bfa14f93!8m2!3d1.2732079!4d103.843634!16s%2Fg%2F1ptxjtfv4!19sChIJQ1YTI2sZ2jERk0-hv9kTd7M
+https://www.google.com/maps/place/Modern+Trade/data=!4m7!3m6!1s0x31da199e49b29145:0xe4401847a49d57d3!8m2!3d1.2758528!4d103.8443611!16s%2Fg%2F11vln48hjz!19sChIJRZGySZ4Z2jER01edpEcYQOQ
