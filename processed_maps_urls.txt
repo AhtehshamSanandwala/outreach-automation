@@ -3364,3 +3364,4 @@ https://www.google.com/maps/place/5M+Global+Logistics/data=!4m7!3m6!1s0x31da19a5
 https://www.google.com/maps/place/Global+Offshore+Logistics/data=!4m7!3m6!1s0x31da190df35aaaab:0xc8baee15bc2fb822!8m2!3d1.2800305!4d103.8492068!16s%2Fg%2F11hz17j8j8!19sChIJq6pa8w0Z2jERIrgvvBXuusg
 https://www.google.com/maps/place/BLUE+OCEAN+MARINE+SERVICES+PTE+LTD/data=!4m7!3m6!1s0x31da1313f4a00f63:0x36a8cafb661bb300!8m2!3d1.2810763!4d103.8517885!16s%2Fg%2F11qf_wv00l!19sChIJYw-g9BMT2jERALMbZvvKqDY
 https://www.google.com/maps/place/Lighthouse+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3d2eefcc14e1:0xbca27174bbb1bb!8m2!3d1.2984708!4d103.8588833!16s%2Fg%2F11t3_zyv56!19sChIJ4RTM7y492jERu7G7dHGivAA
+https://www.google.com/maps/place/Lotte+Global+Logistics+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da19af022800f3:0xcc163e043f9c5b13!8m2!3d1.2956128!4d103.8589995!16s%2Fg%2F11g1sb3cxd!19sChIJ8wAoAq8Z2jERE1ucPwQ-Fsw
