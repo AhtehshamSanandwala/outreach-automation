@@ -2622,3 +2622,4 @@ https://www.google.com/maps/place/NANOLAB+%28S%29+PTE+LTD/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Premium-Line+SEA+HUB/data=!4m7!3m6!1s0x31da19ab008fb165:0xe4814806a0ea43c3!8m2!3d1.2757723!4d103.8459572!16s%2Fg%2F11s74lj5jv!19sChIJZbGPAKsZ2jERw0PqoAZIgeQ
 https://www.google.com/maps/place/Puen+Trading+Pte+Ltd+-+SKYLON/data=!4m7!3m6!1s0x31da191344c00001:0x2567e661f88c3026!8m2!3d1.2749455!4d103.8434094!16s%2Fg%2F11fyx66v9_!19sChIJAQDARBMZ2jERJjCM-GHmZyU
 https://www.google.com/maps/place/Mitsuiwa+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1912220b830f:0xb83d04b87a35c822!8m2!3d1.2729986!4d103.8424063!16s%2Fg%2F1tqt75bk!19sChIJD4MLIhIZ2jERIsg1ergEPbg
+https://www.google.com/maps/place/Mororan+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da190f645b88dd:0x909e1f4368b0795f!8m2!3d1.2767766!4d103.8388475!16s%2Fg%2F11j57s5d_6!19sChIJ3YhbZA8Z2jERX3mwaEMfnpA
