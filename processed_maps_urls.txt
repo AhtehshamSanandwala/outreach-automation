@@ -2365,3 +2365,4 @@ https://www.google.com/maps/place/Ace+%26+Perry/data=!4m7!3m6!1s0x31da19f11a121b
 https://www.google.com/maps/place/Linkedcorp+HR+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da135cceecab55:0x2e60a65e39577561!8m2!3d1.2806884!4d103.8492068!16s%2Fg%2F11v3z_p893!19sChIJVavszlwT2jERYXVXOV6mYC4
 https://www.google.com/maps/place/Julian+Grey/data=!4m7!3m6!1s0x31da19358d767c29:0x23e1e4281e712eaf!8m2!3d1.2781711!4d103.8527435!16s%2Fg%2F11t6q43s7z!19sChIJKXx2jTUZ2jERry5xHijk4SM
 https://www.google.com/maps/place/True+Search/data=!4m7!3m6!1s0x31da199bbcfcbddd:0xa28739cb6ffe046f!8m2!3d1.2792259!4d103.8492973!16s%2Fg%2F11fkn9gqlg!19sChIJ3b38vJsZ2jERbwT-b8s5h6I
+https://www.google.com/maps/place/Danos+Associates+%28Singapore%29+Pte.+Ltd/data=!4m7!3m6!1s0x31da19b54f8601e9:0x3b31b6cc92cc1f74!8m2!3d1.2777366!4d103.8476215!16s%2Fg%2F11my81nkwx!19sChIJ6QGGT7UZ2jERdB_Mksy2MTs
