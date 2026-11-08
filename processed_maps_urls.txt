@@ -2425,3 +2425,4 @@ https://www.google.com/maps/place/P+K+Loke+%26+Partners+LLP/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/IAN+%26+SON/data=!4m7!3m6!1s0x31da19fabd394cb9:0x2a9b43a07500d60d!8m2!3d1.2857619!4d103.8439529!16s%2Fg%2F11h0zglj0w!19sChIJuUw5vfoZ2jERDdYAdaBDmyo
 https://www.google.com/maps/place/goCount/data=!4m7!3m6!1s0x31da19a69c19785b:0x68bfbde73095bd18!8m2!3d1.2789906!4d103.8414342!16s%2Fg%2F11zzplz2l5!19sChIJW3gZnKYZ2jERGL2VMOe9v2g
 https://www.google.com/maps/place/Paloe/data=!4m7!3m6!1s0x31da1a2c97399a29:0xdaa53e92ed08e5af!8m2!3d1.2739069!4d103.846216!16s%2Fg%2F11ddxqzxkc!19sChIJKZo5lywa2jERr-UI7ZI-pdo
+https://www.google.com/maps/place/RT+ASEAN+Singapore/data=!4m7!3m6!1s0x31da190953d2b21f:0x1fef93a3846c387a!8m2!3d1.2739068!4d103.8462175!16s%2Fg%2F1pv21gj6y!19sChIJH7LSUwkZ2jERejhshKOT7x8
