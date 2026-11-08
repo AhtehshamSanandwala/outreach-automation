@@ -3123,3 +3123,4 @@ https://www.google.com/maps/place/Nemesys/data=!4m7!3m6!1s0x31da190fde6aaaab:0x5
 https://www.google.com/maps/place/Marina+Bay+Financial+Centre+Public+Space/data=!4m7!3m6!1s0x31da190fc5492349:0x131b5949a0a527!8m2!3d1.2802264!4d103.8542992!16s%2Fm%2F01xmgct!19sChIJSSNJxQ8Z2jERJ6WgSVkbEwA
 https://www.google.com/maps/place/Webby+Group/data=!4m7!3m6!1s0x31da19b6c8806eb9:0xb612724ce9db63a!8m2!3d1.2795521!4d103.8548526!16s%2Fg%2F11t__v79vg!19sChIJuW6AyLYZ2jEROradziQnYQs
 https://www.google.com/maps/place/Total+IT+Consult+Pte+Ltd./data=!4m7!3m6!1s0x31da195b8912c1a5:0x5ea21fffb4ce5baf!8m2!3d1.2792463!4d103.8541121!16s%2Fg%2F11rcn7j2_y!19sChIJpcESiVsZ2jERr1vOtP8fol4
+https://www.google.com/maps/place/Marina+One+East+Tower/data=!4m7!3m6!1s0x31da19004deca55d:0xeefe71c27aa21486!8m2!3d1.2778406!4d103.8528404!16s%2Fg%2F11y64vychg!19sChIJXaXsTQAZ2jERhhSiesJx_u4
