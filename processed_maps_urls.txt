@@ -3212,3 +3212,4 @@ https://www.google.com/maps/place/Capelle+Consulting/data=!4m7!3m6!1s0x31da19a6d
 https://www.google.com/maps/place/Clifford+Chance+Singapore/data=!4m7!3m6!1s0x31da190e334a518f:0xcfe647c6ee3858e!8m2!3d1.2789775!4d103.8545957!16s%2Fg%2F1ptzvn378!19sChIJj1FKMw4Z2jERjoXjbnxk_gw
 https://www.google.com/maps/place/Brenda+Bence+International/data=!4m7!3m6!1s0x31da19ea833f6c6d:0x5ef4af9f44add7aa!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F11v44_z6l0!19sChIJbWw_g-oZ2jERqtetRJ-v9F4
 https://www.google.com/maps/place/SVENTL+Asia+Pacific/data=!4m7!3m6!1s0x31da3cd759414345:0x260056ea5efc1dad!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F11btwttz2x!19sChIJRUNBWdc82jERrR38XupWACY
+https://www.google.com/maps/place/SCF+Global/data=!4m7!3m6!1s0x31da1bbf4b1a20ef:0x3a066cc6a6231009!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F11fm4yr5_5!19sChIJ7yAaS78b2jERCRAjpsZsBjo
