@@ -2864,3 +2864,4 @@ https://www.google.com/maps/place/Jardine+Freight+Services/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Accura+Groupage+Services+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196a8c889355:0x7ec3a4f226d93996!8m2!3d1.271419!4d103.842328!16s%2Fg%2F1ptymqpq6!19sChIJVZOIjGoZ2jERljnZJvKkw34
 https://www.google.com/maps/place/International+Shipholding+Corporation/data=!4m7!3m6!1s0x31da196b1dabac13:0x2670972cafab461a!8m2!3d1.2728931!4d103.8428324!16s%2Fg%2F1ptzsnyr9!19sChIJE6yrHWsZ2jERGkarryyXcCY
 https://www.google.com/maps/place/Cship+International+Pte+Ltd/data=!4m7!3m6!1s0x31da19132cb8f71f:0x4c746fa254fc2138!8m2!3d1.2770254!4d103.8448817!16s%2Fg%2F1ptwf8c0m!19sChIJH_e4LBMZ2jEROCH8VKJvdEw
+https://www.google.com/maps/place/Harbour+Handlers+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da196d7816c271:0x7831ff97465f1104!8m2!3d1.2795959!4d103.8421738!16s%2Fg%2F1thvdfw5!19sChIJccIWeG0Z2jERBBFfRpf_MXg
