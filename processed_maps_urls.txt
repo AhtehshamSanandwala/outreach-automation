@@ -2587,3 +2587,5 @@ https://www.google.com/maps/place/Karentirta+Pte+Ltd/data=!4m7!3m6!1s0x31da196d2
 https://www.google.com/maps/place/Yummy+Desserts+Pte.+Ltd./data=!4m7!3m6!1s0x31da196b5f0e9a29:0x8c2b2804d2eedde1!8m2!3d1.274961!4d103.843575!16s%2Fg%2F11c59xf6gv!19sChIJKZoOX2sZ2jER4d3u0gQoK4w
 https://www.google.com/maps/place/Eng+Ban+Hong+Company/data=!4m7!3m6!1s0x31da196dcccaf9f1:0x524e8b286201f3f5!8m2!3d1.2774397!4d103.8400926!16s%2Fg%2F1pty0fmlp!19sChIJ8fnKzG0Z2jER9fMBYiiLTlI
 https://www.google.com/maps/place/Chuan+Seng+Huat+Liquors+Pte+Ltd/data=!4m7!3m6!1s0x31da16b7277def6b:0xad654e516470fc14!8m2!3d1.386807!4d103.8302278!16s%2Fg%2F1tkb_mlw!19sChIJa-99J7cW2jERFPxwZFFOZa0
+https://www.google.com/maps/place/Chocolate+%26+Gelato/data=!4m7!3m6!1s0x31da196caa4a5415:0x7d8d28fb85a024ba!8m2!3d1.2753422!4d103.8444743!16s%2Fg%2F11b6dc_8r8!19sChIJFVRKqmwZ2jERuiSghfsojX0
+https://www.google.com/maps/place/ANATTA+Culinary+Academy+Shop/data=!4m7!3m6!1s0x31da198ae1c6fd65:0xaaffa4be25744e3b!8m2!3d1.2786209!4d103.8411028!16s%2Fg%2F11y3102181!19sChIJZf3G4YoZ2jERO050Jb6k_6o
