@@ -3230,3 +3230,4 @@ https://www.google.com/maps/place/JC+Law+Asia+LLC/data=!4m7!3m6!1s0x31da190e7744
 https://www.google.com/maps/place/Water+and+Shark+Pte.+Ltd./data=!4m7!3m6!1s0x31da19fb9e8b202d:0x7e136481858c50ae!8m2!3d1.2795517!4d103.8538194!16s%2Fg%2F11t6gbcr05!19sChIJLSCLnvsZ2jERrlCMhYFkE34
 https://www.google.com/maps/place/Institute+of+Management+Consultants+%28Singapore%29/data=!4m7!3m6!1s0x31da19c9883e2f87:0x944a452010d20d91!8m2!3d1.3191652!4d103.8927403!16s%2Fg%2F1v_z1w6h!19sChIJhy8-iMkZ2jERkQ3SECBFSpQ
 https://www.google.com/maps/place/Professa/data=!4m7!3m6!1s0x31da190fde6aaaab:0x942500406e64f5fa!8m2!3d1.2798897!4d103.8548685!16s%2Fg%2F11vwl5hm1n!19sChIJq6pq3g8Z2jER-vVkbkAAJZQ
+https://www.google.com/maps/place/Ashurst+Perkins+Coie/data=!4m7!3m6!1s0x31da190fc8b8cc25:0x9165470f2e6f5798!8m2!3d1.2790259!4d103.8544963!16s%2Fg%2F1ptxv855t!19sChIJJcy4yA8Z2jERmFdvLg9HZZE
