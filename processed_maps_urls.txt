@@ -2337,3 +2337,5 @@ https://www.google.com/maps/place/Rhumbl+Group/data=!4m7!3m6!1s0x31da19a817db7d6
 https://www.google.com/maps/place/Global+Search+Partners+Pte+Ltd/data=!4m7!3m6!1s0x31da1912c5dd1b05:0xc723e582f041d52e!8m2!3d1.2788466!4d103.8480605!16s%2Fg%2F1ptw0rc02!19sChIJBRvdxRIZ2jERLtVB8ILlI8c
 https://www.google.com/maps/place/Right+Management+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1912131c35c3:0x56959c3cbce62ca2!8m2!3d1.2769668!4d103.846084!16s%2Fg%2F1tf1lbg9!19sChIJwzUcExIZ2jERoizmvDyclVY
 https://www.google.com/maps/place/JB+Hired/data=!4m7!3m6!1s0x31da19006bcc2557:0x50b39c6879b54f02!8m2!3d1.2784654!4d103.8479061!16s%2Fg%2F11vxlmdz7q!19sChIJVyXMawAZ2jERAk-1eWics1A
+https://www.google.com/maps/place/Frontier+Executive+Search/data=!4m7!3m6!1s0x31da191344c00001:0x177bcec56d78d948!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11h4dj9c2t!19sChIJAQDARBMZ2jERSNl4bcXOexc
+https://www.google.com/maps/place/Space+Executive+Pte+Ltd/data=!4m7!3m6!1s0x31da197397222ddd:0xa8e306ffbd1a1f36!8m2!3d1.2777366!4d103.8476215!16s%2Fg%2F11q8y13h10!19sChIJ3S0il3MZ2jERNh8avf8G46g
