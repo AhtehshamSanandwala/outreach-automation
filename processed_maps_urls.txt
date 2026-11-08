@@ -2868,3 +2868,4 @@ https://www.google.com/maps/place/Harbour+Handlers+%28Pte%29+Ltd/data=!4m7!3m6!1
 https://www.google.com/maps/place/General+Ocean+Freight+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da196d4ef5a8c5:0x95f3c3a33bb674a8!8m2!3d1.27899!4d103.844348!16s%2Fg%2F1ptwrc71d!19sChIJxaj1Tm0Z2jERqHS2O6PD85U
 https://www.google.com/maps/place/InXpress/data=!4m7!3m6!1s0x31da196d16817fb1:0xda5ab587ce1b1f6c!8m2!3d1.2782632!4d103.8431609!16s%2Fg%2F11b6b6sgt3!19sChIJsX-BFm0Z2jERbB8bzoe1Wto
 https://www.google.com/maps/place/Ultimate+Freight+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da196b0b3602a5:0x3916f70d9f69dc5e!8m2!3d1.2737909!4d103.84217!16s%2Fg%2F1tdgmbrb!19sChIJpQI2C2sZ2jERXtxpnw33Fjk
+https://www.google.com/maps/place/KSH+Shipping+Pte+Ltd/data=!4m7!3m6!1s0x31da191340ce793b:0xac41df7fbf94d5d3!8m2!3d1.2757184!4d103.8460102!16s%2Fg%2F119wdcsfw!19sChIJO3nOQBMZ2jER09WUv3_fQaw
