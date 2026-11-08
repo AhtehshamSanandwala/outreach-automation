@@ -3102,3 +3102,4 @@ https://www.google.com/maps/place/Marina+Bay+Sands+Pte.+Ltd./data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Rhodo+Property+%26+Estate+Management+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da190b46a3f531:0x82a802a23dfe9057!8m2!3d1.2847371!4d103.8461936!16s%2Fg%2F1td22z1q!19sChIJMfWjRgsZ2jERV5D-PaICqII
 https://www.google.com/maps/place/InfoIQ+Consulting/data=!4m7!3m6!1s0x31da1910288c7689:0xb26f7e05b3e8b23b!8m2!3d1.2795092!4d103.8541591!16s%2Fg%2F11w5837xcg!19sChIJiXaMKBAZ2jERO7LoswV-b7I
 https://www.google.com/maps/place/Aurealis+Serviced+Residence+at+Marina+Bay/data=!4m10!3m9!1s0x31da190e45158f97:0x89321e1a50217f0!5m2!4m1!1i2!8m2!3d1.2813793!4d103.8528525!16s%2Fg%2F11f2_mq6qs!19sChIJl48VRQ4Z2jER8BcCpeEhkwg
+https://www.google.com/maps/place/MBFC+Tower+3/data=!4m7!3m6!1s0x31da190e334a518f:0xcad303181bf53c50!8m2!3d1.2790221!4d103.8544967!16s%2Fg%2F1z264r2dn!19sChIJj1FKMw4Z2jERUDz1GxgD08o
