@@ -3146,3 +3146,4 @@ https://www.google.com/maps/place/FPT+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Evtec+Management+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da19a727fd017d:0x19d87b81e33a4186!8m2!3d1.291359!4d103.851346!16s%2Fg%2F11c1wsrds3!19sChIJfQH9J6cZ2jERhkE644F72Bk
 https://www.google.com/maps/place/Marina+Bay+Link+Mall/data=!4m7!3m6!1s0x31da19007079cf61:0xc98d8daa96b81801!8m2!3d1.2803193!4d103.8535027!16s%2Fg%2F11zkv6v_nw!19sChIJYc95cAAZ2jERARi4lqqNjck
 https://www.google.com/maps/place/Accadia+Management+Services+Pte.Ltd./data=!4m7!3m6!1s0x31da190a70267385:0xb2dccb0180c4ebc0!8m2!3d1.2905391!4d103.8494106!16s%2Fg%2F11hz17wb1t!19sChIJhXMmcAoZ2jERwOvEgAHL3LI
+https://www.google.com/maps/place/Marina+Bay+Suites/data=!4m7!3m6!1s0x31da19a630067ba1:0x59d2f01e3fc360ce!8m2!3d1.2805888!4d103.8521632!16s%2Fm%2F0wfb281!19sChIJoXsGMKYZ2jERzmDDPx7w0lk
