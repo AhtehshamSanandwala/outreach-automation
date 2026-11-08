@@ -2598,3 +2598,5 @@ https://www.google.com/maps/place/Swiss+Cake+Shop/data=!4m7!3m6!1s0x31da196c8e92
 https://www.google.com/maps/place/International+Fibre+Resources+Pte+Ltd/data=!4m7!3m6!1s0x31da19135fd36203:0xfcb1d252630534c3!8m2!3d1.275806!4d103.846204!16s%2Fg%2F11b6_dct3f!19sChIJA2LTXxMZ2jERwzQFY1LSsfw
 https://www.google.com/maps/place/Baycus+Pte+Ltd/data=!4m7!3m6!1s0x31da19799278534d:0xe79c4df41ed6176c!8m2!3d1.2753319!4d103.8426333!16s%2Fg%2F11njkhft7q!19sChIJTVN4knkZ2jERbBfWHvRNnOc
 https://www.google.com/maps/place/WEDO+Tools+Pte+Ltd/data=!4m7!3m6!1s0x31da17f06d89645d:0x3d1f64782a55bdf0!8m2!3d1.2759844!4d103.8441821!16s%2Fg%2F11grvhb1w4!19sChIJXWSJbfAX2jER8L1VKnhkHz0
+https://www.google.com/maps/place/Yong+Wen+Food+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1ab3c400e139:0x4d728571da0d5b8a!8m2!3d1.3322248!4d103.7157423!16s%2Fg%2F1pv00myh_!19sChIJOeEAxLMa2jERilsN2nGFck0
+https://www.google.com/maps/place/Onemas+Pte+Ltd/data=!4m7!3m6!1s0x31da196deb6a7111:0x872e190b77307a75!8m2!3d1.278812!4d103.840373!16s%2Fg%2F1ptw88rlq!19sChIJEXFq620Z2jERdXowdwsZLoc
