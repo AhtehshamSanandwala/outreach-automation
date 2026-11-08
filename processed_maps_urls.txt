@@ -2770,3 +2770,4 @@ https://www.google.com/maps/place/Weinberg+Logistics+%26+Distribution+Pte+Ltd/da
 https://www.google.com/maps/place/POPDrop+-+Tanjong+Pagar+Post+Office/data=!4m7!3m6!1s0x31da19a70b15acbd:0xe244130bcd2dad66!8m2!3d1.2748632!4d103.8426344!16s%2Fg%2F11ygfnpqhn!19sChIJvawVC6cZ2jERZq0tzQsTROI
 https://www.google.com/maps/place/Slade+Shipping+Far+East/data=!4m7!3m6!1s0x31da196d79994045:0x3c9611ae0d6cdb97!8m2!3d1.279279!4d103.8422041!16s%2Fg%2F11bt_jflg8!19sChIJRUCZeW0Z2jERl9tsDa4Rljw
 https://www.google.com/maps/place/EES+Freight+Services+Pte+Ltd+%28Main+Office%29/data=!4m7!3m6!1s0x31da196d3c56009b:0xf71079117c10c9f2!8m2!3d1.2799566!4d103.849325!16s%2Fg%2F1td0d09d!19sChIJmwBWPG0Z2jER8skQfBF5EPc
+https://www.google.com/maps/place/Uni-Logistics+Freight+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196b59eead59:0xcc0e18f8027c89e0!8m2!3d1.274814!4d103.8440236!16s%2Fg%2F11dxdxt9g5!19sChIJWa3uWWsZ2jER4Il8AvgYDsw
