@@ -3389,3 +3389,4 @@ https://www.google.com/maps/place/Marina+South+Ferries/data=!4m7!3m6!1s0x31da197
 https://www.google.com/maps/place/Luggage+Storage+Gardens+By+The+Bay+-+Radical+Storage/data=!4m7!3m6!1s0x31da19089a115d9f:0x150eb966dad2049a!8m2!3d1.284235!4d103.858982!16s%2Fg%2F11yxn7lqpp!19sChIJn10RmggZ2jERmgTS2ma5DhU
 https://www.google.com/maps/place/Suntec+Loading+Bay/data=!4m7!3m6!1s0x31da191da6186bd1:0x50f4562c706e599d!8m2!3d1.2947195!4d103.8574535!16s%2Fg%2F11h_wsbt23!19sChIJ0WsYph0Z2jERnVlucCxW9FA
 https://www.google.com/maps/place/Merlion+Jetty/data=!4m7!3m6!1s0x31da1908f1402d43:0x27fa2379abbb1604!8m2!3d1.2864199!4d103.8545508!16s%2Fg%2F11gf30g690!19sChIJQy1A8QgZ2jERBBa7q3kj-ic
+https://www.google.com/maps/place/EZIE/data=!4m7!3m6!1s0x31da191c512d01ed:0xe97d63be0c2421ae!8m2!3d1.2997901!4d103.8556799!16s%2Fg%2F11pd2w7q00!19sChIJ7QEtURwZ2jERriEkDL5jfek
