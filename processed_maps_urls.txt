@@ -3298,3 +3298,4 @@ https://www.google.com/maps/place/Nagase+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Pollen+Tech/data=!4m7!3m6!1s0x31da19132cd2b7ad:0xf93ed78790c61240!8m2!3d1.29503!4d103.8583026!16s%2Fg%2F11kbn8_kq0!19sChIJrbfSLBMZ2jERQBLGkIfXPvk
 https://www.google.com/maps/place/S.+Mulchand+%26+Sons+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19ef9a89ed19:0x29ad01552c3a5d4!8m2!3d1.3181888!4d103.8429019!16s%2Fg%2F1ptxkdp11!19sChIJGe2Jmu8Z2jER1KXDUhXQmgI
 https://www.google.com/maps/place/LashLock/data=!4m7!3m6!1s0x31da19aa8fb3dd75:0x3ed4fa7a9d33ae34!8m2!3d1.2920528!4d103.8558555!16s%2Fg%2F11p24dkypl!19sChIJdd2zj6oZ2jERNK4znXr61D4
+https://www.google.com/maps/place/Gain+City+%28Marina+Square%29/data=!4m7!3m6!1s0x31da190e6bc00001:0x4788f799231e80b9!8m2!3d1.2910638!4d103.8583153!16s%2Fg%2F1tksf9rs!19sChIJAQDAaw4Z2jERuYAeI5n3iEc
