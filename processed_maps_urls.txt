@@ -2813,3 +2813,4 @@ https://www.google.com/maps/place/Servplan+Services/data=!4m7!3m6!1s0x31da198fe9
 https://www.google.com/maps/place/Interswift+Logistics/data=!4m7!3m6!1s0x31da196d2fb4f573:0xb2ca1f50c27a5bcc!8m2!3d1.277896!4d103.8442299!16s%2Fg%2F1pv610k4j!19sChIJc_W0L20Z2jERzFt6wlAfyrI
 https://www.google.com/maps/place/Trancy+Logistics+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196b247b78e7:0x34d115d210ad9093!8m2!3d1.2732633!4d103.8435905!16s%2Fg%2F1tlc5lj0!19sChIJ53h7JGsZ2jERk5CtENIV0TQ
 https://www.google.com/maps/place/Vintrans+Logistic+Service/data=!4m7!3m6!1s0x31da196bb485e285:0x47a5f7642371bf05!8m2!3d1.2731719!4d103.8407029!16s%2Fg%2F11c1wsb6mw!19sChIJheKFtGsZ2jERBb9xI2T3pUc
+https://www.google.com/maps/place/Aeromic+Shipping+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19134395e201:0x69f03e9c7c3c9b62!8m2!3d1.2758268!4d103.8459868!16s%2Fg%2F11cn6l39s6!19sChIJAeKVQxMZ2jERYps8fJw-8Gk
