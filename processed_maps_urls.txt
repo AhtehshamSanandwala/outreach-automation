@@ -2562,3 +2562,5 @@ https://www.google.com/maps/place/Lesont+Group/data=!4m7!3m6!1s0x31da190a44daba3
 https://www.google.com/maps/place/Future+Tech+Components/data=!4m7!3m6!1s0x31da191344eb7dd5:0x7aa9866771cdbd1d!8m2!3d1.2757176!4d103.8458!16s%2Fg%2F11fmw_srl7!19sChIJ1X3rRBMZ2jERHb3NcWeGqXo
 https://www.google.com/maps/place/World+Wide+Papers/data=!4m7!3m6!1s0x31da196deb7d0001:0xfd3b74af74dbc192!8m2!3d1.2788457!4d103.8402085!16s%2Fg%2F11h4djfmrr!19sChIJAQB9620Z2jERksHbdK90O_0
 https://www.google.com/maps/place/%23B1-028+Food+Products+Supplier/data=!4m7!3m6!1s0x31da19731d69ec51:0x191fd35805c0795!8m2!3d1.2821284!4d103.8427348!16s%2Fg%2F11j75z_yts!19sChIJUexpHXMZ2jERlQdcgDX9kQE
+https://www.google.com/maps/place/L+%26+N+International/data=!4m7!3m6!1s0x31da19131e42693f:0xff9bbb0cad0e1e7f!8m2!3d1.2772797!4d103.8465299!16s%2Fg%2F1ptwy063j!19sChIJP2lCHhMZ2jERfx4OrQy7m_8
+https://www.google.com/maps/place/Sweet+Stone+Holdings+LLP/data=!4m7!3m6!1s0x31da1912c6019325:0xf2e22135c9ca8c10!8m2!3d1.2782955!4d103.8456739!16s%2Fg%2F1pt_lfjhg!19sChIJJZMBxhIZ2jEREIzKyTUh4vI
