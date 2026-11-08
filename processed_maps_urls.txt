@@ -2951,3 +2951,4 @@ https://www.google.com/maps/place/Brandon+Hardware/data=!4m7!3m6!1s0x31da196c2a3
 https://www.google.com/maps/place/Chancellor+Holdings+Pte+Ltd/data=!4m7!3m6!1s0x31da196d8ea35bfd:0xd87e7ca4b6a83899!8m2!3d1.2793962!4d103.840855!16s%2Fg%2F1pty4_tdq!19sChIJ_Vujjm0Z2jERmTiotqR8ftg
 https://www.google.com/maps/place/APP+Copier+International/data=!4m7!3m6!1s0x31da1913441da4b3:0x87654b4b667f6fcb!8m2!3d1.275913!4d103.845841!16s%2Fg%2F1ptx7_4j_!19sChIJs6QdRBMZ2jERy29_ZktLZYc
 https://www.google.com/maps/place/Achtizm+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da196d4d18052b:0x64425805be9c538!8m2!3d1.2789506!4d103.8447349!16s%2Fg%2F1tdxbt6c!19sChIJKwUYTW0Z2jEROMXpW4AlRAY
+https://www.google.com/maps/place/Taiko+Drum+Industries+Pte.+Ltd./data=!4m7!3m6!1s0x31da196d7996b717:0xf26b4bd9e7b7dbf1!8m2!3d1.2792507!4d103.8421894!16s%2Fg%2F1v46xwm1!19sChIJF7eWeW0Z2jER8du359lLa_I
