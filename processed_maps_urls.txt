@@ -2341,3 +2341,4 @@ https://www.google.com/maps/place/Frontier+Executive+Search/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Space+Executive+Pte+Ltd/data=!4m7!3m6!1s0x31da197397222ddd:0xa8e306ffbd1a1f36!8m2!3d1.2777366!4d103.8476215!16s%2Fg%2F11q8y13h10!19sChIJ3S0il3MZ2jERNh8avf8G46g
 https://www.google.com/maps/place/8Hunters+International+Pte+Ltd/data=!4m7!3m6!1s0x31da1912dcd30cdf:0x267a686b93cf1e27!8m2!3d1.2786632!4d103.8474008!16s%2Fg%2F1ptwzkyrs!19sChIJ3wzT3BIZ2jERJx7Pk2toeiY
 https://www.google.com/maps/place/Canning+Hill+Associates+Private+Limited/data=!4m7!3m6!1s0x31da19180ef52a81:0xb1d01573c5ca9af6!8m2!3d1.2787959!4d103.848115!16s%2Fg%2F11hdvvdc2j!19sChIJgSr1DhgZ2jER9prKxXMV0LE
+https://www.google.com/maps/place/CONNECTe+International+Pte+Ltd/data=!4m7!3m6!1s0x31da1bd4a452f8eb:0x6de8fdd04cc7c359!8m2!3d1.2755215!4d103.8459659!16s%2Fg%2F11h4y6c3wh!19sChIJ6_hSpNQb2jERWcPHTND96G0
