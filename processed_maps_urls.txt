@@ -2601,3 +2601,5 @@ https://www.google.com/maps/place/WEDO+Tools+Pte+Ltd/data=!4m7!3m6!1s0x31da17f06
 https://www.google.com/maps/place/Yong+Wen+Food+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1ab3c400e139:0x4d728571da0d5b8a!8m2!3d1.3322248!4d103.7157423!16s%2Fg%2F1pv00myh_!19sChIJOeEAxLMa2jERilsN2nGFck0
 https://www.google.com/maps/place/Onemas+Pte+Ltd/data=!4m7!3m6!1s0x31da196deb6a7111:0x872e190b77307a75!8m2!3d1.278812!4d103.840373!16s%2Fg%2F1ptw88rlq!19sChIJEXFq620Z2jERdXowdwsZLoc
 https://www.google.com/maps/place/Vsource+Global+Enterprises/data=!4m7!3m6!1s0x31da196d4d7dd94b:0x85c15fd8e9a01da3!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1ptyn67wn!19sChIJS9l9TW0Z2jERox2g6dhfwYU
+https://www.google.com/maps/place/Bern+Enterprise/data=!4m7!3m6!1s0x31da19135ee1333d:0x62b7e58cf21ad19c!8m2!3d1.2755627!4d103.8457502!16s%2Fg%2F1ptz58v0h!19sChIJPTPhXhMZ2jERnNEa8ozlt2I
+https://www.google.com/maps/place/ALL-IN+Corporation+Pte.+Ltd./data=!4m7!3m6!1s0x31da191344c00001:0x41534eb0fa450d82!8m2!3d1.2751663!4d103.84567!16s%2Fg%2F11g8wh7shq!19sChIJAQDARBMZ2jERgg1F-rBOU0E
