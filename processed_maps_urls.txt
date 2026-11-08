@@ -2411,3 +2411,4 @@ https://www.google.com/maps/place/FHC+Advisory+Pte+Ltd/data=!4m7!3m6!1s0x31da197
 https://www.google.com/maps/place/CorpZap+Pte+Ltd/data=!4m7!3m6!1s0x31da19e3fd1b6753:0x520c66ef28f510ee!8m2!3d1.2798791!4d103.8438186!16s%2Fg%2F11hz193fsv!19sChIJU2cb_eMZ2jER7hD1KO9mDFI
 https://www.google.com/maps/place/Allen+%26+Bryans+Consultants/data=!4m7!3m6!1s0x31da19121926c605:0x6c0bc01471b39bd2!8m2!3d1.275907!4d103.8461424!16s%2Fg%2F1tcxg90q!19sChIJBcYmGRIZ2jER0puzcRTAC2w
 https://www.google.com/maps/place/Ascentsia+Law+Corporation/data=!4m7!3m6!1s0x31da1913440f0e5b:0xcf568cd82d8f2f0f!8m2!3d1.2760013!4d103.8459347!16s%2Fg%2F1tdmbdp9!19sChIJWw4PRBMZ2jERDy-PLdiMVs8
+https://www.google.com/maps/place/EA+Management+%26+Consulting+Pte.+Ltd./data=!4m7!3m6!1s0x31da19e1219a4201:0x8bb792aa5f4ba9b3!8m2!3d1.2739669!4d103.8444453!16s%2Fg%2F11p59vryd9!19sChIJAUKaIeEZ2jERs6lLX6qSt4s
