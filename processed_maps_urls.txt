@@ -3360,3 +3360,4 @@ https://www.google.com/maps/place/MY+Transport+SG/data=!4m7!3m6!1s0x31da19005ff4
 https://www.google.com/maps/place/APL+Logistics/data=!4m7!3m6!1s0x31da1a42ffffffff:0x5ca437715b9eb095!8m2!3d1.2974693!4d103.8579432!16s%2Fg%2F11fz9yrkn_!19sChIJ_____0Ia2jERlbCeW3E3pFw
 https://www.google.com/maps/place/ADS+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da19b3966ffe15:0xee8c56ad53fceaa0!8m2!3d1.3018698!4d103.863802!16s%2Fg%2F11b5phv7cz!19sChIJFf5vlrMZ2jERoOr8U61WjO4
 https://www.google.com/maps/place/Asia+Marine+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1bc168faaaab:0x53f8918c7d0747b5!8m2!3d1.299739!4d103.860815!16s%2Fg%2F11ggbrmb0s!19sChIJq6r6aMEb2jERtUcHfYyR-FM
+https://www.google.com/maps/place/5M+Global+Logistics/data=!4m7!3m6!1s0x31da19a57eca5669:0x212bcfa616d4f47c!8m2!3d1.2963543!4d103.8559451!16s%2Fg%2F1ptwjkbf3!19sChIJaVbKfqUZ2jERfPTUFqbPKyE
