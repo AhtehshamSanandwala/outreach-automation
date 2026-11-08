@@ -2780,3 +2780,4 @@ https://www.google.com/maps/place/Heung-A+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/DHL+Express+Service+Point+-+Tanjong+Pagar+Cheers+Store+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da1927db1c481f:0xd56bbea14433bf2d!8m2!3d1.2764365!4d103.8449856!16s%2Fg%2F11mm85zy_6!19sChIJH0gc2ycZ2jERLb8zRKG-a9U
 https://www.google.com/maps/place/BTS+Tankers/data=!4m7!3m6!1s0x31da19096ac0000d:0xc92d2250c6f31035!8m2!3d1.2739669!4d103.8444453!16s%2Fg%2F11bzsddm96!19sChIJDQDAagkZ2jERNRDzxlAiLck
 https://www.google.com/maps/place/Winway+Logistics+Llp/data=!4m7!3m6!1s0x31da196d52d0750b:0xa638c1a8500dfdf3!8m2!3d1.2792559!4d103.8447685!16s%2Fg%2F11fnwhvx7j!19sChIJC3XQUm0Z2jER8_0NUKjBOKY
+https://www.google.com/maps/place/Swift+Logistics+%26+Heavy+Vehicles+Pte+Ltd/data=!4m7!3m6!1s0x31da196d52d0750b:0x2ec41d10e758014a!8m2!3d1.2791002!4d103.8450466!16s%2Fg%2F11h4djpd34!19sChIJC3XQUm0Z2jERSgFY5xAdxC4
