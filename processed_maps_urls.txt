@@ -2590,3 +2590,5 @@ https://www.google.com/maps/place/Chuan+Seng+Huat+Liquors+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/Chocolate+%26+Gelato/data=!4m7!3m6!1s0x31da196caa4a5415:0x7d8d28fb85a024ba!8m2!3d1.2753422!4d103.8444743!16s%2Fg%2F11b6dc_8r8!19sChIJFVRKqmwZ2jERuiSghfsojX0
 https://www.google.com/maps/place/ANATTA+Culinary+Academy+Shop/data=!4m7!3m6!1s0x31da198ae1c6fd65:0xaaffa4be25744e3b!8m2!3d1.2786209!4d103.8411028!16s%2Fg%2F11y3102181!19sChIJZf3G4YoZ2jERO050Jb6k_6o
 https://www.google.com/maps/place/Kemp+Singapore+Water+Ionizer:+Alkaline+Ionized+Water+%7C+Hydrogen+Water+%7C+Antioxidant+Water/data=!4m7!3m6!1s0x31da1bce0a2d4809:0xa203335d0dfec6cf!8m2!3d1.2757523!4d103.8457986!16s%2Fg%2F1tdms474!19sChIJCUgtCs4b2jERz8b-DV0zA6I
+https://www.google.com/maps/place/Udele+%26+Coy+Pte+Ltd/data=!4m7!3m6!1s0x31da196dec84b6b3:0x784e53af90beba9c!8m2!3d1.27913!4d103.8401485!16s%2Fg%2F1ptyfv2mf!19sChIJs7aE7G0Z2jERnLq-kK9TTng
+https://www.google.com/maps/place/Unpl+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da191375007441:0x486eec80fa905a8f!8m2!3d1.2761294!4d103.8474403!16s%2Fg%2F1ptxn23cv!19sChIJQXQAdRMZ2jERj1qQ-oDsbkg
