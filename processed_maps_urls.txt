@@ -3425,3 +3425,4 @@ https://www.google.com/maps/place/Leviev/data=!4m7!3m6!1s0x31da190683a4877f:0xf7
 https://www.google.com/maps/place/Aora+-+Shipping+from+US+to+Singapore/data=!4m7!3m6!1s0x31da193fe6af3b77:0xe137b4a34bc790f9!8m2!3d1.2923889!4d103.8566851!16s%2Fg%2F11g0wgjbh5!19sChIJdzuv5j8Z2jER-ZDHS6O0N-E
 https://www.google.com/maps/place/Tolani+Shipping+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da19af0fcf0c0f:0x72a51d5f06ac4a2!8m2!3d1.2954086!4d103.8584536!16s%2Fg%2F1vd6zvxc!19sChIJDwzPD68Z2jERosRq8NVRKgc
 https://www.google.com/maps/place/Marinetrans/data=!4m7!3m6!1s0x31da196b0bad12ed:0x7401602b9e7715fe!8m2!3d1.277292!4d103.8487085!16s%2Fg%2F1tfjc1n6!19sChIJ7RKtC2sZ2jER_hV3nitgAXQ
+https://www.google.com/maps/place/Changi+Airfreight+Centre/data=!4m7!3m6!1s0x31da3c0cc56d879f:0x8b3d054bb9203569!8m2!3d1.382508!4d103.99939!16s%2Fg%2F11fmvkrqdd!19sChIJn4dtxQw82jERaTUguUsFPYs
