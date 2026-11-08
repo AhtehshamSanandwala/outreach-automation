@@ -2528,3 +2528,4 @@ https://www.google.com/maps/place/Alfa+International+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Life+Care+Products/data=!4m7!3m6!1s0x31da191340ce793b:0x29b2b514ba721425!8m2!3d1.2760013!4d103.8459347!16s%2Fg%2F119vl0_2g!19sChIJO3nOQBMZ2jERJRRyuhS1sik
 https://www.google.com/maps/place/Leong+Yick+Loong+Chop/data=!4m7!3m6!1s0x31da19728d158345:0xa649dd4a74ccf695!8m2!3d1.2802964!4d103.8428749!16s%2Fg%2F1tt1drnk!19sChIJRYMVjXIZ2jERlfbMdErdSaY
 https://www.google.com/maps/place/Sia+Huat+Retail+Store/data=!4m7!3m6!1s0x31da190cd334e1c7:0x19b1fef290ee791b!8m2!3d1.2823872!4d103.8447394!16s%2Fg%2F1tdr5pt6!19sChIJx-E00wwZ2jERG3nukPL-sRk
+https://www.google.com/maps/place/DeRocks+Trading/data=!4m7!3m6!1s0x31da1914a73b4fb5:0x6da861c393c775e7!8m2!3d1.2760031!4d103.8459242!16s%2Fg%2F11fx_57qgm!19sChIJtU87pxQZ2jER53XHk8NhqG0
