@@ -2782,3 +2782,4 @@ https://www.google.com/maps/place/BTS+Tankers/data=!4m7!3m6!1s0x31da19096ac0000d
 https://www.google.com/maps/place/Winway+Logistics+Llp/data=!4m7!3m6!1s0x31da196d52d0750b:0xa638c1a8500dfdf3!8m2!3d1.2792559!4d103.8447685!16s%2Fg%2F11fnwhvx7j!19sChIJC3XQUm0Z2jER8_0NUKjBOKY
 https://www.google.com/maps/place/Swift+Logistics+%26+Heavy+Vehicles+Pte+Ltd/data=!4m7!3m6!1s0x31da196d52d0750b:0x2ec41d10e758014a!8m2!3d1.2791002!4d103.8450466!16s%2Fg%2F11h4djpd34!19sChIJC3XQUm0Z2jERSgFY5xAdxC4
 https://www.google.com/maps/place/Tad+Logistics/data=!4m7!3m6!1s0x31da191340cb9297:0xa434e1b320b43855!8m2!3d1.276122!4d103.845917!16s%2Fg%2F1ptydx5k8!19sChIJl5LLQBMZ2jERVTi0ILPhNKQ
+https://www.google.com/maps/place/Premiere+Global+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1912c68752ab:0x68a3d12d06acff54!8m2!3d1.278277!4d103.845722!16s%2Fg%2F11c59wmg40!19sChIJq1KHxhIZ2jERVP-sBi3Ro2g
