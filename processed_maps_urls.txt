@@ -3096,3 +3096,4 @@ https://www.google.com/maps/place/Zendesk+Singapore/data=!4m7!3m6!1s0x31da1a40cc
 https://www.google.com/maps/place/Instant+Management+Services/data=!4m7!3m6!1s0x31da19b1be729df3:0x1b6c1aa4d97d18c0!8m2!3d1.278759!4d103.850124!16s%2Fg%2F1pty4t_tj!19sChIJ851yvrEZ2jERwBh92aQabBs
 https://www.google.com/maps/place/The+Digital+Gadgets+Marina+Bay+Sands/data=!4m7!3m6!1s0x31da192ee1c54997:0x56ddf07a16e7d56f!8m2!3d1.2840455!4d103.8594545!16s%2Fg%2F11ry9tk0z5!19sChIJl0nF4S4Z2jERb9XnFnrw3VY
 https://www.google.com/maps/place/Marina-+Bay+Shipping+Group/data=!4m7!3m6!1s0x31da1975f48a31d7:0xf9f91d6568fcfc74!8m2!3d1.2845452!4d103.8526975!16s%2Fg%2F11fvsty_xf!19sChIJ1zGK9HUZ2jERdPz8aGUd-fk
+https://www.google.com/maps/place/IBM+Singapore/data=!4m7!3m6!1s0x31da1910b6106bcd:0x82985c88aa8472b3!8m2!3d1.2792463!4d103.8541121!16s%2Fg%2F11fcsgtrrf!19sChIJzWsQthAZ2jERs3KEqohcmII
