@@ -3368,3 +3368,4 @@ https://www.google.com/maps/place/Lotte+Global+Logistics+%28S%29+Pte.+Ltd./data=
 https://www.google.com/maps/place/Voyage+marine+logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da197e0622d9e3:0x7873177845bcc357!8m2!3d1.3005243!4d103.8521508!16s%2Fg%2F11r74bv364!19sChIJ49kiBn4Z2jERV8O8RXgXc3g
 https://www.google.com/maps/place/AIT+Worldwide+Logistics/data=!4m7!3m6!1s0x31da1960e1891753:0x5d76cf2ad25ee7cb!8m2!3d1.2984708!4d103.8588833!16s%2Fg%2F11l30cxtdk!19sChIJUxeJ4WAZ2jERy-de0irPdl0
 https://www.google.com/maps/place/AAL/data=!4m7!3m6!1s0x31da19afa8f5d913:0xefb7996a67678ad2!8m2!3d1.2956343!4d103.8591283!16s%2Fg%2F1wyc1vsd!19sChIJE9n1qK8Z2jER0opnZ2qZt-8
+https://www.google.com/maps/place/API+SHIPPING+%26+LOGISTICS+COMPANY+LIMITED./data=!4m7!3m6!1s0x31da19a93137e8e5:0xc12a1be1c2292f8f!8m2!3d1.2932292!4d103.8606812!16s%2Fg%2F11hf806yxb!19sChIJ5eg3MakZ2jERjy8pwuEbKsE
