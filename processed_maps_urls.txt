@@ -2914,3 +2914,4 @@ https://www.google.com/maps/place/Acute+Technologies+Services/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Super+One+Pte+Ltd/data=!4m7!3m6!1s0x31da196ba4cd1865:0x3300ab22ec2a2a49!8m2!3d1.2734955!4d103.8412354!16s%2Fg%2F1ptvxt006!19sChIJZRjNpGsZ2jERSSoq7CKrADM
 https://www.google.com/maps/place/Mauliatema+Tools,+Co.+Ltd./data=!4m7!3m6!1s0x31da196d4d7dd94b:0x98c99f9e93051cb4!8m2!3d1.2792508!4d103.8447681!16s%2Fg%2F1pty45w8_!19sChIJS9l9TW0Z2jERtBwFk56fyZg
 https://www.google.com/maps/place/Waldmann+Lighting+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da190c9c430041:0x3c590dcc93f5c183!8m2!3d1.2792259!4d103.8421391!16s%2Fg%2F1ptxxkqv8!19sChIJQQBDnAwZ2jERg8H1k8wNWTw
+https://www.google.com/maps/place/bulthaup+Singapore+by+The+Madison+Group/data=!4m7!3m6!1s0x31da19a3e6e5f717:0x6847a93d440d541d!8m2!3d1.2783575!4d103.8427202!16s%2Fg%2F1ptymrl_s!19sChIJF_fl5qMZ2jERHVQNRD2pR2g
