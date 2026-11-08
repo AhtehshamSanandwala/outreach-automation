@@ -2936,3 +2936,4 @@ https://www.google.com/maps/place/Fusion+Scientific+Glassware/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Cortina+Treasure+Corporation+Pte+Ltd/data=!4m7!3m6!1s0x31da191346a2e951:0x52bcf42174e18735!8m2!3d1.27595!4d103.845817!16s%2Fg%2F1ptxb9y1_!19sChIJUemiRhMZ2jERNYfhdCH0vFI
 https://www.google.com/maps/place/Asia+Ami-Gfv+Pte.+Ltd./data=!4m7!3m6!1s0x31da196d4acfec5f:0x80e42080ae36b93!8m2!3d1.2789506!4d103.8447349!16s%2Fg%2F1th84n14!19sChIJX-zPSm0Z2jERk2vjCghCDgg
 https://www.google.com/maps/place/Madam+M+Pte+Ltd/data=!4m7!3m6!1s0x31da1913304ff9e5:0x5d90cb92e7ae66f1!8m2!3d1.2767219!4d103.8453977!16s%2Fg%2F11cs5q17l_!19sChIJ5flPMBMZ2jER8Wau55LLkF0
+https://www.google.com/maps/place/Intellco/data=!4m7!3m6!1s0x31da191346eb7f05:0x67d3a051d1aae904!8m2!3d1.276001!4d103.845788!16s%2Fg%2F1ptypxwv5!19sChIJBX_rRhMZ2jERBOmq0VGg02c
