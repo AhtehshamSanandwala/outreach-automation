@@ -4261,3 +4261,4 @@ https://www.google.com/maps/place/Nissin+Transport+%28S%29+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/Global+Express+Freight+Services+Pte.Ltd/data=!4m7!3m6!1s0x31da3dda634e1ed7:0x53e08f2f385129f3!8m2!3d1.382831!4d103.999542!16s%2Fg%2F11jyk2mdw0!19sChIJ1x5OY9o92jER8ylROC-P4FM
 https://www.google.com/maps/place/Aft+Bugis+Stn+Exit+C/data=!4m7!3m6!1s0x31da19ba950cc737:0x4ce1e587ba28f009!8m2!3d1.2996128!4d103.855168!16s%2Fg%2F1hc32m_x3!19sChIJN8cMlboZ2jERCfAouofl4Uw
 https://www.google.com/maps/place/Cargo+Agents+Building+D/data=!4m7!3m6!1s0x31da3c0cc3c6c92b:0xf43588327ed0e7cc!8m2!3d1.382831!4d103.999542!16s%2Fg%2F11h51k578b!19sChIJK8nGwww82jERzOfQfjKINfQ
+https://www.google.com/maps/place/Bugis+MRT+Exit+E/data=!4m7!3m6!1s0x31da197b89651503:0x8f1425cf55bddcdc!8m2!3d1.2996337!4d103.857304!16s%2Fg%2F11flm519bz!19sChIJAxVliXsZ2jER3Ny9Vc8lFI8
