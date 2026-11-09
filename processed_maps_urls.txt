@@ -3835,3 +3835,4 @@ https://www.google.com/maps/place/Lovelotsdiamond/data=!4m7!3m6!1s0x31da19de6002
 https://www.google.com/maps/place/Hyve.Promo/data=!4m7!3m6!1s0x31da190d4fc1cef7:0x53a534532b53c00b!8m2!3d1.3019624!4d103.8397343!16s%2Fg%2F11z0wrm4q_!19sChIJ987BTw0Z2jERC8BTK1M0pVM
 https://www.google.com/maps/place/Garlico+Pte+Ltd/data=!4m7!3m6!1s0x31da19923d7b4249:0xfd70bc01d4d1604d!8m2!3d1.3040489!4d103.8348502!16s%2Fg%2F1ptwsgypz!19sChIJSUJ7PZIZ2jERTWDR1AG8cP0
 https://www.google.com/maps/place/Cartier+ION+Orchard/data=!4m7!3m6!1s0x31da19919178492f:0x4e665e171afb4655!8m2!3d1.304286!4d103.831911!16s%2Fg%2F11x9yrtfm!19sChIJL0l4kZEZ2jERVUb7GhdeZk4
+https://www.google.com/maps/place/Colorfull+Store/data=!4m7!3m6!1s0xa0ac18f7142de555:0x3b0ef7fe560242e0!8m2!3d1.3009827!4d103.8355742!16s%2Fg%2F11y5fzfmk4!19sChIJVeUtFPcYrKAR4EICVv73Djs
