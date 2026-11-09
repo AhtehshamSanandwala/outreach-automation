@@ -4242,3 +4242,4 @@ https://www.google.com/maps/place/GITC+Pte.+Ltd./data=!4m7!3m6!1s0x31da1966a281e
 https://www.google.com/maps/place/Admis+Singapore+Pte+Limited/data=!4m7!3m6!1s0x31da190936afd035:0x53edb83f6b74ed71!8m2!3d1.2996629!4d103.8561825!16s%2Fg%2F1pt_6_mhq!19sChIJNdCvNgkZ2jERce10az-47VM
 https://www.google.com/maps/place/iStudio+Bugis+Junction/data=!4m7!3m6!1s0x31da19bab92db77d:0x42abf95948ff2750!8m2!3d1.2987849!4d103.8549134!16s%2Fg%2F11hcw3ngv2!19sChIJfbctuboZ2jERUCf_SFn5q0I
 https://www.google.com/maps/place/Fish+@+Woodleigh/data=!4m7!3m6!1s0x31da19bae8b91cf1:0x982da3a4aee657d3!8m2!3d1.3425035!4d103.8682041!16s%2Fg%2F11fy_d8kxv!19sChIJ8Ry56LoZ2jER01fmrqSjLZg
+https://www.google.com/maps/place/Mister+Mobile+Bugis+%28Bugis+Junction%29/data=!4m7!3m6!1s0x31da193266229087:0x64e8173d8455ef6!8m2!3d1.2992586!4d103.8553384!16s%2Fg%2F11nqd25rtl!19sChIJh5AiZjIZ2jER9l5F2HOBTgY
