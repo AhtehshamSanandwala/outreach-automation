@@ -5073,3 +5073,4 @@ https://www.google.com/maps/place/Independent+Warehousing+%26+Forwarding+Service
 https://www.google.com/maps/place/Slumberland+Singapore/data=!4m7!3m6!1s0x31da19b19122cbf3:0xc7906a6f2490fa9!8m2!3d1.299926!4d103.861203!16s%2Fg%2F1ptvwdg8w!19sChIJ88sikbEZ2jERqQ9J8qYGeQw
 https://www.google.com/maps/place/Flexport+Singapore/data=!4m7!3m6!1s0x31da19df182dfa1d:0x31b2c89b2e0a1a9c!8m2!3d1.2798208!4d103.8481151!16s%2Fg%2F11lnwvpzcc!19sChIJHfotGN8Z2jERnBoKLpvIsjE
 https://www.google.com/maps/place/Multi-Trans+International+Pte+Ltd/data=!4m7!3m6!1s0x31da183282e22529:0x553e11b71f5c4b2f!8m2!3d1.3168877!4d103.8703216!16s%2Fg%2F1tg58mdj!19sChIJKSXigjIY2jERL0tcH7cRPlU
+https://www.google.com/maps/place/Goodtrans+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19cd4cdae22b:0xfba352fd00775e75!8m2!3d1.3162958!4d103.86794!16s%2Fg%2F1ptwyyth2!19sChIJK-LaTM0Z2jERdV53AP1So_s
