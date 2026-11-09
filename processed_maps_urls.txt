@@ -5009,3 +5009,5 @@ https://www.google.com/maps/place/Daily+Express+Transportation/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/TitanTrack+Logistics/data=!4m7!3m6!1s0x31da19005c769ff3:0xe8ed9441550784d8!8m2!3d1.3052528!4d103.8629195!16s%2Fg%2F11x6dj_zc9!19sChIJ8592XAAZ2jER2IQHVUGU7eg
 https://www.google.com/maps/place/Shipping+Corporation+Of+India+Ltd+The/data=!4m7!3m6!1s0x31da19cbfd89eb99:0xddba2393ba3b055d!8m2!3d1.3118762!4d103.8623949!16s%2Fg%2F1tftth3p!19sChIJmeuJ_csZ2jERXQU7upMjut0
 https://www.google.com/maps/place/Alltrans+Transport+%26+Packing+Services/data=!4m7!3m6!1s0x31da19c9f734660f:0xb60c30de89ad7980!8m2!3d1.3084168!4d103.8621982!16s%2Fg%2F1ptwdj7hn!19sChIJD2Y098kZ2jERgHmtid4wDLY
+https://www.google.com/maps/place/Network+Logistics+Agency/data=!4m7!3m6!1s0x31da19b47801c993:0x96c207026a956245!8m2!3d1.303026!4d103.864386!16s%2Fg%2F1ptwgthc8!19sChIJk8kBeLQZ2jERRWKVagIHwpY
+https://www.google.com/maps/place/3B+Express+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da17e18004404f:0xab279aac00cb9d15!8m2!3d1.3401958!4d103.9108529!16s%2Fg%2F11cs5px_v1!19sChIJT0AEgOEX2jERFZ3LAKyaJ6s
