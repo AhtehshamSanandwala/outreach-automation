@@ -5684,3 +5684,4 @@ https://www.google.com/maps/place/Beacon+Logistics+%28S%29+Pte.+Ltd./data=!4m7!3
 https://www.google.com/maps/place/Schneider+Logistics+Asia/data=!4m7!3m6!1s0x31da17ece2fcd259:0xf45cfdec68b4859f!8m2!3d1.338106!4d103.893238!16s%2Fg%2F11g6rf0bbj!19sChIJWdL84uwX2jERn4W0aOz9XPQ
 https://www.google.com/maps/place/NCL+Inter+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1791dd03846f:0xc7eb5cf8417518af!8m2!3d1.3362106!4d103.9065145!16s%2Fg%2F11fldqt283!19sChIJb4QD3ZEX2jERrxh1Qfhc68c
 https://www.google.com/maps/place/Pos+Tki+Logistics+PTE+LTD/data=!4m7!3m6!1s0x31da173a91524edf:0x7f17970730a6ad12!8m2!3d1.3337281!4d103.9023408!16s%2Fg%2F11v3_1gnhh!19sChIJ305SkToX2jEREq2mMAeXF38
+https://www.google.com/maps/place/ASL+Freight+Forwarders+Pte+Ltd/data=!4m7!3m6!1s0x31da17c5a7352ab3:0x49c03ecfee7bac4!8m2!3d1.3528662!4d103.8997974!16s%2Fg%2F1ptxhmxl7!19sChIJsyo1p8UX2jERxLrn_uwDnAQ
