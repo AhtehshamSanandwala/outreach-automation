@@ -3930,3 +3930,4 @@ https://www.google.com/maps/place/BMExpress+Balikbayan+Box/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Petrosyan+Group+Singapore+PTE.+LTD./data=!4m7!3m6!1s0x31da1939d5642c97:0x6b9a90be0f178d4e!8m2!3d1.3017142!4d103.8387216!16s%2Fg%2F11nbg8msdl!19sChIJlyxk1TkZ2jERTo0XD76Qmms
 https://www.google.com/maps/place/iShip+Express+PTE+LTD/data=!4m7!3m6!1s0x31da1914160ea7df:0x439b3f4bbcb7422a!8m2!3d1.3045755!4d103.8340344!16s%2Fg%2F11h3qnj2wz!19sChIJ36cOFhQZ2jERKkK3vEs_m0M
 https://www.google.com/maps/place/DHL+Express+Service+Point+-+SpeedBox+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19926d40711d:0xcb40138c7416917f!8m2!3d1.3045795!4d103.8340621!16s%2Fg%2F1tfpgb2c!19sChIJHXFAbZIZ2jERf5EWdIwTQMs
+https://www.google.com/maps/place/DHL+Express+Service+Point+-+Iship+Express+Plus+Pte.+Ltd.+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19752a58ff5d:0x573e53bec791e305!8m2!3d1.30481!4d103.8341!16s%2Fg%2F11w8yfj5qg!19sChIJXf9YKnUZ2jERBeORx75TPlc
