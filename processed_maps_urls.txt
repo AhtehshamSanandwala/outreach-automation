@@ -3877,3 +3877,4 @@ https://www.google.com/maps/place/Honey+Farm/data=!4m7!3m6!1s0x31da199197671525:
 https://www.google.com/maps/place/Challenger+%28313+@+Somerset%29/data=!4m7!3m6!1s0x31da1990d802c0e9:0x765fc0dc6547af22!8m2!3d1.3013164!4d103.8381466!16s%2Fg%2F11bxg16qhx!19sChIJ6cAC2JAZ2jERIq9HZdzAX3Y
 https://www.google.com/maps/place/Fruit+Trading+Co.,+Ltd/data=!4m7!3m6!1s0x31da1996faec24df:0xf29898658a517993!8m2!3d1.3013001!4d103.8413111!16s%2Fg%2F1ptw4yb6_!19sChIJ3yTs-pYZ2jERk3lRimWYmPI
 https://www.google.com/maps/place/Bakri+Trading+Co.+%28Asia%29+Pte+Ltd/data=!4m7!3m6!1s0x31da199138476b79:0x50bc39a57722d2de!8m2!3d1.301895!4d103.838196!16s%2Fg%2F1pv5xyms9!19sChIJeWtHOJEZ2jER3tIid6U5vFA
+https://www.google.com/maps/place/Global+Transit+Trading+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da199a94fa25cf:0x98d2d0fcdc72c8c0!8m2!3d1.2990047!4d103.8426847!16s%2Fg%2F11x8k_991k!19sChIJzyX6lJoZ2jERwMhy3PzQ0pg
