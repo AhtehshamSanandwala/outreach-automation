@@ -5173,3 +5173,5 @@ https://www.google.com/maps/place/Dabton+Pte+Ltd/data=!4m7!3m6!1s0x31da19bf963ee
 https://www.google.com/maps/place/Guan+Huat+%281979%29+Private+Limited/data=!4m7!3m6!1s0x31da19cbd3dce155:0xd8cd04132720fbcb!8m2!3d1.3103974!4d103.8626439!16s%2Fg%2F1tddv8q3!19sChIJVeHc08sZ2jERy_sgJxMEzdg
 https://www.google.com/maps/place/Chop+Keat+Cheong/data=!4m7!3m6!1s0x31da19cb8d8fc4c7:0x1c2811a0dfa822e9!8m2!3d1.3114037!4d103.8634753!16s%2Fg%2F1tdntdtd!19sChIJx8SPjcsZ2jER6SKo36ARKBw
 https://www.google.com/maps/place/SAM+audio/data=!4m7!3m6!1s0x31da199afd7b3c9f:0x83db813b7ba67efc!8m2!3d1.3115988!4d103.8632371!16s%2Fg%2F11r2kzxvx6!19sChIJnzx7_ZoZ2jER_H6mezuB24M
+https://www.google.com/maps/place/Elna+Electronics+S+Pte+Ltd/data=!4m7!3m6!1s0x31da19cb46aa8391:0x70972400390a2caf!8m2!3d1.3114852!4d103.8669269!16s%2Fg%2F11j00sh75q!19sChIJkYOqRssZ2jERrywKOQAkl3A
+https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da19de9994c98d:0xce226e560ce6e659!8m2!3d1.3032427!4d103.8728732!16s%2Fg%2F11ywgdwzqj!19sChIJjcmUmd4Z2jERWebmDFZuIs4
