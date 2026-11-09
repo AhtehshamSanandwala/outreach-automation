@@ -5516,3 +5516,4 @@ https://www.google.com/maps/place/Hock+Seng+Fishball+and+Fishcake/data=!4m7!3m6!
 https://www.google.com/maps/place/Teck+Seng+Hin/data=!4m7!3m6!1s0x31da22acfc99fb85:0xff9a652a4f89297!8m2!3d1.343557!4d103.8963462!16s%2Fg%2F1tqpws7c!19sChIJhfuZ_Kwi2jERl5L4pFKm-Q8
 https://www.google.com/maps/place/Superdeal+Marketing+Enterprise/data=!4m7!3m6!1s0x31da17ee5f794af3:0x4f5a603baec77892!8m2!3d1.3377986!4d103.8988219!16s%2Fg%2F1wnbvjdh!19sChIJ80p5X-4X2jERknjHrjtgWk8
 https://www.google.com/maps/place/Power-Sonic+S%27pore+Pte.+Ltd./data=!4m7!3m6!1s0x31da17ee5f794af3:0xf03aca248e8d7ba0!8m2!3d1.337801!4d103.8986016!16s%2Fg%2F1tz73h5q!19sChIJ80p5X-4X2jERoHuNjiTKOvA
+https://www.google.com/maps/place/Hwa+Soon+Paints+Pte+Ltd/data=!4m7!3m6!1s0x31da17c997119417:0xf989eefb3cf7c00d!8m2!3d1.3581606!4d103.8933631!16s%2Fg%2F1tdcjgss!19sChIJF5QRl8kX2jERDcD3PPvuifk
