@@ -5713,3 +5713,5 @@ https://www.google.com/maps/place/Network+Courier/data=!4m7!3m6!1s0x31da19c98870
 https://www.google.com/maps/place/Integrated+Storage+Space+Rental+%2B+Mover/data=!4m7!3m6!1s0x31da1990daba36a9:0x7a33a4396de2a8a6!8m2!3d1.3537181!4d103.8918342!16s%2Fg%2F1pp2x6nmy!19sChIJqTa62pAZ2jERpqjibTmkM3o
 https://www.google.com/maps/place/ST+Engineering+Aerospace+Ltd./data=!4m7!3m6!1s0x31da17c6a9058691:0xd86caf2f52987c49!8m2!3d1.3501447!4d103.896886!16s%2Fg%2F1ptyk6f9d!19sChIJkYYFqcYX2jERSXyYUi-vbNg
 https://www.google.com/maps/place/Viethong+Shipping+%26+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da17c845112f11:0x45776b145e4b418b!8m2!3d1.3561261!4d103.8930682!16s%2Fg%2F11c1wrmyxj!19sChIJES8RRcgX2jERi0FLXhRrd0U
+https://www.google.com/maps/place/Dormitory/data=!4m7!3m6!1s0x31da17000ecb4fd5:0x7bb9d0c017b9ef3c!8m2!3d1.3428655!4d103.8967779!16s%2Fg%2F11y5b1sxrd!19sChIJ1U_LDgAX2jERPO-5F8DQuXs
+https://www.google.com/maps/place/Fortuna+HU+Movers+Singapore/data=!4m7!3m6!1s0x31da1b9da9e0026f:0x4d9fa4cf74ae2c53!8m2!3d1.3598645!4d103.898857!16s%2Fg%2F11h3bnw_5v!19sChIJbwLgqZ0b2jERUyyudM-kn00
