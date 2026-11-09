@@ -4941,3 +4941,4 @@ https://www.google.com/maps/place/Hock+Cheong+Transport+Co.+%28S%29+Pte+Ltd/data
 https://www.google.com/maps/place/Gebruder+Weiss+Pte.+Limited,+Singapore/data=!4m7!3m6!1s0x31da1bc11e318717:0x364b820d7a9096ea!8m2!3d1.3107767!4d103.8638157!16s%2Fg%2F11cjk42q_x!19sChIJF4cxHsEb2jER6paQeg2CSzY
 https://www.google.com/maps/place/LOGISTICS+9+PTE.LTD./data=!4m7!3m6!1s0x31da191b63ace765:0x78fce67191e39af2!8m2!3d1.3107863!4d103.8548232!16s%2Fg%2F11r3vph4gg!19sChIJZeesYxsZ2jER8prjkXHm_Hg
 https://www.google.com/maps/place/HOH+GLOBAL+PTE.+LTD./data=!4m7!3m6!1s0x31da193915d0490d:0x8feef2c717c6b53f!8m2!3d1.3152118!4d103.8659939!16s%2Fg%2F11tdkwcp93!19sChIJDUnQFTkZ2jERP7XGF8fy7o8
+https://www.google.com/maps/place/Hock+Cheong+Forwarding+Pte.+Ltd./data=!4m7!3m6!1s0x31da182d95e2d195:0xd6c6f6e5c7f742bf!8m2!3d1.3180719!4d103.8718028!16s%2Fg%2F1thq2tjg!19sChIJldHilS0Y2jERv0L3x-X2xtY
