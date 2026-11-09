@@ -4620,3 +4620,4 @@ https://www.google.com/maps/place/Focal+Search+Singapore,+Recruitment+Agency/dat
 https://www.google.com/maps/place/BARTON+PIKE+Executive+Search+Pte+Ltd./data=!4m7!3m6!1s0x31da19a0b88043c1:0x28fc3616684db4d5!8m2!3d1.2902208!4d103.8496983!16s%2Fg%2F11lgldj014!19sChIJwUOAuKAZ2jER1bRNaBY2_Cg
 https://www.google.com/maps/place/Talenova+Private+Limited/data=!4m7!3m6!1s0x31da1912061369b9:0x4da1a8c1693c4d0d!8m2!3d1.2954065!4d103.8584444!16s%2Fg%2F11cm0kpj7p!19sChIJuWkTBhIZ2jERDU08acGooU0
 https://www.google.com/maps/place/Integrity+Partners+Pte+Ltd/data=!4m7!3m6!1s0x31da198c84d2d801:0xe1a37300ef698345!8m2!3d1.2955519!4d103.8583821!16s%2Fg%2F11g6rcyf4c!19sChIJAdjShIwZ2jERRYNp7wBzo-E
+https://www.google.com/maps/place/Anveron+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da190e5dca3241:0x593a4bc34ee116c0!8m2!3d1.3076428!4d103.8811865!16s%2Fg%2F1ptzd3yqg!19sChIJQTLKXQ4Z2jERwBbhTsNLOlk
