@@ -3950,3 +3950,4 @@ https://www.google.com/maps/place/World+Petroleum+Logistics+Pte.+Ltd./data=!4m7!
 https://www.google.com/maps/place/POPDrop+-+Orchard+Post+Office/data=!4m7!3m6!1s0x31da19816f24d3cd:0x64f27d5d5873c490!8m2!3d1.3035567!4d103.8324758!16s%2Fg%2F11xtgzkfs2!19sChIJzdMkb4EZ2jERkMRzWF198mQ
 https://www.google.com/maps/place/Adnavem+-+Regional+Office/data=!4m7!3m6!1s0x31da1997a9d5252f:0xe1b015643556972e!8m2!3d1.3028681!4d103.8374411!16s%2Fg%2F11jlr2zwzj!19sChIJLyXVqZcZ2jERLpdWNWQVsOE
 https://www.google.com/maps/place/DHL+Express+Service+Point+-+Gadget+Surelution+Far+East+Plaza+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19159f6c7f93:0xf0b8ff0d6636a5d4!8m2!3d1.3072003!4d103.8332725!16s%2Fg%2F11t2vn9d57!19sChIJk39snxUZ2jER1KU2Zg3_uPA
+https://www.google.com/maps/place/DHL+Express+Service+Point+-+SingPost+Orchard+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19b395fd4491:0xa56f74067ef05fba!8m2!3d1.3035567!4d103.8324758!16s%2Fg%2F11x7cqym_v!19sChIJkUT9lbMZ2jERul_wfgZ0b6U
