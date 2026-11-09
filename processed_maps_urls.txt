@@ -5790,3 +5790,4 @@ https://www.google.com/maps/place/Vantage+Digital/data=!4m7!3m6!1s0x31da17d2c6c9
 https://www.google.com/maps/place/VUE+TECH+PTE+LTD/data=!4m7!3m6!1s0x31da17f8cf3869ad:0xade90d1c7e6216fa!8m2!3d1.3292666!4d103.8967562!16s%2Fg%2F11j301kxgw!19sChIJrWk4z_gX2jER-hZifhwN6a0
 https://www.google.com/maps/place/Tricove+Tech+Pte+Ltd/data=!4m7!3m6!1s0x31da1730d6e91b35:0x2dd999ff6bd2157a!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11fb04k288!19sChIJNRvp1jAX2jERehXSa_-Z2S0
 https://www.google.com/maps/place/Digital+Plus/data=!4m7!3m6!1s0x31da1753ef2a23c9:0xbd824ace3a3a4361!8m2!3d1.326538!4d103.8929378!16s%2Fg%2F11jt240fy0!19sChIJySMq71MX2jERYUM6Os5Kgr0
+https://www.google.com/maps/place/Flask+Medialab+Pte.+Ltd./data=!4m7!3m6!1s0x31da1a6ac7359a67:0x30ffb45027058157!8m2!3d1.3258924!4d103.8956322!16s%2Fg%2F1tlgvgwz!19sChIJZ5o1x2oa2jERV4EFJ1C0_zA
