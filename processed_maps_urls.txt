@@ -5443,3 +5443,6 @@ https://www.google.com/maps/place/Wholesome+Distribution+Pte.+Ltd./data=!4m7!3m6
 https://www.google.com/maps/place/Hong+Lian+Gim+Kee/data=!4m7!3m6!1s0x31da16b72636a8b5:0xff9a682a447219c3!8m2!3d1.3720591!4d103.9257739!16s%2Fg%2F1pv6psm56!19sChIJtag2JrcW2jERwxlyRCpomv8
 https://www.google.com/maps/place/Sapphire+Beverages+Pte+Ltd/data=!4m7!3m6!1s0x31da178fae155555:0xc0a41fae55059565!8m2!3d1.3338633!4d103.8820482!16s%2Fg%2F11f3_t926j!19sChIJVVUVro8X2jERZZUFVa4fpMA
 https://www.google.com/maps/place/SP+Muthiah+%26+Sons+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3a577b8099:0xd4586a2b738a1caf!8m2!3d1.334562!4d103.900847!16s%2Fg%2F1pt_4ldwy!19sChIJmYB7Vzo92jERrxyKcytqWNQ
+https://www.google.com/maps/place/Premium+Food+%26+Beverage+Pte+Ltd/data=!4m7!3m6!1s0x31da17bcdcddcbc3:0x4bf04a1a924c60f5!8m2!3d1.348241!4d103.8808068!16s%2Fg%2F11mr300_g_!19sChIJw8vd3LwX2jER9WBMkhpK8Es
+https://www.google.com/maps/place/Treasure+Orbit+Singapore+%7C+FMCG+Wholesaler/data=!4m7!3m6!1s0x31da1785965c305b:0xc25535c931b99e0b!8m2!3d1.3335939!4d103.9025088!16s%2Fg%2F11nmj2xhgk!19sChIJWzBcloUX2jERC565Mck1VcI
+https://www.google.com/maps/place/Hock+Tong+Huat+Pte+Ltd/data=!4m7!3m6!1s0x31da1787decc1b8d:0xbb16e33e51c7836e!8m2!3d1.3362983!4d103.9082338!16s%2Fg%2F1t_kd0l1!19sChIJjRvM3ocX2jERboPHUT7jFrs
