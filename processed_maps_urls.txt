@@ -4981,3 +4981,6 @@ https://www.google.com/maps/place/Sian+Heng+Logistics+Pte.+Ltd./data=!4m7!3m6!1s
 https://www.google.com/maps/place/Work%2BStore+Kallang+Bahru+%7C+Self+Storage/data=!4m7!3m6!1s0x31da19e4391b9879:0xba8784d436d7139!8m2!3d1.3159477!4d103.8652324!16s%2Fg%2F11qfhbmv2h!19sChIJeZgbOeQZ2jEROXFtQ014qAs
 https://www.google.com/maps/place/Kahowa+Services/data=!4m7!3m6!1s0x31da194a8b4e41e1:0xe8d46e3d8720ce4d!8m2!3d1.3103089!4d103.864444!16s%2Fg%2F11vkz3h34v!19sChIJ4UFOi0oZ2jERTc4ghz1u1Og
 https://www.google.com/maps/place/DHL+Express+Service+Point+-+Simply+Toys+City+Square+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19aa5ff15f15:0x4cd9aa2fbce1b3ab!8m2!3d1.3108831!4d103.856609!16s%2Fg%2F11kpyf6pzd!19sChIJFV_xX6oZ2jERq7PhvC-q2Uw
+https://www.google.com/maps/place/Classic+Logistics+Pte.Ltd/data=!4m7!3m6!1s0x31da19c869fd542f:0x876cd13a56ae72bc!8m2!3d1.3091213!4d103.8578599!16s%2Fg%2F11sfr6mvjv!19sChIJL1T9acgZ2jERvHKuVjrRbIc
+https://www.google.com/maps/place/Kingsfield+Logistics+%26+Trading+Pte.+Ltd./data=!4m7!3m6!1s0x31da18324ca2e6db:0xd8d9373780aa8a38!8m2!3d1.3147125!4d103.8719636!16s%2Fg%2F11c59xzbp4!19sChIJ2-aiTDIY2jEROIqqgDc32dg
+https://www.google.com/maps/place/Aespada/data=!4m7!3m6!1s0x31da1763690f7cb9:0x466a4df6b7d6cef2!8m2!3d1.3146905!4d103.8677468!16s%2Fg%2F11fm4xq861!19sChIJuXwPaWMX2jER8s7Wt_ZNakY
