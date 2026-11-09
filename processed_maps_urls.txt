@@ -5411,3 +5411,4 @@ https://www.google.com/maps/place/Bestar/data=!4m7!3m6!1s0x31da1795d79e48d1:0x9b
 https://www.google.com/maps/place/Bizsquare+Accounting+Pte.+Ltd./data=!4m7!3m6!1s0x31da1747bd89d579:0xf0209d53577f5702!8m2!3d1.3322686!4d103.892106!16s%2Fg%2F11xzdvypb_!19sChIJedWJvUcX2jERAld_V1OdIPA
 https://www.google.com/maps/place/JT+BizCorp+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19e37c14332d:0x929c674e26f223bc!8m2!3d1.3194919!4d103.8927503!16s%2Fg%2F11kc3l3mnb!19sChIJLTMUfOMZ2jERvCPyJk5nnJI
 https://www.google.com/maps/place/SG+CORPORATE+COMPLIANCE+PTE+LTD/data=!4m7!3m6!1s0x31da0f7341a3e15f:0xa166a2072e154c2e!8m2!3d1.314!4d103.84425!16s%2Fg%2F11jpkgrfh3!19sChIJX-GjQXMP2jERLkwVLgeiZqE
+https://www.google.com/maps/place/Paya+Lebar+Office+Centre/data=!4m7!3m6!1s0x31da19722ca8e60f:0x9dc3bc5933768c8a!8m2!3d1.3173152!4d103.8919108!16s%2Fg%2F11fjz7xxw0!19sChIJD-aoLHIZ2jERiox2M1m8w50
