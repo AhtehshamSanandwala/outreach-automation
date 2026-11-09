@@ -3485,3 +3485,4 @@ https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3
 https://www.google.com/maps/place/Aqua+International/data=!4m7!3m6!1s0x31da19c80015435f:0x5bb3c3f5dcf75a39!8m2!3d1.3084819!4d103.8551522!16s%2Fg%2F1tdnyzzp!19sChIJX0MVAMgZ2jEROVr33PXDs1s
 https://www.google.com/maps/place/Pancake+Robot/data=!4m7!3m6!1s0x31da190058a324d7:0x3e1133e4dd8b73c1!8m2!3d1.2908869!4d103.8583755!16s%2Fg%2F11zcprjd8j!19sChIJ1ySjWAAZ2jERwXOL3eQzET4
 https://www.google.com/maps/place/Glencore+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19a8df461f87:0x2daf541cbe349af5!8m2!3d1.2927328!4d103.8603235!16s%2Fg%2F1trc2gq9!19sChIJhx9G36gZ2jER9Zo0vhxUry0
+https://www.google.com/maps/place/Shawarat+Manufacturers+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19bb0c882ac9:0xe034e695504f1063!8m2!3d1.3004347!4d103.8521942!16s%2Fg%2F1ptz5xc1h!19sChIJySqIDLsZ2jERYxBPUJXmNOA
