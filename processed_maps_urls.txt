@@ -5060,3 +5060,4 @@ https://www.google.com/maps/place/Bluorbit+Express+%28Singapore%29/data=!4m7!3m6
 https://www.google.com/maps/place/Freight+Transport+International+Pte+Ltd/data=!4m7!3m6!1s0x31da19b3fd44ec7b:0x2ac2ee2310bcd5a6!8m2!3d1.3022954!4d103.8623877!16s%2Fg%2F1ptxvlw31!19sChIJe-xE_bMZ2jERptW8ECPuwio
 https://www.google.com/maps/place/Logistics+%28S%29+PTE+LTD/data=!4m7!3m6!1s0x31da198611aaf44f:0x4eda0130099ec6d3!8m2!3d1.3127161!4d103.8499315!16s%2Fg%2F11t9p9r_8m!19sChIJT_SqEYYZ2jER08aeCTAB2k4
 https://www.google.com/maps/place/Kuehne+%2B+Nagel+Pte+Ltd/data=!4m7!3m6!1s0x31da057178d3ac4d:0x8dfdac31d40bc6cb!8m2!3d1.3118316!4d103.6937092!16s%2Fg%2F11c3w1vx9w!19sChIJTazTeHEF2jERy8YL1DGs_Y0
+https://www.google.com/maps/place/Sahni+Freight+Forwarder/data=!4m7!3m6!1s0x31da19c474fd2bd7:0x2c848350c378f360!8m2!3d1.3137215!4d103.8508317!16s%2Fg%2F11c59w5r3_!19sChIJ1yv9dMQZ2jERYPN4w1CDhCw
