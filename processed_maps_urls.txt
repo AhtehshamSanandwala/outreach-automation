@@ -3545,3 +3545,4 @@ https://www.google.com/maps/place/LisLux+SINGAPORE/data=!4m7!3m6!1s0x31da198fc34
 https://www.google.com/maps/place/R%2FGA/data=!4m7!3m6!1s0x31da19bd442a1ea3:0x789983983e454072!8m2!3d1.299187!4d103.845896!16s%2Fg%2F1pp2vdwd1!19sChIJox4qRL0Z2jERckBFPpiDmXg
 https://www.google.com/maps/place/McCann+Worldgroup/data=!4m7!3m6!1s0x31da19bd442a1c8b:0xf2e8b2aa0e492d91!8m2!3d1.2991586!4d103.846019!16s%2Fg%2F12qh51s20!19sChIJixwqRL0Z2jERkS1JDqqy6PI
 https://www.google.com/maps/place/Pencil+Sword/data=!4m7!3m6!1s0x31da17ab3a5f2a2f:0x9a90e65046186bf5!8m2!3d1.3019624!4d103.8397343!16s%2Fg%2F11h_t5_xgk!19sChIJLypfOqsX2jER9WsYRlDmkJo
+https://www.google.com/maps/place/Mediage+%28HQ%29/data=!4m7!3m6!1s0x31da19cb7ec80baf:0xe931bb749aa2fa60!8m2!3d1.3063434!4d103.8318606!16s%2Fg%2F11s348hzdt!19sChIJrwvIfssZ2jERYPqimnS7Mek
