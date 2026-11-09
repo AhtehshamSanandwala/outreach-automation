@@ -3856,3 +3856,4 @@ https://www.google.com/maps/place/ORRO/data=!4m7!3m6!1s0x31da1990d465d101:0xbb4b
 https://www.google.com/maps/place/ConnectIT/data=!4m7!3m6!1s0x31da1991e7bbe923:0x5f8a203741360408!8m2!3d1.3012498!4d103.8384123!16s%2Fg%2F11h23bhny9!19sChIJI-m755EZ2jERCAQ2QTcgil8
 https://www.google.com/maps/place/COURTS+NOJIMA+%28The+Heeren%29/data=!4m7!3m6!1s0x31da1992b4d8b067:0x6085df56a5814637!8m2!3d1.3027635!4d103.837358!16s%2Fg%2F11qyfx7x20!19sChIJZ7DYtJIZ2jERN0aBpVbfhWA
 https://www.google.com/maps/place/Rolex+Boutique+-+The+Hour+Glass+ION+Orchard/data=!4m7!3m6!1s0x31da198dedfdae6b:0x4cfce90f9a34bebd!8m2!3d1.3040569!4d103.832461!16s%2Fg%2F11bxdsbxh0!19sChIJa6797Y0Z2jERvb40mg_p_Ew
+https://www.google.com/maps/place/Van+Cleef+%26+Arpels+%28Singapore+-+Takashimaya+Shopping+Centre,+Ngee+Ann+City%29/data=!4m7!3m6!1s0x31da1991f36dbaff:0xe395ef0e3f561ee5!8m2!3d1.3026051!4d103.8353167!16s%2Fg%2F1tl49kcf!19sChIJ_7pt85EZ2jER5R5WPw7vleM
