@@ -5719,3 +5719,6 @@ https://www.google.com/maps/place/Bintang+Rimau+Jaya+Impex+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/pdk+pte.ltd/data=!4m7!3m6!1s0x4358ce3b77b6ca25:0x7f4f1fb694b58c71!8m2!3d27.385563!4d104.1373616!16s%2Fg%2F11tbz1zyn6!19sChIJJcq2dzvOWEMRcYy1lLYfT38
 https://www.google.com/maps/place/Trilink+Agencie/data=!4m7!3m6!1s0x31da17c8733b1be5:0x64476be7b5575666!8m2!3d1.3548265!4d103.8925679!16s%2Fg%2F1ptvzhb9b!19sChIJ5Rs7c8gX2jERZlZXtedrR2Q
 https://www.google.com/maps/place/Khiang+hor+building+products+Pte+Ltd+store/data=!4m7!3m6!1s0x31da1778571ccf9f:0x2b3ee39e8d2e0100!8m2!3d1.3452875!4d103.8955853!16s%2Fg%2F11jz5brgz6!19sChIJn88cV3gX2jERAAEujZ7jPis
+https://www.google.com/maps/place/JTC+Industrial+Building/data=!4m7!3m6!1s0x31da174f9db00a1f:0x14fb0b4019520ec3!8m2!3d1.3467462!4d103.8976452!16s%2Fg%2F11sc43ykdl!19sChIJHwqwnU8X2jERww5SGUAL-xQ
+https://www.google.com/maps/place/Geoline+Boltz/data=!4m7!3m6!1s0x31da17c983a55555:0x969843f6827d3bd7!8m2!3d1.3586488!4d103.893873!16s%2Fg%2F11fmw_7yr0!19sChIJVVWlg8kX2jER1zt9gvZDmJY
+https://www.google.com/maps/place/Zheng+Xing+Yun+Service/data=!4m7!3m6!1s0x31da17f2ff84ebf1:0xa8a9db9158512e11!8m2!3d1.3586488!4d103.893873!16s%2Fg%2F11fss1ntdy!19sChIJ8euE__IX2jERES5RWJHbqag
