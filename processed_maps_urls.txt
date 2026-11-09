@@ -3713,3 +3713,4 @@ https://www.google.com/maps/place/A+Guan+%26+Co/data=!4m7!3m6!1s0x31da1a2cf2d7dc
 https://www.google.com/maps/place/Chan+Leng+Leng+%26+Co/data=!4m7!3m6!1s0x31da199653e27d7f:0x270e654062b5f1b1!8m2!3d1.3010722!4d103.8424588!16s%2Fg%2F1wv_prcy!19sChIJf33iU5YZ2jERsfG1YkBlDic
 https://www.google.com/maps/place/Lee+Pacific+Business+Agency+Pte+Ltd/data=!4m7!3m6!1s0x31da1991ed7da949:0xd403eb9bde7feef1!8m2!3d1.302707!4d103.834289!16s%2Fg%2F1tt1drp8!19sChIJSal97ZEZ2jER8e5_3pvrA9Q
 https://www.google.com/maps/place/C+S+Koh+%26+Co/data=!4m7!3m6!1s0x31da1991652b4a7f:0x74e9b3f2e7c0610!8m2!3d1.302693!4d103.836805!16s%2Fg%2F1tfkn80d!19sChIJf0orZZEZ2jEREAZ8Lj-bTgc
+https://www.google.com/maps/place/Lo+Hock+Ling+%26+Co./data=!4m7!3m6!1s0x31da1974c7a51f93:0xc7917ed07064fedb!8m2!3d1.285429!4d103.84363!16s%2Fg%2F1trpn972!19sChIJkx-lx3QZ2jER2_5kcNB-kcc
