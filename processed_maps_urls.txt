@@ -5651,3 +5651,5 @@ https://www.google.com/maps/place/DHL+Supply+Chain/data=!4m7!3m6!1s0x31da162cc18
 https://www.google.com/maps/place/MLND+Logistics+%26+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da182e49141d9d:0xfa35c1e4172a2bc4!8m2!3d1.3378111!4d103.8973617!16s%2Fg%2F11ddysqz96!19sChIJnR0USS4Y2jERxCsqF-TBNfo
 https://www.google.com/maps/place/SDL+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17f2dcf99df9:0x6bc77a85e3054946!8m2!3d1.3322686!4d103.892106!16s%2Fg%2F124yf5fvg!19sChIJ-Z353PIX2jERRkkF44V6x2s
 https://www.google.com/maps/place/NRS+Logistics+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19afd5ea9a7f:0xaecb4ad30979458b!8m2!3d1.3189418!4d103.8944605!16s%2Fg%2F1trc2gqh!19sChIJf5rq1a8Z2jERi0V5CdNKy64
+https://www.google.com/maps/place/Maersk+Logistics+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da196ba4b3c71f:0xea3d291ed6610e7c!8m2!3d1.3179167!4d103.8939056!16s%2Fg%2F1tdzj21d!19sChIJH8ezpGsZ2jERfA5h1h4pPeo
+https://www.google.com/maps/place/Penguin+Movers+-+Residential+and+Office+Moving,+Disposal+Services+and+Manpower+Services.+Best+Movers+Singapore./data=!4m7!3m6!1s0x31da17e2753f96d5:0x3ec075758bbc050d!8m2!3d1.3305483!4d103.8942829!16s%2Fg%2F11t6_p5m7n!19sChIJ1ZY_deIX2jERDQW8i3V1wD4
