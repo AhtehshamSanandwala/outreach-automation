@@ -5967,3 +5967,4 @@ https://www.google.com/maps/place/Crescendo+Hr+Pte+Ltd/data=!4m7!3m6!1s0x31da116
 https://www.google.com/maps/place/JR+Corporate+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da17c6b0d00ae1:0xbbe7831299a480f0!8m2!3d1.3328242!4d103.8903926!16s%2Fg%2F11mffm4jq8!19sChIJ4QrQsMYX2jER8ICkmRKD57s
 https://www.google.com/maps/place/One+Tax+CM+Pte+Ltd/data=!4m7!3m6!1s0x31da17b769b0f1bd:0x33edc98f45cb2f42!8m2!3d1.3328242!4d103.8903926!16s%2Fg%2F11r_ntjh03!19sChIJvfGwabcX2jERQi_LRY_J7TM
 https://www.google.com/maps/place/Poly+Secretarial+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da19bc21d9e475:0x6ee26659faf51b42!8m2!3d1.3257365!4d103.8950967!16s%2Fg%2F11j94mp5my!19sChIJdeTZIbwZ2jERQhv1-llm4m4
+https://www.google.com/maps/place/OSIM+HQ/data=!4m7!3m6!1s0x31da19c7cb5792eb:0x5470e15a6e67bfc1!8m2!3d1.3244741!4d103.8936447!16s%2Fg%2F1td10spv!19sChIJ65JXy8cZ2jERwb9nblrhcFQ
