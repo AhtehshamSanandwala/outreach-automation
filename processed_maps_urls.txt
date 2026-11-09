@@ -5724,3 +5724,4 @@ https://www.google.com/maps/place/Geoline+Boltz/data=!4m7!3m6!1s0x31da17c983a555
 https://www.google.com/maps/place/Zheng+Xing+Yun+Service/data=!4m7!3m6!1s0x31da17f2ff84ebf1:0xa8a9db9158512e11!8m2!3d1.3586488!4d103.893873!16s%2Fg%2F11fss1ntdy!19sChIJ8euE__IX2jERES5RWJHbqag
 https://www.google.com/maps/place/Defu+Industrial+Park+B/data=!4m7!3m6!1s0x31da1797c91cd935:0x38a15f8b8cfa94fe!8m2!3d1.356395!4d103.897505!16s%2Fg%2F11jfd0rrqx!19sChIJNdkcyZcX2jER_pT6jItfoTg
 https://www.google.com/maps/place/Sunnybay+Transport+Pte+Ltd/data=!4m7!3m6!1s0x31da17faeb58142d:0x89f386692056fe4e!8m2!3d1.3372119!4d103.902806!16s%2Fg%2F11r2rt915p!19sChIJLRRY6_oX2jERTv5WIGmG84k
+https://www.google.com/maps/place/D-Line+Transport+%26+Trading+Pte.+Ltd./data=!4m7!3m6!1s0x31da17cbefd2f871:0xe74096f887063e68!8m2!3d1.359761!4d103.896238!16s%2Fg%2F11c59wx2zj!19sChIJcfjS78sX2jERaD4Gh_iWQOc
