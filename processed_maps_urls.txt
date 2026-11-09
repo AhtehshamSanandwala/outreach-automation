@@ -5943,3 +5943,7 @@ https://www.google.com/maps/place/J2C+Employment+Agency/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Talentnet+HR+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da17a6944b6035:0xbdd41b18c35ebcbb!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11y98zrkyd!19sChIJNWBLlKYX2jERu7xewxgb1L0
 https://www.google.com/maps/place/Esol+Hr+Solutions+Pte.+Ltd./data=!4m7!3m6!1s0x31da17f0e1da5171:0xe8747d0dc158657d!8m2!3d1.3323554!4d103.8995327!16s%2Fg%2F11fmvkvcwd!19sChIJcVHa4fAX2jERfWVYwQ19dOg
 https://www.google.com/maps/place/Firstcare+Consultancy/data=!4m7!3m6!1s0x31da17f246728dd1:0x5cfc6967ca79b1c5!8m2!3d1.3339411!4d103.8952279!16s%2Fg%2F1ptzds267!19sChIJ0Y1yRvIX2jERxbF5ymdp_Fw
+https://www.google.com/maps/place/Raffles+Employment+Pte.+Ltd/data=!4m7!3m6!1s0x31da174788922d89:0x3b1a19ddf956e40e!8m2!3d1.3334411!4d103.8917197!16s%2Fg%2F11wtkf30s_!19sChIJiS2SiEcX2jERDuRW-d0ZGjs
+https://www.google.com/maps/place/Des+Ressources/data=!4m7!3m6!1s0x31da17f663e8cf5d:0xae7ee3799eb314b!8m2!3d1.328406!4d103.8980501!16s%2Fg%2F1ptz4n_78!19sChIJXc_oY_YX2jERSzHrmTfu5wo
+https://www.google.com/maps/place/Williamyee+Employment+Agency+Pte+Ltd/data=!4m7!3m6!1s0x31da17f0e01787af:0x62e710a090c18304!8m2!3d1.3319139!4d103.8996365!16s%2Fg%2F11cs5nfjpb!19sChIJr4cX4PAX2jERBIPBkKAQ52I
+https://www.google.com/maps/place/CREDENCE+MANPOWER+SERVICES/data=!4m7!3m6!1s0x31da19b37f441b59:0x6bcbfb801b8c188d!8m2!3d1.3322152!4d103.8903577!16s%2Fg%2F1vd92l_g!19sChIJWRtEf7MZ2jERjRiMG4D7y2s
