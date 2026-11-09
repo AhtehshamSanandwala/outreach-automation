@@ -5896,3 +5896,5 @@ https://www.google.com/maps/place/Define+PC+-+Custom+Computers+%26+Office+Workst
 https://www.google.com/maps/place/CS+Global+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da100ad6d4d115:0x5966a9a36d97ea96!8m2!3d1.3329267!4d103.8921966!16s%2Fg%2F1v5_6ydl!19sChIJFdHU1goQ2jERluqXbaOpZlk
 https://www.google.com/maps/place/Atlab+Pro+Pte+Ltd/data=!4m7!3m6!1s0x31da17ba7c1ec5d3:0x1c702eba1219e274!8m2!3d1.3314189!4d103.8937974!16s%2Fg%2F11g0kc4ws5!19sChIJ08UefLoX2jERdOIZEroucBw
 https://www.google.com/maps/place/Starseed+Technologies+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da191222c00001:0xe8d603fc497ae6b!8m2!3d1.3269005!4d103.8981798!16s%2Fg%2F11fnwhgqzj!19sChIJAQDAIhIZ2jERa66XxD9gjQ4
+https://www.google.com/maps/place/Ideal+Business+Management+Services+%28IBMS%29/data=!4m7!3m6!1s0x31da17f3a9e4d013:0xcdbe35659ab2597e!8m2!3d1.332917!4d103.8940171!16s%2Fg%2F1ptwc0n3q!19sChIJE9DkqfMX2jERflmymmU1vs0
+https://www.google.com/maps/place/InFused+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da17452dae1a67:0x8c19e9fc2b47ed01!8m2!3d1.3322153!4d103.8903578!16s%2Fg%2F11mhxy8my1!19sChIJZxquLUUX2jERAe1HK_zpGYw
