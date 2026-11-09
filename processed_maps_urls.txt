@@ -4638,3 +4638,4 @@ https://www.google.com/maps/place/Accounting+Superhero+%28SG%29/data=!4m7!3m6!1s
 https://www.google.com/maps/place/KBW+Group/data=!4m7!3m6!1s0x31da191344c00001:0x5d8d0b466f53098f!8m2!3d1.312021!4d103.8628386!16s%2Fg%2F11fm4xx1hk!19sChIJAQDARBMZ2jERjwlTb0YLjV0
 https://www.google.com/maps/place/Profectant+Corporate+Services/data=!4m7!3m6!1s0x31da1710e589c907:0xec47e94485f3c3e8!8m2!3d1.3326955!4d103.8903819!16s%2Fg%2F11p47j197z!19sChIJB8mJ5RAX2jER6MPzhUTpR-w
 https://www.google.com/maps/place/Cabin/data=!4m7!3m6!1s0x31da1a409bf1156f:0xe4a8451fe6d256de!8m2!3d1.3133147!4d103.860337!16s%2Fg%2F11gf60rcg5!19sChIJbxXxm0Aa2jER3lbS5h9FqOQ
+https://www.google.com/maps/place/Allied+Corporate+Services/data=!4m7!3m6!1s0x31da19cec3f1d46d:0x5c869694f8c9a1ad!8m2!3d1.3130785!4d103.860129!16s%2Fg%2F11j7h5vbhz!19sChIJbdTxw84Z2jERraHJ-JSWhlw
