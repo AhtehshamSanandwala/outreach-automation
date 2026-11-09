@@ -5003,3 +5003,4 @@ https://www.google.com/maps/place/Harbour+Logistics+%26+Shipping+Pte+Ltd/data=!4
 https://www.google.com/maps/place/Stasher+Luggage+Storage+-+Kallang+MRT+Station/data=!4m7!3m6!1s0x31da1969abec5fad:0x80fef36b5508d15d!8m2!3d1.3113098!4d103.8742597!16s%2Fg%2F11y8cjv7lp!19sChIJrV_sq2kZ2jERXdEIVWvz_oA
 https://www.google.com/maps/place/Vos+Global+Logistic+Pte.+Ltd./data=!4m7!3m6!1s0x31da18254628b4b7:0xc5360d6bb94d4ff3!8m2!3d1.3093359!4d103.8580366!16s%2Fg%2F1tnmp75f!19sChIJt7QoRiUY2jER809NuWsNNsU
 https://www.google.com/maps/place/Kallang+Basin+4/data=!4m7!3m6!1s0x31da19cd1c29983b:0x1133e873153feed7!8m2!3d1.3149721!4d103.866183!16s%2Fg%2F11b6d61cz0!19sChIJO5gpHM0Z2jER1-4_FXPoMxE
+https://www.google.com/maps/place/The+Postal+Connect/data=!4m7!3m6!1s0x31da19cd1e967f21:0xafc17d7ec42a1149!8m2!3d1.314886!4d103.8670585!16s%2Fg%2F1tvgrw84!19sChIJIX-WHs0Z2jERSREqxH59wa8
