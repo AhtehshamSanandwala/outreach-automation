@@ -4789,3 +4789,4 @@ https://www.google.com/maps/place/Screed/data=!4m7!3m6!1s0x31da19c99b614b71:0x7c
 https://www.google.com/maps/place/Liberty+Coffee+%28Singapore%29/data=!4m7!3m6!1s0x31da19c51d7f708f:0x1a5d571adf7291c4!8m2!3d1.3063023!4d103.8589018!16s%2Fg%2F1232t43tw!19sChIJj3B_HcUZ2jERxJFy3xpXXRo
 https://www.google.com/maps/place/ASC+Singapore+Holdings+Pte+Ltd/data=!4m7!3m6!1s0x31da1920cee8aad7:0x802e7f4d1995e275!8m2!3d1.312224!4d103.858431!16s%2Fg%2F11jn_n3m86!19sChIJ16roziAZ2jERdeKVGU1_LoA
 https://www.google.com/maps/place/LKH+Projects+Distribution+Pte+Ltd/data=!4m7!3m6!1s0x31da183336938d25:0x895177230b4fac28!8m2!3d1.3137648!4d103.8684881!16s%2Fg%2F1td5z7fd!19sChIJJY2TNjMY2jERKKxPCyN3UYk
+https://www.google.com/maps/place/All+Trends+Pte+Ltd/data=!4m7!3m6!1s0x31da183067646ac9:0x1fbc128ec95d08ba!8m2!3d1.3283584!4d103.8784692!16s%2Fg%2F1tdfqnq6!19sChIJyWpkZzAY2jERughdyY4SvB8
