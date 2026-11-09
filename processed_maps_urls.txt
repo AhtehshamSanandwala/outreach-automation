@@ -4722,3 +4722,4 @@ https://www.google.com/maps/place/SP+Consulting/data=!4m7!3m6!1s0x31da1829fbfa5a
 https://www.google.com/maps/place/PointStar+Pte+Ltd+%28Singapore%29+-+A+Cloud+Technology+Consulting+Firm/data=!4m7!3m6!1s0x31da1a4de0fbc6d3:0x40f37c4d9561fac7!8m2!3d1.319788!4d103.865101!16s%2Fg%2F1tjdj8fd!19sChIJ08b74E0a2jERx_phlU1880A
 https://www.google.com/maps/place/MSC+Consulting+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da14605351fdc5:0x2484f2daa9cff966!8m2!3d1.316296!4d103.8628014!16s%2Fg%2F1pw3xpm3_!19sChIJxf1RU2AU2jERZvnPqdryhCQ
 https://www.google.com/maps/place/Kalos+Consultancy+Pte.+Ltd./data=!4m7!3m6!1s0x31da18382a68af23:0x2260db53eeaef1cf!8m2!3d1.3099273!4d103.8650191!16s%2Fg%2F11h7s450qz!19sChIJI69oKjgY2jERz_Gu7lPbYCI
+https://www.google.com/maps/place/momenta+Group+Pte.+Ltd./data=!4m7!3m6!1s0x31da181842edbea7:0xc696e8c6ac619d13!8m2!3d1.3122543!4d103.862598!16s%2Fg%2F11c32n4tr7!19sChIJp77tQhgY2jERE51hrMbolsY
