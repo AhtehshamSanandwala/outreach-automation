@@ -4132,3 +4132,5 @@ https://www.google.com/maps/place/ACE+Management+Services/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Prism+Tech+Private+Limited+%28Corporate+Office%29/data=!4m7!3m6!1s0x31da19d2febff123:0x96bd56849c8be9ab!8m2!3d1.3307507!4d103.8996058!16s%2Fg%2F11lgy3717f!19sChIJI_G__tIZ2jERq-mLnIRWvZY
 https://www.google.com/maps/place/Bugis+Junction/data=!4m7!3m6!1s0x31da19baa3872ac7:0xa5929c8b44430b35!8m2!3d1.2993754!4d103.8555261!16zL20vMDltbmxz!19sChIJxyqHo7oZ2jERNQtDRIuckqU
 https://www.google.com/maps/place/Boost+Juice+@+Bugis+Junction/data=!4m7!3m6!1s0x31da19ba9723b513:0xbd0cb003ae1536b9!8m2!3d1.2994446!4d103.8554564!16s%2Fg%2F11bxf4z7qw!19sChIJE7Ujl7oZ2jERuTYVrgOwDL0
+https://www.google.com/maps/place/BUSINESS+SERVICES+PROVIDER/data=!4m7!3m6!1s0x31da19a51229814f:0x71a4e2414a162534!8m2!3d1.2967615!4d103.8546068!16s%2Fg%2F11mqrpjsw9!19sChIJT4EpEqUZ2jERNCUWSkHipHE
+https://www.google.com/maps/place/TAK+System+Integration+Pte+Ltd/data=!4m7!3m6!1s0x31da19d8f6593c9f:0x47ad4307dd1e47be!8m2!3d1.3844266!4d103.8271497!16s%2Fg%2F1ptz3rprk!19sChIJnzxZ9tgZ2jERvkce3QdDrUc
