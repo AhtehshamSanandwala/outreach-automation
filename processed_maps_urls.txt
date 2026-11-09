@@ -3955,3 +3955,4 @@ https://www.google.com/maps/place/DHL+Express+Service+Point+-+AFREIGHT+CARGO+PTE
 https://www.google.com/maps/place/Yujin+Holdings+Ltd/data=!4m7!3m6!1s0x31da198cc13fffff:0xba3551072a12f96b!8m2!3d1.3069439!4d103.8291434!16s%2Fg%2F11h4dj6tf0!19sChIJ__8_wYwZ2jERa_kSKgdRNbo
 https://www.google.com/maps/place/EDL+Group/data=!4m7!3m6!1s0x31da199e5ef18457:0x98215e5b267c6b02!8m2!3d1.3071502!4d103.8337132!16s%2Fg%2F11t6mshc9j!19sChIJV4TxXp4Z2jERAmt8JlteIZg
 https://www.google.com/maps/place/Eec+International+Express+Pte+Ltd/data=!4m7!3m6!1s0x31da19926d40711d:0x13ccc25e51d90bea!8m2!3d1.304404!4d103.833857!16s%2Fg%2F1t_wlwh1!19sChIJHXFAbZIZ2jER6gvZUV7CzBM
+https://www.google.com/maps/place/Brongers%27+Shipping+Co.+Pte+Ltd/data=!4m7!3m6!1s0x31da19bd3233d909:0xdf42966bf79faf77!8m2!3d1.2988757!4d103.8467998!16s%2Fg%2F1ptw8rq80!19sChIJCdkzMr0Z2jERd6-f92uWQt8
