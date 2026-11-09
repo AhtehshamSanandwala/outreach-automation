@@ -4446,3 +4446,6 @@ https://www.google.com/maps/place/ACES+Learning+Hub/data=!4m7!3m6!1s0x31da19ca1c
 https://www.google.com/maps/place/STUCK/data=!4m7!3m6!1s0x31da178689ffc15d:0xee96f333a6181a6b!8m2!3d1.329835!4d103.8765106!16s%2Fg%2F12lltc3pm!19sChIJXcH_iYYX2jERaxoYpjPzlu4
 https://www.google.com/maps/place/Synthesis+Creative+Data+House/data=!4m7!3m6!1s0x31da19effcd4fd59:0xed4c4a8ee0824409!8m2!3d1.3111166!4d103.8614368!16s%2Fg%2F11t5dwx2cj!19sChIJWf3U_O8Z2jERCUSC4I5KTO0
 https://www.google.com/maps/place/Sirius+Art+Pte+Ltd/data=!4m7!3m6!1s0x10040150175a5123:0x8667dc9eecf77af3!8m2!3d1.3115786!4d103.8629677!16s%2Fg%2F11b5qhxprd!19sChIJI1FaF1ABBBAR83r37J7cZ4Y
+https://www.google.com/maps/place/CreativeMbassy/data=!4m7!3m6!1s0x31da19cc77bab9c3:0xc2c71ef6dd032ce1!8m2!3d1.3128641!4d103.8641396!16s%2Fg%2F11fm4xsnt1!19sChIJw7m6d8wZ2jER4SwD3fYex8I
+https://www.google.com/maps/place/Stara+Design+Team/data=!4m7!3m6!1s0x31da19cd1c29983b:0xa110f1c459051d30!8m2!3d1.314878!4d103.866184!16s%2Fg%2F1pt_248yk!19sChIJO5gpHM0Z2jERMB0FWcTxEKE
+https://www.google.com/maps/place/HOL+Experiences/data=!4m7!3m6!1s0x31da19a3e3bc5271:0xdd081bc6187e2807!8m2!3d1.315847!4d103.8655132!16s%2Fg%2F11c74996ny!19sChIJcVK846MZ2jERByh-GMYbCN0
