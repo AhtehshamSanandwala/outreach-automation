@@ -5689,3 +5689,5 @@ https://www.google.com/maps/place/AS-1+LOGISTICS+PTE+LTD/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/DHL+Supply+Chain/data=!4m7!3m6!1s0x31da17f063970481:0x308d08e13a0c3571!8m2!3d1.3641336!4d103.8929246!16s%2Fg%2F11ltwtzp_9!19sChIJgQSXY_AX2jERcTUMOuEIjTA
 https://www.google.com/maps/place/Jagro+Trans/data=!4m7!3m6!1s0x31da162eb2555555:0xd067d7365baaa8af!8m2!3d1.3690725!4d103.9084176!16s%2Fg%2F11h52s43r2!19sChIJVVVVsi4W2jERr6iqWzbXZ9A
 https://www.google.com/maps/place/AD%26K+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17f2d7000001:0x4f92228240dca51c!8m2!3d1.3334233!4d103.8917435!16s%2Fg%2F11hz181r8p!19sChIJAQAA1_IX2jERHKXcQIIikk8
+https://www.google.com/maps/place/Miles+Logistics/data=!4m7!3m6!1s0x31da17cd7f4741e9:0x74d2d91708c22362!8m2!3d1.3614096!4d103.9024691!16s%2Fg%2F1ptw2qv6_!19sChIJ6UFHf80X2jERYiPCCBfZ0nQ
+https://www.google.com/maps/place/RAPIDO+DISTRIBUTIONS+PTE+LTD/data=!4m7!3m6!1s0x31da19115125b4f3:0xc2576e07951142c7!8m2!3d1.334759!4d103.904047!16s%2Fg%2F11gl142n72!19sChIJ87QlUREZ2jERx0IRlQduV8I
