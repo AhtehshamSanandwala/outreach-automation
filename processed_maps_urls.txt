@@ -4845,3 +4845,5 @@ https://www.google.com/maps/place/Hock+Thiam+Heng+Trading+Co/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/SIJI+TRADING+PTE.+LTD/data=!4m7!3m6!1s0x31da19b1b119be41:0x26d3de0bbbbfc21f!8m2!3d1.299739!4d103.860815!16s%2Fg%2F11b5yphcpz!19sChIJQb4ZsbEZ2jERH8K_uwve0yY
 https://www.google.com/maps/place/Yoteri+Trading+Co/data=!4m7!3m6!1s0x31da182ce816ef3f:0x17a245dbd269a370!8m2!3d1.3205706!4d103.8693278!16s%2Fg%2F1v1shqqy!19sChIJP-8W6CwY2jERcKNp0ttFohc
 https://www.google.com/maps/place/Khatena+Masood+%26+Sons+Trading/data=!4m7!3m6!1s0x31da19ba3d192147:0xe4b4c78bffeb1b7e!8m2!3d1.312312!4d103.8630181!16s%2Fg%2F1tdyc4g2!19sChIJRyEZPboZ2jERfhvr_4vHtOQ
+https://www.google.com/maps/place/Kong+Joo+Huat+Trading+Company/data=!4m7!3m6!1s0x31da19b6bcaf6ec9:0xa3d3c2a6cbe66f6b!8m2!3d1.3038369!4d103.8613911!16s%2Fg%2F1tdkd4k6!19sChIJyW6vvLYZ2jERa2_my6bC06M
+https://www.google.com/maps/place/Hoe+Kian+Huat+Trading/data=!4m7!3m6!1s0x31da19b7ce570ec3:0xf9720e138e8a3565!8m2!3d1.3085119!4d103.8612217!16s%2Fg%2F1tp8xkdq!19sChIJww5XzrcZ2jERZTWKjhMOcvk
