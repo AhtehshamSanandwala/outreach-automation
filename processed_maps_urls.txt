@@ -5136,3 +5136,7 @@ https://www.google.com/maps/place/Maxcool+Equipment+Services+Pte.+Ltd./data=!4m7
 https://www.google.com/maps/place/Victory+Hardware+Co/data=!4m7!3m6!1s0x31da19c594d4356b:0x12d60fbcfe7ec8fc!8m2!3d1.313803!4d103.855359!16s%2Fg%2F1tf_ktts!19sChIJazXUlMUZ2jER_Mh-_rwP1hI
 https://www.google.com/maps/place/Kim+Leng+Office+Equipment+Pte+Ltd/data=!4m7!3m6!1s0x31da19c859cbaf79:0x43b57ef181e8a606!8m2!3d1.3099313!4d103.8584828!16s%2Fg%2F1th0vwtn!19sChIJea_LWcgZ2jERBqbogfF-tUM
 https://www.google.com/maps/place/Thian+Lee+Shelving/data=!4m7!3m6!1s0x31da19b432988da5:0x9f1c29fd711dd342!8m2!3d1.3052745!4d103.8631093!16s%2Fg%2F1pty73kbv!19sChIJpY2YMrQZ2jERQtMdcf0pHJ8
+https://www.google.com/maps/place/Factomart+Singapore+Shop/data=!4m7!3m6!1s0x31da19433175c17f:0xac094c49cd1b4ffc!8m2!3d1.3138534!4d103.868504!16s%2Fg%2F11g4bzwf2f!19sChIJf8F1MUMZ2jER_E8bzUlMCaw
+https://www.google.com/maps/place/Apogee+Test+Pte+Ltd/data=!4m7!3m6!1s0x31da19cb6692c78f:0x1a2dd78087026ec6!8m2!3d1.3121124!4d103.8661474!16s%2Fg%2F1wk7nd58!19sChIJj8eSZssZ2jERxm4Ch4DXLRo
+https://www.google.com/maps/place/H+T+Plant+%26+Machinery/data=!4m7!3m6!1s0x31da19cbfdf15207:0x992d4aa1c0ae29fc!8m2!3d1.3118762!4d103.8623949!16s%2Fg%2F1tdb1sqj!19sChIJB1Lx_csZ2jER_CmuwKFKLZk
+https://www.google.com/maps/place/iJooz+Orange+Juice+Vending+Machine/data=!4m7!3m6!1s0x31da19c9c6d66825:0x7ad17b88d530f363!8m2!3d1.3104888!4d103.856386!16s%2Fg%2F11fd0h1clk!19sChIJJWjWxskZ2jERY_Mw1Yh70Xo
