@@ -4262,3 +4262,4 @@ https://www.google.com/maps/place/Global+Express+Freight+Services+Pte.Ltd/data=!
 https://www.google.com/maps/place/Aft+Bugis+Stn+Exit+C/data=!4m7!3m6!1s0x31da19ba950cc737:0x4ce1e587ba28f009!8m2!3d1.2996128!4d103.855168!16s%2Fg%2F1hc32m_x3!19sChIJN8cMlboZ2jERCfAouofl4Uw
 https://www.google.com/maps/place/Cargo+Agents+Building+D/data=!4m7!3m6!1s0x31da3c0cc3c6c92b:0xf43588327ed0e7cc!8m2!3d1.382831!4d103.999542!16s%2Fg%2F11h51k578b!19sChIJK8nGwww82jERzOfQfjKINfQ
 https://www.google.com/maps/place/Bugis+MRT+Exit+E/data=!4m7!3m6!1s0x31da197b89651503:0x8f1425cf55bddcdc!8m2!3d1.2996337!4d103.857304!16s%2Fg%2F11flm519bz!19sChIJAxVliXsZ2jER3Ny9Vc8lFI8
+https://www.google.com/maps/place/Bugis+MRT+Exit+D/data=!4m7!3m6!1s0x31da1919a8d369b5:0x5d51bc3fa2e91359!8m2!3d1.2989509!4d103.8567823!16s%2Fg%2F11j4lzs_z8!19sChIJtWnTqBkZ2jERWRPpoj-8UV0
