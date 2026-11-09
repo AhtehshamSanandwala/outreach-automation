@@ -3802,3 +3802,4 @@ https://www.google.com/maps/place/Tineco+%7C+Tangs+Orchard/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Sweetzerland+Chocolats+Geneve/data=!4m7!3m6!1s0x31da199173ed4ef9:0x1c8b8b5f32b128bd!8m2!3d1.302185!4d103.8365098!16s%2Fg%2F11cs5q0wyj!19sChIJ-U7tc5EZ2jERvSixMl-Lixw
 https://www.google.com/maps/place/Coty+Operations+Asia+Pacific+Pte.+Ltd./data=!4m7!3m6!1s0x31da1a4239b43bcd:0x83275449bd800739!8m2!3d1.3001685!4d103.8372952!16s%2Fg%2F11hzsvrnm7!19sChIJzTu0OUIa2jEROQeAvUlUJ4M
 https://www.google.com/maps/place/The+Orchard+Store/data=!4m7!3m6!1s0x31da19972771be11:0xc3b14f21b45a7795!8m2!3d1.3010251!4d103.8410339!16s%2Fg%2F1td_w358!19sChIJEb5xJ5cZ2jERlXdatCFPscM
+https://www.google.com/maps/place/Dow+Chemical+Pacific+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da199169c780e3:0x5f813e005cb24efd!8m2!3d1.3024935!4d103.8373073!16s%2Fg%2F1tfc8q53!19sChIJ44DHaZEZ2jER_U6yXAA-gV8
