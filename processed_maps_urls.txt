@@ -5611,3 +5611,5 @@ https://www.google.com/maps/place/Liko+Trade+Centre+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Bestronics+Trading+Company/data=!4m7!3m6!1s0x31da16308e8147f5:0x110d2068adc6b58f!8m2!3d1.3722182!4d103.8994755!16s%2Fg%2F1pv5zg4dx!19sChIJ9UeBjjAW2jERj7XGrWggDRE
 https://www.google.com/maps/place/Sl+Yang+Trading+Pte.+Ltd./data=!4m7!3m6!1s0x31da17cc4856826b:0x9912a5e9eca4ffd9!8m2!3d1.3606046!4d103.8992957!16s%2Fg%2F11c1wrqwq0!19sChIJa4JWSMwX2jER2f-k7OmlEpk
 https://www.google.com/maps/place/Winwill+Trading+Co/data=!4m7!3m6!1s0x31da17c79c201db3:0xf83a0083959115d5!8m2!3d1.352397!4d103.8923779!16s%2Fg%2F1tf0553v!19sChIJsx0gnMcX2jER1RWRlYMAOvg
+https://www.google.com/maps/place/Koon+Guan+Siong+Choon+Trading+Co/data=!4m7!3m6!1s0x31da17f00d3c23d5:0x5f4e69ac0a30c724!8m2!3d1.3353544!4d103.9027084!16s%2Fg%2F1td6_hvv!19sChIJ1SM8DfAX2jERJMcwCqxpTl8
+https://www.google.com/maps/place/Tian+Lun+Trading/data=!4m7!3m6!1s0x31da17c7776aaaab:0x7770633f83db192e!8m2!3d1.3518134!4d103.8920154!16s%2Fg%2F11h4dj70ht!19sChIJq6pqd8cX2jERLhnbgz9jcHc
