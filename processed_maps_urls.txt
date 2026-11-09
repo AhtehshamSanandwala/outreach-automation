@@ -5589,3 +5589,7 @@ https://www.google.com/maps/place/King+Hall+Trading+Co/data=!4m7!3m6!1s0x31da17f
 https://www.google.com/maps/place/Sheng+Stainless+Steel+Trading+Singapore/data=!4m7!3m6!1s0x31da1300b4dc2397:0xfed68b470aa054d7!8m2!3d1.3573125!4d103.8941595!16s%2Fg%2F1tgdl1yh!19sChIJlyPctAAT2jER11SgCkeL1v4
 https://www.google.com/maps/place/Hua+Ho+Trading/data=!4m7!3m6!1s0x31da17cbd68db4f9:0x32df778cc6bf8ab!8m2!3d1.3589762!4d103.8950954!16s%2Fg%2F1tfvwnwp!19sChIJ-bSN1ssX2jERq_hrzHj3LQM
 https://www.google.com/maps/place/C+%26+B+Philatelic+%26+Trading+Co/data=!4m7!3m6!1s0x31da17f4883ca5f9:0xfdbe3f9584374f1a!8m2!3d1.3303356!4d103.8940278!16s%2Fg%2F1tfb_j_k!19sChIJ-aU8iPQX2jERGk83hJU_vv0
+https://www.google.com/maps/place/Seaview+Transport+%26+Trading/data=!4m7!3m6!1s0x31da17cbedb92bc9:0xf99adda71faeee6c!8m2!3d1.359953!4d103.89617!16s%2Fg%2F1tfrjvy5!19sChIJySu57csX2jERbO6uH6fdmvk
+https://www.google.com/maps/place/Hock+Lim+Plastic+Industry+%26+Traders/data=!4m7!3m6!1s0x31da17c8c0d5f861:0x9451a794db17ee49!8m2!3d1.3426968!4d103.8971013!16s%2Fg%2F1tjyl71_!19sChIJYfjVwMgX2jERSe4X25SnUZQ
+https://www.google.com/maps/place/Self-Stand+Trading+Co/data=!4m7!3m6!1s0x31da17e5447b0f99:0x54d528c9556f2153!8m2!3d1.3366234!4d103.9037583!16s%2Fg%2F1ttpddh4!19sChIJmQ97ROUX2jERUyFvVcko1VQ
+https://www.google.com/maps/place/Welford+Silkscreen+%26+Trading+Co/data=!4m7!3m6!1s0x31da1639d7100001:0x98a07446daf4a55c!8m2!3d1.3732924!4d103.8946886!16s%2Fg%2F11lgy3bvk8!19sChIJAQAQ1zkW2jERXKX02kZ0oJg
