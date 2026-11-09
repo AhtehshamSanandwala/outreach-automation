@@ -4960,3 +4960,4 @@ https://www.google.com/maps/place/MHM+RSG/data=!4m7!3m6!1s0x31da1916ca573921:0xc
 https://www.google.com/maps/place/EZ+Storage+Singapore/data=!4m7!3m6!1s0x31da1101e1a2bee3:0xf9798ed05a06042d!8m2!3d1.3288221!4d103.8792734!16s%2Fg%2F11n5r5yv6l!19sChIJ476i4QER2jERLQQGWtCOefk
 https://www.google.com/maps/place/StorHub+-+Kallang+Avenue/data=!4m7!3m6!1s0x31da196e6396a877:0x5aaae48d7148ae77!8m2!3d1.310222!4d103.867366!16s%2Fg%2F11qnbmntbk!19sChIJd6iWY24Z2jERd65IcY3kqlo
 https://www.google.com/maps/place/DTDC/data=!4m7!3m6!1s0x31da19c8785ea5d7:0x184ee079dad6a1e8!8m2!3d1.3087214!4d103.8581075!16s%2Fg%2F11b6bcs5y8!19sChIJ16VeeMgZ2jER6KHW2nngThg
+https://www.google.com/maps/place/T9+Global+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1baf64abb37b:0xca1a94706d810c45!8m2!3d1.3291792!4d103.8788974!16s%2Fg%2F11s7b6ywfn!19sChIJe7OrZK8b2jERRQyBbXCUGso
