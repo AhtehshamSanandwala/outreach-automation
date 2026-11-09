@@ -5626,3 +5626,6 @@ https://www.google.com/maps/place/Aph+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da17c7
 https://www.google.com/maps/place/Lee+Wai+Electronic+%26+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da17cde8e7ab67:0xf09aa8ecadff8860!8m2!3d1.3596149!4d103.9013102!16s%2Fg%2F1v8hyypg!19sChIJZ6vn6M0X2jERYIj_reyomvA
 https://www.google.com/maps/place/P+H+Trading+Services/data=!4m7!3m6!1s0x31da17c0c0700f03:0xa78e7ddfeccfafd8!8m2!3d1.3486699!4d103.8929997!16s%2Fg%2F11cs5q17qr!19sChIJAw9wwMAX2jER2K_P7N99jqc
 https://www.google.com/maps/place/ANCON+ANDA+PTE+LTD/data=!4m7!3m6!1s0x31da17c7334878d1:0xb5fec701ca429379!8m2!3d1.344998!4d103.8979102!16s%2Fg%2F1tgpvq6z!19sChIJ0XhIM8cX2jEReZNCygHH_rU
+https://www.google.com/maps/place/Yuan+Bao+Trading/data=!4m7!3m6!1s0x31da17c8733b1be5:0xed875c3ffa04e98d!8m2!3d1.3548265!4d103.8925679!16s%2Fg%2F1ptwx6ksn!19sChIJ5Rs7c8gX2jERjekE-j9ch-0
+https://www.google.com/maps/place/Victor+Engrg+%26+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da17ee88c66375:0x7cdc7959856b5c13!8m2!3d1.3378507!4d103.8969598!16s%2Fg%2F1q6n2h6lq!19sChIJdWPGiO4X2jERE1xrhVl53Hw
+https://www.google.com/maps/place/Tan+Hup+Kee+Trading+Co/data=!4m7!3m6!1s0x31da17c997119417:0x43299b708259e3c9!8m2!3d1.3587237!4d103.8936012!16s%2Fg%2F1tp05m65!19sChIJF5QRl8kX2jERyeNZgnCbKUM
