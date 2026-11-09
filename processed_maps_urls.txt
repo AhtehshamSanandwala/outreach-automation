@@ -5040,3 +5040,4 @@ https://www.google.com/maps/place/CEVA+Logistics/data=!4m7!3m6!1s0x31da0569c1420
 https://www.google.com/maps/place/LNS+Express+International+Pte+Ltd/data=!4m7!3m6!1s0x31da182d5ff79bf3:0xd7da2db7f634b0ca!8m2!3d1.3171755!4d103.8692313!16s%2Fg%2F1tczbdnc!19sChIJ85v3Xy0Y2jERyrA09rct2tc
 https://www.google.com/maps/place/Fastrans+Forwarding+%28s%29/data=!4m7!3m6!1s0x31da1827e1a6f8a5:0x8d41bc6502bd2f96!8m2!3d1.324926!4d103.879401!16s%2Fg%2F1tgx43fy!19sChIJpfim4ScY2jERli-9AmW8QY0
 https://www.google.com/maps/place/Multi+Forwarding+Pte+Ltd/data=!4m7!3m6!1s0x31da182d7c72e2f7:0xa98c7595f0e5788a!8m2!3d1.317291!4d103.870443!16s%2Fg%2F11btwmdn09!19sChIJ9-JyfC0Y2jERinjl8JV1jKk
+https://www.google.com/maps/place/KMS+Lines+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3d392d3c4137:0xa4039a7fbfa64b18!8m2!3d1.3165866!4d103.9012293!16s%2Fg%2F1ptw08q7l!19sChIJN0E8LTk92jERGEumv3-aA6Q
