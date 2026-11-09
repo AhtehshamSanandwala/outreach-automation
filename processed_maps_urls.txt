@@ -5705,3 +5705,4 @@ https://www.google.com/maps/place/Dolphin+Transport+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Katco+Logistics+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17f09b07afd7:0x9d38863228e35f73!8m2!3d1.33251!4d103.902292!16s%2Fg%2F1pt_9wsp7!19sChIJ168Hm_AX2jERc1_jKDKGOJ0
 https://www.google.com/maps/place/Ayzo+Pte+Ltd/data=!4m7!3m6!1s0x31da191255555555:0x549e4c1ef6052e77!8m2!3d1.3753869!4d103.930532!16s%2Fg%2F11hz0jl5vc!19sChIJVVVVVRIZ2jERdy4F9h5MnlQ
 https://www.google.com/maps/place/Lalamove+Singapore/data=!4m7!3m6!1s0x31da1725f6b4c95b:0xce9bc3ae306a775b!8m2!3d1.3265064!4d103.8950437!16s%2Fg%2F11cjkw44pp!19sChIJW8m09iUX2jERW3dqMK7Dm84
+https://www.google.com/maps/place/Cold+Power+Pte+Ltd/data=!4m7!3m6!1s0x31da17003b154ac7:0xfa86fb18682c637a!8m2!3d1.3417915!4d103.8968628!16s%2Fg%2F11x0dg7gkx!19sChIJx0oVOwAX2jERemMsaBj7hvo
