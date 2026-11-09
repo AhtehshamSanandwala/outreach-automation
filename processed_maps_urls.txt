@@ -5558,3 +5558,5 @@ https://www.google.com/maps/place/Kwong+Soon+Trading+Company/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/A%26D+Trading+Company/data=!4m7!3m6!1s0x31da17feb024ade7:0x8e2749593601fb6c!8m2!3d1.3302321!4d103.9092081!16s%2Fg%2F1ptw5vml2!19sChIJ560ksP4X2jERbPsBNllJJ44
 https://www.google.com/maps/place/Sagar+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da191343eb5b27:0xefbb3d768b7ceabd!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F1tywvgdw!19sChIJJ1vrQxMZ2jERvep8i3Y9u-8
 https://www.google.com/maps/place/Hi-Cool+Trading+Co+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da17f5f04d19dd:0x5f919611152ed45d!8m2!3d1.3263137!4d103.8961912!16s%2Fg%2F1tgdl21_!19sChIJ3RlN8PUX2jERXdQuFRGWkV8
+https://www.google.com/maps/place/Ayt+Trading+Company/data=!4m7!3m6!1s0x31da17e54309cca9:0x71a7b9d77639db63!8m2!3d1.3364063!4d103.9040718!16s%2Fg%2F1pt_ylwyd!19sChIJqcwJQ-UX2jERY9s5dte5p3E
+https://www.google.com/maps/place/Hock+Chin+Joo+Trading+Co/data=!4m7!3m6!1s0x31da17ec6fef5735:0x9c65b4fda7de1884!8m2!3d1.3578677!4d103.8946833!16s%2Fg%2F1ttdvzfq!19sChIJNVfvb-wX2jERhBjep_20ZZw
