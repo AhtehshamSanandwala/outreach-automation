@@ -3909,3 +3909,4 @@ https://www.google.com/maps/place/Hong+Chiew+Fishery+Trading/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Hess+Energy+Trading+Company+Pte+Ltd/data=!4m7!3m6!1s0x31da19a3294121ff:0xd9880ddd91b5c500!8m2!3d1.2980711!4d103.8480009!16s%2Fg%2F11b6d3knfp!19sChIJ_yFBKaMZ2jERAMW1kd0NiNk
 https://www.google.com/maps/place/Fraser+Hamilton+Trading/data=!4m7!3m6!1s0x31da198d1d55548d:0xb24f6ebe61118237!8m2!3d1.3055927!4d103.8298304!16s%2Fg%2F1pty_z71c!19sChIJjVRVHY0Z2jERN4IRYb5uT7I
 https://www.google.com/maps/place/Artisan8+Studio/data=!4m7!3m6!1s0x31da191af4108943:0xeecc19e49531c6ad!8m2!3d1.3056946!4d103.8301397!16s%2Fg%2F11gk8vt5vq!19sChIJQ4kQ9BoZ2jERrcYxleQZzO4
+https://www.google.com/maps/place/Riyaz+Exchange+Trading/data=!4m7!3m6!1s0x31da198ce81c9ded:0x91dc480d11f17059!8m2!3d1.3066492!4d103.8295057!16s%2Fg%2F1ptv_742m!19sChIJ7Z0c6IwZ2jERWXDxEQ1I3JE
