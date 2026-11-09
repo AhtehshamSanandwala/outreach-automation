@@ -5057,3 +5057,4 @@ https://www.google.com/maps/place/Pacific-Airlift+%28singapore%29+Pte+Ltd/data=!
 https://www.google.com/maps/place/B+J+Freight+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da1832cdec3543:0xfcd24c371199bced!8m2!3d1.315339!4d103.8683188!16s%2Fg%2F1tcy1tx1!19sChIJQzXszTIY2jER7byZETdM0vw
 https://www.google.com/maps/place/CJS+Lines+Singapore/data=!4m7!3m6!1s0x31da191340ce793b:0x5bef48e4a9692060!8m2!3d1.3038173!4d103.8614791!16s%2Fg%2F119v3lxpn!19sChIJO3nOQBMZ2jERYCBpqeRI71s
 https://www.google.com/maps/place/Bluorbit+Express+%28Singapore%29/data=!4m7!3m6!1s0x31da19ef3616c497:0x3feff1fffc867152!8m2!3d1.3184358!4d103.8927403!16s%2Fg%2F11h55my0ng!19sChIJl8QWNu8Z2jERUnGG_P_x7z8
+https://www.google.com/maps/place/Freight+Transport+International+Pte+Ltd/data=!4m7!3m6!1s0x31da19b3fd44ec7b:0x2ac2ee2310bcd5a6!8m2!3d1.3022954!4d103.8623877!16s%2Fg%2F1ptxvlw31!19sChIJe-xE_bMZ2jERptW8ECPuwio
