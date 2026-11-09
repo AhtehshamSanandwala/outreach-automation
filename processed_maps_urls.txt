@@ -4708,3 +4708,4 @@ https://www.google.com/maps/place/Geno+Consultancy+Pte+Ltd./data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/CA+Assurance+LLP/data=!4m7!3m6!1s0x31da198de5215e2b:0xa867b1850f7e0de1!8m2!3d1.3019921!4d103.8642024!16s%2Fg%2F11xmyk99hx!19sChIJK14h5Y0Z2jER4Q1-D4WxZ6g
 https://www.google.com/maps/place/Psoft+Accounting+Corporation/data=!4m7!3m6!1s0x31da19b6bb5ba721:0x388f6c756c5f5c7a!8m2!3d1.3038406!4d103.8614574!16s%2Fg%2F1tjyl768!19sChIJIadbu7YZ2jERelxfbHVsjzg
 https://www.google.com/maps/place/NTT+Asia+Pacific+Pte.+Ltd./data=!4m7!3m6!1s0x31da19aedea6dac1:0xf05866906e1190c!8m2!3d1.31074!4d103.8638553!16s%2Fg%2F119vl6_kb!19sChIJwdqm3q4Z2jERDBnhBmmGBQ8
+https://www.google.com/maps/place/Zapient+PAC/data=!4m7!3m6!1s0x31da19fcb1ee88e3:0x18f0cffd1881d4aa!8m2!3d1.3084036!4d103.8622518!16s%2Fg%2F11hygjybxx!19sChIJ44jusfwZ2jERqtSBGP3P8Bg
