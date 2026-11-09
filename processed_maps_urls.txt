@@ -5296,3 +5296,5 @@ https://www.google.com/maps/place/Redline+Employment/data=!4m7!3m6!1s0xa47e30e65
 https://www.google.com/maps/place/A+Plus+Manpower+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da181867073899:0xc136b2631e4d0269!8m2!3d1.3184358!4d103.8927403!16s%2Fg%2F11d_d2zdf2!19sChIJmTgHZxgY2jERaQJNHmOyNsE
 https://www.google.com/maps/place/Future+Employment+Pte+Ltd/data=!4m7!3m6!1s0x31da19c957e7d29f:0xdf7d7deb1016fdde!8m2!3d1.3188953!4d103.8925723!16s%2Fg%2F1ptwlkf8b!19sChIJn9LnV8kZ2jER3v0WEOt9fd8
 https://www.google.com/maps/place/YY+Circle/data=!4m7!3m6!1s0x31da19680305a283:0x2b9472675e1a4aad!8m2!3d1.3191548!4d103.8925231!16s%2Fg%2F11jdp2mpfy!19sChIJg6IFA2gZ2jERrUoaXmdylCs
+https://www.google.com/maps/place/Rexy+Recruitment+Pte+Ltd/data=!4m7!3m6!1s0x31da1658b1ede10b:0x62a287ce0981fb88!8m2!3d1.3192292!4d103.8926656!16s%2Fg%2F1pt_248vb!19sChIJC-HtsVgW2jERiPuBCc6HomI
+https://www.google.com/maps/place/RI+Talent+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da190b6675f101:0x97f151b92dee33ae!8m2!3d1.3187949!4d103.8927472!16s%2Fg%2F1tf67l1_!19sChIJAfF1ZgsZ2jERrjPuLblR8Zc
