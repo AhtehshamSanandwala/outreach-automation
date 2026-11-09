@@ -5515,3 +5515,4 @@ https://www.google.com/maps/place/Titan+Gas+Supplies+%28Singapore%29+Pte+Ltd/dat
 https://www.google.com/maps/place/Hock+Seng+Fishball+and+Fishcake/data=!4m7!3m6!1s0x31da17c7dfd9bb15:0xfa5ba1b61cd09bb8!8m2!3d1.3544991!4d103.8928509!16s%2Fg%2F11b5phl3jj!19sChIJFbvZ38cX2jERuJvQHLahW_o
 https://www.google.com/maps/place/Teck+Seng+Hin/data=!4m7!3m6!1s0x31da22acfc99fb85:0xff9a652a4f89297!8m2!3d1.343557!4d103.8963462!16s%2Fg%2F1tqpws7c!19sChIJhfuZ_Kwi2jERl5L4pFKm-Q8
 https://www.google.com/maps/place/Superdeal+Marketing+Enterprise/data=!4m7!3m6!1s0x31da17ee5f794af3:0x4f5a603baec77892!8m2!3d1.3377986!4d103.8988219!16s%2Fg%2F1wnbvjdh!19sChIJ80p5X-4X2jERknjHrjtgWk8
+https://www.google.com/maps/place/Power-Sonic+S%27pore+Pte.+Ltd./data=!4m7!3m6!1s0x31da17ee5f794af3:0xf03aca248e8d7ba0!8m2!3d1.337801!4d103.8986016!16s%2Fg%2F1tz73h5q!19sChIJ80p5X-4X2jERoHuNjiTKOvA
