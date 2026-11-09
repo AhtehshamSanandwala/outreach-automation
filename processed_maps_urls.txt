@@ -3915,3 +3915,4 @@ https://www.google.com/maps/place/Jossino+Trading/data=!4m7!3m6!1s0x31da1996e495
 https://www.google.com/maps/place/Hosoda+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19965191c22f:0x8d8330698e0f8c4d!8m2!3d1.3010722!4d103.8424588!16s%2Fg%2F1thsnxn9!19sChIJL8KRUZYZ2jERTYwPjmkwg40
 https://www.google.com/maps/place/Tax+Free+Inc./data=!4m7!3m6!1s0x31da1991726275bd:0x8296cb84ce236f6e!8m2!3d1.3022077!4d103.836443!16s%2Fg%2F1ptzpsgvv!19sChIJvXVicpEZ2jERbm8jzoTLloI
 https://www.google.com/maps/place/Business+Sweden/data=!4m7!3m6!1s0x31da1990e683748f:0x6e24d87b1f421ba4!8m2!3d1.3027635!4d103.837358!16s%2Fg%2F1vfp5qz8!19sChIJj3SD5pAZ2jERpBtCH3vYJG4
+https://www.google.com/maps/place/United+Aces+Trading+Co.+Pte.+Ltd./data=!4m7!3m6!1s0x31da19bd7edc6d31:0x139f4578f3588c3e!8m2!3d1.3006291!4d103.8449969!16s%2Fg%2F11c1ws57s9!19sChIJMW3cfr0Z2jERPoxY83hFnxM
