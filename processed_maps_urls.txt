@@ -4847,3 +4847,6 @@ https://www.google.com/maps/place/Yoteri+Trading+Co/data=!4m7!3m6!1s0x31da182ce8
 https://www.google.com/maps/place/Khatena+Masood+%26+Sons+Trading/data=!4m7!3m6!1s0x31da19ba3d192147:0xe4b4c78bffeb1b7e!8m2!3d1.312312!4d103.8630181!16s%2Fg%2F1tdyc4g2!19sChIJRyEZPboZ2jERfhvr_4vHtOQ
 https://www.google.com/maps/place/Kong+Joo+Huat+Trading+Company/data=!4m7!3m6!1s0x31da19b6bcaf6ec9:0xa3d3c2a6cbe66f6b!8m2!3d1.3038369!4d103.8613911!16s%2Fg%2F1tdkd4k6!19sChIJyW6vvLYZ2jERa2_my6bC06M
 https://www.google.com/maps/place/Hoe+Kian+Huat+Trading/data=!4m7!3m6!1s0x31da19b7ce570ec3:0xf9720e138e8a3565!8m2!3d1.3085119!4d103.8612217!16s%2Fg%2F1tp8xkdq!19sChIJww5XzrcZ2jERZTWKjhMOcvk
+https://www.google.com/maps/place/Gafoor+Trading+Co/data=!4m7!3m6!1s0x31da19c5011b4ba3:0xe2dc6009a3a19fec!8m2!3d1.3149256!4d103.8536886!16s%2Fg%2F11c1wsrdch!19sChIJo0sbAcUZ2jER7J-howlg3OI
+https://www.google.com/maps/place/Hock+Cheong+Trading+Company/data=!4m7!3m6!1s0x31da1844195cb471:0x87278b222bb645f7!8m2!3d1.3025429!4d103.8842693!16s%2Fg%2F11cs5p_tpc!19sChIJcbRcGUQY2jER90W2KyKLJ4c
+https://www.google.com/maps/place/Ren-Zhu+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19c97bbff04d:0xf21ab6155b06b119!8m2!3d1.3104571!4d103.861815!16s%2Fg%2F1vq9jtj5!19sChIJTfC_e8kZ2jERGbEGWxW2GvI
