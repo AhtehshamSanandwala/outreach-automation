@@ -4257,3 +4257,4 @@ https://www.google.com/maps/place/The+Chartered+Institute+of+Logistics+and+Trans
 https://www.google.com/maps/place/Bugis+Stn+Exit+A/data=!4m7!3m6!1s0x31da19ba79691e6f:0x82d61115924885ef!8m2!3d1.3011598!4d103.8560887!16s%2Fg%2F1td6vmy3!19sChIJbx5peboZ2jER74VIkhUR1oI
 https://www.google.com/maps/place/Cheetah+Freight+Express+Pte.+Ltd./data=!4m7!3m6!1s0x31da19bbda80d281:0x5abffb23fc44cfaa!8m2!3d1.3024488!4d103.8538286!16s%2Fg%2F119v1hk9m!19sChIJgdKA2rsZ2jERqs9E_CP7v1o
 https://www.google.com/maps/place/Global+Airfreight+International+Pte+Ltd/data=!4m7!3m6!1s0x31da3c702975b65f:0xe5ed1e4e7818e317!8m2!3d1.3744182!4d103.9958061!16s%2Fg%2F1tlqmhnf!19sChIJX7Z1KXA82jERF-MYeE4e7eU
+https://www.google.com/maps/place/Nissin+Transport+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da0f565fa6361b:0x655750c097ec98d9!8m2!3d1.3299476!4d103.6437784!16s%2Fg%2F1tj7sxbt!19sChIJGzamX1YP2jER2Zjsl8BQV2U
