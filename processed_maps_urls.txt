@@ -5518,3 +5518,5 @@ https://www.google.com/maps/place/Superdeal+Marketing+Enterprise/data=!4m7!3m6!1
 https://www.google.com/maps/place/Power-Sonic+S%27pore+Pte.+Ltd./data=!4m7!3m6!1s0x31da17ee5f794af3:0xf03aca248e8d7ba0!8m2!3d1.337801!4d103.8986016!16s%2Fg%2F1tz73h5q!19sChIJ80p5X-4X2jERoHuNjiTKOvA
 https://www.google.com/maps/place/Hwa+Soon+Paints+Pte+Ltd/data=!4m7!3m6!1s0x31da17c997119417:0xf989eefb3cf7c00d!8m2!3d1.3581606!4d103.8933631!16s%2Fg%2F1tdcjgss!19sChIJF5QRl8kX2jERDcD3PPvuifk
 https://www.google.com/maps/place/Prime+Supermarket+Ltd/data=!4m7!3m6!1s0x31da17c9afe95033:0x3e3b07e892ae3f47!8m2!3d1.3572136!4d103.8934952!16s%2Fg%2F1tczbdmb!19sChIJM1Dpr8kX2jERRz-ukugHOz4
+https://www.google.com/maps/place/MEXPLAY+%28SINGAPORE%29+PTE+LTD/data=!4m7!3m6!1s0x31da191344074535:0x44a5feba89660987!8m2!3d1.3405135!4d103.9115724!16s%2Fg%2F1pty_0mry!19sChIJNUUHRBMZ2jERhwlmibr-pUQ
+https://www.google.com/maps/place/Yeow+Seng+%28Shark%27s+Fin%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da17ee88c66375:0x71285abe7d3f495e!8m2!3d1.3379603!4d103.897336!16s%2Fg%2F11c59xjdss!19sChIJdWPGiO4X2jERXkk_fb5aKHE
