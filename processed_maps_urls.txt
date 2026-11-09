@@ -4944,3 +4944,5 @@ https://www.google.com/maps/place/HOH+GLOBAL+PTE.+LTD./data=!4m7!3m6!1s0x31da193
 https://www.google.com/maps/place/Hock+Cheong+Forwarding+Pte.+Ltd./data=!4m7!3m6!1s0x31da182d95e2d195:0xd6c6f6e5c7f742bf!8m2!3d1.3180719!4d103.8718028!16s%2Fg%2F1thq2tjg!19sChIJldHilS0Y2jERv0L3x-X2xtY
 https://www.google.com/maps/place/Tradewin+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da180017a132fd:0x6e57fbdb29ecd43!8m2!3d1.3163437!4d103.8682312!16s%2Fg%2F11gfjqwnhq!19sChIJ_TKhFwAY2jERQ82esr1_5QY
 https://www.google.com/maps/place/Galaxy+Shipping+Logistic/data=!4m7!3m6!1s0x31da19c765195169:0xb0fc55f1327333bf!8m2!3d1.3082055!4d103.8584474!16s%2Fg%2F11rk016pf8!19sChIJaVEZZccZ2jERvzNzMvFV_LA
+https://www.google.com/maps/place/2dx+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da182d5d00aa5f:0x9113396df3c690ea!8m2!3d1.3172878!4d103.8714573!16s%2Fg%2F1tjkc9c2!19sChIJX6oAXS0Y2jER6pDG8205E5E
+https://www.google.com/maps/place/4PL+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da178637526297:0xedb76250e447ff9!8m2!3d1.3290724!4d103.8779287!16s%2Fg%2F11c72q9zwh!19sChIJl2JSN4YX2jER-X9EDiV22w4
