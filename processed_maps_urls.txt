@@ -5435,3 +5435,4 @@ https://www.google.com/maps/place/Mavericks+Consulting/data=!4m7!3m6!1s0x31da1be
 https://www.google.com/maps/place/Kingston+United+Group/data=!4m7!3m6!1s0x31da176d4272e5ef:0xded0dd8df355553!8m2!3d1.3278854!4d103.8921868!16s%2Fg%2F11ny36b2mc!19sChIJ7-VyQm0X2jERU1U139gN7Q0
 https://www.google.com/maps/place/Avensys+Consulting+Pte+Ltd./data=!4m7!3m6!1s0x31da19bad8511c4d:0xd95cb33dd630b838!8m2!3d1.3329085!4d103.8936751!16s%2Fg%2F1tjl3dx6!19sChIJTRxR2LoZ2jEROLgw1j2zXNk
 https://www.google.com/maps/place/SAC+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da1913b080bd2f:0x959bcbfdddd471b0!8m2!3d1.3184358!4d103.8927403!16s%2Fg%2F11hz17r4l9!19sChIJL72AsBMZ2jERsHHU3f3Lm5U
+https://www.google.com/maps/place/Asia+Properties+%26+Assets+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da19d16b285d6d:0xb5c7f9cb057bc51!8m2!3d1.333427!4d103.8942808!16s%2Fg%2F11h1z1j79y!19sChIJbV0oa9EZ2jERUbxXsJx_XAs
