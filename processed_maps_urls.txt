@@ -5675,3 +5675,7 @@ https://www.google.com/maps/place/Grandeur+Logistics/data=!4m7!3m6!1s0x31da18297
 https://www.google.com/maps/place/Hup+Meng+Transport+Service/data=!4m7!3m6!1s0x31da17ee5f794af3:0x5c9dfc03808ddfb6!8m2!3d1.3375156!4d103.8986759!16s%2Fg%2F1tfnw2pt!19sChIJ80p5X-4X2jERtt-NgAP8nVw
 https://www.google.com/maps/place/Inker+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17f247611141:0xf0618749b18aa274!8m2!3d1.3340661!4d103.8955342!16s%2Fg%2F11cn0qzmyc!19sChIJQRFhR_IX2jERdKKKsUmHYfA
 https://www.google.com/maps/place/Transporter+538+Logistics+Services+Pte+Lt/data=!4m7!3m6!1s0x31da151732890dd9:0x9a4ea495cb65b1f8!8m2!3d1.3588405!4d103.8937453!16s%2Fg%2F11mw2pyh3q!19sChIJ2Q2JMhcV2jER-LFly5WkTpo
+https://www.google.com/maps/place/The+Logistics+Company/data=!4m7!3m6!1s0x31da17ef8bcb5479:0x348a8341f25b107f!8m2!3d1.3370124!4d103.9026364!16s%2Fg%2F11fxf0_0bz!19sChIJeVTLi-8X2jERfxBb8kGDijQ
+https://www.google.com/maps/place/Yong+Hua+Trading+%26+Logistic+Service+Pte+Ltd/data=!4m7!3m6!1s0x31da1700470e07cb:0xe978240f95a53bd5!8m2!3d1.3385248!4d103.8994239!16s%2Fg%2F11y87gm6qb!19sChIJywcORwAX2jER1TullQ8keOk
+https://www.google.com/maps/place/THT+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17eced0ee941:0xf676177fccc92c5!8m2!3d1.339019!4d103.893254!16s%2Fg%2F1ptz11b1y!19sChIJQekO7ewX2jERxZLM_HdhZw8
+https://www.google.com/maps/place/K.B.+Warehouse+Complex/data=!4m7!3m6!1s0x31da17eeb39926db:0x7311297a2dee2920!8m2!3d1.339363!4d103.897948!16s%2Fg%2F11h2dbbx90!19sChIJ2yaZs-4X2jERICnuLXopEXM
