@@ -5694,3 +5694,5 @@ https://www.google.com/maps/place/RAPIDO+DISTRIBUTIONS+PTE+LTD/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Sea+Master+Lines+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3dc90f4768ff:0xae649d5b54433f24!8m2!3d1.3753869!4d103.930532!16s%2Fg%2F11vm6r12vj!19sChIJ_2hHD8k92jERJD9DVFudZK4
 https://www.google.com/maps/place/ATF+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da17d7ffa82215:0x46030dd29863cc7d!8m2!3d1.338698!4d103.9066958!16s%2Fg%2F11sgn5crsf!19sChIJFSKo_9cX2jERfcxjmNINA0Y
 https://www.google.com/maps/place/Sang+Kong+Logistics+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da17efe48ac3fb:0x36519551fc11dc5e!8m2!3d1.3359253!4d103.9018844!16s%2Fg%2F1pt_3hmfy!19sChIJ-8OK5O8X2jERXtwR_FGVUTY
+https://www.google.com/maps/place/VT+Logistics+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da17e4dcdf3233:0x7dfb14269e5a4fd2!8m2!3d1.3369228!4d103.9052834!16s%2Fg%2F1w6_lbjc!19sChIJMzLf3OQX2jER0k9aniYU-30
+https://www.google.com/maps/place/GIGGLING+LOGISTICS+PTE+LTD/data=!4m7!3m6!1s0xa12163668a16991b:0x8072a6d99b6a62cf!8m2!3d1.314!4d103.84425!16s%2Fg%2F11w7l4cbg0!19sChIJG5kWimZjIaERz2Jqm9mmcoA
