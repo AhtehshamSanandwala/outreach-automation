@@ -3986,3 +3986,4 @@ https://www.google.com/maps/place/EEI+Express/data=!4m7!3m6!1s0x31da1992729eb5a9
 https://www.google.com/maps/place/Silverbridge+Energy+%26+Shipping/data=!4m7!3m6!1s0x31da19a1dd89465f:0x5cf0cb7c366bd4de!8m2!3d1.3001685!4d103.8372952!16s%2Fg%2F11v6x2n4w0!19sChIJX0aJ3aEZ2jER3tRrNnzL8Fw
 https://www.google.com/maps/place/Luggage+Storage+Orchard+Subway+Station+-+Radical+Storage/data=!4m7!3m6!1s0x31da198ce3bfb30b:0x499ecabfe13ab6b!8m2!3d1.3045795!4d103.8340621!16s%2Fg%2F11yd954hp3!19sChIJC7O_44wZ2jERa6sT_qvsmQQ
 https://www.google.com/maps/place/Hapi+Piyesta/data=!4m7!3m6!1s0x31da19194cad7397:0x2d5cba92215cea0!8m2!3d1.3041842!4d103.8343925!16s%2Fg%2F11nhm03ftx!19sChIJl3OtTBkZ2jERoM4VIqnL1QI
+https://www.google.com/maps/place/Cosmo+Pacific+Pte.+Ltd./data=!4m7!3m6!1s0x31da19bd481b35c1:0x63b830c6545c82e!8m2!3d1.2990484!4d103.8462447!16s%2Fg%2F11c1wsmcwq!19sChIJwTUbSL0Z2jERLshFZQyDOwY
