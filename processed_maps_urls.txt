@@ -5691,3 +5691,6 @@ https://www.google.com/maps/place/Jagro+Trans/data=!4m7!3m6!1s0x31da162eb2555555
 https://www.google.com/maps/place/AD%26K+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17f2d7000001:0x4f92228240dca51c!8m2!3d1.3334233!4d103.8917435!16s%2Fg%2F11hz181r8p!19sChIJAQAA1_IX2jERHKXcQIIikk8
 https://www.google.com/maps/place/Miles+Logistics/data=!4m7!3m6!1s0x31da17cd7f4741e9:0x74d2d91708c22362!8m2!3d1.3614096!4d103.9024691!16s%2Fg%2F1ptw2qv6_!19sChIJ6UFHf80X2jERYiPCCBfZ0nQ
 https://www.google.com/maps/place/RAPIDO+DISTRIBUTIONS+PTE+LTD/data=!4m7!3m6!1s0x31da19115125b4f3:0xc2576e07951142c7!8m2!3d1.334759!4d103.904047!16s%2Fg%2F11gl142n72!19sChIJ87QlUREZ2jERx0IRlQduV8I
+https://www.google.com/maps/place/Sea+Master+Lines+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3dc90f4768ff:0xae649d5b54433f24!8m2!3d1.3753869!4d103.930532!16s%2Fg%2F11vm6r12vj!19sChIJ_2hHD8k92jERJD9DVFudZK4
+https://www.google.com/maps/place/ATF+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da17d7ffa82215:0x46030dd29863cc7d!8m2!3d1.338698!4d103.9066958!16s%2Fg%2F11sgn5crsf!19sChIJFSKo_9cX2jERfcxjmNINA0Y
+https://www.google.com/maps/place/Sang+Kong+Logistics+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da17efe48ac3fb:0x36519551fc11dc5e!8m2!3d1.3359253!4d103.9018844!16s%2Fg%2F1pt_3hmfy!19sChIJ-8OK5O8X2jERXtwR_FGVUTY
