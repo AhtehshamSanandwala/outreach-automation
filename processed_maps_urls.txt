@@ -4884,3 +4884,7 @@ https://www.google.com/maps/place/Lee+Fah+Trading+Co./data=!4m7!3m6!1s0x31da182d
 https://www.google.com/maps/place/Teyi+Trading/data=!4m7!3m6!1s0x31da198177965ae1:0x2dd066e97a87456f!8m2!3d1.3118611!4d103.8633524!16s%2Fg%2F11t7j3186r!19sChIJ4VqWd4EZ2jERb0WHeulm0C0
 https://www.google.com/maps/place/Rinco+Industrial+Trading+Co./data=!4m7!3m6!1s0x31da19cbf518e21f:0x938b28b3f6eca4f0!8m2!3d1.3122608!4d103.8635544!16s%2Fg%2F11cs5m_219!19sChIJH-IY9csZ2jER8KTs9rMoi5M
 https://www.google.com/maps/place/Seemoh+Trading+Co/data=!4m7!3m6!1s0x31da19b6bcaf6ec9:0xb7670e2702e36945!8m2!3d1.3038369!4d103.8613911!16s%2Fg%2F1tlk8xf4!19sChIJyW6vvLYZ2jERRWnjAicOZ7c
+https://www.google.com/maps/place/K+L+Union+Trading+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da19b395a7d449:0x5755b12a31d76ce!8m2!3d1.3019921!4d103.8642024!16s%2Fg%2F1tdzt77c!19sChIJSdSnlbMZ2jERznYdoxJbdQU
+https://www.google.com/maps/place/Chip+Bee+Trading+Co.+Pte+Ltd/data=!4m7!3m6!1s0x31da19c81e4f75e9:0x81a2eb4e13391b74!8m2!3d1.3078321!4d103.8576587!16s%2Fg%2F1ptwkclf2!19sChIJ6XVPHsgZ2jERdBs5E07rooE
+https://www.google.com/maps/place/Goodwill+Trade+Company+Limited/data=!4m7!3m6!1s0x31da19b45c1062ad:0x97e7acfde6706b31!8m2!3d1.3043674!4d103.8646222!16s%2Fg%2F1ptx4ct4q!19sChIJrWIQXLQZ2jERMWtw5v2s55c
+https://www.google.com/maps/place/Liong+Garments+Trading+Co./data=!4m7!3m6!1s0x31da19b42c7bd1c9:0xaf8259fc4c8fe944!8m2!3d1.3051471!4d103.8627701!16s%2Fg%2F11b5pkvprj!19sChIJydF7LLQZ2jERROmPTPxZgq8
