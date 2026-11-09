@@ -3864,3 +3864,4 @@ https://www.google.com/maps/place/CAESARS+Swords.Guns.Armour/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Watch+Capital+111+Somerset/data=!4m7!3m6!1s0x31da17f487888dbd:0x326331350e4c4bcf!8m2!3d1.3001685!4d103.8372952!16s%2Fg%2F11l9650hpb!19sChIJvY2Ih_QX2jERz0tMDjUxYzI
 https://www.google.com/maps/place/Aesop+ION/data=!4m7!3m6!1s0x31da198de85528c3:0xf7c4aca6cf767304!8m2!3d1.3040633!4d103.83162!16s%2Fg%2F11cmf4b00q!19sChIJwyhV6I0Z2jERBHN2z6asxPc
 https://www.google.com/maps/place/Cold+Storage+Takashimaya/data=!4m7!3m6!1s0x31da19cbb5659727:0x8c3c59a4617cd20b!8m2!3d1.3026481!4d103.8354188!16s%2Fg%2F11c5sswn_b!19sChIJJ5dltcsZ2jERC9J8YaRZPIw
+https://www.google.com/maps/place/Heveya%C2%AE+Tangs+Orchard/data=!4m7!3m6!1s0x31da194b676f40ff:0x12a1a27ada63ce1f!8m2!3d1.3050215!4d103.8327664!16s%2Fg%2F11p01k_zmc!19sChIJ_0BvZ0sZ2jERH85j2nqioRI
