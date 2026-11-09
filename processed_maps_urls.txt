@@ -5532,3 +5532,7 @@ https://www.google.com/maps/place/Dendeng+Trading+Co.+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Yew+Eng+Trading+Co/data=!4m7!3m6!1s0x31da17ce861bb699:0x5670420cf5de1991!8m2!3d1.3584382!4d103.8995422!16s%2Fg%2F1tykrx0k!19sChIJmbYbhs4X2jERkRne9QxCcFY
 https://www.google.com/maps/place/SIN+HONG+POH+METAL+TRADING+%E6%98%9F%E5%AE%8F%E5%AF%B6%E9%87%91%E5%B1%9E%E8%B4%B8%E6%98%93/data=!4m7!3m6!1s0x31da1312b1570f1f:0x85049239070e5bc5!8m2!3d1.3716488!4d103.9259508!16s%2Fg%2F1pty0fmj1!19sChIJHw9XsRIT2jERxVsOBzmSBIU
 https://www.google.com/maps/place/Rexy+Motor+Trading+Company/data=!4m7!3m6!1s0x31da17f0bf3cb807:0xa2c366126d3e3a8d!8m2!3d1.331849!4d103.9014397!16s%2Fg%2F1th25xgp!19sChIJB7g8v_AX2jERjTo-bRJmw6I
+https://www.google.com/maps/place/Hup+Huat+Lee+Construction+%26+Trading+Co/data=!4m7!3m6!1s0x31da17ec6e97795d:0x60f3b15dedce0a4b!8m2!3d1.3462088!4d103.8971956!16s%2Fg%2F1tdwmm1g!19sChIJXXmXbuwX2jERSwrO7V2x82A
+https://www.google.com/maps/place/Ng+Choon+How+Trading+Co/data=!4m7!3m6!1s0x31da22d32b497501:0xaaf641d4d70628d4!8m2!3d1.3665501!4d103.926272!16s%2Fg%2F1tdxsjxz!19sChIJAXVJK9Mi2jER1CgG19RB9qo
+https://www.google.com/maps/place/Aik+Beng+Manufacturing+Trading+Co.+Pte/data=!4m7!3m6!1s0x31da19b816a1c1db:0xb8c2d9fb69776d1c!8m2!3d1.3295654!4d103.8922705!16s%2Fg%2F1tfq6rj6!19sChIJ28GhFrgZ2jERHG13afvZwrg
+https://www.google.com/maps/place/Trans-+Asiatic+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da17c9850a7919:0xe1191063b4066dc1!8m2!3d1.3587237!4d103.8936012!16s%2Fg%2F1thv_p3t!19sChIJGXkKhckX2jERwW0GtGMQGeE
