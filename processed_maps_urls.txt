@@ -5666,3 +5666,5 @@ https://www.google.com/maps/place/MCS+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Marine+%26+Offshore+Integrated+Logistics+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17cf168b670b:0xb03b66db3427c795!8m2!3d1.35587!4d103.898651!16s%2Fg%2F11b6dg5d3v!19sChIJC2eLFs8X2jERlccnNNtmO7A
 https://www.google.com/maps/place/Majestic+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d9121aaaaab:0x347ae05ce7dd3b47!8m2!3d1.3753869!4d103.930532!16s%2Fg%2F11qnk7w3rl!19sChIJq6qqIZE92jERRzvd51zgejQ
 https://www.google.com/maps/place/Sprint+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17f60e295387:0x88fbf5f3502114f6!8m2!3d1.3269825!4d103.8976908!16s%2Fg%2F11c1wsgs3d!19sChIJh1MpDvYX2jER9hQhUPP1-4g
+https://www.google.com/maps/place/DHL+Express/data=!4m7!3m6!1s0x31da17ed19ef17e7:0xc5014e5366076f5f!8m2!3d1.3371511!4d103.8926676!16s%2Fg%2F1tp0b5kg!19sChIJ5xfvGe0X2jERX28HZlNOAcU
+https://www.google.com/maps/place/Mitra+Famosa+International+Private+Limited/data=!4m7!3m6!1s0x31da234dc311f55f:0xf9b446c8bc2aa181!8m2!3d1.3268908!4d103.8983586!16s%2Fg%2F11nx1xy_0k!19sChIJX_URw00j2jERgaEqvMhGtPk
