@@ -4509,3 +4509,6 @@ https://www.google.com/maps/place/Wisely+98+Pte+Ltd/data=!4m7!3m6!1s0x31da19a59b
 https://www.google.com/maps/place/Infineon+Technologies+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da182a2ce4f0d9:0x6bc37105387432c3!8m2!3d1.3242421!4d103.8732881!16s%2Fg%2F1tdbhhzn!19sChIJ2fDkLCoY2jERwzJ0OAVxw2s
 https://www.google.com/maps/place/Abundant+Accounting+Pte+Ltd/data=!4m7!3m6!1s0x31da175104fc9319:0xdf80eccf5c94f86a!8m2!3d1.312021!4d103.8628386!16s%2Fg%2F11fcsmn64x!19sChIJGZP8BFEX2jERaviUXM_sgN8
 https://www.google.com/maps/place/RealVantage/data=!4m7!3m6!1s0x31da197fc2e4becd:0x5a788fac37cb7b17!8m2!3d1.3103678!4d103.8635263!16s%2Fg%2F11hyjkczjm!19sChIJzb7kwn8Z2jERF3vLN6yPeFo
+https://www.google.com/maps/place/I-Resources+System+Pte+Ltd/data=!4m7!3m6!1s0x31da182b81f79337:0x1b709c0991f2129c!8m2!3d1.3219548!4d103.8709737!16s%2Fg%2F1ptw2r41f!19sChIJN5P3gSsY2jERnBLykQmccBs
+https://www.google.com/maps/place/18+Management+Services/data=!4m7!3m6!1s0x31da19c9f734660f:0x4bbd9299270f145e!8m2!3d1.3084168!4d103.8621982!16s%2Fg%2F1ptzsb7_h!19sChIJD2Y098kZ2jERXhQPJ5mSvUs
+https://www.google.com/maps/place/Tele-centre+Services+Pte+Ltd+%28BPO,+Contact+Centre,+Helpdesk,+Redemption+Centres%29/data=!4m7!3m6!1s0x31da199871d98513:0x7053a255931c0b77!8m2!3d1.3279652!4d103.8793116!16s%2Fg%2F11cnb312fr!19sChIJE4XZcZgZ2jERdwsck1WiU3A
