@@ -5524,3 +5524,5 @@ https://www.google.com/maps/place/RCM+Consumer+Marketing/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Gift+Market/data=!4m7!3m6!1s0x31da17f375f78e4b:0xcc333e8b6426e371!8m2!3d1.3379259!4d103.8975067!16s%2Fg%2F11bbtg1n4t!19sChIJS473dfMX2jERceMmZIs-M8w
 https://www.google.com/maps/place/Hup+Yew+Confectionery/data=!4m7!3m6!1s0x31da17ce00bfb161:0x2b150d7cb2ac7014!8m2!3d1.3589895!4d103.9024247!16s%2Fg%2F1ptxvrr9s!19sChIJYbG_AM4X2jERFHCssnwNFSs
 https://www.google.com/maps/place/Arena+Trading+Co/data=!4m7!3m6!1s0x31da17f37b3cbaad:0x7730bc710796fd8f!8m2!3d1.3313302!4d103.8935686!16s%2Fg%2F1tdbt8fd!19sChIJrbo8e_MX2jERj_2WB3G8MHc
+https://www.google.com/maps/place/Berlin+Trading+Co/data=!4m7!3m6!1s0x31da17f562bdf0d3:0xb4af04799880fd24!8m2!3d1.3274406!4d103.8936506!16s%2Fg%2F1tddzw25!19sChIJ0_C9YvUX2jERJP2AmHkEr7Q
+https://www.google.com/maps/place/Soon+Kim+Hardware+Trading+Co/data=!4m7!3m6!1s0x31da17eade15fbeb:0x2ba97989ad41b501!8m2!3d1.3461241!4d103.8974353!16s%2Fg%2F1tc_y_bb!19sChIJ6_sV3uoX2jERAbVBrYl5qSs
