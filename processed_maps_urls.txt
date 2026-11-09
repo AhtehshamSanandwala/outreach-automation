@@ -4723,3 +4723,4 @@ https://www.google.com/maps/place/PointStar+Pte+Ltd+%28Singapore%29+-+A+Cloud+Te
 https://www.google.com/maps/place/MSC+Consulting+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da14605351fdc5:0x2484f2daa9cff966!8m2!3d1.316296!4d103.8628014!16s%2Fg%2F1pw3xpm3_!19sChIJxf1RU2AU2jERZvnPqdryhCQ
 https://www.google.com/maps/place/Kalos+Consultancy+Pte.+Ltd./data=!4m7!3m6!1s0x31da18382a68af23:0x2260db53eeaef1cf!8m2!3d1.3099273!4d103.8650191!16s%2Fg%2F11h7s450qz!19sChIJI69oKjgY2jERz_Gu7lPbYCI
 https://www.google.com/maps/place/momenta+Group+Pte.+Ltd./data=!4m7!3m6!1s0x31da181842edbea7:0xc696e8c6ac619d13!8m2!3d1.3122543!4d103.862598!16s%2Fg%2F11c32n4tr7!19sChIJp77tQhgY2jERE51hrMbolsY
+https://www.google.com/maps/place/The+Growth+Project+-+Singapore+HR+Consultancy/data=!4m7!3m6!1s0x31da192a4cfbdc6d:0x4a597c6ac3f5c55!8m2!3d1.3118611!4d103.8633524!16s%2Fg%2F11w3clxhkq!19sChIJbdz7TCoZ2jERVVw_rMaXpQQ
