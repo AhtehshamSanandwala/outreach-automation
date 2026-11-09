@@ -5825,3 +5825,4 @@ https://www.google.com/maps/place/NICK+TUNG/data=!4m7!3m6!1s0x31da17f5f7c5bccd:0
 https://www.google.com/maps/place/Web+Crayons+Singapore/data=!4m7!3m6!1s0x31da17f5f7c5bccd:0x36257dd28bb140c3!8m2!3d1.326293!4d103.896145!16s%2Fg%2F11hbbkvwkm!19sChIJzbzF9_UX2jERw0Cxi9J9JTY
 https://www.google.com/maps/place/Juicy+Ideas+Singapore/data=!4m7!3m6!1s0x31da19aceadc24af:0xab962a5789ff0860!8m2!3d1.3258823!4d103.8943113!16s%2Fg%2F11gxxhb4d4!19sChIJryTc6qwZ2jERYAj_iVcqlqs
 https://www.google.com/maps/place/Swift+Design+Studio+Pte+Ltd/data=!4m7!3m6!1s0x31da18307b157143:0xa320f11af8c04b4f!8m2!3d1.3320456!4d103.8907902!16s%2Fg%2F11h7s430rj!19sChIJQ3EVezAY2jERT0vA-BrxIKM
+https://www.google.com/maps/place/Web+Design+Course+Singapore/data=!4m7!3m6!1s0x31da181ff817873d:0xceeaa8058363398c!8m2!3d1.3257244!4d103.8912809!16s%2Fg%2F11b6gl_ztx!19sChIJPYcX-B8Y2jERjDljgwWo6s4
