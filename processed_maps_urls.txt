@@ -5709,3 +5709,5 @@ https://www.google.com/maps/place/Cold+Power+Pte+Ltd/data=!4m7!3m6!1s0x31da17003
 https://www.google.com/maps/place/Morita+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17ee88c2d92d:0x6503c65deb7905d1!8m2!3d1.338172!4d103.897856!16s%2Fg%2F11g6rl4f8f!19sChIJLdnCiO4X2jER0QV5613GA2U
 https://www.google.com/maps/place/Hoe+Heng+Transport/data=!4m7!3m6!1s0x31da17c9785afeed:0xbd3df4dbcbda7cb5!8m2!3d1.3586488!4d103.893873!16s%2Fg%2F1tj7bksm!19sChIJ7f5aeMkX2jERtXzay9v0Pb0
 https://www.google.com/maps/place/Gordon+Warehouse+Building/data=!4m7!3m6!1s0x31da17ee80a90b9d:0x1f434b465b1de4ec!8m2!3d1.3378111!4d103.8973617!16s%2Fg%2F11bwh5rqpc!19sChIJnQupgO4X2jER7OQdW0ZLQx8
+https://www.google.com/maps/place/Network+Courier/data=!4m7!3m6!1s0x31da19c98870fb31:0xa446978864b115d4!8m2!3d1.334759!4d103.904047!16s%2Fg%2F1td30kp7!19sChIJMftwiMkZ2jER1BWxZIiXRqQ
+https://www.google.com/maps/place/Integrated+Storage+Space+Rental+%2B+Mover/data=!4m7!3m6!1s0x31da1990daba36a9:0x7a33a4396de2a8a6!8m2!3d1.3537181!4d103.8918342!16s%2Fg%2F1pp2x6nmy!19sChIJqTa62pAZ2jERpqjibTmkM3o
