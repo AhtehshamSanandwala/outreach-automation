@@ -4194,3 +4194,4 @@ https://www.google.com/maps/place/IHG+Singapore/data=!4m7!3m6!1s0x31da19ba85b1b2
 https://www.google.com/maps/place/Singapore+Cooperation+Enterprise+%28SCE%29/data=!4m7!3m6!1s0x31da19835f9379bb:0xbf37ce0541984754!8m2!3d1.300089!4d103.8562092!16s%2Fg%2F1wrt9cm4!19sChIJu3mTX4MZ2jERVEeYQQXON78
 https://www.google.com/maps/place/CorpSec+Pte.+Ltd./data=!4m7!3m6!1s0x31da146052d15387:0xee2c6d63022fd6cd!8m2!3d1.4372597!4d103.8419699!16s%2Fg%2F11bywggw8y!19sChIJh1PRUmAU2jERzdYvAmNtLO4
 https://www.google.com/maps/place/Register+Corporate+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da19b72d137501:0x8698244485150a67!8m2!3d1.3032493!4d103.8587377!16s%2Fg%2F11c59xx21y!19sChIJAXUTLbcZ2jERZwoVhUQkmIY
+https://www.google.com/maps/place/Enterprise+Singapore/data=!4m7!3m6!1s0x31da1a4f7134c14f:0x10b2ca7c52c4db57!8m2!3d1.3001224!4d103.856161!16s%2Fg%2F11f57f7wp3!19sChIJT8E0cU8a2jERV9vEUnzKshA
