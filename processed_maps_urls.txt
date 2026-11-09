@@ -4285,3 +4285,4 @@ https://www.google.com/maps/place/Hwa+Aik+General+Store/data=!4m7!3m6!1s0x31da16
 https://www.google.com/maps/place/Notebook+Repair+Bugis/data=!4m7!3m6!1s0x31da197c54f92d89:0x4ca5be7f52527227!8m2!3d1.2991279!4d103.8553788!16s%2Fg%2F11rd86gbrv!19sChIJiS35VHwZ2jERJ3JSUn--pUw
 https://www.google.com/maps/place/Robotic+Vision+Systems+Pte+Ltd/data=!4m7!3m6!1s0x31da19ba97a8dfdd:0x792592c1ded526b7!8m2!3d1.299687!4d103.855537!16s%2Fg%2F1ptwdjkfq!19sChIJ3d-ol7oZ2jERtybV3sGSJXk
 https://www.google.com/maps/place/Trust-Aire+Engineering/data=!4m7!3m6!1s0x31da19b5434c6ab1:0xd8b8492ecd3211b5!8m2!3d1.307098!4d103.8667943!16s%2Fg%2F11b5pj63_0!19sChIJsWpMQ7UZ2jERtREyzS5JuNg
+https://www.google.com/maps/place/Elixir+Electrical+Engineering/data=!4m7!3m6!1s0x31da19b5434c6ab1:0x3b91939ff85cdb27!8m2!3d1.307098!4d103.8667943!16s%2Fg%2F1ptwdj7hd!19sChIJsWpMQ7UZ2jERJ9tc-J-TkTs
