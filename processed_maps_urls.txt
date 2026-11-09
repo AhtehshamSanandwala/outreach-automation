@@ -3554,3 +3554,4 @@ https://www.google.com/maps/place/Moon+Labs+Digital/data=!4m7!3m6!1s0x31da194ed4
 https://www.google.com/maps/place/IPG+Mediabrands+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da19bd464e4129:0xca194d665c8d7a14!8m2!3d1.2991947!4d103.8459425!16s%2Fg%2F1tkjhqcc!19sChIJKUFORr0Z2jERFHqNXGZNGco
 https://www.google.com/maps/place/Amanah+Digital+Media+Pte+Ltd/data=!4m7!3m6!1s0x31da19913c518573:0xcbbd90567a76e2c0!8m2!3d1.3016303!4d103.8377832!16s%2Fg%2F1vm_vdt6!19sChIJc4VRPJEZ2jERwOJ2elaQvcs
 https://www.google.com/maps/place/Acronym+Asia/data=!4m7!3m6!1s0x31da190c4f656d1d:0xeae4244df808629b!8m2!3d1.2991586!4d103.846019!16s%2Fg%2F11hcj4txxd!19sChIJHW1lTwwZ2jERm2II-E0k5Oo
+https://www.google.com/maps/place/Socium+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da191ec9c4195d:0xbf4b1f4195aeff44!8m2!3d1.3019805!4d103.839695!16s%2Fg%2F11k6dntfnd!19sChIJXRnEyR4Z2jERRP-ulUEfS78
