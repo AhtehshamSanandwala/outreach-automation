@@ -5707,3 +5707,4 @@ https://www.google.com/maps/place/Ayzo+Pte+Ltd/data=!4m7!3m6!1s0x31da19125555555
 https://www.google.com/maps/place/Lalamove+Singapore/data=!4m7!3m6!1s0x31da1725f6b4c95b:0xce9bc3ae306a775b!8m2!3d1.3265064!4d103.8950437!16s%2Fg%2F11cjkw44pp!19sChIJW8m09iUX2jERW3dqMK7Dm84
 https://www.google.com/maps/place/Cold+Power+Pte+Ltd/data=!4m7!3m6!1s0x31da17003b154ac7:0xfa86fb18682c637a!8m2!3d1.3417915!4d103.8968628!16s%2Fg%2F11x0dg7gkx!19sChIJx0oVOwAX2jERemMsaBj7hvo
 https://www.google.com/maps/place/Morita+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17ee88c2d92d:0x6503c65deb7905d1!8m2!3d1.338172!4d103.897856!16s%2Fg%2F11g6rl4f8f!19sChIJLdnCiO4X2jER0QV5613GA2U
+https://www.google.com/maps/place/Hoe+Heng+Transport/data=!4m7!3m6!1s0x31da17c9785afeed:0xbd3df4dbcbda7cb5!8m2!3d1.3586488!4d103.893873!16s%2Fg%2F1tj7bksm!19sChIJ7f5aeMkX2jERtXzay9v0Pb0
