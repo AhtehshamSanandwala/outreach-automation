@@ -4834,3 +4834,6 @@ https://www.google.com/maps/place/Tat+Lian+Trading+Co/data=!4m7!3m6!1s0x31da19b7
 https://www.google.com/maps/place/Fu+Yi+Handicrafts+Trading/data=!4m7!3m6!1s0x31da19cee5685489:0xf6f6560d5aef2e06!8m2!3d1.3163437!4d103.8682312!16s%2Fg%2F1ths6wb6!19sChIJiVRo5c4Z2jERBi7vWg1W9vY
 https://www.google.com/maps/place/Yip+Fung+Trading+Co/data=!4m7!3m6!1s0x31da182ce816ef3f:0x774b5350abcb6ae2!8m2!3d1.3205855!4d103.869817!16s%2Fg%2F1tdldt8f!19sChIJP-8W6CwY2jER4mrLq1BTS3c
 https://www.google.com/maps/place/Lee+Han+Siong+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19cdcc55444f:0xcbab0396169b08bc!8m2!3d1.314674!4d103.8631579!16s%2Fg%2F1vv2przx!19sChIJT0RVzM0Z2jERvAibFpYDq8s
+https://www.google.com/maps/place/Uni-Cheng+Trading+Co/data=!4m7!3m6!1s0x31da182d137a8317:0x2c57df633e0ced9f!8m2!3d1.3184101!4d103.8699835!16s%2Fg%2F1tjdnvxf!19sChIJF4N6Ey0Y2jERn-0MPmPfVyw
+https://www.google.com/maps/place/Kee+Chong+Auto+Trading+Co/data=!4m7!3m6!1s0x31da19c7e683f44d:0x621e1b07c707157c!8m2!3d1.307324!4d103.8583014!16s%2Fg%2F1ty71sx1!19sChIJTfSD5scZ2jERfBUHxwcbHmI
+https://www.google.com/maps/place/BSG+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da1786f5aeca5f:0xe461a06978d02eea!8m2!3d1.3297961!4d103.8766118!16s%2Fg%2F1tf5ytg7!19sChIJX8qu9YYX2jER6i7QeGmgYeQ
