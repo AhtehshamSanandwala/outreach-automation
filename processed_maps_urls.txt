@@ -4532,3 +4532,5 @@ https://www.google.com/maps/place/Experian+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Geekware+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da19b6bb5ba721:0xe86c4158f92ef9cb!8m2!3d1.3038369!4d103.8613911!16s%2Fg%2F1tzvt1sy!19sChIJIadbu7YZ2jERy_ku-VhBbOg
 https://www.google.com/maps/place/JForce+Maid+Agency+-+Boon+Keng/data=!4m7!3m6!1s0x31da19d211064a95:0x2c0585e95406627f!8m2!3d1.3177442!4d103.8627758!16s%2Fg%2F11c3mqfs43!19sChIJlUoGEdIZ2jERf2IGVOmFBSw
 https://www.google.com/maps/place/1-Alliance+Employment+%28Maids%29+Agency+Pte+Ltd/data=!4m7!3m6!1s0x31da1983a610f095:0x1d20b20b005ea132!8m2!3d1.3205215!4d103.869386!16s%2Fg%2F11tn3w500x!19sChIJlfAQpoMZ2jERMqFeAAuyIB0
+https://www.google.com/maps/place/Ascension+Employment+Agency/data=!4m7!3m6!1s0x31da19b428229141:0x7568815930bfe8eb!8m2!3d1.3048593!4d103.8622444!16s%2Fg%2F11mr2_wn1p!19sChIJQZEiKLQZ2jER6-i_MFmBaHU
+https://www.google.com/maps/place/JFC+Care+Employment+%26+Maid+Agency/data=!4m7!3m6!1s0x31da17be64f97303:0x9954659fe6e030fb!8m2!3d1.327427!4d103.8675111!16s%2Fg%2F11z5157gt1!19sChIJA3P5ZL4X2jER-zDg5p9lVJk
