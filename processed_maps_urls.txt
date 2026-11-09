@@ -4161,3 +4161,4 @@ https://www.google.com/maps/place/QB+PREMIUM+%28Bugis+Junction%29/data=!4m7!3m6!
 https://www.google.com/maps/place/Bugis/data=!4m7!3m6!1s0x31da19b073353ebb:0x9cb819dd3ab95d82!8m2!3d1.3001701!4d103.8561248!16zL20vMDZ4eWNx!19sChIJuz41c7AZ2jERgl25Ot0ZuJw
 https://www.google.com/maps/place/BSM/data=!4m7!3m6!1s0x31da1958170bfbe5:0x78fb045cd2d65898!8m2!3d1.2988616!4d103.8538528!16s%2Fg%2F11f6fz0bjs!19sChIJ5fsLF1gZ2jERmFjW0lwE-3g
 https://www.google.com/maps/place/BizCube/data=!4m7!3m6!1s0x31da173ef70539f5:0x3e696f416d905881!8m2!3d1.384428!4d103.8271508!16s%2Fg%2F11hz1790vk!19sChIJ9TkF9z4X2jERgViQbUFvaT4
+https://www.google.com/maps/place/Mercure+Singapore+Bugis/data=!4m7!3m6!1s0x31da19bb220c7639:0xfc3a31ade85ea4bb!8m2!3d1.299684!4d103.853114!16s%2Fg%2F11cn9p6gqw!19sChIJOXYMIrsZ2jERu6Re6K0xOvw
