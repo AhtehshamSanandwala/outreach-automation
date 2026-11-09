@@ -5650,3 +5650,4 @@ https://www.google.com/maps/place/Wice+Logistics+%28Singapore%29+Pte+Ltd/data=!4
 https://www.google.com/maps/place/DHL+Supply+Chain/data=!4m7!3m6!1s0x31da162cc186dafb:0xfbe1994d1fac8187!8m2!3d1.364766!4d103.907264!16s%2Fg%2F11bwvrbss7!19sChIJ-9qGwSwW2jERh4GsH02Z4fs
 https://www.google.com/maps/place/MLND+Logistics+%26+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da182e49141d9d:0xfa35c1e4172a2bc4!8m2!3d1.3378111!4d103.8973617!16s%2Fg%2F11ddysqz96!19sChIJnR0USS4Y2jERxCsqF-TBNfo
 https://www.google.com/maps/place/SDL+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17f2dcf99df9:0x6bc77a85e3054946!8m2!3d1.3322686!4d103.892106!16s%2Fg%2F124yf5fvg!19sChIJ-Z353PIX2jERRkkF44V6x2s
+https://www.google.com/maps/place/NRS+Logistics+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19afd5ea9a7f:0xaecb4ad30979458b!8m2!3d1.3189418!4d103.8944605!16s%2Fg%2F1trc2gqh!19sChIJf5rq1a8Z2jERi0V5CdNKy64
