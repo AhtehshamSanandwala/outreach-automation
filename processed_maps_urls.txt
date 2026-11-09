@@ -4926,3 +4926,6 @@ https://www.google.com/maps/place/Havey+Machinery+Trading+%26+Co/data=!4m7!3m6!1
 https://www.google.com/maps/place/Kang+Shipping+%26+Trading+Co/data=!4m7!3m6!1s0x31da19b3fd890e81:0xc16728b4bb1de007!8m2!3d1.302638!4d103.8622199!16s%2Fg%2F11c59w324p!19sChIJgQ6J_bMZ2jERB-Adu7QoZ8E
 https://www.google.com/maps/place/Zin+Hoe+Auto+Trading+Co./data=!4m7!3m6!1s0x31da19cfc47fd963:0x77fd7fae2fb383dc!8m2!3d1.3163627!4d103.8582279!16s%2Fg%2F11c1ws41sm!19sChIJY9l_xM8Z2jER3IOzL65__Xc
 https://www.google.com/maps/place/Kin+Fah+Hing+Trading+Co/data=!4m7!3m6!1s0x31da19b7dbd13cdf:0x7823860c70d7816f!8m2!3d1.3038369!4d103.8613911!16s%2Fg%2F1wl4n3pp!19sChIJ3zzR27cZ2jERb4HXcAyGI3g
+https://www.google.com/maps/place/Nam+Lee+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19b4395112e7:0x935360923632636a!8m2!3d1.3039907!4d103.8627643!16s%2Fg%2F1t_kd0qt!19sChIJ5xJRObQZ2jERamMyNpJgU5M
+https://www.google.com/maps/place/Ngee+Seng+Hardware+Trading/data=!4m7!3m6!1s0x31da19cbf87915eb:0xe97511b2895a528d!8m2!3d1.3123267!4d103.8628569!16s%2Fg%2F1tdwh0gc!19sChIJ6xV5-MsZ2jERjVJaibIRdek
+https://www.google.com/maps/place/O+%26+P+Electrical+Trading+Co/data=!4m7!3m6!1s0x31da19cdce808a6f:0x90a5188820dfb1de!8m2!3d1.3150285!4d103.8631172!16s%2Fg%2F1tq6b0b2!19sChIJb4qAzs0Z2jER3rHfIIgYpZA
