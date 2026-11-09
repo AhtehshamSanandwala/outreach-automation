@@ -4105,3 +4105,5 @@ https://www.google.com/maps/place/serl.io/data=!4m7!3m6!1s0x31da1b8036d86203:0x5
 https://www.google.com/maps/place/Home+Techies+Singapore/data=!4m7!3m6!1s0x31da17a3952659eb:0xb05d6aa58c370231!8m2!3d1.3580295!4d103.8334895!16s%2Fg%2F11h22w_vvl!19sChIJ61kmlaMX2jERMQI3jKVqXbA
 https://www.google.com/maps/place/IT+Consultancy+%26+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19b169dec88f:0x91c47fdaa34461be!8m2!3d1.301765!4d103.861329!16s%2Fg%2F1tj502zj!19sChIJj8jeabEZ2jERvmFEo9p_xJE
 https://www.google.com/maps/place/Markwell+International+Business+Services/data=!4m7!3m6!1s0x31da19af8b727c01:0x33955f513e242e2d!8m2!3d1.297193!4d103.8549477!16s%2Fg%2F11d_z6qj1c!19sChIJAXxyi68Z2jERLS4kPlFflTM
+https://www.google.com/maps/place/Butler+Tech+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da190c2b3223ab:0x951becc7f929fa2e!8m2!3d1.2996058!4d103.8557191!16s%2Fg%2F11clgc_796!19sChIJqyMyKwwZ2jERLvop-cfsG5U
+https://www.google.com/maps/place/TechTIQ+Solutions+-+AI-Driven+Software+Development+Company+in+Singapore/data=!4m7!3m6!1s0x31da172eb1021293:0xc313443e8b456e25!8m2!3d1.282984!4d103.8505203!16s%2Fg%2F11h5vm3fnw!19sChIJkxICsS4X2jERJW5Fiz5EE8M
