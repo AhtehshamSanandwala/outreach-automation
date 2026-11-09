@@ -3865,3 +3865,4 @@ https://www.google.com/maps/place/Watch+Capital+111+Somerset/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Aesop+ION/data=!4m7!3m6!1s0x31da198de85528c3:0xf7c4aca6cf767304!8m2!3d1.3040633!4d103.83162!16s%2Fg%2F11cmf4b00q!19sChIJwyhV6I0Z2jERBHN2z6asxPc
 https://www.google.com/maps/place/Cold+Storage+Takashimaya/data=!4m7!3m6!1s0x31da19cbb5659727:0x8c3c59a4617cd20b!8m2!3d1.3026481!4d103.8354188!16s%2Fg%2F11c5sswn_b!19sChIJJ5dltcsZ2jERC9J8YaRZPIw
 https://www.google.com/maps/place/Heveya%C2%AE+Tangs+Orchard/data=!4m7!3m6!1s0x31da194b676f40ff:0x12a1a27ada63ce1f!8m2!3d1.3050215!4d103.8327664!16s%2Fg%2F11p01k_zmc!19sChIJ_0BvZ0sZ2jERH85j2nqioRI
+https://www.google.com/maps/place/Metro+Paragon/data=!4m7!3m6!1s0x31da199233c56cb7:0xfcb6506e13dfb0a4!8m2!3d1.3043349!4d103.8361743!16s%2Fg%2F1tmpbghx!19sChIJt2zFM5IZ2jERpLDfE25Qtvw
