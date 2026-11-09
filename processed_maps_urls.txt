@@ -5241,3 +5241,4 @@ https://www.google.com/maps/place/Futurasia+Marketing/data=!4m7!3m6!1s0x31da17e6
 https://www.google.com/maps/place/Graphic-Tech+Advertising+Display+Pte+Ltd/data=!4m7!3m6!1s0x31da17c7356c5a87:0xc0521ec71c27ec91!8m2!3d1.3447215!4d103.8966821!16s%2Fg%2F11b6jgn1rg!19sChIJh1psNccX2jERkewnHMceUsA
 https://www.google.com/maps/place/Upscaled/data=!4m7!3m6!1s0x31da17a2be57eb45:0xa91d192fae9ca436!8m2!3d1.3369291!4d103.8860053!16s%2Fg%2F11x28l31lf!19sChIJRetXvqIX2jERNqScri8ZHak
 https://www.google.com/maps/place/Carbon+Interactive+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3d9a0b573:0xd9a3757359f2f210!8m2!3d1.3321873!4d103.8955164!16s%2Fg%2F1tj502vr!19sChIJc7Wg2fMX2jEREPLyWXN1o9k
+https://www.google.com/maps/place/Evolve+%26+Adapt/data=!4m7!3m6!1s0x31da176b9610a17b:0x24a66ae36912c64e!8m2!3d1.314!4d103.84425!16s%2Fg%2F11fv1279mx!19sChIJe6EQlmsX2jERTsYSaeNqpiQ
