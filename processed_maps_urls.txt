@@ -4313,3 +4313,4 @@ https://www.google.com/maps/place/Stridec/data=!4m7!3m6!1s0x31da198680b0e20d:0x7
 https://www.google.com/maps/place/Vintedge+Singapore/data=!4m7!3m6!1s0x31da196d2fc9e921:0x1ac88d066c35ab0!8m2!3d1.3178775!4d103.8812782!16s%2Fg%2F1tfcf8p3!19sChIJIenJL20Z2jERsFrDZtCIrAE
 https://www.google.com/maps/place/Delitier+%26+Co+-+Branding+Agency+in+Singapore/data=!4m7!3m6!1s0x31da17992377bf61:0x53859a6b6e28c277!8m2!3d1.3194919!4d103.8927503!16s%2Fg%2F11hkv48l25!19sChIJYb93I5kX2jERd8IobmuahVM
 https://www.google.com/maps/place/Pico+Singapore/data=!4m7!3m6!1s0x31da19caff31955f:0xa4645b1f1a455f28!8m2!3d1.3096363!4d103.8650892!16s%2Fg%2F11c60r7dkv!19sChIJX5Ux_8oZ2jERKF9FGh9bZKQ
+https://www.google.com/maps/place/Webnatics/data=!4m7!3m6!1s0x31da197d576548c5:0x300799e7dab1450a!8m2!3d1.3148863!4d103.8662368!16s%2Fg%2F1tf8qm9g!19sChIJxUhlV30Z2jERCkWx2ueZBzA
