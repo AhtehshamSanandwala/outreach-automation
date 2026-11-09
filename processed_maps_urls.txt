@@ -3853,3 +3853,4 @@ https://www.google.com/maps/place/Goodmen+Luxury/data=!4m7!3m6!1s0x31da195fe5b7a
 https://www.google.com/maps/place/SYRES+Singapore/data=!4m7!3m6!1s0x31da19a1c912b9a9:0x8de3a18c965150bb!8m2!3d1.3027623!4d103.8342901!16s%2Fg%2F11h71l2pv8!19sChIJqbkSyaEZ2jERu1BRloyh440
 https://www.google.com/maps/place/Best+Imprezzione+-+3D+Hand+%26+Foot+Imprints+and+Casting/data=!4m7!3m6!1s0x31da19a1d5905231:0x64835719de42f80e!8m2!3d1.3017767!4d103.839695!16s%2Fg%2F1ptz5xc1p!19sChIJMVKQ1aEZ2jERDvhC3hlXg2Q
 https://www.google.com/maps/place/ORRO/data=!4m7!3m6!1s0x31da1990d465d101:0xbb4b5025d75f432f!8m2!3d1.3004019!4d103.8396577!16s%2Fg%2F11cn5l8rml!19sChIJAdFl1JAZ2jERL0Nf1yVQS7s
+https://www.google.com/maps/place/ConnectIT/data=!4m7!3m6!1s0x31da1991e7bbe923:0x5f8a203741360408!8m2!3d1.3012498!4d103.8384123!16s%2Fg%2F11h23bhny9!19sChIJI-m755EZ2jERCAQ2QTcgil8
