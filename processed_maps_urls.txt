@@ -4383,3 +4383,4 @@ https://www.google.com/maps/place/Appvantage/data=!4m7!3m6!1s0x31da19b5af8e7697:
 https://www.google.com/maps/place/OSCA+ASIA/data=!4m7!3m6!1s0x31da19cf9172468b:0x18e117c3f6fbc08b!8m2!3d1.3096813!4d103.8643015!16s%2Fg%2F1tfljy_0!19sChIJi0Zykc8Z2jERi8D79sMX4Rg
 https://www.google.com/maps/place/Aetos+Communications+Pte+Ltd/data=!4m7!3m6!1s0x31da1986549e0653:0xe0b0d9f01918b63f!8m2!3d1.3065458!4d103.8641769!16s%2Fg%2F11j085t5fb!19sChIJUwaeVIYZ2jERP7YYGfDZsOA
 https://www.google.com/maps/place/Papier+Blanc/data=!4m7!3m6!1s0x31da1786ff21faef:0xe92f3e8caaf95802!8m2!3d1.3052972!4d103.8629745!16s%2Fg%2F1ptxlz2zt!19sChIJ7_oh_4YX2jERAlj5qow-L-k
+https://www.google.com/maps/place/Le+Interior+Affairs+Pte+Ltd/data=!4m7!3m6!1s0x31da17b77767eb93:0xaf291004984b61!8m2!3d1.3101439!4d103.8622918!16s%2Fg%2F11g9s_06zg!19sChIJk-tnd7cX2jERYUuYBBAprwA
