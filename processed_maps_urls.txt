@@ -4808,3 +4808,4 @@ https://www.google.com/maps/place/Palitalia+Importer+and+Exporter/data=!4m7!3m6!
 https://www.google.com/maps/place/Nutrilite+@+Aperia+Mall/data=!4m7!3m6!1s0x31da19a4fd04e891:0xa3d8ae03816f63b6!8m2!3d1.3094772!4d103.8642566!16s%2Fg%2F11bzq1jm3r!19sChIJkegE_aQZ2jERtmNvgQOu2KM
 https://www.google.com/maps/place/Schneider+Electric/data=!4m7!3m6!1s0x31da1696ddf8a48f:0xc6a954e412a168f6!8m2!3d1.3127669!4d103.8666933!16s%2Fg%2F1vkxjsjy!19sChIJj6T43ZYW2jER9mihEuRUqcY
 https://www.google.com/maps/place/Avertek+Enterprises+Pte+Ltd/data=!4m7!3m6!1s0x31da19cb3a0d5b19:0x5535bd6275ecc732!8m2!3d1.310633!4d103.865774!16s%2Fg%2F1vlj_25c!19sChIJGVsNOssZ2jERMsfsdWK9NVU
+https://www.google.com/maps/place/INRI+INTERNATIONAL+PTE+LTD/data=!4m7!3m6!1s0x31da19a6a6eff30b:0xf6477805dd510f5!8m2!3d1.3113089!4d103.8672097!16s%2Fg%2F1pty4cc22!19sChIJC_PvpqYZ2jER9RDVXYB3ZA8
