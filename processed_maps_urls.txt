@@ -5236,3 +5236,4 @@ https://www.google.com/maps/place/Snipelus+Technologies/data=!4m7!3m6!1s0x31da17
 https://www.google.com/maps/place/Best+View+Media/data=!4m7!3m6!1s0x31da17d5ca2ec60b:0x92a1935c149bad4!8m2!3d1.3372562!4d103.9028896!16s%2Fg%2F11g0tt0d77!19sChIJC8YuytUX2jER1LpJwTUZKgk
 https://www.google.com/maps/place/Artnexus+Design+Pte+Ltd/data=!4m7!3m6!1s0x31da17e31873b0af:0xfb0e5c273f782b!8m2!3d1.3367242!4d103.9107679!16s%2Fg%2F12hln2zs2!19sChIJr7BzGOMX2jERK3g_J1wO-wA
 https://www.google.com/maps/place/Sixides/data=!4m7!3m6!1s0x31da173d1d462b27:0x23779e2da29f63ef!8m2!3d1.3321787!4d103.8942889!16s%2Fg%2F11sqkmdnk6!19sChIJJytGHT0X2jER72Ofoi2edyM
+https://www.google.com/maps/place/Revo+Pte.+Ltd/data=!4m7!3m6!1s0x31da17e53624cc29:0x33ce4ca26c6337d!8m2!3d1.3345763!4d103.9048763!16s%2Fg%2F11b5pjs53t!19sChIJKcwkNuUX2jERfTPGJsrkPAM
