@@ -5007,3 +5007,5 @@ https://www.google.com/maps/place/The+Postal+Connect/data=!4m7!3m6!1s0x31da19cd1
 https://www.google.com/maps/place/DHL+Express+Service+Point+-+Lapan+Lapan+Travel+Pte+Ltd+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19d9084e8a4d:0xa4db82aa38d64eca!8m2!3d1.3087157!4d103.8581039!16s%2Fg%2F11xkd5r251!19sChIJTYpOCNkZ2jERyk7WOKqC26Q
 https://www.google.com/maps/place/Daily+Express+Transportation/data=!4m7!3m6!1s0x31da19c9f6f9c24b:0xc10e2cfb2c6194ce!8m2!3d1.3084717!4d103.8620121!16s%2Fg%2F11c59xyzl4!19sChIJS8L59skZ2jERzpRhLPssDsE
 https://www.google.com/maps/place/TitanTrack+Logistics/data=!4m7!3m6!1s0x31da19005c769ff3:0xe8ed9441550784d8!8m2!3d1.3052528!4d103.8629195!16s%2Fg%2F11x6dj_zc9!19sChIJ8592XAAZ2jER2IQHVUGU7eg
+https://www.google.com/maps/place/Shipping+Corporation+Of+India+Ltd+The/data=!4m7!3m6!1s0x31da19cbfd89eb99:0xddba2393ba3b055d!8m2!3d1.3118762!4d103.8623949!16s%2Fg%2F1tftth3p!19sChIJmeuJ_csZ2jERXQU7upMjut0
+https://www.google.com/maps/place/Alltrans+Transport+%26+Packing+Services/data=!4m7!3m6!1s0x31da19c9f734660f:0xb60c30de89ad7980!8m2!3d1.3084168!4d103.8621982!16s%2Fg%2F1ptwdj7hn!19sChIJD2Y098kZ2jERgHmtid4wDLY
