@@ -1506,3 +1506,5 @@ https://www.linkedin.com/company/getit-pte-ltd
 https://www.linkedin.com/company/amcollectivesg
 https://www.linkedin.com/company/31161097
 https://www.linkedin.com/company/oangle
+https://www.linkedin.com/company/flask-medialab
+https://www.linkedin.com/company/flaskml
