@@ -3487,3 +3487,4 @@ https://www.google.com/maps/place/Pancake+Robot/data=!4m7!3m6!1s0x31da190058a324
 https://www.google.com/maps/place/Glencore+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19a8df461f87:0x2daf541cbe349af5!8m2!3d1.2927328!4d103.8603235!16s%2Fg%2F1trc2gq9!19sChIJhx9G36gZ2jER9Zo0vhxUry0
 https://www.google.com/maps/place/Shawarat+Manufacturers+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19bb0c882ac9:0xe034e695504f1063!8m2!3d1.3004347!4d103.8521942!16s%2Fg%2F1ptz5xc1h!19sChIJySqIDLsZ2jERYxBPUJXmNOA
 https://www.google.com/maps/place/Canpotex+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da198db4b54bd7:0x7adbbe42e64a9605!8m2!3d1.2956544!4d103.8564952!16s%2Fg%2F1pv2bsp6t!19sChIJ10u1tI0Z2jERBZZK5kK-23o
+https://www.google.com/maps/place/Fischbein+Packaging+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da191029d8c79d:0xdadde77f56a3b22!8m2!3d1.2796705!4d103.8539888!16s%2Fg%2F1pty54plg!19sChIJncfYKRAZ2jERIjtq9XferQ0
