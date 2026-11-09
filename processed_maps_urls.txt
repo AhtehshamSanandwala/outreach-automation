@@ -4850,3 +4850,4 @@ https://www.google.com/maps/place/Hoe+Kian+Huat+Trading/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Gafoor+Trading+Co/data=!4m7!3m6!1s0x31da19c5011b4ba3:0xe2dc6009a3a19fec!8m2!3d1.3149256!4d103.8536886!16s%2Fg%2F11c1wsrdch!19sChIJo0sbAcUZ2jER7J-howlg3OI
 https://www.google.com/maps/place/Hock+Cheong+Trading+Company/data=!4m7!3m6!1s0x31da1844195cb471:0x87278b222bb645f7!8m2!3d1.3025429!4d103.8842693!16s%2Fg%2F11cs5p_tpc!19sChIJcbRcGUQY2jER90W2KyKLJ4c
 https://www.google.com/maps/place/Ren-Zhu+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19c97bbff04d:0xf21ab6155b06b119!8m2!3d1.3104571!4d103.861815!16s%2Fg%2F1vq9jtj5!19sChIJTfC_e8kZ2jERGbEGWxW2GvI
+https://www.google.com/maps/place/Typhoon+Systems/data=!4m7!3m6!1s0x31da19c9f7c3f1eb:0x28596cf9386c4ab4!8m2!3d1.3098403!4d103.8660806!16s%2Fg%2F11fzhttjym!19sChIJ6_HD98kZ2jERtEpsOPlsWSg
