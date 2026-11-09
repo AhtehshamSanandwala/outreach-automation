@@ -4996,3 +4996,6 @@ https://www.google.com/maps/place/ANT+Couriers+Pte.+Ltd./data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Atlas+Transport+Services/data=!4m7!3m6!1s0x31da19b9943eccbb:0x251616506b942ca4!8m2!3d1.308664!4d103.8616003!16s%2Fg%2F11crzfblsh!19sChIJu8w-lLkZ2jERpCyUa1AWFiU
 https://www.google.com/maps/place/Great+Express+Shipping+Pte.+Ltd./data=!4m7!3m6!1s0x31da19ca471f0e7b:0x1b16f16073fa7350!8m2!3d1.3118196!4d103.8633915!16s%2Fg%2F11g047zppc!19sChIJew4fR8oZ2jERUHP6c2DxFhs
 https://www.google.com/maps/place/Direct+Logistics/data=!4m7!3m6!1s0x31da19b395d36a69:0xa0d35dce96f1ca01!8m2!3d1.3020653!4d103.8642902!16s%2Fg%2F1ptygrd33!19sChIJaWrTlbMZ2jERAcrxls5d06A
+https://www.google.com/maps/place/Bretz+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da19ceb823554d:0x718ba28f8174fd54!8m2!3d1.3130233!4d103.8608694!16s%2Fg%2F1tdj1r2f!19sChIJTVUjuM4Z2jERVP10gY-ii3E
+https://www.google.com/maps/place/Aik+Lee+Trading+%26+Transport+Pte+Ltd/data=!4m7!3m6!1s0x31da182d869a424b:0xcf30979f897561d1!8m2!3d1.3004479!4d103.8521816!16s%2Fg%2F1tj2fdgd!19sChIJS0Kahi0Y2jER0WF1iZ-XMM8
+https://www.google.com/maps/place/Winebanc+Kallang/data=!4m7!3m6!1s0x31da19322f3c9699:0x45415476c42dfc83!8m2!3d1.3101573!4d103.8673176!16s%2Fg%2F11rglkh2g2!19sChIJmZY8LzIZ2jERg_wtxHZUQUU
