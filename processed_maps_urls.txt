@@ -4867,3 +4867,4 @@ https://www.google.com/maps/place/Yuen+Lay+Trading+Co/data=!4m7!3m6!1s0x31da19cc
 https://www.google.com/maps/place/VG+Trading+Pte+Ltd+%28Singapore%29/data=!4m7!3m6!1s0x31da19cd1c25d4e9:0x360043fd0754fa8c!8m2!3d1.3175116!4d103.8667973!16s%2Fg%2F11g86kgx_4!19sChIJ6dQlHM0Z2jERjPpUB_1DADY
 https://www.google.com/maps/place/Chong+One+Trading+Co/data=!4m7!3m6!1s0x31da19b6ab639935:0xa452199eeaa53fc8!8m2!3d1.302832!4d103.861969!16s%2Fg%2F1td7qq86!19sChIJNZljq7YZ2jERyD-l6p4ZUqQ
 https://www.google.com/maps/place/Calmic+Hardware+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19c83bf83579:0x13568fcccbcc109f!8m2!3d1.3087214!4d103.8581075!16s%2Fg%2F1xgz89ml!19sChIJeTX4O8gZ2jERnxDMy8yPVhM
+https://www.google.com/maps/place/Jeffrey+Tan+Trading+Company+Pte.+Ltd./data=!4m7!3m6!1s0x31da19b3e2e4f29f:0x814d5b678437de54!8m2!3d1.302406!4d103.862409!16s%2Fg%2F1tl_j6wx!19sChIJn_Lk4rMZ2jERVN43hGdbTYE
