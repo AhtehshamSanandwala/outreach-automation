@@ -4134,3 +4134,4 @@ https://www.google.com/maps/place/Bugis+Junction/data=!4m7!3m6!1s0x31da19baa3872
 https://www.google.com/maps/place/Boost+Juice+@+Bugis+Junction/data=!4m7!3m6!1s0x31da19ba9723b513:0xbd0cb003ae1536b9!8m2!3d1.2994446!4d103.8554564!16s%2Fg%2F11bxf4z7qw!19sChIJE7Ujl7oZ2jERuTYVrgOwDL0
 https://www.google.com/maps/place/BUSINESS+SERVICES+PROVIDER/data=!4m7!3m6!1s0x31da19a51229814f:0x71a4e2414a162534!8m2!3d1.2967615!4d103.8546068!16s%2Fg%2F11mqrpjsw9!19sChIJT4EpEqUZ2jERNCUWSkHipHE
 https://www.google.com/maps/place/TAK+System+Integration+Pte+Ltd/data=!4m7!3m6!1s0x31da19d8f6593c9f:0x47ad4307dd1e47be!8m2!3d1.3844266!4d103.8271497!16s%2Fg%2F1ptz3rprk!19sChIJnzxZ9tgZ2jERvkce3QdDrUc
+https://www.google.com/maps/place/Q+%26+M+Dental+Centre+%28Bugis+Junction%29/data=!4m7!3m6!1s0x31da19baae12cf37:0x55640e84e9af3384!8m2!3d1.2991455!4d103.8553629!16s%2Fg%2F1ptyhyvn9!19sChIJN88SrroZ2jERhDOv6YQOZFU
