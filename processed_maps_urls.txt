@@ -5746,3 +5746,5 @@ https://www.google.com/maps/place/OIA+Global/data=!4m7!3m6!1s0x31da3c0cf54c6cd9:
 https://www.google.com/maps/place/FTL+Group+Pte+Ltd/data=!4m7!3m6!1s0x100405041a1fa8d1:0x377d40800b7905fa!8m2!3d1.3337699!4d103.895166!16s%2Fg%2F11b75j34pc!19sChIJ0agfGgQFBBAR-gV5C4BAfTc
 https://www.google.com/maps/place/Onasus+Private+Limited/data=!4m7!3m6!1s0x31da3d855621e0ef:0xcde95d7a8280a83!8m2!3d1.372912!4d103.925546!16s%2Fg%2F12hmhdpqy!19sChIJ7-AhVoU92jERgwooqNeV3gw
 https://www.google.com/maps/place/Arrow+Freight+Forwarder+Pte+Ltd/data=!4m7!3m6!1s0x31da17efdc05d775:0x12b27e78251e0bc4!8m2!3d1.3359008!4d103.9009865!16s%2Fg%2F1xg5q5j8!19sChIJddcF3O8X2jERxAseJXh-shI
+https://www.google.com/maps/place/Hal+Ex+Consolidated+Freight/data=!4m7!3m6!1s0x31da17eef42ef41f:0x44525686cb2a5c83!8m2!3d1.338109!4d103.8987788!16s%2Fg%2F1vknlwkb!19sChIJH_Qu9O4X2jERg1wqy4ZWUkQ
+https://www.google.com/maps/place/Paya+Lebar+AMC+Terminal/data=!4m7!3m6!1s0x31da17007ee43fed:0x156cda8821daf925!8m2!3d1.3445162!4d103.8990878!16s%2Fg%2F11xg595126!19sChIJ7T_kfgAX2jERJfnaIYjabBU
