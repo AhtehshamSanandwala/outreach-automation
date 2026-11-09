@@ -4793,3 +4793,4 @@ https://www.google.com/maps/place/All+Trends+Pte+Ltd/data=!4m7!3m6!1s0x31da18306
 https://www.google.com/maps/place/Allinton+%28HQ%29/data=!4m7!3m6!1s0x31da19c9279cbd3b:0x149ab96ea325b55b!8m2!3d1.3117914!4d103.8593143!16s%2Fg%2F11b6_b9x5w!19sChIJO72cJ8kZ2jERW7Ulo265mhQ
 https://www.google.com/maps/place/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%89%B9%E5%8F%91%E4%B8%AD%E5%BF%83/data=!4m7!3m6!1s0x31da190025cf44ab:0x7a3b4410aceaa871!8m2!3d1.3113109!4d103.8672006!16s%2Fg%2F11lcj2wmzv!19sChIJq0TPJQAZ2jERcajqrBBEO3o
 https://www.google.com/maps/place/Singardo+International+Pte+Ltd/data=!4m7!3m6!1s0x31da19cbfd89eb99:0x9577ccb2313ea987!8m2!3d1.3123559!4d103.8628668!16s%2Fg%2F1vc69y43!19sChIJmeuJ_csZ2jERh6k-MbLMd5U
+https://www.google.com/maps/place/Wines+%26+Vines+Cellars+Pte.+Ltd./data=!4m7!3m6!1s0x31da19c79c0e83a9:0x4401c4c84844bdf3!8m2!3d1.3081921!4d103.8617737!16s%2Fg%2F11ny09l20q!19sChIJqYMOnMcZ2jER871ESMjEAUQ
