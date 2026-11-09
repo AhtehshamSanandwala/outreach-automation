@@ -5068,3 +5068,6 @@ https://www.google.com/maps/place/Third+Eye+Logistics+Pvt+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Gulf+2000+Freight+Services/data=!4m7!3m6!1s0x31da182da56ead17:0xd4074f1905cf861c!8m2!3d1.3187291!4d103.8714507!16s%2Fg%2F1ptx3w9rd!19sChIJF61upS0Y2jERHIbPBRlPB9Q
 https://www.google.com/maps/place/Realfast+Logistics+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da183282e24a75:0x6965c46b976ab2a7!8m2!3d1.3168877!4d103.8703216!16s%2Fg%2F1tjxc55p!19sChIJdUrigjIY2jERp7Jql2vEZWk
 https://www.google.com/maps/place/Rulewave+Logistics+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19094a5c9145:0x7de3f26bb75f082c!8m2!3d1.3167896!4d103.8808234!16s%2Fg%2F11bw7dg3jn!19sChIJRZFcSgkZ2jERLAhft2vy430
+https://www.google.com/maps/place/Cargofare/data=!4m7!3m6!1s0x31da19b6bb6bfeb5:0x3ef4e7b9eb270a0b!8m2!3d1.3038369!4d103.8613911!16s%2Fg%2F1pv00z9kx!19sChIJtf5ru7YZ2jERCwon67nn9D4
+https://www.google.com/maps/place/Independent+Warehousing+%26+Forwarding+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19c81e9b5ee1:0xb57e4d1c817fcc3f!8m2!3d1.3077697!4d103.8577298!16s%2Fg%2F1ptws0lt4!19sChIJ4V6bHsgZ2jERP8x_gRxNfrU
+https://www.google.com/maps/place/Slumberland+Singapore/data=!4m7!3m6!1s0x31da19b19122cbf3:0xc7906a6f2490fa9!8m2!3d1.299926!4d103.861203!16s%2Fg%2F1ptvwdg8w!19sChIJ88sikbEZ2jERqQ9J8qYGeQw
