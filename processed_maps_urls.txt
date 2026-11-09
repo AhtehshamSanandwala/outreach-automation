@@ -4966,3 +4966,4 @@ https://www.google.com/maps/place/Wapu+Logistics/data=!4m7!3m6!1s0x31da198354285
 https://www.google.com/maps/place/Gordon+Logistics+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1827c09373e3:0xeb308ad3de3d1997!8m2!3d1.3258914!4d103.8796158!16s%2Fg%2F11hz1849ft!19sChIJ43OTwCcY2jERlxk93tOKMOs
 https://www.google.com/maps/place/J+%26+B+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da19c9f688858b:0x8c4a48c65dbe4670!8m2!3d1.308384!4d103.861858!16s%2Fg%2F1tcvflvy!19sChIJi4WI9skZ2jERcEa-XcZISow
 https://www.google.com/maps/place/Extra+Space+Kallang+Way/data=!4m7!3m6!1s0x31da18297a83b6f1:0xb4eb6ed0305202a!8m2!3d1.3236331!4d103.8746984!16s%2Fg%2F11bbt58rw3!19sChIJ8baDeikY2jERKiAFA-22Tgs
+https://www.google.com/maps/place/Victory+Shipping+Singapore/data=!4m7!3m6!1s0x31da19b22a3302c5:0x41d3d430a7785f74!8m2!3d1.301063!4d103.8626788!16s%2Fg%2F11d_7t26gk!19sChIJxQIzKrIZ2jERdF94pzDU00E
