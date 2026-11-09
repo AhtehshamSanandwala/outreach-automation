@@ -5224,3 +5224,4 @@ https://www.google.com/maps/place/Q%27s+Advertising/data=!4m7!3m6!1s0x31da181c23
 https://www.google.com/maps/place/Path+Digital+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da194ce8324efd:0x20e522cb8b1a1b9b!8m2!3d1.3270249!4d103.8957977!16s%2Fg%2F11hdqwq5tx!19sChIJ_U4y6EwZ2jERmxsai8si5SA
 https://www.google.com/maps/place/City+Innovates+Pvt.+Ltd./data=!4m7!3m6!1s0x31da3dfbaf024103:0xf25a3c3e0143adb8!8m2!3d1.3265167!4d103.9128293!16s%2Fg%2F11rdfgcpk8!19sChIJA0ECr_s92jERuK1DAT48WvI
 https://www.google.com/maps/place/Web+Delegate+Pte+Ltd/data=!4m7!3m6!1s0x31da19898c665899:0xfe358da731e315dc!8m2!3d1.3177101!4d103.893902!16s%2Fg%2F11fwjjj1cx!19sChIJmVhmjIkZ2jER3BXjMaeNNf4
+https://www.google.com/maps/place/WXP+Advertising/data=!4m7!3m6!1s0x31da17db854876b3:0xb7b0f0f5b6cd3181!8m2!3d1.3423852!4d103.8959796!16s%2Fg%2F11fk4qpr_5!19sChIJs3ZIhdsX2jERgTHNtvXwsLc
