@@ -6052,3 +6052,4 @@ https://www.google.com/maps/place/Nexus+Link+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3e
 https://www.google.com/maps/place/Echelon+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da17f37f845c7f:0x69a922f716523b18!8m2!3d1.3272146!4d103.8979823!16s%2Fg%2F1trr9qbh!19sChIJf1yEf_MX2jERGDtSFvciqWk
 https://www.google.com/maps/place/NYTC+International+Organization/data=!4m7!3m6!1s0x31da178d90c5e497:0x2abd8ce591dee46f!8m2!3d1.3254058!4d103.8965857!16s%2Fg%2F11b7zkc28x!19sChIJl-TFkI0X2jERb-TekeWMvSo
 https://www.google.com/maps/place/MIND+CONNECT+CONSULTING+PTE+LTD/data=!4m7!3m6!1s0x4e9ccd1a7ecbddc9:0xac7a6c0195a7a223!8m2!3d1.295285!4d103.85852!16s%2Fg%2F11t7t4ktkm!19sChIJyd3LfhrNnE4RI6KnlQFseqw
+https://www.google.com/maps/place/DL+ideas+Pte+Ltd/data=!4m7!3m6!1s0x31da16959be9b45f:0x7c22c3fde16aa331!8m2!3d1.3333659!4d103.8916892!16s%2Fg%2F11c3k5304d!19sChIJX7Tpm5UW2jERMaNq4f3DInw
