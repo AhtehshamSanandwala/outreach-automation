@@ -5702,3 +5702,4 @@ https://www.google.com/maps/place/DHL+Express+Service+Point+%28eXpo+Service+Cent
 https://www.google.com/maps/place/RedLion2/data=!4m7!3m6!1s0x31da1787c494c7f1:0xa6d2169814ac1582!8m2!3d1.3731998!4d103.9100295!16s%2Fg%2F11vd3w1j60!19sChIJ8ceUxIcX2jERghWsFJgW0qY
 https://www.google.com/maps/place/Skipper+Logistics+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da17ee94fd6ec7:0xfdc7914c30a2018a!8m2!3d1.3389629!4d103.898306!16s%2Fg%2F11gcmrtwk_!19sChIJx279lO4X2jERigGiMEyRx_0
 https://www.google.com/maps/place/Dolphin+Transport+Pte+Ltd/data=!4m7!3m6!1s0x31da17b89b3fffff:0x2278575d71d4bea3!8m2!3d1.3551641!4d103.8930844!16s%2Fg%2F11h4djdrh3!19sChIJ__8_m7gX2jERo77UcV1XeCI
+https://www.google.com/maps/place/Katco+Logistics+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17f09b07afd7:0x9d38863228e35f73!8m2!3d1.33251!4d103.902292!16s%2Fg%2F1pt_9wsp7!19sChIJ168Hm_AX2jERc1_jKDKGOJ0
