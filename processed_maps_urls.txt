@@ -5593,3 +5593,7 @@ https://www.google.com/maps/place/Seaview+Transport+%26+Trading/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Hock+Lim+Plastic+Industry+%26+Traders/data=!4m7!3m6!1s0x31da17c8c0d5f861:0x9451a794db17ee49!8m2!3d1.3426968!4d103.8971013!16s%2Fg%2F1tjyl71_!19sChIJYfjVwMgX2jERSe4X25SnUZQ
 https://www.google.com/maps/place/Self-Stand+Trading+Co/data=!4m7!3m6!1s0x31da17e5447b0f99:0x54d528c9556f2153!8m2!3d1.3366234!4d103.9037583!16s%2Fg%2F1ttpddh4!19sChIJmQ97ROUX2jERUyFvVcko1VQ
 https://www.google.com/maps/place/Welford+Silkscreen+%26+Trading+Co/data=!4m7!3m6!1s0x31da1639d7100001:0x98a07446daf4a55c!8m2!3d1.3732924!4d103.8946886!16s%2Fg%2F11lgy3bvk8!19sChIJAQAQ1zkW2jERXKX02kZ0oJg
+https://www.google.com/maps/place/Tiong+Lam+Trading+Co/data=!4m7!3m6!1s0x31da17c79aa2b0ef:0x5fc93e1cb29ae8fc!8m2!3d1.3525841!4d103.8920117!16s%2Fg%2F11c59x1xcp!19sChIJ77CimscX2jER_Oiashw-yV8
+https://www.google.com/maps/place/Defu+Trading/data=!4m7!3m6!1s0x31da17c780bd12e1:0x1bb3b75df640b706!8m2!3d1.3521192!4d103.8914573!16s%2Fg%2F11c1wsv2b9!19sChIJ4RK9gMcX2jERBrdA9l23sxs
+https://www.google.com/maps/place/Chong+Long+Hak+Kee+Construction+Trading+Company/data=!4m7!3m6!1s0x31da17f00e4c9397:0x2a6722e234ad1095!8m2!3d1.3348391!4d103.902192!16s%2Fg%2F11c1wrs9b1!19sChIJl5NMDvAX2jERlRCtNOIiZyo
+https://www.google.com/maps/place/Lam+Hwa+Engineering+%26+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da17c976893e47:0xe690b2828fdba80d!8m2!3d1.3582092!4d103.8943783!16s%2Fg%2F1tl_j6rs!19sChIJRz6JdskX2jERDajbj4KykOY
