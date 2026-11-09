@@ -4379,3 +4379,4 @@ https://www.google.com/maps/place/Xtremax/data=!4m7!3m6!1s0x31da19cbe258b7d1:0xf
 https://www.google.com/maps/place/Blink+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da178dde162e55:0x135fb30a45a53d23!8m2!3d1.3132397!4d103.8602688!16s%2Fg%2F11dzw6mft3!19sChIJVS4W3o0X2jERIz2lRQqzXxM
 https://www.google.com/maps/place/The+Merry+Men+Works/data=!4m7!3m6!1s0x31da0fbd60579e85:0xc53f22f7247e7f02!8m2!3d1.3086649!4d103.8615725!16s%2Fg%2F11h51kdvd3!19sChIJhZ5XYL0P2jERAn9-JPciP8U
 https://www.google.com/maps/place/24K+Design+Studio+Pte.+Ltd./data=!4m7!3m6!1s0x31da178614d96ffd:0x819f47db15794c54!8m2!3d1.3300224!4d103.8782116!16s%2Fg%2F11c1ws3gsf!19sChIJ_W_ZFIYX2jERVEx5FdtHn4E
+https://www.google.com/maps/place/Appvantage/data=!4m7!3m6!1s0x31da19b5af8e7697:0xe6edec51f8a5be90!8m2!3d1.3117747!4d103.8637258!16s%2Fg%2F11cjphchnd!19sChIJl3aOr7UZ2jERkL6l-FHs7eY
