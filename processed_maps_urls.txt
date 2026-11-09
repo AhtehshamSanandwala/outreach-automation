@@ -5615,3 +5615,7 @@ https://www.google.com/maps/place/Koon+Guan+Siong+Choon+Trading+Co/data=!4m7!3m6
 https://www.google.com/maps/place/Tian+Lun+Trading/data=!4m7!3m6!1s0x31da17c7776aaaab:0x7770633f83db192e!8m2!3d1.3518134!4d103.8920154!16s%2Fg%2F11h4dj70ht!19sChIJq6pqd8cX2jERLhnbgz9jcHc
 https://www.google.com/maps/place/Welford+Silkscreen+%26+Trading+Co/data=!4m7!3m6!1s0x31da17f37b3cbaad:0x2a943692ede1509!8m2!3d1.3314189!4d103.8935106!16s%2Fg%2F1thc_9wt!19sChIJrbo8e_MX2jERCRXeLmlDqQI
 https://www.google.com/maps/place/Liunchin+Trading+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da17f69dfc6bd9:0x4701f020e5c18684!8m2!3d1.329617!4d103.897066!16s%2Fg%2F1thw47hd!19sChIJ2Wv8nfYX2jERhIbB5SDwAUc
+https://www.google.com/maps/place/Kim+Hak+Huat+Trading/data=!4m7!3m6!1s0x31da17c79c201db3:0x72404c9440f0aa66!8m2!3d1.352397!4d103.8923779!16s%2Fg%2F1wrt9cjf!19sChIJsx0gnMcX2jERZqrwQJRMQHI
+https://www.google.com/maps/place/Four+Season+International+Trading+Co.,+Ltd/data=!4m7!3m6!1s0x31da17f00d1c778d:0x852bdb7b12d440c7!8m2!3d1.334504!4d103.902233!16s%2Fg%2F11c1wsb6ly!19sChIJjXccDfAX2jERx0DUEnvbK4U
+https://www.google.com/maps/place/Glory+Coffee+Trading/data=!4m7!3m6!1s0x31da17c874f4242d:0x86b5f856fb820cc6!8m2!3d1.3545501!4d103.8928774!16s%2Fg%2F11cs5q1n2n!19sChIJLST0dMgX2jERxgyC-1b4tYY
+https://www.google.com/maps/place/Gek+Lim+Trading+Co./data=!4m7!3m6!1s0x31da183b0e402043:0x7e427c255e1506b5!8m2!3d1.359742!4d103.8947792!16s%2Fg%2F1tflvdl2!19sChIJQyBADjsY2jERtQYVXiV8Qn4
