@@ -4525,3 +4525,6 @@ https://www.google.com/maps/place/Reputable+Consultancy+%26+Management+Services/
 https://www.google.com/maps/place/Easyship/data=!4m7!3m6!1s0x31da190a928257e3:0xc58f357237ff5b69!8m2!3d1.3115988!4d103.8632371!16s%2Fg%2F11fy4pp6wv!19sChIJ41eCkgoZ2jERaVv_N3I1j8U
 https://www.google.com/maps/place/NET+INNOVATE/data=!4m7!3m6!1s0x31da19cb0a40d7ed:0xdca59b8ea0f76d1d!8m2!3d1.3109926!4d103.8652162!16s%2Fg%2F11fmw_mxf6!19sChIJ7ddACssZ2jERHW33oI6bpdw
 https://www.google.com/maps/place/9+Dots+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da196d4d7dd94b:0xcc0936c93767e655!8m2!3d1.3128641!4d103.8641396!16s%2Fg%2F1ptynvd8_!19sChIJS9l9TW0Z2jERVeZnN8k2Ccw
+https://www.google.com/maps/place/Lenovo+PCCW/data=!4m7!3m6!1s0x31da19af1023b833:0xf41ceb97cdc50dc8!8m2!3d1.3145231!4d103.8659309!16s%2Fg%2F11f5jptb1k!19sChIJM7gjEK8Z2jERyA3FzZfrHPQ
+https://www.google.com/maps/place/Benson+Management+Services/data=!4m7!3m6!1s0x31da19c6391bb3b5:0xd7496c346b001929!8m2!3d1.3108832!4d103.854971!16s%2Fg%2F1tjdcq4j!19sChIJtbMbOcYZ2jERKRkAazRsSdc
+https://www.google.com/maps/place/Sinly+Management+Services/data=!4m7!3m6!1s0x31da19b6bcaf6ec9:0x8cdba3686f4a67bd!8m2!3d1.3038369!4d103.8613911!16s%2Fg%2F1tgpkk3_!19sChIJyW6vvLYZ2jERvWdKb2ij24w
