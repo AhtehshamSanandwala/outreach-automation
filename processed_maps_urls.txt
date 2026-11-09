@@ -5001,3 +5001,5 @@ https://www.google.com/maps/place/Aik+Lee+Trading+%26+Transport+Pte+Ltd/data=!4m
 https://www.google.com/maps/place/Winebanc+Kallang/data=!4m7!3m6!1s0x31da19322f3c9699:0x45415476c42dfc83!8m2!3d1.3101573!4d103.8673176!16s%2Fg%2F11rglkh2g2!19sChIJmZY8LzIZ2jERg_wtxHZUQUU
 https://www.google.com/maps/place/Harbour+Logistics+%26+Shipping+Pte+Ltd/data=!4m7!3m6!1s0x31da19b6bb5ba721:0x551c182348c6b7fa!8m2!3d1.3038369!4d103.8613911!16s%2Fg%2F1tfpm6d4!19sChIJIadbu7YZ2jER-rfGSCMYHFU
 https://www.google.com/maps/place/Stasher+Luggage+Storage+-+Kallang+MRT+Station/data=!4m7!3m6!1s0x31da1969abec5fad:0x80fef36b5508d15d!8m2!3d1.3113098!4d103.8742597!16s%2Fg%2F11y8cjv7lp!19sChIJrV_sq2kZ2jERXdEIVWvz_oA
+https://www.google.com/maps/place/Vos+Global+Logistic+Pte.+Ltd./data=!4m7!3m6!1s0x31da18254628b4b7:0xc5360d6bb94d4ff3!8m2!3d1.3093359!4d103.8580366!16s%2Fg%2F1tnmp75f!19sChIJt7QoRiUY2jER809NuWsNNsU
+https://www.google.com/maps/place/Kallang+Basin+4/data=!4m7!3m6!1s0x31da19cd1c29983b:0x1133e873153feed7!8m2!3d1.3149721!4d103.866183!16s%2Fg%2F11b6d61cz0!19sChIJO5gpHM0Z2jER1-4_FXPoMxE
