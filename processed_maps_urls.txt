@@ -4974,3 +4974,5 @@ https://www.google.com/maps/place/S+Line+Logistics/data=!4m7!3m6!1s0x31da19ccf2a
 https://www.google.com/maps/place/Multi+Screen+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da182d913348f1:0x9b38490f7895a066!8m2!3d1.3178941!4d103.871873!16s%2Fg%2F1tfsqd5g!19sChIJ8UgzkS0Y2jERZqCVeA9JOJs
 https://www.google.com/maps/place/TitanTrack+Logistics/data=!4m7!3m6!1s0x87c24d27ab3360a5:0xfc05ddddf8646fec!8m2!3d1.3052528!4d103.8629195!16s%2Fg%2F11mckymx2l!19sChIJpWAzqydNwocR7G9k-N3dBfw
 https://www.google.com/maps/place/AEC+Logistic/data=!4m7!3m6!1s0x31da19cdd33c76ed:0x3f7bac4c9618c1ba!8m2!3d1.3147846!4d103.8626896!16s%2Fg%2F11fm4yk0q0!19sChIJ7XY8080Z2jERusEYlkysez8
+https://www.google.com/maps/place/Rnz+Trading+%26+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da19b41c84b933:0xe2dd164e8edf846b!8m2!3d1.3037157!4d103.8623427!16s%2Fg%2F11h7s43jdz!19sChIJM7mEHLQZ2jERa4Tfjk4W3eI
+https://www.google.com/maps/place/Jet+Seng+Transport+%26+Trading/data=!4m7!3m6!1s0x31da177fc2253c87:0xda4561b23feb1d3c!8m2!3d1.3152388!4d103.8627282!16s%2Fg%2F1td0qdbg!19sChIJhzwlwn8X2jERPB3rP7JhRdo
