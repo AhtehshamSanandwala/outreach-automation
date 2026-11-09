@@ -3820,3 +3820,4 @@ https://www.google.com/maps/place/Orchard+Central/data=!4m7!3m6!1s0x31da1996d80b
 https://www.google.com/maps/place/Vippo+Enterprises+Pte+Ltd/data=!4m7!3m6!1s0x31da19921df0631d:0xe69c6d541ffc08fb!8m2!3d1.3032125!4d103.8342576!16s%2Fg%2F1pt_6vr89!19sChIJHWPwHZIZ2jER-wj8H1RtnOY
 https://www.google.com/maps/place/ORIENT+CROWN+%28TAKASHIMAYA%29/data=!4m7!3m6!1s0x31da1991932aa655:0x8b0c593787aa0046!8m2!3d1.3024862!4d103.8346571!16s%2Fg%2F11dymwthx5!19sChIJVaYqk5EZ2jERRgCqhzdZDIs
 https://www.google.com/maps/place/Nespresso+Boutique+Takashimaya/data=!4m7!3m6!1s0x31da1991f3521e71:0x45f8cea8c6d7adbd!8m2!3d1.3024221!4d103.8354733!16s%2Fg%2F1tx12x1m!19sChIJcR5S85EZ2jERva3XxqjO-EU
+https://www.google.com/maps/place/The+Coffee+Connection/data=!4m7!3m6!1s0x31da19910f00775b:0xc4d20bf05bbd5b82!8m2!3d1.301555!4d103.83666!16s%2Fg%2F1pt_2lmrc!19sChIJW3cAD5EZ2jERglu9W_AL0sQ
