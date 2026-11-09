@@ -4830,3 +4830,4 @@ https://www.google.com/maps/place/BIKE31/data=!4m7!3m6!1s0x31da19d3a9d893c7:0x57
 https://www.google.com/maps/place/Synergetic+Beauty+System+Singapore/data=!4m7!3m6!1s0x31da19ba3d192147:0x30ff8f11000dc395!8m2!3d1.3085162!4d103.8616027!16s%2Fg%2F1tfkn81m!19sChIJRyEZPboZ2jERlcMNABGP_zA
 https://www.google.com/maps/place/Wee+Tiong+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da182d5d05c0fb:0xbe0dfe9f5f211eaa!8m2!3d1.317494!4d103.8693119!16s%2Fg%2F1ptwjkn66!19sChIJ-8AFXS0Y2jERqh4hX5_-Db4
 https://www.google.com/maps/place/Kallang+Wholesale+Centre+%E5%8A%A0%E5%86%B7%E6%89%B9%E5%8F%91%E5%BA%97/data=!4m7!3m6!1s0x31da19356c9e5d79:0x4583994efc8c021a!8m2!3d1.3155916!4d103.8718552!16s%2Fg%2F11fpchnfvx!19sChIJeV2ebDUZ2jERGgKM_E6Zg0U
+https://www.google.com/maps/place/Tat+Lian+Trading+Co/data=!4m7!3m6!1s0x31da19b7ce570ec3:0xbe634691097f0d2c!8m2!3d1.308823!4d103.8609271!16s%2Fg%2F1tdfqntm!19sChIJww5XzrcZ2jERLA1_CZFGY74
