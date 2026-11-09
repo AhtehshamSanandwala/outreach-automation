@@ -5325,3 +5325,6 @@ https://www.google.com/maps/place/Top+Maid/data=!4m7!3m6!1s0x31da19c19d5ca52d:0x
 https://www.google.com/maps/place/K2+Recruit+Pte+Ltd/data=!4m7!3m6!1s0x31da19e7c005f75b:0xb98c2316a408cc98!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F1xg5q5p9!19sChIJW_cFwOcZ2jERmMwIpBYjjLk
 https://www.google.com/maps/place/Jobs+In+Recruitment+Consultancy+Pte.+Ltd/data=!4m7!3m6!1s0x31da1947c479876f:0xd8f6900ac4e883c8!8m2!3d1.3184358!4d103.8927403!16s%2Fg%2F11hdvtf1vv!19sChIJb4d5xEcZ2jERyIPoxAqQ9tg
 https://www.google.com/maps/place/Manpower+Advisors/data=!4m7!3m6!1s0x31da1706743ebcaf:0x44a8a3a9b87e5247!8m2!3d1.3361349!4d103.9124774!16s%2Fg%2F11qhtkhxbm!19sChIJr7w-dAYX2jERR1J-uKmjqEQ
+https://www.google.com/maps/place/1S+Staffing+Services/data=!4m7!3m6!1s0x31da17f69fcc79fd:0x6db544435fb3d48!8m2!3d1.3292666!4d103.8967562!16s%2Fg%2F1ptz66f5z!19sChIJ_XnMn_YX2jERSD37NURU2wY
+https://www.google.com/maps/place/Bariq+Employment/data=!4m7!3m6!1s0x31da17a7890f72a5:0xa7e209292ca41873!8m2!3d1.3371306!4d103.9125584!16s%2Fg%2F11y6kkd86c!19sChIJpXIPiacX2jERcxikLCkJ4qc
+https://www.google.com/maps/place/Little+Red+Dot+Employment+Agency/data=!4m7!3m6!1s0x31da17f12c0d60c1:0x216ba8f0ca01f251!8m2!3d1.3313123!4d103.8992852!16s%2Fg%2F11j2xms7mc!19sChIJwWANLPEX2jERUfIByvCoayE
