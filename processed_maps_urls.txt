@@ -5570,3 +5570,5 @@ https://www.google.com/maps/place/Sim+Cheng+Ker+Trading+Co/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Singapore+Sanyo+Trading/data=!4m7!3m6!1s0x31da17006324e50d:0x26ec313dfe0e4a9e!8m2!3d1.3264203!4d103.8963865!16s%2Fg%2F11ld7_4zb6!19sChIJDeUkYwAX2jERnkoO_j0x7CY
 https://www.google.com/maps/place/MKV+Engineering+and+Trading+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da17c7e63f537b:0xcfea1f6e633b24e2!8m2!3d1.3353883!4d103.902626!16s%2Fg%2F1thv_p3s!19sChIJe1M_5scX2jER4iQ7Y24f6s8
 https://www.google.com/maps/place/Chen+Jin+Trading/data=!4m7!3m6!1s0x31da179f7996e2d9:0xe2f6ccf31aa1eb94!8m2!3d1.3389147!4d103.8995195!16s%2Fg%2F1tjyl715!19sChIJ2eKWeZ8X2jERlOuhGvPM9uI
+https://www.google.com/maps/place/Centas+Trading/data=!4m7!3m6!1s0x31da17c9a4114453:0xf01d357d8d24faa0!8m2!3d1.3586488!4d103.893873!16s%2Fg%2F1tkbvr6j!19sChIJU0QRpMkX2jERoPokjX01HfA
+https://www.google.com/maps/place/Quandut+Trading+Co/data=!4m7!3m6!1s0x31da17cae60fffff:0xfd26ebba3bd32ed!8m2!3d1.3623084!4d103.8934183!16s%2Fg%2F11r2rt4jh0!19sChIJ__8P5soX2jER7TK9o7tu0g8
