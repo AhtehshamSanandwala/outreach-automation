@@ -3623,3 +3623,4 @@ https://www.google.com/maps/place/Asiaray+Connect+%28Singapore%29+Pte+Ltd/data=!
 https://www.google.com/maps/place/Cover+Look+Photography/data=!4m7!3m6!1s0x31da1996c7f3344d:0x7d2fd9fea6ebe325!8m2!3d1.301982!4d103.839726!16s%2Fg%2F1pv0vf3r8!19sChIJTTTzx5YZ2jERJePrpv7ZL30
 https://www.google.com/maps/place/Koodlemoodle/data=!4m7!3m6!1s0x31da11da5ab3bd57:0x1b648d1d7815c4c6!8m2!3d1.352083!4d103.819836!16s%2Fg%2F11sjvnsb25!19sChIJV72zWtoR2jERxsQVeB2NZBs
 https://www.google.com/maps/place/MindChamps+PreSchool+@+Paragon/data=!4m7!3m6!1s0x31da1992320efbcf:0xcf500ca000a8ae5b!8m2!3d1.3037752!4d103.8359096!16s%2Fg%2F1vwllnlz!19sChIJz_sOMpIZ2jERW66oAKAMUM8
+https://www.google.com/maps/place/Hotel+Technologies+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da198ce81c9ded:0x700db779a458b508!8m2!3d1.3066492!4d103.8295057!16s%2Fg%2F1ptz3fmgg!19sChIJ7Z0c6IwZ2jERCLVYpHm3DXA
