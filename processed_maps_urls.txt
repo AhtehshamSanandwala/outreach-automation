@@ -5727,3 +5727,4 @@ https://www.google.com/maps/place/Sunnybay+Transport+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/D-Line+Transport+%26+Trading+Pte.+Ltd./data=!4m7!3m6!1s0x31da17cbefd2f871:0xe74096f887063e68!8m2!3d1.359761!4d103.896238!16s%2Fg%2F11c59wx2zj!19sChIJcfjS78sX2jERaD4Gh_iWQOc
 https://www.google.com/maps/place/Defu+Industrial+Park+A/data=!4m7!3m6!1s0x31da1710eb9dc2ad:0xb2ba0a207707bdcc!8m2!3d1.3599047!4d103.8973518!16s%2Fg%2F11ft9d76pc!19sChIJrcKd6xAX2jERzL0HdyAKurI
 https://www.google.com/maps/place/Loft+Home+Warehouse/data=!4m7!3m6!1s0x31da17fb313f3ebb:0x3927a262cf59d0fb!8m2!3d1.3454312!4d103.8973048!16s%2Fg%2F11sb5k0ddw!19sChIJuz4_MfsX2jER-9BZz2KiJzk
+https://www.google.com/maps/place/Bae/data=!4m7!3m6!1s0x31da170050450bf5:0x6239340707a1adcb!8m2!3d1.3450182!4d103.8977964!16s%2Fg%2F11wpbc50kp!19sChIJ9QtFUAAX2jERy62hBwc0OWI
