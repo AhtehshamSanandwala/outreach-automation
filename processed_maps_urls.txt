@@ -4046,3 +4046,5 @@ https://www.google.com/maps/place/Coperion+Pte+Ltd/data=!4m7!3m6!1s0x31da19afd5e
 https://www.google.com/maps/place/AC+Mobile+Com/data=!4m7!3m6!1s0x31da1996e4955555:0x3f04f0dd8d99b1d1!8m2!3d1.3010249!4d103.8410995!16s%2Fg%2F11b5pjb5kr!19sChIJVVWV5JYZ2jER0bGZjd3wBD8
 https://www.google.com/maps/place/Vistrol+Pte+Ltd/data=!4m7!3m6!1s0x31da14605351fdf9:0x516e940143d1e507!8m2!3d1.3069439!4d103.8291434!16s%2Fg%2F11bx2lvn10!19sChIJ-f1RU2AU2jERB-XRQwGUblE
 https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da19719a6a51f9:0xcfc535657b814ff1!8m2!3d1.3069439!4d103.8291434!16s%2Fg%2F11ff53_69l!19sChIJ-VFqmnEZ2jER8U-Be2U1xc8
+https://www.google.com/maps/place/Pan+Medical+Supply/data=!4m7!3m6!1s0x31da103fe1c3c8b9:0x17dc0ac10e6a9a81!8m2!3d1.3061953!4d103.828028!16s%2Fg%2F11c59xtx2m!19sChIJucjD4T8Q2jERgZpqDsEK3Bc
+https://www.google.com/maps/place/Quasi-S+Pte+Ltd/data=!4m7!3m6!1s0x31da12268215c9fd:0x7781791ad8ba40f5!8m2!3d1.4398508!4d103.7836836!16s%2Fg%2F11bw_4j4ks!19sChIJ_ckVgiYS2jER9UC62Bp5gXc
