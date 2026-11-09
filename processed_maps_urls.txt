@@ -5644,3 +5644,4 @@ https://www.google.com/maps/place/Yusen+Logistics/data=!4m7!3m6!1s0x31da16295187
 https://www.google.com/maps/place/DSV/data=!4m7!3m6!1s0x31da162937e13871:0x5b690058b540470b!8m2!3d1.3729078!4d103.910574!16s%2Fg%2F11b8_020pf!19sChIJcTjhNykW2jERC0dAtVgAaVs
 https://www.google.com/maps/place/KLN+Logistics+Centre+-+Tampines/data=!4m7!3m6!1s0x31da1629251799df:0x36fd07ecfb4fc2d7!8m2!3d1.3686694!4d103.9082703!16s%2Fg%2F11c45mhnz8!19sChIJ35kXJSkW2jER18JP--wH_TY
 https://www.google.com/maps/place/Skap+Logistics/data=!4m7!3m6!1s0x31da187271b01bfb:0x7f0cd8a5628a556d!8m2!3d1.3374982!4d103.8987226!16s%2Fg%2F11h4dhz554!19sChIJ-xuwcXIY2jERbVWKYqXYDH8
+https://www.google.com/maps/place/uParcel+Ecommerce+Enabler+and+Warehouse+Fulfillment/data=!4m7!3m6!1s0x31da178e008db7b1:0xdcd89dd4ff2d5b26!8m2!3d1.3439947!4d103.8958102!16s%2Fg%2F11bc8xb71_!19sChIJsbeNAI4X2jERJlst_9Sd2Nw
