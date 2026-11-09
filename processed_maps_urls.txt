@@ -4335,3 +4335,5 @@ https://www.google.com/maps/place/Homeez/data=!4m7!3m6!1s0x31da17a5639546ad:0x61
 https://www.google.com/maps/place/Animagine+Pte.+Ltd./data=!4m7!3m6!1s0x31da1787decc1b8d:0x6e6894d0ac5ba19!8m2!3d1.328866!4d103.8792847!16s%2Fg%2F1tks3vrc!19sChIJjRvM3ocX2jERGbrFCk2J5gY
 https://www.google.com/maps/place/Digital+Saravanan+Singapore/data=!4m7!3m6!1s0x31da19bf1e4cee41:0x47959b1c6869a111!8m2!3d1.3086031!4d103.8550257!16s%2Fg%2F11zxtmktd6!19sChIJQe5MHr8Z2jEREaFpaByblUc
 https://www.google.com/maps/place/Brand+Cellar+Pte.+Ltd./data=!4m7!3m6!1s0x31da103fe1c3c8b9:0x7b5be1a9f8b60728!8m2!3d1.3114488!4d103.8637208!16s%2Fg%2F11c59xvp83!19sChIJucjD4T8Q2jERKAe2-KnhW3s
+https://www.google.com/maps/place/SME+Go+Digital/data=!4m7!3m6!1s0x31da19c9f7c40bc9:0x68e00c16afee3ec0!8m2!3d1.308407!4d103.8621232!16s%2Fg%2F11f0234zhv!19sChIJyQvE98kZ2jERwD7urxYM4Gg
+https://www.google.com/maps/place/Digitala/data=!4m7!3m6!1s0x31da19d72d6a5325:0x7b877ae412801ab7!8m2!3d1.3216757!4d103.8591375!16s%2Fg%2F11b7q6dq6q!19sChIJJVNqLdcZ2jERtxqAEuR6h3s
