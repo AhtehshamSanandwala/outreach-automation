@@ -5673,3 +5673,4 @@ https://www.google.com/maps/place/TCSL+Logistics/data=!4m7!3m6!1s0x31da178abfd6f
 https://www.google.com/maps/place/DHL+Supply+Chain/data=!4m7!3m6!1s0x31da17527a858989:0x803e1a4a51bfd418!8m2!3d1.3703403!4d103.9096585!16s%2Fg%2F11kpgvn4b1!19sChIJiYmFelIX2jERGNS_UUoaPoA
 https://www.google.com/maps/place/Grandeur+Logistics/data=!4m7!3m6!1s0x31da182972c2579f:0x3c94841a39f5b506!8m2!3d1.338771!4d103.9065335!16s%2Fg%2F1hc2pp8fp!19sChIJn1fCcikY2jERBrX1ORqElDw
 https://www.google.com/maps/place/Hup+Meng+Transport+Service/data=!4m7!3m6!1s0x31da17ee5f794af3:0x5c9dfc03808ddfb6!8m2!3d1.3375156!4d103.8986759!16s%2Fg%2F1tfnw2pt!19sChIJ80p5X-4X2jERtt-NgAP8nVw
+https://www.google.com/maps/place/Inker+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17f247611141:0xf0618749b18aa274!8m2!3d1.3340661!4d103.8955342!16s%2Fg%2F11cn0qzmyc!19sChIJQRFhR_IX2jERdKKKsUmHYfA
