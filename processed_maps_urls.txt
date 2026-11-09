@@ -5712,3 +5712,4 @@ https://www.google.com/maps/place/Gordon+Warehouse+Building/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Network+Courier/data=!4m7!3m6!1s0x31da19c98870fb31:0xa446978864b115d4!8m2!3d1.334759!4d103.904047!16s%2Fg%2F1td30kp7!19sChIJMftwiMkZ2jER1BWxZIiXRqQ
 https://www.google.com/maps/place/Integrated+Storage+Space+Rental+%2B+Mover/data=!4m7!3m6!1s0x31da1990daba36a9:0x7a33a4396de2a8a6!8m2!3d1.3537181!4d103.8918342!16s%2Fg%2F1pp2x6nmy!19sChIJqTa62pAZ2jERpqjibTmkM3o
 https://www.google.com/maps/place/ST+Engineering+Aerospace+Ltd./data=!4m7!3m6!1s0x31da17c6a9058691:0xd86caf2f52987c49!8m2!3d1.3501447!4d103.896886!16s%2Fg%2F1ptyk6f9d!19sChIJkYYFqcYX2jERSXyYUi-vbNg
+https://www.google.com/maps/place/Viethong+Shipping+%26+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da17c845112f11:0x45776b145e4b418b!8m2!3d1.3561261!4d103.8930682!16s%2Fg%2F11c1wrmyxj!19sChIJES8RRcgX2jERi0FLXhRrd0U
