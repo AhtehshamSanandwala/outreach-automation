@@ -3536,3 +3536,4 @@ https://www.google.com/maps/place/Lashing+Equipment,+Security+Seals,+Container+S
 https://www.google.com/maps/place/Yuraku+Pte+Ltd/data=!4m7!3m6!1s0x31da19aee7312125:0x1704821704cb5a2c!8m2!3d1.2952678!4d103.8596279!16s%2Fg%2F1ptxdlw3m!19sChIJJSEx564Z2jERLFrLBBeCBBc
 https://www.google.com/maps/place/International+Offshore+Equipments/data=!4m7!3m6!1s0x31da060f60990c85:0x3a0ccff5c4373e52!8m2!3d1.318178!4d103.629004!16s%2Fg%2F11y6qk07yf!19sChIJhQyZYA8G2jERUj43xPXPDDo
 https://www.google.com/maps/place/ONESTOP+SG/data=!4m7!3m6!1s0x31da191b3025272b:0x6b1fe665e34132eb!8m2!3d1.3009827!4d103.8355742!16s%2Fg%2F11nx1qmp6x!19sChIJKyclMBsZ2jER6zJB42XmH2s
+https://www.google.com/maps/place/Heartbeat+Agency/data=!4m7!3m6!1s0x31da193496f66b97:0x90a44cd74a036e1d!8m2!3d1.2993639!4d103.8452467!16s%2Fg%2F11ygrgsln4!19sChIJl2v2ljQZ2jERHW4DStdMpJA
