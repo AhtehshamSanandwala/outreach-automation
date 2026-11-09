@@ -5201,3 +5201,4 @@ https://www.google.com/maps/place/Sorae+Digital+Pte+Ltd/data=!4m7!3m6!1s0x3516e2
 https://www.google.com/maps/place/Plexxie/data=!4m7!3m6!1s0x31da13709825b481:0x8ae006f04128bc3d!8m2!3d1.3322686!4d103.892106!16s%2Fg%2F11fd505hj7!19sChIJgbQlmHAT2jERPbwoQfAG4Io
 https://www.google.com/maps/place/Gavin+Sim/data=!4m7!3m6!1s0x31da1772361d8ad5:0x40b1c924d1bd6bf7!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11ry94gkwc!19sChIJ1YodNnIX2jER92u90STJsUA
 https://www.google.com/maps/place/Zoo+Group/data=!4m7!3m6!1s0x31da190d89d1575d:0x14e977dd0402082c!8m2!3d1.3273481!4d103.8912198!16s%2Fg%2F11gdcll50r!19sChIJXVfRiQ0Z2jERLAgCBN136RQ
+https://www.google.com/maps/place/Krei+Digital/data=!4m7!3m6!1s0x31da1777f8eb1031:0xc2cfe4aca1b23e56!8m2!3d1.3322686!4d103.892106!16s%2Fg%2F11j1stmhfd!19sChIJMRDr-HcX2jERVj6yoazkz8I
