@@ -3625,3 +3625,4 @@ https://www.google.com/maps/place/Koodlemoodle/data=!4m7!3m6!1s0x31da11da5ab3bd5
 https://www.google.com/maps/place/MindChamps+PreSchool+@+Paragon/data=!4m7!3m6!1s0x31da1992320efbcf:0xcf500ca000a8ae5b!8m2!3d1.3037752!4d103.8359096!16s%2Fg%2F1vwllnlz!19sChIJz_sOMpIZ2jERW66oAKAMUM8
 https://www.google.com/maps/place/Hotel+Technologies+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da198ce81c9ded:0x700db779a458b508!8m2!3d1.3066492!4d103.8295057!16s%2Fg%2F1ptz3fmgg!19sChIJ7Z0c6IwZ2jERCLVYpHm3DXA
 https://www.google.com/maps/place/JET.AVE/data=!4m7!3m6!1s0x31da194459dbb79d:0x197be80352469e49!8m2!3d1.3019624!4d103.8397343!16s%2Fg%2F11p025dx7l!19sChIJnbfbWUQZ2jERSZ5GUgPoexk
+https://www.google.com/maps/place/AD+COOL+MEDIA+PTE+LTD/data=!4m7!3m6!1s0x31da1991f32dc725:0x400ebfc979a75b03!8m2!3d1.2985247!4d103.8467836!16s%2Fg%2F12hk3_zrm!19sChIJJcct85EZ2jERA1unecm_DkA
