@@ -4651,3 +4651,5 @@ https://www.google.com/maps/place/Universal+Secretarial+Co/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Sigma+Corporate+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da19c638e5953d:0x210630ca6c393dbf!8m2!3d1.3107863!4d103.8548232!16s%2Fg%2F11bbwn_hl0!19sChIJPZXlOMYZ2jERvz05bMowBiE
 https://www.google.com/maps/place/AZ+BIZCORP+MANAGEMENT+PTE.+LTD./data=!4m7!3m6!1s0x31da191860ca36d3:0xeadd14088f79614c!8m2!3d1.3126932!4d103.8627401!16s%2Fg%2F11xw23g60g!19sChIJ0zbKYBgZ2jERTGF5jwgU3eo
 https://www.google.com/maps/place/HC+Consultancy+Services+-+corporate+secretarial+solutions+in+Singapore/data=!4m7!3m6!1s0xec3a5fec188eddd:0x2d03e9e486485c24!8m2!3d1.314!4d103.84425!16s%2Fg%2F11mcsvphjm!19sChIJ3e2Iwf6lww4RJFxIhuTpAy0
+https://www.google.com/maps/place/UpHatch+Consulting/data=!4m7!3m6!1s0x31da19b942e4af7d:0x68b064ebd7d53a43!8m2!3d1.3184358!4d103.8927403!16s%2Fg%2F11p00hgcx3!19sChIJfa_kQrkZ2jERQzrV1-tksGg
+https://www.google.com/maps/place/LCC+Global/data=!4m7!3m6!1s0x31da19b6baa0cd9d:0xb8fbadbb62cef32b!8m2!3d1.3041632!4d103.861234!16s%2Fg%2F1tj3hl83!19sChIJnc2gurYZ2jERK_POYrut-7g
