@@ -92,6 +92,29 @@ const path = require('path');
 const GOOGLE_SHEETS_URL = 'https://script.google.com/macros/s/AKfycbwz28DvEzyPhZh9XsxhGMO1A5YpbFneKeeDmNduW2cp1GVnZuRzZw_xRYOj7TVZ9ZKf/exec';
 const CONFIG_FILE = 'config.json';
 
+// Minimalist Chromium flags to run unobtrusively in background:
+// - Disables GPU & WebGL hardware acceleration (cuts 15% GPU to 0%)
+// - Caps V8 JavaScript heap to 512MB
+// - Disables shared memory usage, audio, extensions, telemetry
+const PUPPETEER_LIGHTWEIGHT_ARGS = [
+    '--no-sandbox',
+    '--disable-setuid-sandbox',
+    '--disable-gpu',
+    '--disable-software-rasterizer',
+    '--disable-dev-shm-usage',
+    '--disable-extensions',
+    '--disable-component-extensions-with-background-pages',
+    '--disable-default-apps',
+    '--disable-background-networking',
+    '--disable-background-timer-throttling',
+    '--disable-backgrounding-occluded-windows',
+    '--disable-breakpad',
+    '--disable-sync',
+    '--mute-audio',
+    '--no-zygote',
+    '--js-flags=--max-old-space-size=512'
+];
+
 // ── Worker-parallelism setup ──────────────────────────────────────────────
 // When this script is launched by run1.js..run7.js, each process sets its
 // own WORKER_ID (e.g. "1".."7") in the environment. That both (a) gives
@@ -600,17 +623,23 @@ async function scrapeUnified() {
     console.log(`📊 Total searches: ${searches.length}`);
     console.log(`📊 Remaining: ${searches.length - progress.currentIndex}`);
 
-    const browser = await puppeteer.launch({
-        headless: true,
-        args: ['--no-sandbox', '--disable-setuid-sandbox']
-    });
+    async function launchScraperBrowser() {
+        const b = await puppeteer.launch({
+            headless: true,
+            args: PUPPETEER_LIGHTWEIGHT_ARGS
+        });
+        const p = await b.newPage();
+        await p.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
+        return { browser: b, page: p };
+    }
 
-    const page = await browser.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
+    let { browser, page } = await launchScraperBrowser();
 
     let totalCompanies = 0;
     let totalEmails = 0;
     let globalIndex = 1; // Global counter across all searches
+    let searchesSinceRecycle = 0;
+    const RECYCLE_EVERY_N_SEARCHES = 5; // Recycles browser every 5 searches to free memory completely
 
     try {
         // Resume from progress.currentIndex rather than 0.
@@ -1106,16 +1135,50 @@ async function scrapeUnified() {
                 saveProgress();
 
                 console.log(`✅ Completed: ${companies.length} companies, ${totalEmails} total emails`);
+                searchesSinceRecycle++;
+
+                // Periodic Browser Recycling: completely terminates Chromium and launches
+                // a fresh instance to release accumulated DOM cache and V8 heap back to the OS.
+                if (searchesSinceRecycle >= RECYCLE_EVERY_N_SEARCHES) {
+                    console.log(`\n♻️  Recycling Chromium process after ${searchesSinceRecycle} searches (freeing memory & V8 heap)...`);
+                    try {
+                        if (page && !page.isClosed()) await page.close().catch(() => {});
+                        if (browser) await browser.close().catch(() => {});
+                    } catch (_) {}
+                    await new Promise(r => setTimeout(r, 2000));
+                    const fresh = await launchScraperBrowser();
+                    browser = fresh.browser;
+                    page = fresh.page;
+                    searchesSinceRecycle = 0;
+                    console.log('✨ Fresh lightweight Chromium instance ready.');
+                }
 
             } catch (error) {
                 console.log(`❌ Error in search: ${error.message}`);
+                // Ensure page and browser are operational for the next search
+                try {
+                    if (!browser || !browser.isConnected()) {
+                        console.log('🔄 Reconnecting Chromium instance...');
+                        const fresh = await launchScraperBrowser();
+                        browser = fresh.browser;
+                        page = fresh.page;
+                        searchesSinceRecycle = 0;
+                    } else if (!page || page.isClosed()) {
+                        page = await browser.newPage();
+                        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
+                    }
+                } catch (recErr) {
+                    console.log(`⚠️ Recovery failed: ${recErr.message}`);
+                }
             }
 
             await new Promise(r => setTimeout(r, 2000));
         }
 
     } finally {
-        await browser.close();
+        try {
+            if (browser) await browser.close().catch(() => {});
+        } catch (_) {}
         console.log(`\n🎉 Scraping completed!`);
         console.log(`📊 Total companies: ${totalCompanies}`);
         console.log(`📧 Total emails: ${totalEmails}`);

@@ -13,12 +13,12 @@ tmux kill-session -t "$SESSION_NAME" 2>/dev/null
 
 echo "🚀 Starting 7 parallel scraper workers in tmux session: '$SESSION_NAME'..."
 
-# Start worker 1 in a new background session
-tmux new-session -d -s "$SESSION_NAME" -n "workers" "node run1.js"
+# Start worker 1 in a new background session at idle CPU priority (nice -n 19)
+tmux new-session -d -s "$SESSION_NAME" -n "workers" "nice -n 19 node run1.js"
 
 # Split panes for workers 2 through 7 and arrange in tiled grid
 for i in {2..7}; do
-  tmux split-window -t "$SESSION_NAME" "node run$i.js"
+  tmux split-window -t "$SESSION_NAME" "nice -n 19 node run$i.js"
   tmux select-layout -t "$SESSION_NAME" tiled
 done
 
