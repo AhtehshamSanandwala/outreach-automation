@@ -4516,3 +4516,4 @@ https://www.google.com/maps/place/Acestes+Pte+Ltd/data=!4m7!3m6!1s0x31da17e4316b
 https://www.google.com/maps/place/M+%26+S+Management+%26+Contracts+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19b6bb6bfeb5:0x858b1a3b9bb33407!8m2!3d1.3038369!4d103.8613911!16s%2Fg%2F1ptvt7t1_!19sChIJtf5ru7YZ2jERBzSzmzsai4U
 https://www.google.com/maps/place/Exclusive+Networks+Singapore+Pte.+Ltd/data=!4m7!3m6!1s0x31da1792302c537d:0x77e72738fbd2051e!8m2!3d1.3127051!4d103.8644328!16s%2Fg%2F1ptxqbfrk!19sChIJfVMsMJIX2jERHgXS-zgn53c
 https://www.google.com/maps/place/Vstecs+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da19cb0a40d7ed:0x7083ab51807e6941!8m2!3d1.311283!4d103.8652738!16s%2Fg%2F11hzsvx5m5!19sChIJ7ddACssZ2jERQWl-gFGrg3A
+https://www.google.com/maps/place/NEX+CorporateIT+Pte+Ltd+-+IT+Outsourcing+Singapore/data=!4m7!3m6!1s0x31da173da46ab243:0xf17fadff38e38d84!8m2!3d1.351909!4d103.842815!16s%2Fg%2F11h51kc8k0!19sChIJQ7JqpD0X2jERhI3jOP-tf_E
