@@ -4167,3 +4167,4 @@ https://www.google.com/maps/place/Midooree+-+Bugis+Junction/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/PRISM%2B+Funan/data=!4m7!3m6!1s0x31da1946e6784dd3:0x3812b82acc100363!8m2!3d1.2911354!4d103.8501524!16s%2Fg%2F11l2d881hh!19sChIJ00145kYZ2jERYwMQzCq4Ejg
 https://www.google.com/maps/place/Singapore+Computer+Society/data=!4m7!3m6!1s0x31da196d7d2aac6d:0x14e2499ce7a7c290!8m2!3d1.279661!4d103.842588!16s%2Fg%2F1tfksvd5!19sChIJbawqfW0Z2jERkMKn55xJ4hQ
 https://www.google.com/maps/place/Burgeon+IT+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da106e7c07c9c5:0x2d78e45fad8a6405!8m2!3d1.3384557!4d103.7582893!16s%2Fg%2F11c1wsv2ll!19sChIJxckHfG4Q2jERBWSKrV_keC0
+https://www.google.com/maps/place/Bernhard+Schulte+Shipmanagement+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19b1d28a306d:0x907d52876d2bd3f9!8m2!3d1.2988616!4d103.8538528!16s%2Fg%2F1v1kmcws!19sChIJbTCK0rEZ2jER-dMrbYdSfZA
