@@ -4627,3 +4627,4 @@ https://www.google.com/maps/place/Gateway+Search+Pte+Ltd/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/DHR+Global/data=!4m7!3m6!1s0x31da19a936b02fdf:0x39855dea502ef63b!8m2!3d1.3010685!4d103.8626788!16s%2Fg%2F1pty1htfw!19sChIJ3y-wNqkZ2jERO_YuUOpdhTk
 https://www.google.com/maps/place/Signium+International+Pte+Ltd/data=!4m7!3m6!1s0x31da19b1d2ad8033:0x270d6cc5303d91f6!8m2!3d1.2937121!4d103.857296!16s%2Fg%2F1ptw400lc!19sChIJM4Ct0rEZ2jER9pE9MMVsDSc
 https://www.google.com/maps/place/O%27Donnell+%26+Ng+Executive+Search/data=!4m7!3m6!1s0x31da19fb5212382f:0x9fffaed7ec7dc92!8m2!3d1.3182072!4d103.8428206!16s%2Fg%2F1w8w7jf_!19sChIJLzgSUvsZ2jERktzHfu36_wk
+https://www.google.com/maps/place/Willet+Partners+Pte+Ltd/data=!4m7!3m6!1s0x31da19d1f8f050cd:0x2743e4dfbd9e656f!8m2!3d1.2933165!4d103.8601583!16s%2Fg%2F11vszghbkh!19sChIJzVDw-NEZ2jERb2Wevd_kQyc
