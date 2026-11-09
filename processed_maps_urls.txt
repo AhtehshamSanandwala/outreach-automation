@@ -4785,3 +4785,4 @@ https://www.google.com/maps/place/Fortuna+Scientific+Private+Ltd./data=!4m7!3m6!
 https://www.google.com/maps/place/Yong+Leng+Trading+Co/data=!4m7!3m6!1s0x31da19b626ffc49f:0x46ca31dbe32e7287!8m2!3d1.3074892!4d103.8601116!16s%2Fg%2F1vn1614d!19sChIJn8T_JrYZ2jERh3Iu49sxykY
 https://www.google.com/maps/place/Chip+Soon+Building+Products+Pte+Ltd/data=!4m7!3m6!1s0x31da19ce73e56deb:0xe27f6cf2c1c57e0a!8m2!3d1.3156329!4d103.8617754!16s%2Fg%2F1tx4lwsp!19sChIJ623lc84Z2jERCn7FwfJsf-I
 https://www.google.com/maps/place/Fong+Tat+Motor+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da1828e487e18b:0xe460e9f3b90892d4!8m2!3d1.323409!4d103.877314!16s%2Fg%2F1tvrx6s9!19sChIJi-GH5CgY2jER1JIIufPpYOQ
+https://www.google.com/maps/place/Screed/data=!4m7!3m6!1s0x31da19c99b614b71:0x7c60f0ad493299ee!8m2!3d1.3116939!4d103.8625236!16s%2Fg%2F11b88gz_w8!19sChIJcUthm8kZ2jER7pkySa3wYHw
