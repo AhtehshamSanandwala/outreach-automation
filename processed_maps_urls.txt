@@ -4437,3 +4437,5 @@ https://www.google.com/maps/place/Gap+Advertising+%26+Design/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/MP+International+Pte+Ltd/data=!4m7!3m6!1s0x31da19cafe0dcd33:0x6afdf2fb59cf594e!8m2!3d1.3096883!4d103.8650884!16s%2Fg%2F1td3__mb!19sChIJM80N_soZ2jERTlnPWfvy_Wo
 https://www.google.com/maps/place/Kong+Studio/data=!4m7!3m6!1s0x31da1909581cea63:0xfe081f2bcc9dd0f9!8m2!3d1.3096255!4d103.8649263!16s%2Fg%2F11v03k6bph!19sChIJY-ocWAkZ2jER-dCdzCsfCP4
 https://www.google.com/maps/place/The+Project/data=!4m7!3m6!1s0x31da19b37eeaaaab:0x81a816bb15e16fb7!8m2!3d1.3115988!4d103.8632371!16s%2Fg%2F11gfg0nhdx!19sChIJq6rqfrMZ2jERt2_hFbsWqIE
+https://www.google.com/maps/place/Arch+Vogue+Pte+Ltd/data=!4m7!3m6!1s0x31da19cbebc7ef95:0x1f374d676a6aef94!8m2!3d1.3113909!4d103.8634616!16s%2Fg%2F1td67dkk!19sChIJle_H68sZ2jERlO9qamdNNx8
+https://www.google.com/maps/place/Shed+Studio/data=!4m7!3m6!1s0x31da19096d9db53d:0x3450b740d6f6d5cf!8m2!3d1.3019395!4d103.8641143!16s%2Fg%2F11qqq_ybhp!19sChIJPbWdbQkZ2jERz9X21kC3UDQ
