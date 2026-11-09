@@ -5681,3 +5681,6 @@ https://www.google.com/maps/place/THT+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17
 https://www.google.com/maps/place/K.B.+Warehouse+Complex/data=!4m7!3m6!1s0x31da17eeb39926db:0x7311297a2dee2920!8m2!3d1.339363!4d103.897948!16s%2Fg%2F11h2dbbx90!19sChIJ2yaZs-4X2jERICnuLXopEXM
 https://www.google.com/maps/place/J%26T+Express+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3dd4c9684d3b:0xf98cc86e2ab27c20!8m2!3d1.314!4d103.84425!16s%2Fg%2F11fn03g1lq!19sChIJO01oydQ92jERIHyyKm7IjPk
 https://www.google.com/maps/place/Beacon+Logistics+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da17f3a9e4d013:0x96d3b8537023e53c!8m2!3d1.3308682!4d103.8938277!16s%2Fg%2F11f_1lp7dx!19sChIJE9DkqfMX2jERPOUjcFO405Y
+https://www.google.com/maps/place/Schneider+Logistics+Asia/data=!4m7!3m6!1s0x31da17ece2fcd259:0xf45cfdec68b4859f!8m2!3d1.338106!4d103.893238!16s%2Fg%2F11g6rf0bbj!19sChIJWdL84uwX2jERn4W0aOz9XPQ
+https://www.google.com/maps/place/NCL+Inter+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1791dd03846f:0xc7eb5cf8417518af!8m2!3d1.3362106!4d103.9065145!16s%2Fg%2F11fldqt283!19sChIJb4QD3ZEX2jERrxh1Qfhc68c
+https://www.google.com/maps/place/Pos+Tki+Logistics+PTE+LTD/data=!4m7!3m6!1s0x31da173a91524edf:0x7f17970730a6ad12!8m2!3d1.3337281!4d103.9023408!16s%2Fg%2F11v3_1gnhh!19sChIJ305SkToX2jEREq2mMAeXF38
