@@ -5105,3 +5105,5 @@ https://www.google.com/maps/place/Reliable+Fluid+Systems/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/LHS+Electronics+Enterprise/data=!4m7!3m6!1s0x31da1974823c1b11:0xaf62de5897e8f1e3!8m2!3d1.311283!4d103.8652738!16s%2Fg%2F11zgn4dlg5!19sChIJERs8gnQZ2jER4_Hol1jeYq8
 https://www.google.com/maps/place/Northrock+Safety+Equipment+Pte+Ltd/data=!4m7!3m6!1s0x31da19c9e0472117:0x9ff971edbc79dc1c!8m2!3d1.3084976!4d103.860839!16s%2Fg%2F1pty4brmg!19sChIJFyFH4MkZ2jERHNx5vO1x-Z8
 https://www.google.com/maps/place/Megapower+Machinery/data=!4m7!3m6!1s0x31da1833df9e494f:0x735acc0df80413b5!8m2!3d1.3136385!4d103.8735854!16s%2Fg%2F1ptxzw85y!19sChIJT0me3zMY2jERtRME-A3MWnM
+https://www.google.com/maps/place/Teck+Teck+Pte+Ltd/data=!4m7!3m6!1s0x31da19d1f1ef72fd:0x8eec4076a5581bc0!8m2!3d1.3178205!4d103.8618362!16s%2Fg%2F1tvgrw89!19sChIJ_XLv8dEZ2jERwBtYpXZA7I4
+https://www.google.com/maps/place/Huxter+Pte+Ltd/data=!4m7!3m6!1s0x31da118c3a06bced:0x6c782452dcafc05f!8m2!3d1.3153839!4d103.8666894!16s%2Fg%2F11nmpk01fs!19sChIJ7bwGOowR2jERX8Cv3FIkeGw
