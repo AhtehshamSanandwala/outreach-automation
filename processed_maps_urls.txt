@@ -4499,3 +4499,4 @@ https://www.google.com/maps/place/Aryan+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Pro+Management+Services+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17863e121c8d:0x60dfa1de3730af9!8m2!3d1.3295215!4d103.8782398!16s%2Fg%2F1ty71sq1!19sChIJjRwSPoYX2jER-Qpz4x36DQY
 https://www.google.com/maps/place/Shell+Infotech+Pte+Ltd/data=!4m7!3m6!1s0x31da19b1d28a306d:0x7c06bcfd6e7bb30e!8m2!3d1.312021!4d103.8628386!16s%2Fg%2F1tg_j4ps!19sChIJbTCK0rEZ2jERDrN7bv28Bnw
 https://www.google.com/maps/place/RansNet+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19cbe258b7d1:0x262ea638d5ae1336!8m2!3d1.3116418!4d103.8632944!16s%2Fg%2F11c3_5b5fc!19sChIJ0bdY4ssZ2jERNhOu1TimLiY
+https://www.google.com/maps/place/Adaptive+Bizapp+-+Cloud+ERP+Software/data=!4m7!3m6!1s0x31da172f0fbf426b:0x2731d9da078b745a!8m2!3d1.328866!4d103.8792847!16s%2Fg%2F11sv2_mxfw!19sChIJa0K_Dy8X2jERWnSLB9rZMSc
