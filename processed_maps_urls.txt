@@ -5679,3 +5679,4 @@ https://www.google.com/maps/place/The+Logistics+Company/data=!4m7!3m6!1s0x31da17
 https://www.google.com/maps/place/Yong+Hua+Trading+%26+Logistic+Service+Pte+Ltd/data=!4m7!3m6!1s0x31da1700470e07cb:0xe978240f95a53bd5!8m2!3d1.3385248!4d103.8994239!16s%2Fg%2F11y87gm6qb!19sChIJywcORwAX2jER1TullQ8keOk
 https://www.google.com/maps/place/THT+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17eced0ee941:0xf676177fccc92c5!8m2!3d1.339019!4d103.893254!16s%2Fg%2F1ptz11b1y!19sChIJQekO7ewX2jERxZLM_HdhZw8
 https://www.google.com/maps/place/K.B.+Warehouse+Complex/data=!4m7!3m6!1s0x31da17eeb39926db:0x7311297a2dee2920!8m2!3d1.339363!4d103.897948!16s%2Fg%2F11h2dbbx90!19sChIJ2yaZs-4X2jERICnuLXopEXM
+https://www.google.com/maps/place/J%26T+Express+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3dd4c9684d3b:0xf98cc86e2ab27c20!8m2!3d1.314!4d103.84425!16s%2Fg%2F11fn03g1lq!19sChIJO01oydQ92jERIHyyKm7IjPk
