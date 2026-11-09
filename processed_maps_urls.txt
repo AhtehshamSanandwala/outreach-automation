@@ -4970,3 +4970,6 @@ https://www.google.com/maps/place/Victory+Shipping+Singapore/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Eastbase+Logistic+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19cbe258b7d1:0x942a86075bf45afe!8m2!3d1.311585!4d103.8631792!16s%2Fg%2F11bzq0lmcs!19sChIJ0bdY4ssZ2jER_lr0WweGKpQ
 https://www.google.com/maps/place/The+Logistics+%26+Supply+Chain+Management+Society/data=!4m7!3m6!1s0x31da178632cdb9e1:0xc9f579dce4558da6!8m2!3d1.328347!4d103.8785023!16s%2Fg%2F1pv004zyv!19sChIJ4bnNMoYX2jERpo1V5Nx59ck
 https://www.google.com/maps/place/UPS+Authorised+Shipping+Outlet/data=!4m7!3m6!1s0x31da1996313a013f:0x2e44caf3ce098eb6!8m2!3d1.3152152!4d103.8668111!16s%2Fg%2F11tn155gsv!19sChIJPwE6MZYZ2jERto4JzvPKRC4
+https://www.google.com/maps/place/S+Line+Logistics/data=!4m7!3m6!1s0x31da19ccf2a2e60f:0x95d21264d2d0cb06!8m2!3d1.3137228!4d103.8656471!16s%2Fg%2F11c1ws41y8!19sChIJD-ai8swZ2jERBsvQ0mQS0pU
+https://www.google.com/maps/place/Multi+Screen+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da182d913348f1:0x9b38490f7895a066!8m2!3d1.3178941!4d103.871873!16s%2Fg%2F1tfsqd5g!19sChIJ8UgzkS0Y2jERZqCVeA9JOJs
+https://www.google.com/maps/place/TitanTrack+Logistics/data=!4m7!3m6!1s0x87c24d27ab3360a5:0xfc05ddddf8646fec!8m2!3d1.3052528!4d103.8629195!16s%2Fg%2F11mckymx2l!19sChIJpWAzqydNwocR7G9k-N3dBfw
