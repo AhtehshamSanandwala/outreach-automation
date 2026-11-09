@@ -6115,3 +6115,4 @@ https://www.google.com/maps/place/The+Golden+Concepts/data=!4m7!3m6!1s0x31da183c
 https://www.google.com/maps/place/Multico+Building+Products+Pte+Ltd/data=!4m7!3m6!1s0x31da17960934905f:0xc97844c0c6b1691b!8m2!3d1.3321471!4d103.8919567!16s%2Fg%2F11bwkgk_gp!19sChIJX5A0CZYX2jERG2mxxsBEeMk
 https://www.google.com/maps/place/San+Shan+Co+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17f465a23197:0xc1e72d83a1c37bfb!8m2!3d1.3289254!4d103.8921138!16s%2Fg%2F1w96d89l!19sChIJlzGiZfQX2jER-3vDoYMt58E
 https://www.google.com/maps/place/STEINEL+Singapore+%7C+Presence,+Motion+Sensor,+Light/data=!4m7!3m6!1s0x31da190e78a84b43:0x14fb4510ed31bf6b!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11nnzvr5s1!19sChIJQ0uoeA4Z2jERa78x7RBF-xQ
+https://www.google.com/maps/place/Products+Purchasing+%26+Supply+Services/data=!4m7!3m6!1s0x31da181fd5dc1d9d:0x2bb4d7b939f9103f!8m2!3d1.32617!4d103.89376!16s%2Fg%2F1ttpddhz!19sChIJnR3c1R8Y2jERPxD5ObnXtCs
