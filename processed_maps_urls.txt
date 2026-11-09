@@ -5915,3 +5915,6 @@ https://www.google.com/maps/place/Stellar+Structures/data=!4m7!3m6!1s0x31da17045
 https://www.google.com/maps/place/Y+L+Chan+Management+Services/data=!4m7!3m6!1s0x31da17f76682fdcb:0x436cf307b3250de!8m2!3d1.3299032!4d103.901914!16s%2Fg%2F1ptz66f5_!19sChIJy_2CZvcX2jER3lAyezDPNgQ
 https://www.google.com/maps/place/Boustead+Projects+Limited/data=!4m7!3m6!1s0x100404545a1f3a73:0xa75a7c2bec9f679f!8m2!3d1.3329267!4d103.8921966!16s%2Fg%2F1q6jh5rcj!19sChIJczofWlQEBBARn2ef7Ct8Wqc
 https://www.google.com/maps/place/BIMLife+Pte+Ltd/data=!4m7!3m6!1s0x31da19c8659ebf2d:0x6c6ecfcc9d364ff6!8m2!3d1.3248005!4d103.8934713!16s%2Fg%2F11dxr__yt2!19sChIJLb-eZcgZ2jER9k82nczPbmw
+https://www.google.com/maps/place/Vangie+Management+Services/data=!4m7!3m6!1s0x31da17f246728dd1:0xb9e9fc23864350fd!8m2!3d1.3339411!4d103.8952279!16s%2Fg%2F1ptx_5bkb!19sChIJ0Y1yRvIX2jER_VBDhiP86bk
+https://www.google.com/maps/place/NAREZA+MANAGEMENT+SERVICES/data=!4m7!3m6!1s0x31da17c50ce3f9f5:0xda0e3d7cc047fd4f!8m2!3d1.3318196!4d103.8907241!16s%2Fg%2F11wmqbqt2v!19sChIJ9fnjDMUX2jERT_1HwHw9Dto
+https://www.google.com/maps/place/Delteq+Pte+Ltd/data=!4m7!3m6!1s0x31da178e3b49665b:0x117476de6726abc!8m2!3d1.3300131!4d103.8900398!16s%2Fg%2F1ptzn3p7x!19sChIJW2ZJO44X2jERvGpy5m1HFwE
