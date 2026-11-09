@@ -4341,3 +4341,5 @@ https://www.google.com/maps/place/Helpbot/data=!4m7!3m6!1s0x31da19ca55c3c22f:0xe
 https://www.google.com/maps/place/Loyal+Champs+Singapore/data=!4m7!3m6!1s0x31da1851948f7fdb:0xd19b67dd1e8cf1c4!8m2!3d1.2967471!4d103.8749053!16s%2Fg%2F11b6q3r71b!19sChIJ23-PlFEY2jERxPGMHt1nm9E
 https://www.google.com/maps/place/NPE+Print+Communications+Pte+Ltd/data=!4m7!3m6!1s0x31da1832d8dce23f:0x4731b4605212b94b!8m2!3d1.3148386!4d103.8688369!16s%2Fg%2F1ptxvfn_0!19sChIJP-Lc2DIY2jERS7kSUmC0MUc
 https://www.google.com/maps/place/Global+Interactive+Works+Pte+Ltd/data=!4m7!3m6!1s0x31da3d11f4ff47a7:0x948af3b0ba309502!8m2!3d1.302023!4d103.864043!16s%2Fg%2F1th7kfb0!19sChIJp0f_9BE92jERApUwurDzipQ
+https://www.google.com/maps/place/Lets+Goo+Social+PTE+LTD/data=!4m7!3m6!1s0x31da196cdb256f33:0x774b10a6ad2e1e8d!8m2!3d1.299782!4d103.860659!16s%2Fg%2F11h12h8brd!19sChIJM28l22wZ2jERjR4uraYQS3c
+https://www.google.com/maps/place/Getbuzz/data=!4m7!3m6!1s0x31da19c92b1fee3f:0xc0f78e1b6645e0a3!8m2!3d1.3123303!4d103.8594925!16s%2Fg%2F11fmw_xf46!19sChIJP-4fK8kZ2jERo-BFZhuO98A
