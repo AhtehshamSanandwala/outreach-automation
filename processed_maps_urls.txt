@@ -5071,3 +5071,4 @@ https://www.google.com/maps/place/Rulewave+Logistics+Singapore+Pte+Ltd/data=!4m7
 https://www.google.com/maps/place/Cargofare/data=!4m7!3m6!1s0x31da19b6bb6bfeb5:0x3ef4e7b9eb270a0b!8m2!3d1.3038369!4d103.8613911!16s%2Fg%2F1pv00z9kx!19sChIJtf5ru7YZ2jERCwon67nn9D4
 https://www.google.com/maps/place/Independent+Warehousing+%26+Forwarding+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19c81e9b5ee1:0xb57e4d1c817fcc3f!8m2!3d1.3077697!4d103.8577298!16s%2Fg%2F1ptws0lt4!19sChIJ4V6bHsgZ2jERP8x_gRxNfrU
 https://www.google.com/maps/place/Slumberland+Singapore/data=!4m7!3m6!1s0x31da19b19122cbf3:0xc7906a6f2490fa9!8m2!3d1.299926!4d103.861203!16s%2Fg%2F1ptvwdg8w!19sChIJ88sikbEZ2jERqQ9J8qYGeQw
+https://www.google.com/maps/place/Flexport+Singapore/data=!4m7!3m6!1s0x31da19df182dfa1d:0x31b2c89b2e0a1a9c!8m2!3d1.2798208!4d103.8481151!16s%2Fg%2F11lnwvpzcc!19sChIJHfotGN8Z2jERnBoKLpvIsjE
