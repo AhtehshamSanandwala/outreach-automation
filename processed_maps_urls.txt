@@ -4580,3 +4580,6 @@ https://www.google.com/maps/place/Charisha/data=!4m7!3m6!1s0x31da19c5b75fe57d:0x
 https://www.google.com/maps/place/Asiaxpress+Employment+Agency+Pte.+Limited/data=!4m7!3m6!1s0x31da19bc8a338d27:0xe0c1e3ba7b7e0476!8m2!3d1.3084645!4d103.8573893!16s%2Fg%2F11btmr67vx!19sChIJJ40zirwZ2jERdgR-e7rjweA
 https://www.google.com/maps/place/Skyline+Employment+Agency/data=!4m7!3m6!1s0x31da19b6bb6bfeb5:0x8a69dbf2a17e545c!8m2!3d1.303817!4d103.861377!16s%2Fg%2F1ptx3wyby!19sChIJtf5ru7YZ2jERXFR-ofLbaYo
 https://www.google.com/maps/place/Job+Consultancy+Global+Pte+Ltd/data=!4m7!3m6!1s0x31da19b423a360fb:0x7da02e02fef95f07!8m2!3d1.3043127!4d103.8627805!16s%2Fg%2F1pty6hdyc!19sChIJ-2CjI7QZ2jERB1_5_gIuoH0
+https://www.google.com/maps/place/JonDavidson+Pte+Ltd/data=!4m7!3m6!1s0x1004040503029ea5:0x60bc1ddee48c92a3!8m2!3d1.3117843!4d103.8630084!16s%2Fg%2F11b6v9b5q8!19sChIJpZ4CAwUEBBARo5KM5N4dvGA
+https://www.google.com/maps/place/Success+Manpower+Employment+Agency/data=!4m7!3m6!1s0x31da183d3b2ba709:0x405452ca36bbce46!8m2!3d1.3161546!4d103.8888899!16s%2Fg%2F1tj2fdgm!19sChIJCacrOz0Y2jERRs67NspSVEA
+https://www.google.com/maps/place/Asia+Partners+Manpower+Pte+Ltd/data=!4m7!3m6!1s0x31da19cb97605533:0x79bcf0c3d4594a57!8m2!3d1.303101!4d103.8619338!16s%2Fg%2F11vm0zy710!19sChIJM1Vgl8sZ2jERV0pZ1MPwvHk
