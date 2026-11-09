@@ -5372,3 +5372,4 @@ https://www.google.com/maps/place/YYC+Corporate+Services+Pte.+Ltd./data=!4m7!3m6
 https://www.google.com/maps/place/AM+Corporate+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da181867073899:0x577630b75a22ebbc!8m2!3d1.3187949!4d103.8927472!16s%2Fg%2F11df39vj01!19sChIJmTgHZxgY2jERvOsiWrcwdlc
 https://www.google.com/maps/place/Singapura+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da1818677c3f51:0x9708753955546822!8m2!3d1.3187036!4d103.8930873!16s%2Fg%2F11b8zt4rpw!19sChIJUT98ZxgY2jERImhUVTl1CJc
 https://www.google.com/maps/place/Singapore+Prestige+Corporate+Services/data=!4m7!3m6!1s0x31da1818603fe7d5:0xedb21baa5c1bcb18!8m2!3d1.3191725!4d103.8925563!16s%2Fg%2F11hz17k9j3!19sChIJ1ec_YBgY2jERGMsbXKobsu0
+https://www.google.com/maps/place/KSN+Corporate+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da183091477573:0x224a079fc941cc5a!8m2!3d1.327291!4d103.890657!16s%2Fg%2F1vv2prx1!19sChIJc3VHkTAY2jERWsxByZ8HSiI
