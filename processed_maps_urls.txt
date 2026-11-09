@@ -4985,3 +4985,6 @@ https://www.google.com/maps/place/Classic+Logistics+Pte.Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Kingsfield+Logistics+%26+Trading+Pte.+Ltd./data=!4m7!3m6!1s0x31da18324ca2e6db:0xd8d9373780aa8a38!8m2!3d1.3147125!4d103.8719636!16s%2Fg%2F11c59xzbp4!19sChIJ2-aiTDIY2jEROIqqgDc32dg
 https://www.google.com/maps/place/Aespada/data=!4m7!3m6!1s0x31da1763690f7cb9:0x466a4df6b7d6cef2!8m2!3d1.3146905!4d103.8677468!16s%2Fg%2F11fm4xq861!19sChIJuXwPaWMX2jER8s7Wt_ZNakY
 https://www.google.com/maps/place/Draco+Logistics+Singapore/data=!4m7!3m6!1s0x31da17864626c4c5:0x2d735f2740bb7478!8m2!3d1.3291664!4d103.8778284!16s%2Fg%2F1ptx118t0!19sChIJxcQmRoYX2jEReHS7QCdfcy0
+https://www.google.com/maps/place/Kallang+Distripark/data=!4m7!3m6!1s0x31da19d30de17e47:0xe43b3a8345c10924!8m2!3d1.3169888!4d103.8697366!16s%2Fg%2F11vhf4ll5w!19sChIJR37hDdMZ2jERJAnBRYM6O-Q
+https://www.google.com/maps/place/FC+CHEMLOG+SOLUTIONS+PTE+LTD/data=!4m7!3m6!1s0x31da196ecbac871d:0xb070d7c90b972ceb!8m2!3d1.3116906!4d103.8631642!16s%2Fg%2F11fkvy94_8!19sChIJHYesy24Z2jER6yyXC8nXcLA
+https://www.google.com/maps/place/Nme+Logistics+%26+Supplies/data=!4m7!3m6!1s0x31da19cbf518e21f:0x901e9bd08b77eea7!8m2!3d1.311711!4d103.8632666!16s%2Fg%2F1pty72ywq!19sChIJH-IY9csZ2jERp-53i9CbHpA
