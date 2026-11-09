@@ -5743,3 +5743,4 @@ https://www.google.com/maps/place/Midwest+Freight+%26+Transportation+Pte+Ltd/dat
 https://www.google.com/maps/place/Alpine+Shipping+Pte+Ltd/data=!4m7!3m6!1s0x31da17f30803827d:0x69c2f874c73846ab!8m2!3d1.3340799!4d103.8952776!16s%2Fg%2F1ptyytkny!19sChIJfYIDCPMX2jERq0Y4x3T4wmk
 https://www.google.com/maps/place/Moments+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da162945aaaaab:0xb8692741cc0d1097!8m2!3d1.3690661!4d103.9095051!16s%2Fg%2F11lky5gfph!19sChIJq6qqRSkW2jERlxANzEEnabg
 https://www.google.com/maps/place/OIA+Global/data=!4m7!3m6!1s0x31da3c0cf54c6cd9:0xa474bdb84ed0464!8m2!3d1.3363292!4d103.8930831!16s%2Fg%2F1wk49ldc!19sChIJ2WxM9Qw82jERZATthNtLRwo
+https://www.google.com/maps/place/FTL+Group+Pte+Ltd/data=!4m7!3m6!1s0x100405041a1fa8d1:0x377d40800b7905fa!8m2!3d1.3337699!4d103.895166!16s%2Fg%2F11b75j34pc!19sChIJ0agfGgQFBBAR-gV5C4BAfTc
