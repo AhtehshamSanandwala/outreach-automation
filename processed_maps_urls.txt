@@ -4054,3 +4054,4 @@ https://www.google.com/maps/place/Assurich+Industries+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Bally+Photo+Electronics/data=!4m7!3m6!1s0x31da19bcffffffff:0x2bcc6544e8836c4a!8m2!3d1.2998016!4d103.8453235!16s%2Fg%2F11dylwhfx6!19sChIJ_____7wZ2jERSmyD6ERlzCs
 https://www.google.com/maps/place/Enzet+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da198dab9b9bef:0x20c0a03ac09eeb15!8m2!3d1.3052493!4d103.8305547!16s%2Fg%2F1pv0_9pgw!19sChIJ75ubq40Z2jERFeuewDqgwCA
 https://www.google.com/maps/place/EzyDeals/data=!4m7!3m6!1s0x31da19964da798d5:0x1fd9428b636cb242!8m2!3d1.3009465!4d103.8427654!16s%2Fg%2F1ptzvtxs_!19sChIJ1ZinTZYZ2jERQrJsY4tC2R8
+https://www.google.com/maps/place/Gaia+Science+Pte+Ltd/data=!4m7!3m6!1s0x31da1bb92c11911b:0x9838aa53b27b2ee0!8m2!3d1.2760376!4d103.7954696!16s%2Fg%2F1vfw9by3!19sChIJG5ERLLkb2jER4C57slOqOJg
