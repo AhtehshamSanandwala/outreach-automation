@@ -4138,3 +4138,4 @@ https://www.google.com/maps/place/Q+%26+M+Dental+Centre+%28Bugis+Junction%29/dat
 https://www.google.com/maps/place/Infotech+Business+Systems+Pte+Ltd/data=!4m7!3m6!1s0x31da19a0b80cdc1d:0x245ddd40ca5c7e50!8m2!3d1.2971812!4d103.8549138!16s%2Fg%2F1tdnyzz6!19sChIJHdwMuKAZ2jERUH5cykDdXSQ
 https://www.google.com/maps/place/MUJI+%28Bugis+Junction%29/data=!4m7!3m6!1s0x31da19ba85b1b21d:0x7c90b931ab63eed!8m2!3d1.3001143!4d103.8559649!16s%2Fg%2F1tkkrd1c!19sChIJHbKxhboZ2jER7T62GpMLyQc
 https://www.google.com/maps/place/ibis+budget+Singapore+Bugis/data=!4m10!3m9!1s0x31da19a568a1ccb1:0x22e2dafd1a348032!5m2!4m1!1i2!8m2!3d1.297009!4d103.855585!16s%2Fg%2F1tk60mmg!19sChIJscyhaKUZ2jERMoA0Gv3a4iI
+https://www.google.com/maps/place/IC+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da198cc3c8f953:0xcd68e95f7517c8cb!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F12hq_pv60!19sChIJU_nIw4wZ2jERy8gXdV_paM0
