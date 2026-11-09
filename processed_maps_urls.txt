@@ -5433,3 +5433,4 @@ https://www.google.com/maps/place/Onpoint+Consulting+Pte.+Ltd./data=!4m7!3m6!1s0
 https://www.google.com/maps/place/BVGCONSULTING/data=!4m7!3m6!1s0x31da1914a4fc9d3f:0x20a35c6b6c31d4de!8m2!3d1.3184358!4d103.8927403!16s%2Fg%2F11fn7jyp3r!19sChIJP538pBQZ2jER3tQxbGtcoyA
 https://www.google.com/maps/place/Mavericks+Consulting/data=!4m7!3m6!1s0x31da1be3c93fffff:0xc1485b56212078fb!8m2!3d1.315899!4d103.893721!16s%2Fg%2F11gbm102qq!19sChIJ__8_yeMb2jER-3ggIVZbSME
 https://www.google.com/maps/place/Kingston+United+Group/data=!4m7!3m6!1s0x31da176d4272e5ef:0xded0dd8df355553!8m2!3d1.3278854!4d103.8921868!16s%2Fg%2F11ny36b2mc!19sChIJ7-VyQm0X2jERU1U139gN7Q0
+https://www.google.com/maps/place/Avensys+Consulting+Pte+Ltd./data=!4m7!3m6!1s0x31da19bad8511c4d:0xd95cb33dd630b838!8m2!3d1.3329085!4d103.8936751!16s%2Fg%2F1tjl3dx6!19sChIJTRxR2LoZ2jEROLgw1j2zXNk
