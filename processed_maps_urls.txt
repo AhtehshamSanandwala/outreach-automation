@@ -5647,3 +5647,4 @@ https://www.google.com/maps/place/Skap+Logistics/data=!4m7!3m6!1s0x31da187271b01
 https://www.google.com/maps/place/uParcel+Ecommerce+Enabler+and+Warehouse+Fulfillment/data=!4m7!3m6!1s0x31da178e008db7b1:0xdcd89dd4ff2d5b26!8m2!3d1.3439947!4d103.8958102!16s%2Fg%2F11bc8xb71_!19sChIJsbeNAI4X2jERJlst_9Sd2Nw
 https://www.google.com/maps/place/CEVA+Logistics+Centre/data=!4m7!3m6!1s0x31da162c0bba89f1:0x9194521d2335921!8m2!3d1.3673262!4d103.9082107!16s%2Fg%2F11cs5kbk7m!19sChIJ8Ym6CywW2jERIVkz0iFFGQk
 https://www.google.com/maps/place/Wice+Logistics+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c6ffac6a90f:0x1a7f4f0866d5308e!8m2!3d1.3363292!4d103.8930831!16s%2Fg%2F1tdzt7ch!19sChIJD6nG-m882jERjjDVZghPfxo
+https://www.google.com/maps/place/DHL+Supply+Chain/data=!4m7!3m6!1s0x31da162cc186dafb:0xfbe1994d1fac8187!8m2!3d1.364766!4d103.907264!16s%2Fg%2F11bwvrbss7!19sChIJ-9qGwSwW2jERh4GsH02Z4fs
