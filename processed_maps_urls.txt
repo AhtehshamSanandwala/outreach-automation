@@ -5657,3 +5657,4 @@ https://www.google.com/maps/place/MLS+Logistic+Services+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Twinstar+Logistics/data=!4m7!3m6!1s0x31da178b5aea7857:0xc42a5e1e87e048b3!8m2!3d1.333427!4d103.8942808!16s%2Fg%2F11fmwv8x3d!19sChIJV3jqWosX2jERs0jghx5eKsQ
 https://www.google.com/maps/place/Baylink+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da174181412983:0x33e90ef9e81437e0!8m2!3d1.3353186!4d103.9025724!16s%2Fg%2F11t__c5k5j!19sChIJgylBgUEX2jER4DcU6PkO6TM
 https://www.google.com/maps/place/Mismass+Logistic+Pte+Ltd/data=!4m7!3m6!1s0xb105773edfcc5eb:0x283d9d9249d9dd07!8m2!3d1.3344637!4d103.9048833!16s%2Fg%2F11kbsbr_yr!19sChIJ68X87XNXEAsRB93ZSZKdPSg
+https://www.google.com/maps/place/Tee+Hai+@+Tampines+Logistics+Park/data=!4m7!3m6!1s0x31da1764712d30b9:0x108e14db9c27ce4!8m2!3d1.3704531!4d103.909378!16s%2Fg%2F11j53tghhq!19sChIJuTAtcWQX2jER5HzCuU3hCAE
