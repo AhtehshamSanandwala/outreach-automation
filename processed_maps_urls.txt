@@ -4861,3 +4861,7 @@ https://www.google.com/maps/place/Hengta+Trading+Co/data=!4m7!3m6!1s0x31da19b395
 https://www.google.com/maps/place/Ho+Chye+Min+Trading+Co/data=!4m7!3m6!1s0x31da1832086e35d5:0xe7bc10b437150d86!8m2!3d1.318273!4d103.8739913!16s%2Fg%2F1wk6x8nd!19sChIJ1TVuCDIY2jERhg0VN7QQvOc
 https://www.google.com/maps/place/Tai+Hock+Trading+Co/data=!4m7!3m6!1s0x31da19b6baa0cd9d:0x9a48fb6453d34ff9!8m2!3d1.3038369!4d103.8613911!16s%2Fg%2F1vc69y3g!19sChIJnc2gurYZ2jER-U_TU2T7SJo
 https://www.google.com/maps/place/Hai+Soon+Diesel+%26+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19b395d888d1:0x4be3154a36cb420f!8m2!3d1.3132926!4d103.8602852!16s%2Fg%2F1tj_2s3v!19sChIJ0YjYlbMZ2jERD0LLNkoV40s
+https://www.google.com/maps/place/Kim+Thye+Lee+Trading+Co/data=!4m7!3m6!1s0x31da18334a532747:0x8d30bad55deacdf4!8m2!3d1.313601!4d103.8680953!16s%2Fg%2F1tykrx20!19sChIJRydTSjMY2jER9M3qXdW6MI0
+https://www.google.com/maps/place/Enion+Trading+Co./data=!4m7!3m6!1s0x31da19b6bb6bfeb5:0xf6377753e5d33674!8m2!3d1.3038584!4d103.8613911!16s%2Fg%2F1ptxl13d_!19sChIJtf5ru7YZ2jERdDbT5VN3N_Y
+https://www.google.com/maps/place/Yuen+Lay+Trading+Co/data=!4m7!3m6!1s0x31da19cc457e90cf:0xac9939f5c668e7ba!8m2!3d1.3139136!4d103.8637858!16s%2Fg%2F1tj30mt1!19sChIJz5B-RcwZ2jERuudoxvU5maw
+https://www.google.com/maps/place/VG+Trading+Pte+Ltd+%28Singapore%29/data=!4m7!3m6!1s0x31da19cd1c25d4e9:0x360043fd0754fa8c!8m2!3d1.3175116!4d103.8667973!16s%2Fg%2F11g86kgx_4!19sChIJ6dQlHM0Z2jERjPpUB_1DADY
