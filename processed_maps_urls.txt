@@ -4254,3 +4254,4 @@ https://www.google.com/maps/place/GEODIS+APAC+%26+ME/data=!4m7!3m6!1s0x31da3dccc
 https://www.google.com/maps/place/Speedzone+Limousine+Services/data=!4m7!3m6!1s0x31da19bbcb11b9ff:0x22525eede9fc0db2!8m2!3d1.3060422!4d103.8661268!16s%2Fg%2F11nn54_vwp!19sChIJ_7kRy7sZ2jERsg386e1eUiI
 https://www.google.com/maps/place/B18+Taxi+Stand/data=!4m7!3m6!1s0x31da19ba856e3b7f:0x302237c35b5c7e6c!8m2!3d1.3001067!4d103.8556517!16s%2Fg%2F11f0wmxj5m!19sChIJfztuhboZ2jERbH5cW8M3IjA
 https://www.google.com/maps/place/The+Chartered+Institute+of+Logistics+and+Transport,+Singapore/data=!4m7!3m6!1s0x31da1bce75657015:0x60e0283254376e40!8m2!3d1.2845318!4d103.8084944!16s%2Fg%2F1v_sks93!19sChIJFXBldc4b2jERQG43VDIo4GA
+https://www.google.com/maps/place/Bugis+Stn+Exit+A/data=!4m7!3m6!1s0x31da19ba79691e6f:0x82d61115924885ef!8m2!3d1.3011598!4d103.8560887!16s%2Fg%2F1td6vmy3!19sChIJbx5peboZ2jER74VIkhUR1oI
