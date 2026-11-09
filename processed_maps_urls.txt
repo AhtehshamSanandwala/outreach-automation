@@ -5493,3 +5493,6 @@ https://www.google.com/maps/place/Blum+Singapore+Experience+Centre/data=!4m7!3m6
 https://www.google.com/maps/place/Trojan+Hospitality+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da17335af7914b:0xbc007b006e232cc6!8m2!3d1.3387843!4d103.8976281!16s%2Fg%2F11l4356d57!19sChIJS5H3WjMX2jERxiwjbgB7ALw
 https://www.google.com/maps/place/Univa+Aromatics+Pte+Ltd/data=!4m7!3m6!1s0x31da17efdccf2835:0x549a98e687292d6f!8m2!3d1.3359693!4d103.9008012!16s%2Fg%2F1tz9381l!19sChIJNSjP3O8X2jERby0ph-aYmlQ
 https://www.google.com/maps/place/LIGHTCRAFT+PTE+LTD+%28Showroom+%26+Head+Office%29/data=!4m7!3m6!1s0x31da17e352e1a3af:0x8e98b1ea35cf6df9!8m2!3d1.3356822!4d103.9090969!16s%2Fg%2F1vqmfwsq!19sChIJr6PhUuMX2jER-W3PNeqxmI4
+https://www.google.com/maps/place/Peh+Seng+Ann+Coconut+Dealers/data=!4m7!3m6!1s0x31da17c7e913dba3:0x37f973acbdb75746!8m2!3d1.3535582!4d103.8924702!16s%2Fg%2F11c59xvb7w!19sChIJo9sT6ccX2jERRle3vaxz-Tc
+https://www.google.com/maps/place/Halal+Food+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da17c851fe7f63:0xd2d3d3dab42d87f7!8m2!3d1.3566386!4d103.8930872!16s%2Fg%2F1ptxgln34!19sChIJY3_-UcgX2jER94cttNrT09I
+https://www.google.com/maps/place/Fastener+Group+Pte.+Ltd./data=!4m7!3m6!1s0x31da17e45ab9e2f5:0x156f66ebc6d7b199!8m2!3d1.3384426!4d103.9064954!16s%2Fg%2F11c30tf7rd!19sChIJ9eK5WuQX2jERmbHXxutmbxU
