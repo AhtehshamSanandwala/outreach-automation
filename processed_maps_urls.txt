@@ -3837,3 +3837,4 @@ https://www.google.com/maps/place/Garlico+Pte+Ltd/data=!4m7!3m6!1s0x31da19923d7b
 https://www.google.com/maps/place/Cartier+ION+Orchard/data=!4m7!3m6!1s0x31da19919178492f:0x4e665e171afb4655!8m2!3d1.304286!4d103.831911!16s%2Fg%2F11x9yrtfm!19sChIJL0l4kZEZ2jERVUb7GhdeZk4
 https://www.google.com/maps/place/Colorfull+Store/data=!4m7!3m6!1s0xa0ac18f7142de555:0x3b0ef7fe560242e0!8m2!3d1.3009827!4d103.8355742!16s%2Fg%2F11y5fzfmk4!19sChIJVeUtFPcYrKAR4EICVv73Djs
 https://www.google.com/maps/place/Infiniti+Jewels/data=!4m7!3m6!1s0x31da1965f32864fb:0x406057807c019104!8m2!3d1.3039054!4d103.8355763!16s%2Fg%2F11h5s35xqp!19sChIJ-2Qo82UZ2jERBJEBfIBXYEA
+https://www.google.com/maps/place/GRATiAE+Takashimaya/data=!4m7!3m6!1s0x31da19c13f01b623:0xaa8c7407e03d5086!8m2!3d1.3025492!4d103.8347392!16s%2Fg%2F11fjzx52h8!19sChIJI7YBP8EZ2jERhlA94Ad0jKo
