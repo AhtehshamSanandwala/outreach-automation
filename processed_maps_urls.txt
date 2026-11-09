@@ -4450,3 +4450,4 @@ https://www.google.com/maps/place/CreativeMbassy/data=!4m7!3m6!1s0x31da19cc77bab
 https://www.google.com/maps/place/Stara+Design+Team/data=!4m7!3m6!1s0x31da19cd1c29983b:0xa110f1c459051d30!8m2!3d1.314878!4d103.866184!16s%2Fg%2F1pt_248yk!19sChIJO5gpHM0Z2jERMB0FWcTxEKE
 https://www.google.com/maps/place/HOL+Experiences/data=!4m7!3m6!1s0x31da19a3e3bc5271:0xdd081bc6187e2807!8m2!3d1.315847!4d103.8655132!16s%2Fg%2F11c74996ny!19sChIJcVK846MZ2jERByh-GMYbCN0
 https://www.google.com/maps/place/The+Candidate/data=!4m7!3m6!1s0xa524594c1d85a241:0x56b7d11dabb1ded1!8m2!3d1.3121106!4d103.8598845!16s%2Fg%2F11khs2l6qn!19sChIJQaKFHUxZJKUR0d6xqx3Rt1Y
+https://www.google.com/maps/place/Soundscape+Studios/data=!4m7!3m6!1s0x31da19cbdf6d747d:0x639175caf8140d65!8m2!3d1.3110329!4d103.862287!16s%2Fg%2F1pty4t_tz!19sChIJfXRt38sZ2jERZQ0U-Mp1kWM
