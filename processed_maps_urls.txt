@@ -4144,3 +4144,4 @@ https://www.google.com/maps/place/Nitori+Bugis/data=!4m7!3m6!1s0x31da19005f314f6
 https://www.google.com/maps/place/Softlink+Global+%28SG%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196a3fb5f00f:0xf3004a036aee80d6!8m2!3d1.2967615!4d103.8546068!16s%2Fg%2F11t1qnq6z7!19sChIJD_C1P2oZ2jER1oDuagNKAPM
 https://www.google.com/maps/place/VIVAIA+Singapore+Bugis+Junction/data=!4m7!3m6!1s0x31da196eeb26851b:0xcd531af1ed74095f!8m2!3d1.2994134!4d103.8554695!16s%2Fg%2F11l2jbdrn9!19sChIJG4Um624Z2jERXwl07fEaU80
 https://www.google.com/maps/place/Smartcare+International/data=!4m7!3m6!1s0x31da19b100b39035:0x1f8a40c432f66109!8m2!3d1.3007799!4d103.8596724!16s%2Fg%2F1ptzn3p9y!19sChIJNZCzALEZ2jERCWH2MsRAih8
+https://www.google.com/maps/place/Bugis+Street/data=!4m7!3m6!1s0x31da19baf4d6b48f:0x2401a1425e650342!8m2!3d1.3001991!4d103.8552015!16zL20vMDcxazBt!19sChIJj7TW9LoZ2jERQgNlXkKhASQ
