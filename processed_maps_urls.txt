@@ -4806,3 +4806,4 @@ https://www.google.com/maps/place/Absolute+Instrument+Systems+%28Pte.%29+Ltd./da
 https://www.google.com/maps/place/IDS+Medical+Systems+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1bac6f921c7f:0x5e530fe362ab8540!8m2!3d1.312453!4d103.864183!16s%2Fg%2F11cfc_32s!19sChIJfxySb6wb2jERQIWrYuMPU14
 https://www.google.com/maps/place/Palitalia+Importer+and+Exporter/data=!4m7!3m6!1s0x31da1785f0e42f01:0xe53d54a614b93f9b!8m2!3d1.3109111!4d103.8613583!16s%2Fg%2F1pv5xy06c!19sChIJAS_k8IUX2jERmz-5FKZUPeU
 https://www.google.com/maps/place/Nutrilite+@+Aperia+Mall/data=!4m7!3m6!1s0x31da19a4fd04e891:0xa3d8ae03816f63b6!8m2!3d1.3094772!4d103.8642566!16s%2Fg%2F11bzq1jm3r!19sChIJkegE_aQZ2jERtmNvgQOu2KM
+https://www.google.com/maps/place/Schneider+Electric/data=!4m7!3m6!1s0x31da1696ddf8a48f:0xc6a954e412a168f6!8m2!3d1.3127669!4d103.8666933!16s%2Fg%2F1vkxjsjy!19sChIJj6T43ZYW2jER9mihEuRUqcY
