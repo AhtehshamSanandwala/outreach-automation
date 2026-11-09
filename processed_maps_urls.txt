@@ -4953,3 +4953,5 @@ https://www.google.com/maps/place/Express+Delivery/data=!4m7!3m6!1s0x31da19c8250
 https://www.google.com/maps/place/Naksu+Logistics/data=!4m7!3m6!1s0x31da19dec7a4780b:0x913d37728eb4a20e!8m2!3d1.3115988!4d103.8632371!16s%2Fg%2F11jgq0lvk6!19sChIJC3ikx94Z2jERDqK0jnI3PZE
 https://www.google.com/maps/place/Sunmoon+Shipping+International/data=!4m7!3m6!1s0x31da19c6391bb3b5:0xd88e9ae723af37ff!8m2!3d1.3124804!4d103.8628959!16s%2Fg%2F1tdysww5!19sChIJtbMbOcYZ2jER_zevI-eajtg
 https://www.google.com/maps/place/Master+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1832986bea1f:0x3c636f6cbd98096b!8m2!3d1.316613!4d103.869517!16s%2Fg%2F1td4rt0_!19sChIJH-prmDIY2jERawmYvWxvYzw
+https://www.google.com/maps/place/SimplyDo+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da136f74352cdb:0x1122ad0c37cb396a!8m2!3d1.315847!4d103.8655132!16s%2Fg%2F11l3bsd88r!19sChIJ2yw1dG8T2jERajnLNwytIhE
+https://www.google.com/maps/place/IFOUR+FREIGHT+PTE+LTD/data=!4m7!3m6!1s0x31da19cb0a40d7ed:0xb51a6c5d2547e3e6!8m2!3d1.3098403!4d103.8660806!16s%2Fg%2F11j8k7gdbc!19sChIJ7ddACssZ2jER5uNHJV1sGrU
