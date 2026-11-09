@@ -4223,3 +4223,4 @@ https://www.google.com/maps/place/Hong+Trang+Nguyen+Vietnam+Mini+Mart+Bugis/data
 https://www.google.com/maps/place/BHG+Bugis+Junction/data=!4m7!3m6!1s0x31da19ba85b1b21d:0x21690cff5b138296!8m2!3d1.2992907!4d103.8553101!16s%2Fg%2F1tcvrc8x!19sChIJHbKxhboZ2jERloITW_8MaSE
 https://www.google.com/maps/place/Parisilk+Electronics+%26+Computers+Pte+Ltd/data=!4m7!3m6!1s0x31da1b566f843653:0xce52300d3f4c44e8!8m2!3d1.3103523!4d103.7950809!16s%2Fg%2F1tdrbx3j!19sChIJUzaEb1Yb2jER6ERMPw0wUs4
 https://www.google.com/maps/place/AZ+Gift+%26+Trading/data=!4m7!3m6!1s0x31da19badf525205:0xbeb4285b1b884536!8m2!3d1.2992685!4d103.8534458!16s%2Fg%2F11btx18vmj!19sChIJBVJS37oZ2jERNkWIG1sotL4
+https://www.google.com/maps/place/TRANSEND+%28BUGIS+MRT%29/data=!4m7!3m6!1s0x31da19a3b5192025:0x91b80a82f965d60d!8m2!3d1.2993154!4d103.8551853!16s%2Fg%2F11p12mqgxc!19sChIJJSAZtaMZ2jERDdZl-YIKuJE
