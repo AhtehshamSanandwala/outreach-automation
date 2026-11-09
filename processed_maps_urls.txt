@@ -5909,3 +5909,5 @@ https://www.google.com/maps/place/SWZ+Management+Services+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/Baumer+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19cb6692c78f:0xee6fb7836e4f12b6!8m2!3d1.3245751!4d103.8926381!16s%2Fg%2F1tfsqd9b!19sChIJj8eSZssZ2jERthJPboO3b-4
 https://www.google.com/maps/place/Gale+Engineering+%26+Management+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3a9e4d013:0x9594c048b9a2434!8m2!3d1.332917!4d103.8940171!16s%2Fg%2F1ptz8z9rs!19sChIJE9DkqfMX2jERNCSaiwRMWQk
 https://www.google.com/maps/place/Primacy+Management+Services/data=!4m7!3m6!1s0x31da17f452abb053:0x888066c664bc94af!8m2!3d1.3284781!4d103.8948049!16s%2Fg%2F1pty_gnzs!19sChIJU7CrUvQX2jERr5S8ZMZmgIg
+https://www.google.com/maps/place/A+M+Y+Management+Services/data=!4m7!3m6!1s0x31da17f4883ca5f9:0xf9ce4785912d0332!8m2!3d1.3300208!4d103.8938971!16s%2Fg%2F1v2gb862!19sChIJ-aU8iPQX2jERMgMtkYVHzvk
+https://www.google.com/maps/place/United+Ship+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da17f2d7000001:0xddd919ee12955f8e!8m2!3d1.3334149!4d103.8917435!16s%2Fg%2F11fm4yn9jb!19sChIJAQAA1_IX2jERjl-VEu4Z2d0
