@@ -4051,3 +4051,6 @@ https://www.google.com/maps/place/Quasi-S+Pte+Ltd/data=!4m7!3m6!1s0x31da12268215
 https://www.google.com/maps/place/Singapore+Ginkgo+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da19a32425276f:0xa889690ba1d03795!8m2!3d1.297649!4d103.848116!16s%2Fg%2F1pv2tqwz7!19sChIJbyclJKMZ2jERlTfQoQtpiag
 https://www.google.com/maps/place/Northman+%28Asia%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da1996faec24df:0xa2c93c960d7da376!8m2!3d1.3013001!4d103.8413111!16s%2Fg%2F11c59w0fdl!19sChIJ3yTs-pYZ2jERdqN9DZY8yaI
 https://www.google.com/maps/place/Assurich+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da16b66ba9d999:0xc6cf41087387dc66!8m2!3d1.3840046!4d103.8260536!16s%2Fg%2F1tkngzk0!19sChIJmdmpa7YW2jERZtyHcwhBz8Y
+https://www.google.com/maps/place/Bally+Photo+Electronics/data=!4m7!3m6!1s0x31da19bcffffffff:0x2bcc6544e8836c4a!8m2!3d1.2998016!4d103.8453235!16s%2Fg%2F11dylwhfx6!19sChIJ_____7wZ2jERSmyD6ERlzCs
+https://www.google.com/maps/place/Enzet+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da198dab9b9bef:0x20c0a03ac09eeb15!8m2!3d1.3052493!4d103.8305547!16s%2Fg%2F1pv0_9pgw!19sChIJ75ubq40Z2jERFeuewDqgwCA
+https://www.google.com/maps/place/EzyDeals/data=!4m7!3m6!1s0x31da19964da798d5:0x1fd9428b636cb242!8m2!3d1.3009465!4d103.8427654!16s%2Fg%2F1ptzvtxs_!19sChIJ1ZinTZYZ2jERQrJsY4tC2R8
