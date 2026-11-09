@@ -3765,3 +3765,4 @@ https://www.google.com/maps/place/Initia+Group/data=!4m7!3m6!1s0x31da196cd605b1f
 https://www.google.com/maps/place/Corgan/data=!4m7!3m6!1s0x31da19d364b8566d:0xef113f08a89014fd!8m2!3d1.3014585!4d103.83734!16s%2Fg%2F11l1dbswxl!19sChIJbVa4ZNMZ2jER_RSQqAg_Ee8
 https://www.google.com/maps/place/ISS+Consulting+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19ca573b6079:0x77bbd215221d30bf!8m2!3d1.3028554!4d103.8402872!16s%2Fg%2F1vn9llym!19sChIJeWA7V8oZ2jERvzAdIhXSu3c
 https://www.google.com/maps/place/Trillium+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da190935638dcb:0x463e05ebf284c200!8m2!3d1.3019805!4d103.839695!16s%2Fg%2F1tf9vykx!19sChIJy41jNQkZ2jERAMKE8usFPkY
+https://www.google.com/maps/place/YINEE+Posture+Management+Singapore+%28Orchard%29/data=!4m7!3m6!1s0x31da196ca6416ef3:0x9c309ef5c6dd55ec!8m2!3d1.3017142!4d103.8387216!16s%2Fg%2F11k0yctypr!19sChIJ825BpmwZ2jER7FXdxvWeMJw
