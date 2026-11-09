@@ -3603,3 +3603,4 @@ https://www.google.com/maps/place/Clozette+Pte+Ltd/data=!4m7!3m6!1s0x31da176c46b
 https://www.google.com/maps/place/Weber+Shandwick/data=!4m7!3m6!1s0x31da19bd5aaaaaab:0xdfe53f54d1f64d60!8m2!3d1.2991586!4d103.846019!16s%2Fg%2F1vyk00m8!19sChIJq6qqWr0Z2jERYE320VQ_5d8
 https://www.google.com/maps/place/Aiden+Creative/data=!4m7!3m6!1s0x31da17f085cf6347:0xc54dc237f2b5b7a4!8m2!3d1.291896!4d103.8504399!16s%2Fg%2F1tfzzlfw!19sChIJR2PPhfAX2jERpLe18jfCTcU
 https://www.google.com/maps/place/MRM+Singapore/data=!4m7!3m6!1s0x31da191815937759:0x452588f0b72b6256!8m2!3d1.2991586!4d103.846019!16s%2Fg%2F11j7yy2p69!19sChIJWXeTFRgZ2jERVmIrt_CIJUU
+https://www.google.com/maps/place/Events+Creation+Pte+Ltd/data=!4m7!3m6!1s0x31da198c55efbb63:0x962bd05cc22486b8!8m2!3d1.305506!4d103.830011!16s%2Fg%2F1pt_6vfg4!19sChIJY7vvVYwZ2jERuIYkwlzQK5Y
