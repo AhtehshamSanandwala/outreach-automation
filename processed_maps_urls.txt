@@ -4219,3 +4219,5 @@ https://www.google.com/maps/place/Inter+Great+Employment+%28Bugis+Branch%29/data
 https://www.google.com/maps/place/TalearnX/data=!4m7!3m6!1s0x31da19f15df8eebb:0x47b6e8f7f6f02ff5!8m2!3d1.2996058!4d103.8557191!16s%2Fg%2F11lfbgxcbt!19sChIJu-74XfEZ2jER9S_w9vfotkc
 https://www.google.com/maps/place/Enrich+Management+Consulting+LLP/data=!4m7!3m6!1s0x31da193889f33ecb:0xce1a79504056281a!8m2!3d1.3036184!4d103.8544227!16s%2Fg%2F11fcnd5ff8!19sChIJyz7ziTgZ2jERGihWQFB5Gs4
 https://www.google.com/maps/place/Lloyd+McGill+Pte+Ltd/data=!4m7!3m6!1s0x31da181e2d5bd763:0xafac6e1155a885dc!8m2!3d1.2997901!4d103.8556799!16s%2Fg%2F1ptxkkvzt!19sChIJY9dbLR4Y2jER3IWoVRFurK8
+https://www.google.com/maps/place/Hong+Trang+Nguyen+Vietnam+Mini+Mart+Bugis/data=!4m7!3m6!1s0x31da199c35a55e9b:0x7185c9bb39b1f2fa!8m2!3d1.3006802!4d103.8533024!16s%2Fg%2F11sq3j5q1g!19sChIJm16lNZwZ2jER-vKxObvJhXE
+https://www.google.com/maps/place/BHG+Bugis+Junction/data=!4m7!3m6!1s0x31da19ba85b1b21d:0x21690cff5b138296!8m2!3d1.2992907!4d103.8553101!16s%2Fg%2F1tcvrc8x!19sChIJHbKxhboZ2jERloITW_8MaSE
