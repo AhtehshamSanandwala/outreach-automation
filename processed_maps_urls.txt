@@ -5458,3 +5458,4 @@ https://www.google.com/maps/place/India+Pacific+Trading/data=!4m7!3m6!1s0x31da17
 https://www.google.com/maps/place/T+For+Toys+-+Toy+Store/data=!4m7!3m6!1s0x31da178ab612d591:0x70f4f99d9019c934!8m2!3d1.3760144!4d103.9291386!16s%2Fg%2F11c0xc_0__!19sChIJkdUStooX2jERNMkZkJ359HA
 https://www.google.com/maps/place/Khiang+Hor+Building+Products+Pte+Ltd/data=!4m7!3m6!1s0x31da100fc01ee5d7:0x6279f31d60bc2473!8m2!3d1.3597697!4d103.8947297!16s%2Fg%2F11fy548yq1!19sChIJ1-UewA8Q2jERcyS8YB3zeWI
 https://www.google.com/maps/place/QSS+Safety+Products+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17f278000001:0xd1e7e76f4a0b0926!8m2!3d1.335644!4d103.8944998!16s%2Fg%2F1w34448g!19sChIJAQAAePIX2jERJgkLSm_n59E
+https://www.google.com/maps/place/Makoto-Ya+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17ee88c66375:0xe73c28f2aeae0f8f!8m2!3d1.337751!4d103.8971834!16s%2Fg%2F1pv0dvkh3!19sChIJdWPGiO4X2jERjw-urvIoPOc
