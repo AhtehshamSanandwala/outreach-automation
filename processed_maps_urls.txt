@@ -5131,3 +5131,4 @@ https://www.google.com/maps/place/Sefar+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Taste+Asia+Vending+Machine+@+8B+Boon+Keng/data=!4m7!3m6!1s0x31da196a1cc89d41:0x4bde6fb665e91a7b!8m2!3d1.3125079!4d103.8700243!16s%2Fg%2F11zyxb5yc4!19sChIJQZ3IHGoZ2jERexrpZbZv3ks
 https://www.google.com/maps/place/E-Weal+Hardware+Pte+Ltd/data=!4m7!3m6!1s0x31da19ccd52a7c09:0xeec21e82deb39b70!8m2!3d1.3144172!4d103.8678598!16s%2Fg%2F11b7y70hp1!19sChIJCXwq1cwZ2jERcJuz3oIewu4
 https://www.google.com/maps/place/SINGAPORE+POWERON+TECHNOLOGY+PTE.+LTD./data=!4m7!3m6!1s0x31da1916fb50a69b:0x3bc46741cfc6ee07!8m2!3d1.3118611!4d103.8633524!16s%2Fg%2F11ln08bpfr!19sChIJm6ZQ-xYZ2jERB-7Gz0FnxDs
+https://www.google.com/maps/place/Taste+Asia+Vending+Machine+@+3C+Boon+Keng/data=!4m7!3m6!1s0x31da19659f0d0775:0x6ef6781ee9a077f4!8m2!3d1.3139052!4d103.8730147!16s%2Fg%2F11nw5hmrn2!19sChIJdQcNn2UZ2jER9Heg6R549m4
