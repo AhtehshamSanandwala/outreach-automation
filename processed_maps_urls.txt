@@ -5479,3 +5479,4 @@ https://www.google.com/maps/place/PACKMAN+SG/data=!4m7!3m6!1s0x31da3dc1a1ddbb4d:
 https://www.google.com/maps/place/Iona+Service+Centre/data=!4m7!3m6!1s0x31da17ed87ad887b:0x3c1ce14a9b14010a!8m2!3d1.3359423!4d103.8949593!16s%2Fg%2F1tg_ckvl!19sChIJe4ith-0X2jERCgEUm0rhHDw
 https://www.google.com/maps/place/WHOLESALE+RICE/data=!4m7!3m6!1s0x31da17f0814ea2cb:0xcb4415fd09a933e3!8m2!3d1.3329914!4d103.9024619!16s%2Fg%2F11ny0pry7k!19sChIJy6JOgfAX2jER4zOpCf0VRMs
 https://www.google.com/maps/place/Kah+Hock+Repairer+%26+Trading/data=!4m7!3m6!1s0x31da178a6d0e7379:0x3988a7fc92ab0b1f!8m2!3d1.3394065!4d103.8980867!16s%2Fg%2F1tf18890!19sChIJeXMObYoX2jERHwurkvyniDk
+https://www.google.com/maps/place/RJ+Paper+Pte+Ltd/data=!4m7!3m6!1s0x31da17c8401b07c1:0x319c8d4e8c970017!8m2!3d1.3555826!4d103.8926698!16s%2Fg%2F1tflvdjl!19sChIJwQcbQMgX2jERFwCXjE6NnDE
