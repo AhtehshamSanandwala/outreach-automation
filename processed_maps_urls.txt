@@ -5722,3 +5722,5 @@ https://www.google.com/maps/place/Khiang+hor+building+products+Pte+Ltd+store/dat
 https://www.google.com/maps/place/JTC+Industrial+Building/data=!4m7!3m6!1s0x31da174f9db00a1f:0x14fb0b4019520ec3!8m2!3d1.3467462!4d103.8976452!16s%2Fg%2F11sc43ykdl!19sChIJHwqwnU8X2jERww5SGUAL-xQ
 https://www.google.com/maps/place/Geoline+Boltz/data=!4m7!3m6!1s0x31da17c983a55555:0x969843f6827d3bd7!8m2!3d1.3586488!4d103.893873!16s%2Fg%2F11fmw_7yr0!19sChIJVVWlg8kX2jER1zt9gvZDmJY
 https://www.google.com/maps/place/Zheng+Xing+Yun+Service/data=!4m7!3m6!1s0x31da17f2ff84ebf1:0xa8a9db9158512e11!8m2!3d1.3586488!4d103.893873!16s%2Fg%2F11fss1ntdy!19sChIJ8euE__IX2jERES5RWJHbqag
+https://www.google.com/maps/place/Defu+Industrial+Park+B/data=!4m7!3m6!1s0x31da1797c91cd935:0x38a15f8b8cfa94fe!8m2!3d1.356395!4d103.897505!16s%2Fg%2F11jfd0rrqx!19sChIJNdkcyZcX2jER_pT6jItfoTg
+https://www.google.com/maps/place/Sunnybay+Transport+Pte+Ltd/data=!4m7!3m6!1s0x31da17faeb58142d:0x89f386692056fe4e!8m2!3d1.3372119!4d103.902806!16s%2Fg%2F11r2rt915p!19sChIJLRRY6_oX2jERTv5WIGmG84k
