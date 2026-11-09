@@ -5784,3 +5784,7 @@ https://www.google.com/maps/place/Genesis+Global/data=!4m7!3m6!1s0x31da17752e869
 https://www.google.com/maps/place/1Stop+-+Digital+LED+Display+%7C+Banner+Display+%7C+Building+Signage/data=!4m7!3m6!1s0x31da178a65156dff:0xc4f9e400acb8d86c!8m2!3d1.3307564!4d103.8978029!16s%2Fg%2F11lcmqjbgf!19sChIJ_20VZYoX2jERbNi4rADk-cQ
 https://www.google.com/maps/place/Smitten+PR/data=!4m7!3m6!1s0x31da22d386834873:0x6f0f0ac0d310967d!8m2!3d1.333427!4d103.8942808!16s%2Fg%2F11fmwv4bb3!19sChIJc0iDhtMi2jERfZYQ08AKD28
 https://www.google.com/maps/place/Wishbone+Digital+Group/data=!4m7!3m6!1s0x31da186d9d2f75df:0x6fdd5c8371d8afb5!8m2!3d1.3250644!4d103.8912437!16s%2Fg%2F1td5j67g!19sChIJ33UvnW0Y2jERta_YcYNc3W8
+https://www.google.com/maps/place/BlackBlue+Media+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3ab2609e3:0x9f16090b23f52756!8m2!3d1.3340624!4d103.8955299!16s%2Fg%2F11bttrnt68!19sChIJ4wkmq_MX2jERVif1IwsJFp8
+https://www.google.com/maps/place/Sixmoredays+Pte.+Ltd./data=!4m7!3m6!1s0x31da178ccc22e153:0x68b74fb5797bc9a3!8m2!3d1.3322382!4d103.8907615!16s%2Fg%2F11c1ws6fz5!19sChIJU-EizIwX2jERo8l7ebVPt2g
+https://www.google.com/maps/place/Vantage+Digital/data=!4m7!3m6!1s0x31da17d2c6c9e123:0x2e9c88949b567668!8m2!3d1.3329283!4d103.8939529!16s%2Fg%2F11pv9704tn!19sChIJI-HJxtIX2jERaHZWm5SInC4
+https://www.google.com/maps/place/VUE+TECH+PTE+LTD/data=!4m7!3m6!1s0x31da17f8cf3869ad:0xade90d1c7e6216fa!8m2!3d1.3292666!4d103.8967562!16s%2Fg%2F11j301kxgw!19sChIJrWk4z_gX2jER-hZifhwN6a0
