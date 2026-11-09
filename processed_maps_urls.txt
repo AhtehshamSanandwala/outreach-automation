@@ -4902,3 +4902,7 @@ https://www.google.com/maps/place/Ban+Yak+Lee+Trading+Co/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Antioch+Singapore+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da19cbd3e0f91b:0x27afe7003f2fb6b!8m2!3d1.31033!4d103.86265!16s%2Fg%2F1w9xzmly!19sChIJG_ng08sZ2jERa_vyA3D-egI
 https://www.google.com/maps/place/Intercontinental+Timber+%26+Trading+Co./data=!4m7!3m6!1s0x31da19c9f734660f:0xf12318ee2a62ad36!8m2!3d1.3084168!4d103.8621982!16s%2Fg%2F1pty73w4j!19sChIJD2Y098kZ2jERNq1iKu4YI_E
 https://www.google.com/maps/place/Genwell+Singapore/data=!4m7!3m6!1s0x31da19465f57e673:0x21a51fdab66da554!8m2!3d1.3102564!4d103.8644714!16s%2Fg%2F11h2clwbwn!19sChIJc-ZXX0YZ2jERVKVtttofpSE
+https://www.google.com/maps/place/Kinetex+Trading+Co/data=!4m7!3m6!1s0x31da19b37f6c7587:0x55745b047d661c6d!8m2!3d1.303492!4d103.8643589!16s%2Fg%2F1vgwz833!19sChIJh3Vsf7MZ2jERbRxmfQRbdFU
+https://www.google.com/maps/place/Seah+Bros+Trading+Co/data=!4m7!3m6!1s0x31da19c9f598826d:0xc1ad63b12dba51b2!8m2!3d1.3083678!4d103.8621159!16s%2Fg%2F1thvdfyj!19sChIJbYKY9ckZ2jERslG6LbFjrcE
+https://www.google.com/maps/place/ABC+Trading+House/data=!4m7!3m6!1s0x31da19c9f6f9c24b:0x3a617512ba2a289a!8m2!3d1.3088064!4d103.8616134!16s%2Fg%2F1ptzds28n!19sChIJS8L59skZ2jERmigquhJ1YTo
+https://www.google.com/maps/place/Kin+Haw+Trading+Co/data=!4m7!3m6!1s0x31da19c47c77873b:0x66e9cd278caf0b3c!8m2!3d1.3145384!4d103.8511091!16s%2Fg%2F1ptyc_5x2!19sChIJO4d3fMQZ2jERPAuvjCfN6WY
