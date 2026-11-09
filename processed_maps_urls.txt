@@ -4142,3 +4142,4 @@ https://www.google.com/maps/place/IC+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da198c
 https://www.google.com/maps/place/Grep+Tech+Pte+Ltd/data=!4m7!3m6!1s0x31da17fa0fc59a39:0x74ad889d5cf9e7bb!8m2!3d1.3146098!4d103.8773822!16s%2Fg%2F1pzqxkjz_!19sChIJOZrFD_oX2jERu-f5XJ2IrXQ
 https://www.google.com/maps/place/Nitori+Bugis/data=!4m7!3m6!1s0x31da19005f314f65:0x7a61ed245813ab82!8m2!3d1.2996183!4d103.8554155!16s%2Fg%2F11xt5grdl2!19sChIJZU8xXwAZ2jERgqsTWCTtYXo
 https://www.google.com/maps/place/Softlink+Global+%28SG%29+Pte+Ltd/data=!4m7!3m6!1s0x31da196a3fb5f00f:0xf3004a036aee80d6!8m2!3d1.2967615!4d103.8546068!16s%2Fg%2F11t1qnq6z7!19sChIJD_C1P2oZ2jER1oDuagNKAPM
+https://www.google.com/maps/place/VIVAIA+Singapore+Bugis+Junction/data=!4m7!3m6!1s0x31da196eeb26851b:0xcd531af1ed74095f!8m2!3d1.2994134!4d103.8554695!16s%2Fg%2F11l2jbdrn9!19sChIJG4Um624Z2jERXwl07fEaU80
