@@ -4719,3 +4719,4 @@ https://www.google.com/maps/place/CTC+Corporate+Management+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/MC+Consulting/data=!4m7!3m6!1s0x31da190dd665cac1:0x9d592e7806bab3ff!8m2!3d1.3120056!4d103.8629564!16s%2Fg%2F1ptwm8mbk!19sChIJwcpl1g0Z2jER_7O6BnguWZ0
 https://www.google.com/maps/place/Mustafa+Consultancy+Services/data=!4m7!3m6!1s0x31da19c70a9f23d1:0x2e0ab5943f52ff3f!8m2!3d1.3086791!4d103.8580783!16s%2Fg%2F11cppv_2zf!19sChIJ0SOfCscZ2jERP_9SP5S1Ci4
 https://www.google.com/maps/place/SP+Consulting/data=!4m7!3m6!1s0x31da1829fbfa5a55:0xb15e9907c4446704!8m2!3d1.326049!4d103.874203!16s%2Fg%2F1w8w7j9l!19sChIJVVr6-ykY2jERBGdExAeZXrE
+https://www.google.com/maps/place/PointStar+Pte+Ltd+%28Singapore%29+-+A+Cloud+Technology+Consulting+Firm/data=!4m7!3m6!1s0x31da1a4de0fbc6d3:0x40f37c4d9561fac7!8m2!3d1.319788!4d103.865101!16s%2Fg%2F1tjdj8fd!19sChIJ08b74E0a2jERx_phlU1880A
