@@ -4146,3 +4146,4 @@ https://www.google.com/maps/place/VIVAIA+Singapore+Bugis+Junction/data=!4m7!3m6!
 https://www.google.com/maps/place/Smartcare+International/data=!4m7!3m6!1s0x31da19b100b39035:0x1f8a40c432f66109!8m2!3d1.3007799!4d103.8596724!16s%2Fg%2F1ptzn3p9y!19sChIJNZCzALEZ2jERCWH2MsRAih8
 https://www.google.com/maps/place/Bugis+Street/data=!4m7!3m6!1s0x31da19baf4d6b48f:0x2401a1425e650342!8m2!3d1.3001991!4d103.8552015!16zL20vMDcxazBt!19sChIJj7TW9LoZ2jERQgNlXkKhASQ
 https://www.google.com/maps/place/Moomoo+Store+-+Bugis/data=!4m7!3m6!1s0x31da19d40236ee3d:0xeb72d88ede0c4dc9!8m2!3d1.2985506!4d103.8557916!16s%2Fg%2F11z0wbykxj!19sChIJPe42AtQZ2jERyU0M3o7Ycus
+https://www.google.com/maps/place/OWNDAYS+Bugis+Junction/data=!4m7!3m6!1s0x31da19b02f2b8c9d:0xae9d18808abd5f5e!8m2!3d1.2988597!4d103.8555479!16s%2Fg%2F11ry94sxff!19sChIJnYwrL7AZ2jERXl-9ioAYna4
