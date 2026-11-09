@@ -5779,3 +5779,4 @@ https://www.google.com/maps/place/PropertyBoom+Singapore/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/AM+Collective+Pte.+Ltd./data=!4m7!3m6!1s0x31da198a7c7420f5:0xd458b50633218d21!8m2!3d1.3322153!4d103.8896515!16s%2Fg%2F11fnsz7tx9!19sChIJ9SB0fIoZ2jERIY0hMwa1WNQ
 https://www.google.com/maps/place/Brand+Brew/data=!4m7!3m6!1s0x31da19ce2b43976b:0x363957eabb5c1ad4!8m2!3d1.3272309!4d103.896311!16s%2Fg%2F11t6_7136b!19sChIJa5dDK84Z2jER1Bpcu-pXOTY
 https://www.google.com/maps/place/2B+Printing+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da19b1998cf441:0x74e4d3c3d827c7f7!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F1txflp14!19sChIJQfSMmbEZ2jER98cn2MPT5HQ
+https://www.google.com/maps/place/Oangle+Pte+Ltd/data=!4m7!3m6!1s0x31da1792336445f1:0xa8a752d01103f4a!8m2!3d1.3248571!4d103.8954574!16s%2Fg%2F11f03zl_37!19sChIJ8UVkM5IX2jERSj8QAS11igo
