@@ -4439,3 +4439,5 @@ https://www.google.com/maps/place/Kong+Studio/data=!4m7!3m6!1s0x31da1909581cea63
 https://www.google.com/maps/place/The+Project/data=!4m7!3m6!1s0x31da19b37eeaaaab:0x81a816bb15e16fb7!8m2!3d1.3115988!4d103.8632371!16s%2Fg%2F11gfg0nhdx!19sChIJq6rqfrMZ2jERt2_hFbsWqIE
 https://www.google.com/maps/place/Arch+Vogue+Pte+Ltd/data=!4m7!3m6!1s0x31da19cbebc7ef95:0x1f374d676a6aef94!8m2!3d1.3113909!4d103.8634616!16s%2Fg%2F1td67dkk!19sChIJle_H68sZ2jERlO9qamdNNx8
 https://www.google.com/maps/place/Shed+Studio/data=!4m7!3m6!1s0x31da19096d9db53d:0x3450b740d6f6d5cf!8m2!3d1.3019395!4d103.8641143!16s%2Fg%2F11qqq_ybhp!19sChIJPbWdbQkZ2jERz9X21kC3UDQ
+https://www.google.com/maps/place/Sixteen-O-Two+Advertising+N%27+Design/data=!4m7!3m6!1s0x31da196eecea674b:0x59ec8a5ac18d611e!8m2!3d1.3075547!4d103.8601966!16s%2Fg%2F1tc_65nm!19sChIJS2fq7G4Z2jERHmGNwVqK7Fk
+https://www.google.com/maps/place/Boopin+Singapore/data=!4m7!3m6!1s0x31da192833d69a79:0x55e745a29e125745!8m2!3d1.3099273!4d103.8650191!16s%2Fg%2F11tncknrgv!19sChIJeZrWMygZ2jERRVcSnqJF51U
