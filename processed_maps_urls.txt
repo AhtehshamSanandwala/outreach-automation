@@ -3922,3 +3922,4 @@ https://www.google.com/maps/place/TCI+Express+Pte.+Ltd./data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/LBC+Aircargo+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19926d955555:0xdd6a1d6a7140b2b7!8m2!3d1.3045755!4d103.8340344!16s%2Fg%2F11b6dg9htr!19sChIJVVWVbZIZ2jERt7JAcWodat0
 https://www.google.com/maps/place/Jolly-B+Box+Express+Pte+Ltd/data=!4m7!3m6!1s0x31da19926d40711d:0xca7137585a5b46c9!8m2!3d1.3045795!4d103.8340621!16s%2Fg%2F1tjdj8c7!19sChIJHXFAbZIZ2jERyUZbWlg3cco
 https://www.google.com/maps/place/DHL+Express+Service+Point+-+Priority+Mail+Lucky+Plaza+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19923890998d:0x5bd7b08373c8e35e!8m2!3d1.3047677!4d103.8336903!16s%2Fg%2F11vjp5fq91!19sChIJjZmQOJIZ2jERXuPIc4Ow11s
+https://www.google.com/maps/place/DHL+Express+Service+Point+-+UMAC+Express+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da22c7d01fea41:0xe7e42f348fffa2db!8m2!3d1.3045795!4d103.8340621!16s%2Fg%2F11b70fpr_x!19sChIJQeof0Mci2jER26L_jzQv5Oc
