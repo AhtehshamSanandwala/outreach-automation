@@ -5037,3 +5037,6 @@ https://www.google.com/maps/place/envspace+by+envregy/data=!4m7!3m6!1s0x31da1973
 https://www.google.com/maps/place/Hima+Marine+Transport+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da19c7d3a6a845:0xcd5ba24b2ef166d!8m2!3d1.3099366!4d103.8559371!16s%2Fg%2F1tfc_xgt!19sChIJRaim08cZ2jERbRbvsiS61Qw
 https://www.google.com/maps/place/Tri-Wins+Transport+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da19ca1cde4c49:0xb537ca2491aaec1a!8m2!3d1.3088091!4d103.8616107!16s%2Fg%2F1thvdfyk!19sChIJSUzeHMoZ2jERGuyqkSTKN7U
 https://www.google.com/maps/place/CEVA+Logistics/data=!4m7!3m6!1s0x31da0569c142023d:0x38ce45524f4f301f!8m2!3d1.3240776!4d103.8758725!16s%2Fg%2F1ptw8s9nz!19sChIJPQJCwWkF2jERHzBPT1JFzjg
+https://www.google.com/maps/place/LNS+Express+International+Pte+Ltd/data=!4m7!3m6!1s0x31da182d5ff79bf3:0xd7da2db7f634b0ca!8m2!3d1.3171755!4d103.8692313!16s%2Fg%2F1tczbdnc!19sChIJ85v3Xy0Y2jERyrA09rct2tc
+https://www.google.com/maps/place/Fastrans+Forwarding+%28s%29/data=!4m7!3m6!1s0x31da1827e1a6f8a5:0x8d41bc6502bd2f96!8m2!3d1.324926!4d103.879401!16s%2Fg%2F1tgx43fy!19sChIJpfim4ScY2jERli-9AmW8QY0
+https://www.google.com/maps/place/Multi+Forwarding+Pte+Ltd/data=!4m7!3m6!1s0x31da182d7c72e2f7:0xa98c7595f0e5788a!8m2!3d1.317291!4d103.870443!16s%2Fg%2F11btwmdn09!19sChIJ9-JyfC0Y2jERinjl8JV1jKk
