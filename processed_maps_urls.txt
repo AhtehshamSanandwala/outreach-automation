@@ -6048,3 +6048,4 @@ https://www.google.com/maps/place/Editor+Interior/data=!4m7!3m6!1s0x31da17feeef3
 https://www.google.com/maps/place/Nusantara+Prime+Consulting+Pte.+Ltd./data=!4m7!3m6!1s0x31da1a5532962d8d:0x300055cdd5fd82ae!8m2!3d1.3248178!4d103.891251!16s%2Fg%2F11fslqxzqv!19sChIJjS2WMlUa2jERroL91c1VADA
 https://www.google.com/maps/place/Three60+Degrees+Consulting/data=!4m7!3m6!1s0x31da178aca5d5383:0x59ca9471bd4bb89b!8m2!3d1.327433!4d103.89054!16s%2Fg%2F11b7p_g2dg!19sChIJg1NdyooX2jERm7hLvXGUylk
 https://www.google.com/maps/place/E-Office+Synergy+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da170029d5a621:0xdb9cd0dca42858ca!8m2!3d1.330527!4d103.88983!16s%2Fg%2F11lmdp4ptw!19sChIJIabVKQAX2jERylgopNzQnNs
+https://www.google.com/maps/place/Nexus+Link+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3e467b30f:0x8e4e3664595d5692!8m2!3d1.332292!4d103.892062!16s%2Fg%2F1hhmc65nb!19sChIJD7Nn5PMX2jERklZdWWQ2To4
