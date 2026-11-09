@@ -4050,3 +4050,4 @@ https://www.google.com/maps/place/Pan+Medical+Supply/data=!4m7!3m6!1s0x31da103fe
 https://www.google.com/maps/place/Quasi-S+Pte+Ltd/data=!4m7!3m6!1s0x31da12268215c9fd:0x7781791ad8ba40f5!8m2!3d1.4398508!4d103.7836836!16s%2Fg%2F11bw_4j4ks!19sChIJ_ckVgiYS2jER9UC62Bp5gXc
 https://www.google.com/maps/place/Singapore+Ginkgo+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da19a32425276f:0xa889690ba1d03795!8m2!3d1.297649!4d103.848116!16s%2Fg%2F1pv2tqwz7!19sChIJbyclJKMZ2jERlTfQoQtpiag
 https://www.google.com/maps/place/Northman+%28Asia%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da1996faec24df:0xa2c93c960d7da376!8m2!3d1.3013001!4d103.8413111!16s%2Fg%2F11c59w0fdl!19sChIJ3yTs-pYZ2jERdqN9DZY8yaI
+https://www.google.com/maps/place/Assurich+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da16b66ba9d999:0xc6cf41087387dc66!8m2!3d1.3840046!4d103.8260536!16s%2Fg%2F1tkngzk0!19sChIJmdmpa7YW2jERZtyHcwhBz8Y
