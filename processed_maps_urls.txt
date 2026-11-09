@@ -3805,3 +3805,4 @@ https://www.google.com/maps/place/The+Orchard+Store/data=!4m7!3m6!1s0x31da199727
 https://www.google.com/maps/place/Dow+Chemical+Pacific+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da199169c780e3:0x5f813e005cb24efd!8m2!3d1.3024935!4d103.8373073!16s%2Fg%2F1tfc8q53!19sChIJ44DHaZEZ2jER_U6yXAA-gV8
 https://www.google.com/maps/place/Worldview+Pte+Ltd/data=!4m7!3m6!1s0x31da19918d524ed5:0x3d353349a72b70c0!8m2!3d1.302626!4d103.834684!16s%2Fg%2F1pt_vc3my!19sChIJ1U5SjZEZ2jERwHArp0kzNT0
 https://www.google.com/maps/place/Life+by+City+Energy/data=!4m7!3m6!1s0x31da19204a54d43d:0xcde902d19c5e5e4a!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F11fpsyv241!19sChIJPdRUSiAZ2jERSl5enNEC6c0
+https://www.google.com/maps/place/FoodBroker/data=!4m7!3m6!1s0x31da19922ebdd8ff:0x40f84480d98729f0!8m2!3d1.3036159!4d103.8355742!16s%2Fg%2F1pt_16216!19sChIJ_9i9LpIZ2jER8CmH2YBE-EA
