@@ -4159,3 +4159,4 @@ https://www.google.com/maps/place/OWNDAYS+BUGIS%EF%BC%8B/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Bugis%2B/data=!4m7!3m6!1s0x31da19baef4923c1:0xd2dad49697017fb9!8m2!3d1.2995955!4d103.8542191!16s%2Fm%2F0416mcp!19sChIJwSNJ77oZ2jERuX8Bl5bU2tI
 https://www.google.com/maps/place/QB+PREMIUM+%28Bugis+Junction%29/data=!4m7!3m6!1s0x31da19ba85b1b21d:0x1dd447ac4ed5f82e!8m2!3d1.299667!4d103.8558707!16s%2Fg%2F1wk6x8rm!19sChIJHbKxhboZ2jERLvjVTqxH1B0
 https://www.google.com/maps/place/Bugis/data=!4m7!3m6!1s0x31da19b073353ebb:0x9cb819dd3ab95d82!8m2!3d1.3001701!4d103.8561248!16zL20vMDZ4eWNx!19sChIJuz41c7AZ2jERgl25Ot0ZuJw
+https://www.google.com/maps/place/BSM/data=!4m7!3m6!1s0x31da1958170bfbe5:0x78fb045cd2d65898!8m2!3d1.2988616!4d103.8538528!16s%2Fg%2F11f6fz0bjs!19sChIJ5fsLF1gZ2jERmFjW0lwE-3g
