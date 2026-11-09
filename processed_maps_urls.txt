@@ -3526,3 +3526,4 @@ https://www.google.com/maps/place/JABEN/data=!4m7!3m6!1s0x31da19a7285fca2d:0x5c0
 https://www.google.com/maps/place/Uni-bel+Pte.+Ltd./data=!4m7!3m6!1s0x31da178763c96c3b:0xd106c4229d48c261!8m2!3d1.326544!4d103.875761!16s%2Fg%2F1tfb_jzf!19sChIJO2zJY4cX2jERYcJInSLEBtE
 https://www.google.com/maps/place/Verbatim+Marketing+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da191029d8c79d:0xe183313046782a7d!8m2!3d1.2796705!4d103.8539888!16s%2Fg%2F1pv26hncz!19sChIJncfYKRAZ2jERfSp4RjAxg-E
 https://www.google.com/maps/place/Calia+Technology+Pte.+Ltd./data=!4m7!3m6!1s0x4308849d994eb459:0xdee1ad38e309f67c!8m2!3d1.295414!4d103.8596823!16s%2Fg%2F11y4q2wqqq!19sChIJWbROmZ2ECEMRfPYJ4zit4d4
+https://www.google.com/maps/place/Norit+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da19a56254cc8b:0x9a3bfd1a9fcd192f!8m2!3d1.2966381!4d103.8561188!16s%2Fg%2F11cs5q35bg!19sChIJi8xUYqUZ2jERLxnNnxr9O5o
