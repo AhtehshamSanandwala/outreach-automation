@@ -4623,3 +4623,4 @@ https://www.google.com/maps/place/Integrity+Partners+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Anveron+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da190e5dca3241:0x593a4bc34ee116c0!8m2!3d1.3076428!4d103.8811865!16s%2Fg%2F1ptzd3yqg!19sChIJQTLKXQ4Z2jERwBbhTsNLOlk
 https://www.google.com/maps/place/Vatra+Search/data=!4m7!3m6!1s0x840db4ea94246dbd:0x7be3c1f5cdbb552d!8m2!3d1.2967615!4d103.8546068!16s%2Fg%2F11x8qw_mqr!19sChIJvW0klOq0DYQRLVW7zfXB43s
 https://www.google.com/maps/place/Vectra+Search+Pte+Ltd/data=!4m7!3m6!1s0x31da19fe901f2a6f:0x15afcabe584f1918!8m2!3d1.2934951!4d103.8602587!16s%2Fg%2F11lnlmbjvc!19sChIJbyofkP4Z2jERGBlPWL7KrxU
+https://www.google.com/maps/place/Gateway+Search+Pte+Ltd/data=!4m7!3m6!1s0x31da196ad8d6373f:0xa0ec974f32c47105!8m2!3d1.3184358!4d103.8927403!16s%2Fg%2F11gy6vlv17!19sChIJPzfW2GoZ2jERBXHEMk-X7KA
