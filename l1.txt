@@ -1461,3 +1461,4 @@ https://www.linkedin.com/company/jt-bizcorp-services-pte-ltd&quot;]}]]],&quot;mo
 https://www.linkedin.com/company/jt-bizcorp-services-pte-ltd&quot;]}]]],&quot;mobile&quot;:[0,{&quot;top&quot;:[0,470],&quot;left&quot;:[0,0],&quot;width&quot;:[0,328],&quot;height&quot;:[0,20]}],&quot;desktop&quot;:[0,{&quot;top&quot;:[0,396],&quot;left&quot;:[0,523],&quot;width&quot;:[0,178],&quot;height&quot;:[0,20]}],&quot;settings&quot;:[0,{&quot;styles&quot;:[0,{&quot;align&quot;:[0,&quot;&quot;],&quot;justify&quot;:[0,&quot;center&quot;],&quot;icon-size&quot;:[0,&quot;20px&quot;],&quot;icon-color&quot;:[0,&quot;rgb(248,
 https://www.linkedin.com/company/kbx-resources
 https://www.linkedin.com/company/advenz-pte-ltd
+https://www.linkedin.com/company/flashaccountant
