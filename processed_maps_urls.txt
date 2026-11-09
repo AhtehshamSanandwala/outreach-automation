@@ -5853,3 +5853,5 @@ https://www.google.com/maps/place/The+Vine+Design+%26+Construct+Pte+Ltd/data=!4m
 https://www.google.com/maps/place/AntiCAD/data=!4m7!3m6!1s0x31da178cdb0833c5:0x5493f4606a40c426!8m2!3d1.3321708!4d103.8896332!16s%2Fg%2F11h4djj9ss!19sChIJxTMI24wX2jERJsRAamD0k1Q
 https://www.google.com/maps/place/Sign+%26+Craft+Pte+Ltd/data=!4m7!3m6!1s0x31da17f4a8b79b13:0x23cfed10a418077c!8m2!3d1.3308682!4d103.8938277!16s%2Fg%2F1trxb6q9!19sChIJE5u3qPQX2jERfAcYpBDtzyM
 https://www.google.com/maps/place/Winston+Creative+Pte+Ltd/data=!4m7!3m6!1s0x31da17a6abb7c2ab:0xeaa8b09c67aa6c0e!8m2!3d1.356848!4d103.9878687!16s%2Fg%2F11vwp35m60!19sChIJq8K3q6YX2jERDmyqZ5ywqOo
+https://www.google.com/maps/place/Acclaim!+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da17942cbf0c43:0xdaef2ea9450013e0!8m2!3d1.326293!4d103.896145!16s%2Fg%2F1tjgxwvr!19sChIJQwy_LJQX2jER4BMARaku79o
+https://www.google.com/maps/place/SGC+AUTOGRAPHICS+%26+SIGNS/data=!4m7!3m6!1s0x31da17f494ea6f55:0x780524fa714ebc1b!8m2!3d1.3298654!4d103.8923573!16s%2Fg%2F11fzy_fy7g!19sChIJVW_qlPQX2jERG7xOcfokBXg
