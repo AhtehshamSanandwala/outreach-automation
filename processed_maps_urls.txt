@@ -4844,3 +4844,4 @@ https://www.google.com/maps/place/HAWKO+Trading+Co+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Hock+Thiam+Heng+Trading+Co/data=!4m7!3m6!1s0x31da19c95fd75007:0xa70a908695fff90f!8m2!3d1.311042!4d103.8622147!16s%2Fg%2F1pty_z72f!19sChIJB1DXX8kZ2jERD_n_lYaQCqc
 https://www.google.com/maps/place/SIJI+TRADING+PTE.+LTD/data=!4m7!3m6!1s0x31da19b1b119be41:0x26d3de0bbbbfc21f!8m2!3d1.299739!4d103.860815!16s%2Fg%2F11b5yphcpz!19sChIJQb4ZsbEZ2jERH8K_uwve0yY
 https://www.google.com/maps/place/Yoteri+Trading+Co/data=!4m7!3m6!1s0x31da182ce816ef3f:0x17a245dbd269a370!8m2!3d1.3205706!4d103.8693278!16s%2Fg%2F1v1shqqy!19sChIJP-8W6CwY2jERcKNp0ttFohc
+https://www.google.com/maps/place/Khatena+Masood+%26+Sons+Trading/data=!4m7!3m6!1s0x31da19ba3d192147:0xe4b4c78bffeb1b7e!8m2!3d1.312312!4d103.8630181!16s%2Fg%2F1tdyc4g2!19sChIJRyEZPboZ2jERfhvr_4vHtOQ
