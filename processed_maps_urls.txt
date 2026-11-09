@@ -5793,3 +5793,4 @@ https://www.google.com/maps/place/Digital+Plus/data=!4m7!3m6!1s0x31da1753ef2a23c
 https://www.google.com/maps/place/Flask+Medialab+Pte.+Ltd./data=!4m7!3m6!1s0x31da1a6ac7359a67:0x30ffb45027058157!8m2!3d1.3258924!4d103.8956322!16s%2Fg%2F1tlgvgwz!19sChIJZ5o1x2oa2jERV4EFJ1C0_zA
 https://www.google.com/maps/place/Mandate+Communications+Pte+Ltd/data=!4m7!3m6!1s0x100405101ca0bcf3:0xf683967968d5fc7a!8m2!3d1.3335425!4d103.8971405!16s%2Fg%2F11b631d7pr!19sChIJ87ygHBAFBBARevzVaHmWg_Y
 https://www.google.com/maps/place/Supercharge/data=!4m7!3m6!1s0x31da17cca5b0b7af:0x22993a3a012a796!8m2!3d1.3293543!4d103.891918!16s%2Fg%2F11b6br_y8t!19sChIJr7ewpcwX2jERlqcSoKOTKQI
+https://www.google.com/maps/place/ZPIXEL/data=!4m7!3m6!1s0x31da19b05623af05:0x6d271f722292a21b!8m2!3d1.3334617!4d103.8917492!16s%2Fg%2F11b6j7440y!19sChIJBa8jVrAZ2jERG6KSInIfJ20
