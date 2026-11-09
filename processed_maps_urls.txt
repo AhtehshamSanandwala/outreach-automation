@@ -4164,3 +4164,4 @@ https://www.google.com/maps/place/BizCube/data=!4m7!3m6!1s0x31da173ef70539f5:0x3
 https://www.google.com/maps/place/Mercure+Singapore+Bugis/data=!4m7!3m6!1s0x31da19bb220c7639:0xfc3a31ade85ea4bb!8m2!3d1.299684!4d103.853114!16s%2Fg%2F11cn9p6gqw!19sChIJOXYMIrsZ2jERu6Re6K0xOvw
 https://www.google.com/maps/place/Benjamin+Barker,+Bugis+Junction/data=!4m7!3m6!1s0x31da199ecc89de8b:0x1138c12d51f9ce7c!8m2!3d1.2993645!4d103.8551969!16s%2Fg%2F11s2l3x03s!19sChIJi96JzJ4Z2jERfM75US3BOBE
 https://www.google.com/maps/place/Midooree+-+Bugis+Junction/data=!4m7!3m6!1s0x31da19ba97d65555:0xd34f5a4142731dfd!8m2!3d1.2993001!4d103.8552762!16s%2Fg%2F1pxq8s14y!19sChIJVVXWl7oZ2jER_R1zQkFaT9M
+https://www.google.com/maps/place/PRISM%2B+Funan/data=!4m7!3m6!1s0x31da1946e6784dd3:0x3812b82acc100363!8m2!3d1.2911354!4d103.8501524!16s%2Fg%2F11l2d881hh!19sChIJ00145kYZ2jERYwMQzCq4Ejg
