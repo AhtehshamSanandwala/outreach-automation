@@ -4752,3 +4752,4 @@ https://www.google.com/maps/place/Shiki+SG/data=!4m7!3m6!1s0x49a34069ce37559:0x2
 https://www.google.com/maps/place/Dafong+Trading+Pte.+Ltd./data=!4m7!3m6!1s0x31da178637ffffff:0x577773158af6764c!8m2!3d1.3289786!4d103.8781341!16s%2Fg%2F1tdql4zh!19sChIJ____N4YX2jERTHb2ihVzd1c
 https://www.google.com/maps/place/Cheng+Moh+Huat+Trading+Supplier+Co/data=!4m7!3m6!1s0x31da183296dcad53:0x3d1161c7fdeb42cc!8m2!3d1.316277!4d103.869741!16s%2Fg%2F1tfprsq8!19sChIJU63cljIY2jERzELr_cdhET0
 https://www.google.com/maps/place/Oh+Guan+Lee+Pte.+Ltd.+%E8%83%A1%E5%85%83%E5%88%A9%E7%A7%81%E4%BA%BA%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/data=!4m7!3m6!1s0x31da19cb63a2e77b:0xb58abaa2182fb341!8m2!3d1.3113302!4d103.8672361!16s%2Fg%2F1pv5xxqjd!19sChIJe-eiY8sZ2jERQbMvGKK6irU
+https://www.google.com/maps/place/Goldplus+Universal/data=!4m7!3m6!1s0x31da19ac9d1e0699:0xc0b01065ab6a815e!8m2!3d1.3114852!4d103.8669269!16s%2Fg%2F11nnlfyc8f!19sChIJmQYenawZ2jERXoFqq2UQsMA
