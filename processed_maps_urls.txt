@@ -5750,3 +5750,4 @@ https://www.google.com/maps/place/Hal+Ex+Consolidated+Freight/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Paya+Lebar+AMC+Terminal/data=!4m7!3m6!1s0x31da17007ee43fed:0x156cda8821daf925!8m2!3d1.3445162!4d103.8990878!16s%2Fg%2F11xg595126!19sChIJ7T_kfgAX2jERJfnaIYjabBU
 https://www.google.com/maps/place/Sinkarta+Freight+Express+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17eef860921b:0x45cd87e1acd9169!8m2!3d1.3380859!4d103.8986304!16s%2Fg%2F1tp_3x_2!19sChIJG5Jg-O4X2jERaZHNGn7YXAQ
 https://www.google.com/maps/place/Sunlit+Freight+Forwarding/data=!4m7!3m6!1s0x31da17f668b33541:0xe4a1248feed669c1!8m2!3d1.3280486!4d103.8981054!16s%2Fg%2F1ptx_67ry!19sChIJQTWzaPYX2jERwWnW7o8koeQ
+https://www.google.com/maps/place/Ace+Equipment+%281985%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cdb2dfdd0a5:0x8c0a2504510eff88!8m2!3d1.3278976!4d103.8907899!16s%2Fg%2F1td5nsyz!19sChIJpdD9Lds82jERiP8OUQQlCow
