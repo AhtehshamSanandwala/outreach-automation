@@ -3839,3 +3839,4 @@ https://www.google.com/maps/place/Colorfull+Store/data=!4m7!3m6!1s0xa0ac18f7142d
 https://www.google.com/maps/place/Infiniti+Jewels/data=!4m7!3m6!1s0x31da1965f32864fb:0x406057807c019104!8m2!3d1.3039054!4d103.8355763!16s%2Fg%2F11h5s35xqp!19sChIJ-2Qo82UZ2jERBJEBfIBXYEA
 https://www.google.com/maps/place/GRATiAE+Takashimaya/data=!4m7!3m6!1s0x31da19c13f01b623:0xaa8c7407e03d5086!8m2!3d1.3025492!4d103.8347392!16s%2Fg%2F11fjzx52h8!19sChIJI7YBP8EZ2jERhlA94Ad0jKo
 https://www.google.com/maps/place/Mt.Sapola+Singapore/data=!4m7!3m6!1s0x31da198ab3814a9f:0xf4da7db94899b8ae!8m2!3d1.3024081!4d103.8347009!16s%2Fg%2F11h92xfpmb!19sChIJn0qBs4oZ2jERrriZSLl92vQ
+https://www.google.com/maps/place/MaggieMoo%27s+Singapore+-+313@Somerset/data=!4m7!3m6!1s0x31da199126306c81:0x91ca9ae5b4b32a69!8m2!3d1.301001!4d103.83824!16s%2Fg%2F1pt_6vfg7!19sChIJgWwwJpEZ2jERaSqztOWaypE
