@@ -5150,3 +5150,4 @@ https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3
 https://www.google.com/maps/place/CSME+Power+Systems+Pte+Ltd/data=!4m7!3m6!1s0x31da19c9816488e5:0x363c95bad27966b9!8m2!3d1.3098594!4d103.8618785!16s%2Fg%2F1tplmv63!19sChIJ5YhkgckZ2jERuWZ50rqVPDY
 https://www.google.com/maps/place/IXEN+Robotics/data=!4m7!3m6!1s0x31da19cbec369bf3:0x191f105653b516e3!8m2!3d1.3116798!4d103.8632045!16s%2Fg%2F11cnn2fj4b!19sChIJ85s27MsZ2jER4xa1U1YQHxk
 https://www.google.com/maps/place/Bio-Pointe+Pte+Ltd/data=!4m7!3m6!1s0x31da17f4546e9e85:0x4eb0027bf9583f04!8m2!3d1.315847!4d103.8655132!16s%2Fg%2F1ptw7mptj!19sChIJhZ5uVPQX2jERBD9Y-XsCsE4
+https://www.google.com/maps/place/Wheelchair88+Pte+Ltd/data=!4m7!3m6!1s0x31da19563b6a291f:0x1bdd1931fe5211a6!8m2!3d1.3114856!4d103.8632251!16s%2Fg%2F11lv8gjzxs!19sChIJHylqO1YZ2jERphFS_jEZ3Rs
