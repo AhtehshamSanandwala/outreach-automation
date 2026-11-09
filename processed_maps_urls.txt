@@ -3991,3 +3991,4 @@ https://www.google.com/maps/place/Beta-Line+International+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/Cupral+Asia+Pte.+Ltd./data=!4m7!3m6!1s0x31da1991340b9f3d:0x5458da564a3c010c!8m2!3d1.301762!4d103.838622!16s%2Fg%2F11h51k52js!19sChIJPZ8LNJEZ2jERDAE8SlbaWFQ
 https://www.google.com/maps/place/Norwood+Investments+Pte+Ltd/data=!4m7!3m6!1s0x31da19913420c21f:0x4002eb7f1b835f!8m2!3d1.3016679!4d103.8385816!16s%2Fg%2F1tfv2n78!19sChIJH8IgNJEZ2jERX4Mbf-sCQAA
 https://www.google.com/maps/place/Cold+Storage/data=!4m7!3m6!1s0x31da198cb7e58d75:0x7331432ce579750!8m2!3d1.3074242!4d103.8288303!16s%2Fg%2F11bx9cckxh!19sChIJdY3lt4wZ2jERUJdXzjIUMwc
+https://www.google.com/maps/place/Marine+Venture+Pte+Ltd/data=!4m7!3m6!1s0x31da1996fb319221:0xec447fd0e5f39fec!8m2!3d1.3012067!4d103.8411571!16s%2Fg%2F1tyytn0s!19sChIJIZIx-5YZ2jER7J_z5dB_ROw
