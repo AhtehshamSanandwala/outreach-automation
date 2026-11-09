@@ -4856,3 +4856,4 @@ https://www.google.com/maps/place/Song+Koon+Trading+Co/data=!4m7!3m6!1s0x31da19c
 https://www.google.com/maps/place/Komura+Trading+Co/data=!4m7!3m6!1s0x31da19c594d4356b:0xaff6dafefa57197e!8m2!3d1.3140759!4d103.855277!16s%2Fg%2F1v8hyyt_!19sChIJazXUlMUZ2jERfhlX-v7a9q8
 https://www.google.com/maps/place/88+Motor+Trading/data=!4m7!3m6!1s0x31da19bc0ff9e6e1:0x4e17ad8f73261f34!8m2!3d1.3036547!4d103.8612408!16s%2Fg%2F11ckqqr1hl!19sChIJ4eb5D7wZ2jERNB8mc4-tF04
 https://www.google.com/maps/place/LEEFON+FROZEN+FOOD+TRADING/data=!4m7!3m6!1s0x31da19cbec2c9be7:0xdd682c38832ec717!8m2!3d1.311647!4d103.863318!16s%2Fg%2F11f4pqzxxy!19sChIJ55ss7MsZ2jERF8cugzgsaN0
+https://www.google.com/maps/place/Tee+Hai+Trading+Co/data=!4m7!3m6!1s0x31da19d6bd739489:0x99d1ffd65e12c42f!8m2!3d1.3228769!4d103.8612779!16s%2Fg%2F1vrq74tm!19sChIJiZRzvdYZ2jERL8QSXtb_0Zk
