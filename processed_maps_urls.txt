@@ -4816,3 +4816,4 @@ https://www.google.com/maps/place/BeautyEdge/data=!4m7!3m6!1s0x31da3cd05a400001:
 https://www.google.com/maps/place/The+Postal+Supplies/data=!4m7!3m6!1s0x31da19e82bdae34f:0x2e29734a05391756!8m2!3d1.3152152!4d103.8668111!16s%2Fg%2F11ffkd4yyr!19sChIJT-PaK-gZ2jERVhc5BUpzKS4
 https://www.google.com/maps/place/Neogetic+International+Pte+Ltd/data=!4m7!3m6!1s0x31da196a80fab273:0x6727c2f2241bd9dd!8m2!3d1.3114852!4d103.8669269!16s%2Fg%2F11q8g60xrn!19sChIJc7L6gGoZ2jER3dkbJPLCJ2c
 https://www.google.com/maps/place/Progress+Healthcare+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da19c92987c851:0x4ae2fe6634187860!8m2!3d1.3120693!4d103.8594567!16s%2Fg%2F1td5tp2s!19sChIJUciHKckZ2jERYHgYNGb-4ko
+https://www.google.com/maps/place/Asia+Furniture+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da182d997f9233:0x94dbff2a82bb077e!8m2!3d1.3179684!4d103.8713225!16s%2Fg%2F1tf7d5lm!19sChIJM5J_mS0Y2jERfge7gir_25Q
