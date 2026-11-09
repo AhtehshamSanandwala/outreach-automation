@@ -5638,3 +5638,5 @@ https://www.google.com/maps/place/Okeanos+Trading+Co./data=!4m7!3m6!1s0x31da17c9
 https://www.google.com/maps/place/Lee+Wei+Trading+Co/data=!4m7!3m6!1s0x31da17c79c201db3:0x3c331f357fa9c5be!8m2!3d1.352397!4d103.8923779!16s%2Fg%2F1thw47h5!19sChIJsx0gnMcX2jERvsWpfzUfMzw
 https://www.google.com/maps/place/Chuan+Tech+Hardware+Trading/data=!4m7!3m6!1s0x31da17c92da84181:0x13f425ae21aa06e6!8m2!3d1.3572249!4d103.8968139!16s%2Fg%2F1ptxybrh9!19sChIJgUGoLckX2jER5gaqIa4l9BM
 https://www.google.com/maps/place/Dilon+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da17c987345941:0x3062e60a6ff35ff7!8m2!3d1.3589669!4d103.8937247!16s%2Fg%2F1pv0rjbwh!19sChIJQVk0h8kX2jER91_zbwrmYjA
+https://www.google.com/maps/place/Wei+Tat+Impex+Trading+Enterprise/data=!4m7!3m6!1s0x31da17c7ec9c46bf:0xc2c26774da8f8715!8m2!3d1.3533002!4d103.8925734!16s%2Fg%2F11c1ws7pd6!19sChIJv0ac7McX2jERFYeP2nRnwsI
+https://www.google.com/maps/place/Unitrio+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da17c09278e8df:0xf57b4258a7d7b756!8m2!3d1.3438263!4d103.8975263!16s%2Fg%2F1vxw5svf!19sChIJ3-h4ksAX2jERVrfXp1hCe_U
