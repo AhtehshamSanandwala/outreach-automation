@@ -7138,3 +7138,4 @@ https://www.google.com/maps/place/INTTRA+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd7b0b02
 https://www.google.com/maps/place/PT+Freeport+Indonesia+Co./data=!4m7!3m6!1s0x31da19e7e0002c1f:0xeb29a486ecc1170c!8m2!3d1.317181!4d103.843374!16s%2Fg%2F1ptwh8rlx!19sChIJHywA4OcZ2jERDBfB7IakKes
 https://www.google.com/maps/place/Emc+Computer+Systems/data=!4m7!3m6!1s0x31da3cda25411d9f:0xde8d5792620f9237!8m2!3d1.3366744!4d103.9672211!16s%2Fg%2F1tf6jq_v!19sChIJnx1BJdo82jERN5IPYpJXjd4
 https://www.google.com/maps/place/CCP/data=!4m7!3m6!1s0x31da3d00665abeab:0x651b901cd56385b3!8m2!3d1.3334535!4d103.9638017!16s%2Fg%2F11vzvhzgpr!19sChIJq75aZgA92jERs4Vj1RyQG2U
+https://www.google.com/maps/place/Changi+Transit+Hotel+Terminal+1/data=!4m7!3m6!1s0x31da3c89b6d6db2f:0x578bf6082550a488!8m2!3d1.3618915!4d103.9910067!16s%2Fg%2F11zcrzlpd_!19sChIJL9vWtok82jERiKRQJQj2i1c
