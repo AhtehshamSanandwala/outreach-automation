@@ -6785,3 +6785,4 @@ https://www.google.com/maps/place/Samsung+Experience+Store+Tampines+Mall/data=!4
 https://www.google.com/maps/place/Foodcrumz+Pte+Ltd/data=!4m7!3m6!1s0x31da3d092cb69cf5:0x4b7eaf8440cf46ce!8m2!3d1.3371364!4d103.9476126!16s%2Fg%2F11s8d401vb!19sChIJ9Zy2LAk92jERzkbPQISvfks
 https://www.google.com/maps/place/Amble+Tea+House/data=!4m7!3m6!1s0x31da3d224e437883:0x55e82ec76a88d54e!8m2!3d1.342806!4d103.952974!16s%2Fg%2F1tcyb_3b!19sChIJg3hDTiI92jERTtWIascu6FU
 https://www.google.com/maps/place/Epimaxx+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3d224fa36beb:0x2de82fcdcdcb4faa!8m2!3d1.342806!4d103.952974!16s%2Fg%2F1ptwl2skl!19sChIJ62ujTyI92jERqk_Lzc0v6C0
+https://www.google.com/maps/place/WeMake/data=!4m7!3m6!1s0x31da3d0f2bc0868b:0x55b9ed57eb00a530!8m2!3d1.355811!4d103.956476!16s%2Fg%2F11k00p8cnr!19sChIJi4bAKw892jERMKUA61ftuVU
