@@ -6333,3 +6333,4 @@ https://www.google.com/maps/place/MedicalAssistance4u/data=!4m7!3m6!1s0x31da1414
 https://www.google.com/maps/place/Metalis+Pte+Ltd/data=!4m7!3m6!1s0x31da17ed48f2432d:0x312952532b646d90!8m2!3d1.3303267!4d103.8956746!16s%2Fg%2F1tgcpcxs!19sChIJLUPySO0X2jERkG1kK1NSKTE
 https://www.google.com/maps/place/Stationery+World/data=!4m7!3m6!1s0x31da190d7c33da67:0x895e35a015e47cd0!8m2!3d1.3318311!4d103.8952108!16s%2Fg%2F11bwn1y72q!19sChIJZ9ozfA0Z2jER0HzkFaA1Xok
 https://www.google.com/maps/place/Amicus+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da19b99388b1b5:0xa7f1b127fabac794!8m2!3d1.3340799!4d103.8952776!16s%2Fg%2F11f2xy76px!19sChIJtbGIk7kZ2jERlMe6-iex8ac
+https://www.google.com/maps/place/Aik+Chin+Hin+Industrial+Supply+Pte+Ltd/data=!4m7!3m6!1s0x31da05b2949ad409:0xaa0c4c8a1e070a1b!8m2!3d1.3153482!4d103.6969483!16s%2Fg%2F11fm6k5vbq!19sChIJCdSalLIF2jERGwoHHopMDKo
