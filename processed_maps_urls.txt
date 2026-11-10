@@ -7094,3 +7094,4 @@ https://www.google.com/maps/place/Learning+Vision+Changi+Airport+%28Terminal+3%2
 https://www.google.com/maps/place/Kingsmen+Ooh+Media+Pte+Ltd/data=!4m7!3m6!1s0x31da3d2fa9219e55:0xc799e6e6f5cb99cb!8m2!3d1.3380502!4d103.9679714!16s%2Fg%2F1ptxkr13r!19sChIJVZ4hqS892jERy5nL9ebmmcc
 https://www.google.com/maps/place/T-Systems+Singapore/data=!4m7!3m6!1s0x31da17ed1088fda1:0xb246460edac107b6!8m2!3d1.3373153!4d103.9685154!16s%2Fg%2F1tkrj9qd!19sChIJof2IEO0X2jERtgfB2g5GRrI
 https://www.google.com/maps/place/PCCW+Solutions+Insys+Pte+Ltd/data=!4m7!3m6!1s0x31da3d18d34eb6e7:0x4e469049be364126!8m2!3d1.3348353!4d103.9652112!16s%2Fg%2F11lgkqsqph!19sChIJ57ZO0xg92jERJkE2vkmQRk4
+https://www.google.com/maps/place/TechSQ/data=!4m7!3m6!1s0x31da3ce1208597e9:0x596220c196e2242f!8m2!3d1.3335454!4d103.9625317!16s%2Fg%2F11bwqm54v_!19sChIJ6ZeFIOE82jERLyTilsEgYlk
