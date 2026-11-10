@@ -6231,3 +6231,5 @@ https://www.google.com/maps/place/Esmarts+pte+ltd/data=!4m7!3m6!1s0x31da190df1c1
 https://www.google.com/maps/place/NCS+Line/data=!4m7!3m6!1s0x31da17f5f9955555:0xf7b58b391ef50e2c!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11hz184m_m!19sChIJVVWV-fUX2jERLA71HjmLtfc
 https://www.google.com/maps/place/Atlas+Logistics+%28Far+East%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da17f5f04d19dd:0xd2418b0935c883e6!8m2!3d1.3263137!4d103.8961912!16s%2Fg%2F1tj7bksx!19sChIJ3RlN8PUX2jER5oPINQmLQdI
 https://www.google.com/maps/place/LZY+Shipping+%26+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1792e2ea9fdf:0x15973f2e42423654!8m2!3d1.3338926!4d103.8955338!16s%2Fg%2F11fm4yf2hh!19sChIJ35_q4pIX2jERVDZCQi4_lxU
+https://www.google.com/maps/place/LS+Express+Global+Logistic/data=!4m7!3m6!1s0x31da17f4d7abab95:0x3a9e9e303d645115!8m2!3d1.3287735!4d103.8916972!16s%2Fg%2F11cs5mxb6c!19sChIJlaur1_QX2jERFVFkPTCenjo
+https://www.google.com/maps/place/New+Era+Shipping+Line+Pte+Ltd/data=!4m7!3m6!1s0x31da175a77760a11:0x70e7b25721d5a054!8m2!3d1.3268908!4d103.8983586!16s%2Fg%2F11j4097_f_!19sChIJEQp2d1oX2jERVKDVIVey53A
