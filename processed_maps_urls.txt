@@ -6806,3 +6806,5 @@ https://www.google.com/maps/place/G+D+Trading+Company/data=!4m7!3m6!1s0x31da3d22
 https://www.google.com/maps/place/Hock+Sin+Seng+Hardware+%26+Trading+Co/data=!4m7!3m6!1s0x31da3d04a93198a9:0xf4d7089f4ffd4cdc!8m2!3d1.3544733!4d103.9539937!16s%2Fg%2F1tk60mrp!19sChIJqZgxqQQ92jER3Ez9T58I1_Q
 https://www.google.com/maps/place/Hong+Huang+Trading+Co./data=!4m7!3m6!1s0x31da3d005049e54d:0x1528320c326bc2a7!8m2!3d1.3450951!4d103.9452261!16s%2Fg%2F11ww3dwnr2!19sChIJTeVJUAA92jERp8JrMgwyKBU
 https://www.google.com/maps/place/Yong+Xi+Trading/data=!4m7!3m6!1s0x31da3d1ae9fe56a7:0x69ff744a99d24ddf!8m2!3d1.352851!4d103.951031!16s%2Fg%2F1ptz2ptsp!19sChIJp1b-6Ro92jER303SmUp0_2k
+https://www.google.com/maps/place/Hentexco+Trading+Co/data=!4m7!3m6!1s0x31da3d144bc4f93f:0xe900bc3a0941eb13!8m2!3d1.3472408!4d103.9417265!16s%2Fg%2F1tkmk1rq!19sChIJP_nESxQ92jERE-tBCTq8AOk
+https://www.google.com/maps/place/Hock+Soon+Lee+Trading+Co/data=!4m7!3m6!1s0x31da3d3ec80b84c3:0xd39e427103f9a150!8m2!3d1.3402254!4d103.9419782!16s%2Fg%2F1tdhbj_8!19sChIJw4QLyD492jERUKH5A3FCntM
