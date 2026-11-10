@@ -7199,3 +7199,4 @@ https://www.google.com/maps/place/Critical+Facility+Group+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/Teck+Leong+Pte+Ltd/data=!4m7!3m6!1s0x31da1827dc6165e7:0x3e4767322d8e6f67!8m2!3d1.3710355!4d103.8619212!16s%2Fg%2F1tgft421!19sChIJ52Vh3CcY2jERZ2-OLTJnRz4
 https://www.google.com/maps/place/N%C3%89SCAF%C3%89+Dolce+Gusto+Singapore/data=!4m7!3m6!1s0x31da3cd909ab10cb:0xb408161045d1a49f!8m2!3d1.3376693!4d103.9645858!16s%2Fg%2F11c52sxc75!19sChIJyxCrCdk82jERn6TRRRAWCLQ
 https://www.google.com/maps/place/FedEx+Trade+Networks+Transport+%26+Brokerage,+Inc./data=!4m7!3m6!1s0x31da3cd99bbfffff:0xdfbfe6f597f1bce2!8m2!3d1.3330865!4d103.9659768!16s%2Fg%2F11fxdzmbnr!19sChIJ__-_m9k82jER4rzxl_Xmv98
+https://www.google.com/maps/place/Pacific+Logistics+Group+%28PLG%29+-+Changi+Office/data=!4m7!3m6!1s0x31da3c0cc0d1c477:0x963ae56941cd17fc!8m2!3d1.382831!4d103.999542!16s%2Fg%2F1tf5mrc8!19sChIJd8TRwAw82jER_BfNQWnlOpY
