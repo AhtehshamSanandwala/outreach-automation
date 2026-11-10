@@ -6245,3 +6245,5 @@ https://www.google.com/maps/place/Evan+Lim+Warehouse/data=!4m7!3m6!1s0x31da17edf
 https://www.google.com/maps/place/Badger+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17f5f04d19dd:0x341b5d756bde0951!8m2!3d1.3263137!4d103.8961912!16s%2Fg%2F1thc_9wy!19sChIJ3RlN8PUX2jERUQnea3VdGzQ
 https://www.google.com/maps/place/GQL+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da181fd3beefaf:0xab27a6dc4b8f2cba!8m2!3d1.3259292!4d103.8937824!16s%2Fg%2F1tfglxtn!19sChIJr---0x8Y2jERuiyPS9ymJ6s
 https://www.google.com/maps/place/SCL+-+Global+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3bf6c8571:0xeadf355ed2e47d73!8m2!3d1.3321873!4d103.8955164!16s%2Fg%2F1ptyzf2r3!19sChIJcYVsv_MX2jERc33k0l413-o
+https://www.google.com/maps/place/GTS+Express/data=!4m7!3m6!1s0x31da178e008db7b1:0x92a472162949beb9!8m2!3d1.3339959!4d103.8955527!16s%2Fg%2F1pty3490p!19sChIJsbeNAI4X2jERub5JKRZypJI
+https://www.google.com/maps/place/Shipmunk+Logistics+Pte.+Ltd/data=!4m7!3m6!1s0x31da1700618193ef:0x552272e3d2e6bc4c!8m2!3d1.33258!4d103.889892!16s%2Fg%2F11_00vk5rz!19sChIJ75OBYQAX2jERTLzm0uNyIlU
