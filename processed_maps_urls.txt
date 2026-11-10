@@ -6528,3 +6528,5 @@ https://www.google.com/maps/place/Ang+Lay+See/data=!4m7!3m6!1s0x31da3d393b16cd3f
 https://www.google.com/maps/place/Banographics+Advertising/data=!4m7!3m6!1s0x31da3d254a6b1fa1:0xf3e18bb967bd2f85!8m2!3d1.336436!4d103.94949!16s%2Fg%2F1tcw_0zm!19sChIJoR9rSiU92jERhS-9Z7mL4fM
 https://www.google.com/maps/place/Electron+Audio+Industry/data=!4m7!3m6!1s0x31da3d3e9963544d:0xf212ad891d916103!8m2!3d1.341471!4d103.9429059!16s%2Fg%2F11c59xzbx5!19sChIJTVRjmT492jERA2GRHYmtEvI
 https://www.google.com/maps/place/M.Y+World+@+Tampines+North/data=!4m7!3m6!1s0x31da3d08a8963905:0xc0d3de59adb1e6c6!8m2!3d1.3592637!4d103.9490349!16s%2Fg%2F11bwpzr4hd!19sChIJBTmWqAg92jERxuaxrVne08A
+https://www.google.com/maps/place/Archangel+Interior+Design/data=!4m7!3m6!1s0x31da3d255c24b40d:0x1dc4e1a1a7a0f9a6!8m2!3d1.3355933!4d103.9506603!16s%2Fg%2F1ts3c489!19sChIJDbQkXCU92jERpvmgp6HhxB0
+https://www.google.com/maps/place/Fun+Learners%27+School+-+Tampines/data=!4m7!3m6!1s0x31da3d3282a7dd9b:0x436f9d9506391522!8m2!3d1.3521172!4d103.9418422!16s%2Fg%2F11y4bf7mc1!19sChIJm92ngjI92jERIhU5BpWdb0M
