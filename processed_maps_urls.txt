@@ -7117,3 +7117,4 @@ https://www.google.com/maps/place/Regus+-+Singapore,+The+Signature/data=!4m7!3m6
 https://www.google.com/maps/place/Smarte+Carte/data=!4m7!3m6!1s0x31da3c8984654cb9:0xe3f58a246acda0a4!8m2!3d1.3597738!4d103.9903714!16s%2Fg%2F11df0p2z3w!19sChIJuUxlhIk82jERpKDNaiSK9eM
 https://www.google.com/maps/place/Changi+North+Industrial+Park/data=!4m7!3m6!1s0x31da3ce6a740af0d:0x4d0ec6ef3d31011e!8m2!3d1.349177!4d103.967629!16s%2Fg%2F12hk4f_w9!19sChIJDa9Ap-Y82jERHgExPe_GDk0
 https://www.google.com/maps/place/Rigel+Innovation+Centre/data=!4m7!3m6!1s0x31da3d0057ba817b:0x893f495d1319eb46!8m2!3d1.3376868!4d103.9676154!16s%2Fg%2F11w9r738lc!19sChIJe4G6VwA92jERRusZE11JP4k
+https://www.google.com/maps/place/SATS+Inflight+Catering+Centre+1/data=!4m7!3m6!1s0x31da3cc082f81f6d:0xc862838cb3f96ace!8m2!3d1.3414614!4d103.9838777!16s%2Fg%2F11c1p2fg8c!19sChIJbR_4gsA82jERzmr5s4yDYsg
