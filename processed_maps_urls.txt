@@ -6794,3 +6794,5 @@ https://www.google.com/maps/place/Fortune+Food+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Parchmen+%26+Co+%2F+Dockyard+coffee/data=!4m7!3m6!1s0x31da17ab267a850f:0xf038586c66991e7!8m2!3d1.3415584!4d103.9456787!16s%2Fg%2F11cn33yshx!19sChIJD4V6JqsX2jER55FpxoaFAw8
 https://www.google.com/maps/place/Gmilkforbaby/data=!4m7!3m6!1s0x31da3d0670c2b7d3:0x9899bc35ffbbcc3e!8m2!3d1.359048!4d103.9512171!16s%2Fg%2F1ptwl3d1_!19sChIJ07fCcAY92jERPsy7_zW8mZg
 https://www.google.com/maps/place/Natural+Dog+Company+%28Singapore+Authorised+Distributor%29/data=!4m7!3m6!1s0x233ed0e4e2621b0d:0x24a8ce9f0f3ac3d!8m2!3d1.3372278!4d103.9457604!16s%2Fg%2F11sgzf025h!19sChIJDRti4uTQPiMRPazz8OmMSgI
+https://www.google.com/maps/place/Aaron+Lighting/data=!4m7!3m6!1s0x31da3d1b71af651f:0xc70413ab0e669e8d!8m2!3d1.3522297!4d103.9540207!16s%2Fg%2F11cm05xjlw!19sChIJH2WvcRs92jERjZ5mDqsTBMc
+https://www.google.com/maps/place/Cold+Storage/data=!4m7!3m6!1s0x31da3d0e270101f9:0x4ac5cdd49bfa8403!8m2!3d1.354212!4d103.9450352!16s%2Fg%2F1tmz4g23!19sChIJ-QEBJw492jERA4T6m9TNxUo
