@@ -6761,3 +6761,4 @@ https://www.google.com/maps/place/Ingco+by+Horme+@+Tampines/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/City+Foods+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3aebfb3735:0xf5a850a1f0b96e41!8m2!3d1.3369246!4d103.9475734!16s%2Fg%2F1tj8_1ht!19sChIJNTf76zo92jERQW658KFQqPU
 https://www.google.com/maps/place/Adec+Distribution+Pte+Ltd/data=!4m7!3m6!1s0x31da3d651f0df5f5:0x4248128ca823c570!8m2!3d1.328695!4d103.9663395!16s%2Fg%2F11h7dclfjf!19sChIJ9fUNH2U92jERcMUjqIwSSEI
 https://www.google.com/maps/place/Vertex+Enterprise+Pte+Ltd/data=!4m7!3m6!1s0x31da172556856059:0x6c4c6d88ea94f744!8m2!3d1.3467645!4d103.9478111!16s%2Fg%2F11vdtk4fm2!19sChIJWWCFViUX2jERRPeU6ohtTGw
+https://www.google.com/maps/place/DreamerHaus/data=!4m7!3m6!1s0x31da3df2b62bb9bd:0x79dfe11c3023f506!8m2!3d1.3505691!4d103.9497259!16s%2Fg%2F11x_bz11m2!19sChIJvbkrtvI92jERBvUjMBzh33k
