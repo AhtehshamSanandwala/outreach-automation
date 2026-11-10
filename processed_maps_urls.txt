@@ -7112,3 +7112,4 @@ https://www.google.com/maps/place/LogisTech+-+Space+for+Rent/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Nextstar+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da3d0f695b2959:0x7506328c9d9cd5f7!8m2!3d1.3347003!4d103.9652515!16s%2Fg%2F11h33wcj6c!19sChIJWSlbaQ892jER99WcnYwyBnU
 https://www.google.com/maps/place/UE+BizHub+East+North+Tower/data=!4m7!3m6!1s0x31da3cd9d2ca3dab:0x1296c855e2f2d52e!8m2!3d1.3350589!4d103.9638392!16s%2Fg%2F11qg2pk81q!19sChIJqz3K0tk82jERLtXy4lXIlhI
 https://www.google.com/maps/place/Certis+CISCO+Changi+Airport+Terminal+2/data=!4m7!3m6!1s0x31da3c8db8a4fbff:0x7d6dbda81a0a358d!8m2!3d1.3552525!4d103.9885018!16s%2Fg%2F11bzt5wbss!19sChIJ__ukuI082jERjTUKGqi9bX0
+https://www.google.com/maps/place/Ultro+Building/data=!4m7!3m6!1s0x31da3cd8351aa165:0x1b5b635c3715892d!8m2!3d1.3364003!4d103.9636533!16s%2Fg%2F12hqd_21t!19sChIJZaEaNdg82jERLYkVN1xjWxs
