@@ -6843,3 +6843,4 @@ https://www.google.com/maps/place/S.E.T.+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Rhenus+Logistics+Singapore/data=!4m7!3m6!1s0x31da3cd990b2d741:0x888a85ed5263178b!8m2!3d1.3371858!4d103.9656142!16s%2Fg%2F1ptwr_cq1!19sChIJQdeykNk82jERixdjUu2Fiog
 https://www.google.com/maps/place/DHL+Global+Forwarding/data=!4m7!3m6!1s0x31da3cd6bdb6dc41:0xdf615b56c3674b52!8m2!3d1.331526!4d103.964816!16s%2Fg%2F1tj_2s7m!19sChIJQdy2vdY82jERUktnw1ZbYd8
 https://www.google.com/maps/place/Linkway+Logistics/data=!4m7!3m6!1s0x31da3d15524a6f47:0xd77bb8638656f89b!8m2!3d1.345189!4d103.93787!16s%2Fg%2F11c1wrw150!19sChIJR29KUhU92jERm_hWhmO4e9c
+https://www.google.com/maps/place/DSV/data=!4m7!3m6!1s0x31da3d1249be0481:0x82585ed0673ea83b!8m2!3d1.352335!4d103.9421887!16s%2Fg%2F1pv5w2f9x!19sChIJgQS-SRI92jERO6g-Z9BeWII
