@@ -6930,3 +6930,5 @@ https://www.google.com/maps/place/Msas+Global+Logistics+%28far+East%29+Ltd/data=
 https://www.google.com/maps/place/L+Y+S+Agencies/data=!4m7!3m6!1s0x31da3d1743d775dd:0xc4580ae241acbbb5!8m2!3d1.3483749!4d103.948072!16s%2Fg%2F1tf3lflp!19sChIJ3XXXQxc92jERtbusQeIKWMQ
 https://www.google.com/maps/place/OHL+Singapore/data=!4m7!3m6!1s0x31da3d2fa277e085:0x21053dc8d783d8c5!8m2!3d1.3342092!4d103.9519538!16s%2Fg%2F1ptx6t9qh!19sChIJheB3oi892jERxdiD18g9BSE
 https://www.google.com/maps/place/Aei+Ocean+Services+%28singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd6eb6d2581:0x590080936c17db0d!8m2!3d1.3315769!4d103.9649525!16s%2Fg%2F1tj5hp47!19sChIJgSVt69Y82jERDdsXbJOAAFk
+https://www.google.com/maps/place/Avialink+Transporation+Pte+Ltd/data=!4m7!3m6!1s0x31da3d20e18b7cab:0xdabbc4f8388edb7d!8m2!3d1.3413837!4d103.9580072!16s%2Fg%2F1th1rkyk!19sChIJq3yL4SA92jERfduOOPjEu9o
+https://www.google.com/maps/place/Accord+Air+Freight+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d2fa277e085:0xb3e802addf85b742!8m2!3d1.33412!4d103.951613!16s%2Fg%2F11b6dq4vch!19sChIJheB3oi892jERQreF360C6LM
