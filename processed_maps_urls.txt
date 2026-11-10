@@ -7110,3 +7110,5 @@ https://www.google.com/maps/place/Comsoft+Pte+Ltd/data=!4m7!3m6!1s0x31da3d365e0e
 https://www.google.com/maps/place/Standard+Chartered+Bank+CBP1/data=!4m7!3m6!1s0x31da3cd0b4a58b7d:0xa279ea832c3d615c!8m2!3d1.334643!4d103.9670107!16s%2Fg%2F12632gd28!19sChIJfYultNA82jERXGE9LIPqeaI
 https://www.google.com/maps/place/LogisTech+-+Space+for+Rent/data=!4m7!3m6!1s0x31da3da52ea77607:0x10ee6e389d16aa88!8m2!3d1.3513195!4d103.9659714!16s%2Fg%2F11g0h8hqpj!19sChIJB3anLqU92jERiKoWnThu7hA
 https://www.google.com/maps/place/Nextstar+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da3d0f695b2959:0x7506328c9d9cd5f7!8m2!3d1.3347003!4d103.9652515!16s%2Fg%2F11h33wcj6c!19sChIJWSlbaQ892jER99WcnYwyBnU
+https://www.google.com/maps/place/UE+BizHub+East+North+Tower/data=!4m7!3m6!1s0x31da3cd9d2ca3dab:0x1296c855e2f2d52e!8m2!3d1.3350589!4d103.9638392!16s%2Fg%2F11qg2pk81q!19sChIJqz3K0tk82jERLtXy4lXIlhI
+https://www.google.com/maps/place/Certis+CISCO+Changi+Airport+Terminal+2/data=!4m7!3m6!1s0x31da3c8db8a4fbff:0x7d6dbda81a0a358d!8m2!3d1.3552525!4d103.9885018!16s%2Fg%2F11bzt5wbss!19sChIJ__ukuI082jERjTUKGqi9bX0
