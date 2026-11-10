@@ -7082,3 +7082,5 @@ https://www.google.com/maps/place/Cargo+Agents+Building+C/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/ART:DIS+C+C+P/data=!4m7!3m6!1s0x31da3d4aeebd3b75:0x8d2376a5a15a6d2b!8m2!3d1.3342732!4d103.9627387!16s%2Fg%2F1vkxjswr!19sChIJdTu97ko92jERK21aoaV2I40
 https://www.google.com/maps/place/ThinkFarm+Pte+Ltd/data=!4m7!3m6!1s0x31da3cdbc8170777:0xd39a742460a2f685!8m2!3d1.3380502!4d103.9679714!16s%2Fg%2F11h4djqq44!19sChIJdwcXyNs82jERhfaiYCR0mtM
 https://www.google.com/maps/place/Twinklekidz+International+Schoolhouse+Pte+Ltd/data=!4m7!3m6!1s0x31da3cda4144eb27:0x6dfd5fa382d87703!8m2!3d1.3330865!4d103.9659768!16s%2Fg%2F1tdqdz_v!19sChIJJ-tEQdo82jERA3fYgqNf_W0
+https://www.google.com/maps/place/DBS+Asia+Hub/data=!4m7!3m6!1s0x31da3cd6e1563f2b:0xe57635f7cbbda0f0!8m2!3d1.3327285!4d103.9646169!16s%2Fg%2F1v_s3f6_!19sChIJKz9W4dY82jER8KC9y_c1duU
+https://www.google.com/maps/place/KrisShop+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d5228585367:0xa41f1c26f695445!8m2!3d1.334908!4d103.964995!16s%2Fg%2F11h6r5xssd!19sChIJZ1NYKFI92jERRVRpb8LxQQo
