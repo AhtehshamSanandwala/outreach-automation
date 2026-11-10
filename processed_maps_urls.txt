@@ -6625,3 +6625,4 @@ https://www.google.com/maps/place/3181+Employment+Agency/data=!4m7!3m6!1s0x31da2
 https://www.google.com/maps/place/Millineum+Trading+House+Pte+Ltd+%28C.E.O%29/data=!4m7!3m6!1s0x31da3cd637daff27:0x67c6afd159d1fb23!8m2!3d1.332405!4d103.962225!16s%2Fg%2F1ptvzhn63!19sChIJJ__aN9Y82jERI_vRWdGvxmc
 https://www.google.com/maps/place/SK+Realty+Pte+Ltd/data=!4m7!3m6!1s0x31da3c5728000001:0xddb5674d9d89499e!8m2!3d1.3521624!4d103.9422907!16s%2Fg%2F1tqchr4q!19sChIJAQAAKFc82jERnkmJnU1ntd0
 https://www.google.com/maps/place/Beecruit+Pte+Ltd/data=!4m7!3m6!1s0x31da1957c12e03ed:0x2be2e2bc6d2f9a9e!8m2!3d1.3307286!4d103.9181149!16s%2Fg%2F11f766qlvz!19sChIJ7QMuwVcZ2jERnpovbbzi4is
+https://www.google.com/maps/place/HithaConsultingPteLtd/data=!4m7!3m6!1s0x34d6c9ba34780f7:0x9d10ac46b91857da!8m2!3d1.314!4d103.84425!16s%2Fg%2F11y21kbvws!19sChIJ94BHo5tsTQMR2lcYuUasEJ0
