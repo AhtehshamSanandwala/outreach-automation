@@ -6607,3 +6607,5 @@ https://www.google.com/maps/place/Stellare+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/A.C.E.S.+Employment+Agency+Pte+Ltd/data=!4m7!3m6!1s0x31da22b4be72a3e9:0x1fe18568ca3b0b05!8m2!3d1.3249404!4d103.9329324!16s%2Fg%2F11gg_wwbr_!19sChIJ6aNyvrQi2jERBQs7ymiF4R8
 https://www.google.com/maps/place/BTI+Employment+Pte+Ltd/data=!4m7!3m6!1s0x31da199332d8641b:0x47ba0f4e126f1a17!8m2!3d1.3815092!4d103.9705157!16s%2Fg%2F11gr61fxzj!19sChIJG2TYMpMZ2jERFxpvEk4Pukc
 https://www.google.com/maps/place/OKAYLAH+CONSULTING+LLP/data=!4m7!3m6!1s0x31da3d8e92791539:0xb77781af60aea35d!8m2!3d1.3379238!4d103.9645262!16s%2Fg%2F11vwl85j7j!19sChIJORV5ko492jERXaOuYK-Bd7c
+https://www.google.com/maps/place/Axel+Consulting+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d019aa222db:0xdcf15019229053!8m2!3d1.3593249!4d103.958608!16s%2Fg%2F11c59v_355!19sChIJ2yKimgE92jERU5AiGVDx3AA
+https://www.google.com/maps/place/AptHR+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da3d24500eaf93:0xdab30d7cc9153c10!8m2!3d1.3382274!4d103.9527529!16s%2Fg%2F11f3m_vt85!19sChIJk68OUCQ92jEREDwVyXwNs9o
