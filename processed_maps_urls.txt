@@ -6841,3 +6841,4 @@ https://www.google.com/maps/place/A-Transline+Global+Logistics+Pte+Ltd/data=!4m7
 https://www.google.com/maps/place/Trust+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3df094f50b2f:0x7ed5fae71589237e!8m2!3d1.3717799!4d103.9337714!16s%2Fg%2F11gh_g1dng!19sChIJLwv1lPA92jERfiOJFef61X4
 https://www.google.com/maps/place/S.E.T.+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd473adbd23:0x84367c7d0e40aa08!8m2!3d1.3335582!4d103.9529266!16s%2Fg%2F1tlmkvqb!19sChIJI72tc9Q82jERCKpADn18NoQ
 https://www.google.com/maps/place/Rhenus+Logistics+Singapore/data=!4m7!3m6!1s0x31da3cd990b2d741:0x888a85ed5263178b!8m2!3d1.3371858!4d103.9656142!16s%2Fg%2F1ptwr_cq1!19sChIJQdeykNk82jERixdjUu2Fiog
+https://www.google.com/maps/place/DHL+Global+Forwarding/data=!4m7!3m6!1s0x31da3cd6bdb6dc41:0xdf615b56c3674b52!8m2!3d1.331526!4d103.964816!16s%2Fg%2F1tj_2s7m!19sChIJQdy2vdY82jERUktnw1ZbYd8
