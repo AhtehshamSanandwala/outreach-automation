@@ -6848,3 +6848,6 @@ https://www.google.com/maps/place/HUMANIZE+LOGISTICS/data=!4m7!3m6!1s0x31da3d9fa
 https://www.google.com/maps/place/Airpak+Express/data=!4m7!3m6!1s0x31da17e544791643:0xda7fbd0caff302b1!8m2!3d1.3353559!4d103.9714965!16s%2Fg%2F1tr8j21g!19sChIJQxZ5ROUX2jERsQLzrwy9f9o
 https://www.google.com/maps/place/Omni+All+In+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3ce3844df7d1:0x1cc8d0080e300d4e!8m2!3d1.3510721!4d103.9654846!16s%2Fg%2F1ptw2rfxh!19sChIJ0fdNhOM82jERTg0wDgjQyBw
 https://www.google.com/maps/place/NNR+Global+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3d2e605753d1:0x8293866015081314!8m2!3d1.3309723!4d103.9520154!16s%2Fg%2F1pty55984!19sChIJ0VNXYC492jERFBMIFWCGk4I
+https://www.google.com/maps/place/ISS+Trade+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da191340d8085b:0x4c3723397ea2c5c!8m2!3d1.3508932!4d103.9555056!16s%2Fg%2F11dx92cnv2!19sChIJWwjYQBMZ2jERXCzqlzNywwQ
+https://www.google.com/maps/place/KWE/data=!4m7!3m6!1s0x31da3cd14b89a00f:0xc911bec7e715605c!8m2!3d1.3309716!4d103.9665053!16s%2Fg%2F1tkskwy8!19sChIJD6CJS9E82jERXGAV58e-Eck
+https://www.google.com/maps/place/Aramex/data=!4m7!3m6!1s0x31da3ce4a5631589:0xd392e1508041517b!8m2!3d1.3335479!4d103.967951!16s%2Fg%2F11hb4xtw4h!19sChIJiRVjpeQ82jERe1FBgFDhktM
