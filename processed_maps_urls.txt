@@ -7152,3 +7152,4 @@ https://www.google.com/maps/place/MSP+IT+Concepts+Pvt.+Ltd./data=!4m7!3m6!1s0x39
 https://www.google.com/maps/place/ESR+BizPark/data=!4m7!3m6!1s0x31da3cd82b3d3923:0x2f40f23dfb848a63!8m2!3d1.3353899!4d103.9632518!16s%2Fg%2F11g6qxqxjd!19sChIJIzk9K9g82jERY4qE-z3yQC8
 https://www.google.com/maps/place/Changi+Business+Pk+Ter/data=!4m7!3m6!1s0x31da3cdc2e88d8d5:0xb538c1350baddd66!8m2!3d1.341888!4d103.96714!16s%2Fg%2F11cp71bp4w!19sChIJ1diILtw82jERZt2tCzXBOLU
 https://www.google.com/maps/place/Changi+East+Pass+Office/data=!4m7!3m6!1s0x31da2305922d1b35:0x4a532bad7b323fc3!8m2!3d1.3192888!4d103.9890682!16s%2Fg%2F11fjz0zhhb!19sChIJNRstkgUj2jERwz8ye60rU0o
+https://www.google.com/maps/place/Boarding+Gate/data=!4m7!3m6!1s0x31da3d8bcd03e019:0x6cdf5fd114490fcf!8m2!3d1.3343497!4d103.9626223!16s%2Fg%2F11s8j8wp04!19sChIJGeADzYs92jERzw9JFNFf32w
