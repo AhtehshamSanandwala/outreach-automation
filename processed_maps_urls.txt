@@ -6903,3 +6903,6 @@ https://www.google.com/maps/place/StorHub+Self+Storage+-+Tampines/data=!4m7!3m6!
 https://www.google.com/maps/place/S.F.+Express+-+Expo+Service+Station/data=!4m7!3m6!1s0x31da19737b66689d:0x1005fb7c37cd794c!8m2!3d1.3301497!4d103.9637503!16s%2Fg%2F11ddx3nm8p!19sChIJnWhme3MZ2jERTHnNN3z7BRA
 https://www.google.com/maps/place/DHL+Supply+Chain/data=!4m7!3m6!1s0x31da3cd6947a3b59:0xc825badc178d0251!8m2!3d1.3315486!4d103.9650255!16s%2Fg%2F1pt_gxy1f!19sChIJWTt6lNY82jERUQKNF9y6Jcg
 https://www.google.com/maps/place/Pick+Locker+-+Our+Tampines+Hub,+1+Tampines+Walk,+S528523/data=!4m7!3m6!1s0x31da3df3b67fd2fd:0xb519c85d0d735b6!8m2!3d1.3531308!4d103.9410985!16s%2Fg%2F11qbs8x7q_!19sChIJ_dJ_tvM92jERtjXX0IWcUQs
+https://www.google.com/maps/place/Vins+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da17e2588d07e3:0xd639c6412bb4110c!8m2!3d1.3463858!4d103.9445682!16s%2Fg%2F11r2rtdzmh!19sChIJ4weNWOIX2jERDBG0K0HGOdY
+https://www.google.com/maps/place/DHL+Express+Service+Point+-+Cheers+Tampines+Central+Club+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da19bbd77a4edb:0xab6b615d661626e4!8m2!3d1.3552288!4d103.9346613!16s%2Fg%2F11kppt8f64!19sChIJ205617sZ2jER5CYWZl1ha6s
+https://www.google.com/maps/place/UPS+Worldwide+Express/data=!4m7!3m6!1s0x31da3c735380d069:0x8b165017a808871!8m2!3d1.3300914!4d103.9674835!16s%2Fg%2F1tdjtjzk!19sChIJadCAU3M82jERcYiAegFlsQg
