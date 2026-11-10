@@ -6999,3 +6999,6 @@ https://www.google.com/maps/place/VX+Audio/data=!4m7!3m6!1s0x31da17dc4c4780ff:0x
 https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da3d318967ab2b:0x6274fc92b3aff53d!8m2!3d1.3652519!4d103.9410973!16s%2Fg%2F11nbgwtj4v!19sChIJK6tniTE92jERPfWvs5L8dGI
 https://www.google.com/maps/place/Yeobuild+HomeStore/data=!4m7!3m6!1s0x31da1760949c889f:0x41675bed6124fe3b!8m2!3d1.3638136!4d103.9322374!16s%2Fg%2F11hfvjb5zw!19sChIJn4iclGAX2jERO_4kYe1bZ0E
 https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da3dd7a6c6fbcb:0xaa877abe1508867e!8m2!3d1.3549647!4d103.9305449!16s%2Fg%2F11z46yg3k7!19sChIJy_vGptc92jERfoYIFb56h6o
+https://www.google.com/maps/place/Singapore+Equipment+%26+Welding+Repair+Co./data=!4m7!3m6!1s0x31da3d3b298dbcbf:0xb6102b25d16bddcd!8m2!3d1.3374087!4d103.9491256!16s%2Fg%2F11cs5pybbk!19sChIJv7yNKTs92jERzd1r0SUrELY
+https://www.google.com/maps/place/Tsurumi+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da10729bcc90e7:0x6cd01a93ebcbdc56!8m2!3d1.3726689!4d103.926024!16s%2Fg%2F1tgf0qkg!19sChIJ55DMm3IQ2jERVtzL65Ma0Gw
+https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da3d79ef8eda1d:0xde2d54246bfabf03!8m2!3d1.3535688!4d103.9449426!16s%2Fg%2F11nbgws27s!19sChIJHdqO73k92jERA7_6ayRULd4
