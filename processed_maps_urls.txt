@@ -6950,3 +6950,4 @@ https://www.google.com/maps/place/Golden+World+Machinery+%28S%29+Pte+Ltd/data=!4
 https://www.google.com/maps/place/Titan+Brackets+Singapore+%28SG+Bros%29/data=!4m7!3m6!1s0x31da17f12c940057:0xab4a2d78712d8e3!8m2!3d1.3717815!4d103.933463!16s%2Fg%2F11g6mc6q_j!19sChIJVwCULPEX2jER49gSh9eitAo
 https://www.google.com/maps/place/SIMPLEX/data=!4m7!3m6!1s0x31da3d99c773ffff:0x7ddbf95517e3200c!8m2!3d1.3717711!4d103.9337283!16s%2Fg%2F11v_195_k4!19sChIJ__9zx5k92jERDCDjF1X5230
 https://www.google.com/maps/place/Ryh+Jeng+Engineering+%26+Trading/data=!4m7!3m6!1s0x31da3d3eedad9edf:0x420dbe8da04a33a6!8m2!3d1.3409855!4d103.9413682!16s%2Fg%2F1thlwzny!19sChIJ356t7T492jERpjNKoI2-DUI
+https://www.google.com/maps/place/SuperSteamSG/data=!4m7!3m6!1s0x31da3d255ce175a9:0x54bf91885801381d!8m2!3d1.328695!4d103.9663395!16s%2Fg%2F1tf55d6x!19sChIJqXXhXCU92jERHTgBWIiRv1Q
