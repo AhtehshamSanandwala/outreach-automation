@@ -6902,3 +6902,4 @@ https://www.google.com/maps/place/Unison+Transport+Services+Pte+Ltd/data=!4m7!3m
 https://www.google.com/maps/place/StorHub+Self+Storage+-+Tampines/data=!4m7!3m6!1s0x31da3d3c3e260077:0x151da3e6d7500dc4!8m2!3d1.3387205!4d103.9428353!16s%2Fg%2F11cfddcjq!19sChIJdwAmPjw92jERxA1Q1-ajHRU
 https://www.google.com/maps/place/S.F.+Express+-+Expo+Service+Station/data=!4m7!3m6!1s0x31da19737b66689d:0x1005fb7c37cd794c!8m2!3d1.3301497!4d103.9637503!16s%2Fg%2F11ddx3nm8p!19sChIJnWhme3MZ2jERTHnNN3z7BRA
 https://www.google.com/maps/place/DHL+Supply+Chain/data=!4m7!3m6!1s0x31da3cd6947a3b59:0xc825badc178d0251!8m2!3d1.3315486!4d103.9650255!16s%2Fg%2F1pt_gxy1f!19sChIJWTt6lNY82jERUQKNF9y6Jcg
+https://www.google.com/maps/place/Pick+Locker+-+Our+Tampines+Hub,+1+Tampines+Walk,+S528523/data=!4m7!3m6!1s0x31da3df3b67fd2fd:0xb519c85d0d735b6!8m2!3d1.3531308!4d103.9410985!16s%2Fg%2F11qbs8x7q_!19sChIJ_dJ_tvM92jERtjXX0IWcUQs
