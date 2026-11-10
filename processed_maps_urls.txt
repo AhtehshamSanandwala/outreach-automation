@@ -6778,3 +6778,6 @@ https://www.google.com/maps/place/Oz+Health+Singapore/data=!4m7!3m6!1s0x31da3d75
 https://www.google.com/maps/place/RD+Global+Network/data=!4m7!3m6!1s0x31da3d1f4cef099d:0x809013b054be632!8m2!3d1.345435!4d103.955133!16s%2Fg%2F1ptzlqtxb!19sChIJnQnvTB892jERMuZLBTsBCQg
 https://www.google.com/maps/place/Jun+Hong+Pte+Ltd/data=!4m7!3m6!1s0x31da3d23a7627f4d:0xff6709d48b6fc28!8m2!3d1.3359064!4d103.9460018!16s%2Fg%2F11ql6m0x7v!19sChIJTX9ipyM92jERKPy2SJ1w9g8
 https://www.google.com/maps/place/Quantum+Peptides/data=!4m7!3m6!1s0x31da3db0b9f1f7f7:0xfd91a4dd8625d897!8m2!3d1.3552708!4d103.9485292!16s%2Fg%2F11ntpq_1c2!19sChIJ9_fxubA92jERl9glht2kkf0
+https://www.google.com/maps/place/Ban+Kim+Chuan+Enterprises+Pte+Ltd/data=!4m7!3m6!1s0x31da3d2ff45d4ec7:0xf585b9df70daedf1!8m2!3d1.3356367!4d103.9501531!16s%2Fg%2F1thn30q9!19sChIJx05d9C892jER8e3acN-5hfU
+https://www.google.com/maps/place/Ebenezer+Coffee+Manufacturer+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3a577b8099:0x3da5ce8bc18a4ea0!8m2!3d1.3370946!4d103.9461057!16s%2Fg%2F1ptz0ft1z!19sChIJmYB7Vzo92jERoE6KwYvOpT0
+https://www.google.com/maps/place/Deng+Deng+Light/data=!4m7!3m6!1s0x31da3d06808d2f51:0x871de56fa75a7da9!8m2!3d1.3588639!4d103.9514349!16s%2Fg%2F11hcps0rjv!19sChIJUS-NgAY92jERqX1ap2_lHYc
