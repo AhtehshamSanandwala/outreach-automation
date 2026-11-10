@@ -7026,3 +7026,4 @@ https://www.google.com/maps/place/iSmart+Communications+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Sodainmind/data=!4m7!3m6!1s0x31da199804a12a23:0xbc59b46d34904459!8m2!3d1.3164934!4d103.9012135!16s%2Fg%2F11c5wmb1t5!19sChIJIyqhBJgZ2jERWUSQNG20Wbw
 https://www.google.com/maps/place/Digital+Flex/data=!4m7!3m6!1s0x44e480b1093a81d5:0x882195bb7d783eb8!8m2!3d1.3162223!4d103.8896161!16s%2Fg%2F11m654r_f0!19sChIJ1YE6CbGA5EQRuD54fbuVIYg
 https://www.google.com/maps/place/The+Signature/data=!4m7!3m6!1s0x31da3d8ba065a5f5:0xe05fff189f5734da!8m2!3d1.3347003!4d103.9652515!16s%2Fg%2F11fj9_nrt_!19sChIJ9aVloIs92jER2jRXnxj_X-A
+https://www.google.com/maps/place/Changi+Business+Park+Garden/data=!4m7!3m6!1s0x31da3d2305fc9d4b:0x8a3616d5309c72b6!8m2!3d1.3365727!4d103.9661889!16s%2Fm%2F02rxjn5!19sChIJS538BSM92jERtnKcMNUWNoo
