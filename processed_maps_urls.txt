@@ -6331,3 +6331,4 @@ https://www.google.com/maps/place/UBZ+System+Ubi+Shop/data=!4m7!3m6!1s0x31da1716
 https://www.google.com/maps/place/Souma+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17550216b7b3:0x702abd8a12e13401!8m2!3d1.3322152!4d103.8903577!16s%2Fg%2F11p2bc9g33!19sChIJs7cWAlUX2jERATThEoq9KnA
 https://www.google.com/maps/place/MedicalAssistance4u/data=!4m7!3m6!1s0x31da14140b08d173:0xd68a9611a7db4903!8m2!3d1.333032!4d103.9022011!16s%2Fg%2F11b6_9b0fp!19sChIJc9EICxQU2jERA0nbpxGWitY
 https://www.google.com/maps/place/Metalis+Pte+Ltd/data=!4m7!3m6!1s0x31da17ed48f2432d:0x312952532b646d90!8m2!3d1.3303267!4d103.8956746!16s%2Fg%2F1tgcpcxs!19sChIJLUPySO0X2jERkG1kK1NSKTE
+https://www.google.com/maps/place/Stationery+World/data=!4m7!3m6!1s0x31da190d7c33da67:0x895e35a015e47cd0!8m2!3d1.3318311!4d103.8952108!16s%2Fg%2F11bwn1y72q!19sChIJZ9ozfA0Z2jER0HzkFaA1Xok
