@@ -6279,3 +6279,5 @@ https://www.google.com/maps/place/World-Bridge+Air+%26+Sea+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/OceanHub+Shipping+Pte+Ltd/data=!4m7!3m6!1s0x31da17f255aaaaab:0x9bd6900e058b718c!8m2!3d1.333427!4d103.8942808!16s%2Fg%2F11h4dhx_rp!19sChIJq6qqVfIX2jERjHGLBQ6Q1ps
 https://www.google.com/maps/place/WATERWAY+SHIPPING+LINE/data=!4m7!3m6!1s0x31da179d702671f3:0x8c631faa7441f8cc!8m2!3d1.3340799!4d103.8952776!16s%2Fg%2F11jgcdntmk!19sChIJ83EmcJ0X2jERzPhBdKofY4w
 https://www.google.com/maps/place/U-Tech+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1ac86cfa300b:0xd8fd5b67ade6a913!8m2!3d1.3324062!4d103.7483095!16s%2Fg%2F1v1shqx3!19sChIJCzD6bMga2jERE6nmrWdb_dg
+https://www.google.com/maps/place/Atlas+Forwarding+Pte.+Ltd./data=!4m7!3m6!1s0x31da177e4b220fb3:0x9d15f71b10e4b428!8m2!3d1.3293127!4d103.89675!16s%2Fg%2F11h_sq7svf!19sChIJsw8iS34X2jERKLTkEBv3FZ0
+https://www.google.com/maps/place/The+Logistical+Solutions+co.+Pte+Ltd/data=!4m7!3m6!1s0x31da19b9445571a3:0x73892dec3e88c31d!8m2!3d1.326394!4d103.8964019!16s%2Fg%2F1hc4hnrfb!19sChIJo3FVRLkZ2jERHcOIPuwtiXM
