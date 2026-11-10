@@ -7123,3 +7123,4 @@ https://www.google.com/maps/place/Black+%26+Veatch/data=!4m7!3m6!1s0x31da11ea207
 https://www.google.com/maps/place/Standard+Chartered+Bank+ATM+@+Changi+Business+Park/data=!4m7!3m6!1s0x31da3cd754acc301:0x88db4b206f06952e!8m2!3d1.3344726!4d103.9666455!16s%2Fg%2F11c5zyx0dr!19sChIJAcOsVNc82jERLpUGbyBL24g
 https://www.google.com/maps/place/31+International+Business+Park/data=!4m7!3m6!1s0x31da11c618e2e901:0x469670347ecbb89!8m2!3d1.328906!4d103.7458924!16s%2Fg%2F11g0d27w1h!19sChIJAeniGMYR2jERibvsRwNnaQQ
 https://www.google.com/maps/place/NCS+Group/data=!4m7!3m6!1s0x31da16bdfcdd56cf:0xb8089465ca1fb9e!8m2!3d1.3876981!4d103.8441793!16s%2Fg%2F1tf13cys!19sChIJz1bd_L0W2jERnvuhXEaJgAs
+https://www.google.com/maps/place/15+Changi+North+Way+-+Space+for+Rent/data=!4m7!3m6!1s0x31da3ceff11e093f:0x92d77fa5ad3a884a!8m2!3d1.3530973!4d103.9727978!16s%2Fg%2F1pty_0mv2!19sChIJPwke8e882jERSog6raV_15I
