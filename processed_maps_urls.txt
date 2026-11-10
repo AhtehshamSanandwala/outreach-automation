@@ -7052,3 +7052,4 @@ https://www.google.com/maps/place/GLOBIVIO/data=!4m7!3m6!1s0x31da6d64bccbbfeb:0x
 https://www.google.com/maps/place/Plaza+8+@+CBP/data=!4m7!3m6!1s0x31da3cd72120a981:0x1bf1b463d9ee49d9!8m2!3d1.3331726!4d103.9657953!16s%2Fg%2F1ptwjd4dg!19sChIJgakgIdc82jER2Unu2WO08Rs
 https://www.google.com/maps/place/Eightrium+@+Changi+Business+Park/data=!4m7!3m6!1s0x31da3cd909ab10cb:0xf757b8ac1759b926!8m2!3d1.3379094!4d103.9645848!16s%2Fg%2F11clz709k2!19sChIJyxCrCdk82jERJrlZF6y4V_c
 https://www.google.com/maps/place/Factree+Creatives/data=!4m7!3m6!1s0x31da1948eeeca82d:0x5a50dda992e3095b!8m2!3d1.3165866!4d103.9012293!16s%2Fg%2F11m_gfn637!19sChIJLajs7kgZ2jERWwnjkqndUFo
+https://www.google.com/maps/place/Boombirds/data=!4m7!3m6!1s0x31da1bf0655bfb5d:0xd2e1054767f849f6!8m2!3d1.3343863!4d103.9657728!16s%2Fg%2F11hdq8ly85!19sChIJXftbZfAb2jER9kn4Z0cF4dI
