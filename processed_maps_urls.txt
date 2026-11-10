@@ -7170,3 +7170,4 @@ https://www.google.com/maps/place/SIAgBusinessOfficec/data=!4m7!3m6!1s0x31da3d7c
 https://www.google.com/maps/place/SISTIC+Singapore/data=!4m7!3m6!1s0x31da199e55248753:0x31c66e32389bd65b!8m2!3d1.3350589!4d103.9638392!16s%2Fg%2F11bwyxp5h4!19sChIJU4ckVZ4Z2jERW9abODJuxjE
 https://www.google.com/maps/place/Corporate+SG+Pte.+Ltd./data=!4m7!3m6!1s0x31da190015cfdd7f:0x23a353defc3dceb9!8m2!3d1.2911334!4d103.8514363!16s%2Fg%2F11y2ymhlrq!19sChIJf93PFQAZ2jERuc49_N5ToyM
 https://www.google.com/maps/place/Polycom+Asia+Pacific+Pte+Ltd+%28Corporate+Office%29/data=!4m7!3m6!1s0x31da190a9bbec0d7:0x78a6e0c677ff9505!8m2!3d1.3384709!4d103.9648435!16s%2Fg%2F1vy7d30h!19sChIJ18C-mwoZ2jERBZX_d8bgpng
+https://www.google.com/maps/place/Lasertec+Singapore+Service+Pte.+Ltd./data=!4m7!3m6!1s0x31da3cd75d6aaaab:0x153557b5b87ae136!8m2!3d1.3347003!4d103.9652515!16s%2Fg%2F11qnk7_k52!19sChIJq6pqXdc82jERNuF6uLVXNRU
