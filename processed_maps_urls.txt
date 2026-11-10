@@ -6566,3 +6566,6 @@ https://www.google.com/maps/place/Nora+Employment+Agency/data=!4m7!3m6!1s0x31da3
 https://www.google.com/maps/place/First+Select+Employment+Agency+LLP/data=!4m7!3m6!1s0x31da3d31a012fa41:0xb68cf8d32d5c188f!8m2!3d1.3318752!4d103.9463585!16s%2Fg%2F11f159b3__!19sChIJQfoSoDE92jERjxhcLdP4jLY
 https://www.google.com/maps/place/MNK+Maids/data=!4m7!3m6!1s0x31da3d0ee1fd8453:0x1bb304b025133ad2!8m2!3d1.3588468!4d103.9486549!16s%2Fg%2F11fmw_nftj!19sChIJU4T94Q492jER0joTJbAEsxs
 https://www.google.com/maps/place/My+Agency/data=!4m7!3m6!1s0x31da3db92baa8401:0x51234ad1114be837!8m2!3d1.3557382!4d103.9400549!16s%2Fg%2F11m7qb9wcb!19sChIJAYSqK7k92jERN-hLEdFKI1E
+https://www.google.com/maps/place/Swc+Employment+Agencies/data=!4m7!3m6!1s0x31da3d18a5bbffff:0xa254d325ba0a090c!8m2!3d1.3450275!4d103.9541684!16s%2Fg%2F11h51j_pv2!19sChIJ__-7pRg92jERDAkKuiXTVKI
+https://www.google.com/maps/place/I+S+Recruitment+%26+Services/data=!4m7!3m6!1s0x31da3d0742f0bf05:0x85a0de5eedfb35dc!8m2!3d1.3626758!4d103.9536874!16s%2Fg%2F1ptxkl4tp!19sChIJBb_wQgc92jER3DX77V7eoIU
+https://www.google.com/maps/place/MNK+Employment+Agency/data=!4m7!3m6!1s0x31da3d224fb55a5d:0x413955aaff9a66a!8m2!3d1.342806!4d103.952974!16s%2Fg%2F1tdz6y9x!19sChIJXVq1TyI92jERaqb5r1qVEwQ
