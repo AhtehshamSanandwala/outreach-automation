@@ -6824,3 +6824,5 @@ https://www.google.com/maps/place/Combine+Trading+Enterprise+Pte+Ltd/data=!4m7!3
 https://www.google.com/maps/place/Seow+Meng+Chuan+Trading/data=!4m7!3m6!1s0x31da3d048e581901:0xee2914e2bb532a87!8m2!3d1.3558976!4d103.9539641!16s%2Fg%2F1ptyrwrmf!19sChIJARlYjgQ92jERhypTu-IUKe4
 https://www.google.com/maps/place/SNEX+Marketing+%26+Trading+Pte.+Ltd./data=!4m7!3m6!1s0x31da1725f6ca4f35:0x545e54a3aeb083e2!8m2!3d1.3406!4d103.9418759!16s%2Fg%2F1ptyyt7x7!19sChIJNU_K9iUX2jER4oOwrqNUXlQ
 https://www.google.com/maps/place/Seng+Hwa+Trading+Co/data=!4m7!3m6!1s0x31da3d3ae8b925e7:0x7ac2c489e4aab036!8m2!3d1.3369246!4d103.9475734!16s%2Fg%2F1tdz6yb6!19sChIJ5yW56Do92jERNrCq5InEwno
+https://www.google.com/maps/place/Hup+Chiang+Fishery+%26+Trading+Co./data=!4m7!3m6!1s0x31da3d224fa36beb:0x83686cf169405ae0!8m2!3d1.342806!4d103.952974!16s%2Fg%2F1pv0tp082!19sChIJ62ujTyI92jER4FpAafFsaIM
+https://www.google.com/maps/place/Jaf+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da3d21da62f637:0x9abaf7b90c586ea!8m2!3d1.344213!4d103.957059!16s%2Fg%2F1tdcp1bv!19sChIJN_Zi2iE92jER6obFkHuvqwk
