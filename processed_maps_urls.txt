@@ -6958,3 +6958,6 @@ https://www.google.com/maps/place/Crizto+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Pharmchem+Engineering+-+Your+Trusted+Industrial+Equipment+Supplier/data=!4m7!3m6!1s0x31da3d3a90000001:0x7b6a021279b04139!8m2!3d1.3355192!4d103.9478428!16s%2Fg%2F1tkkrd5f!19sChIJAQAAkDo92jEROUGweRICans
 https://www.google.com/maps/place/Go+Digital+Lock+Pte+Ltd/data=!4m7!3m6!1s0x31da1363e8cf3175:0x190dbcef03abee7d!8m2!3d1.372899!4d103.9349854!16s%2Fg%2F11g2wl2th2!19sChIJdTHP6GMT2jERfe6rA--8DRk
 https://www.google.com/maps/place/Sabelita+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da17e2453ac7e3:0xb4dec692f737963b!8m2!3d1.3350778!4d103.969897!16s%2Fg%2F1tdyn95s!19sChIJ48c6ReIX2jERO5Y395LG3rQ
+https://www.google.com/maps/place/Smartflex+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da3d394651c153:0x68494f42b8c49d11!8m2!3d1.3388893!4d103.9420715!16s%2Fg%2F11fnwhv9nf!19sChIJU8FRRjk92jEREZ3EuEJPSWg
+https://www.google.com/maps/place/Haulotte+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3cefb0e961e1:0x4aa1827614b436f4!8m2!3d1.3347003!4d103.9652515!16s%2Fg%2F1tdmy0ks!19sChIJ4WHpsO882jER9Da0FHaCoUo
+https://www.google.com/maps/place/Taste+Asia+Vending+Machine+@+Vanguard+Tampines+Care+Home/data=!4m7!3m6!1s0x31da3d39fc9721bd:0x420d0858943c4109!8m2!3d1.3632739!4d103.9370813!16s%2Fg%2F11zyx96qd9!19sChIJvSGX_Dk92jERCUE8lFgIDUI
