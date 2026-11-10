@@ -6639,3 +6639,5 @@ https://www.google.com/maps/place/SURE+Financial+Group/data=!4m7!3m6!1s0x31da3d4
 https://www.google.com/maps/place/Work+office/data=!4m7!3m6!1s0x31da3d007879e89f:0x8faf2d259d44f8bf!8m2!3d1.334157!4d103.9708556!16s%2Fg%2F11wvjxctn8!19sChIJn-h5eAA92jERv_hEnSUtr48
 https://www.google.com/maps/place/SOFGEN+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da190855555555:0x282a5000d8c975a!8m2!3d1.3331726!4d103.9657953!16s%2Fg%2F11c5hwyy3c!19sChIJVVVVVQgZ2jERWpeMDQClggI
 https://www.google.com/maps/place/Procure+Associates+Pte+Ltd/data=!4m7!3m6!1s0x31da1927a787ac6f:0xe27b1830f509080c!8m2!3d1.3522658!4d103.9418353!16s%2Fg%2F11g1np052w!19sChIJb6yHpycZ2jERDAgJ9TAYe-I
+https://www.google.com/maps/place/A+T+Business+Communications+Services/data=!4m7!3m6!1s0x31da3d0542da692b:0x7afc65cabfdb300b!8m2!3d1.355086!4d103.94998!16s%2Fg%2F1ptyssfln!19sChIJK2naQgU92jERCzDbv8pl_Ho
+https://www.google.com/maps/place/Regus+-+Singapore,+Tampines+Junction/data=!4m7!3m6!1s0x31da3d1249be0481:0xa04b760d31ec2bd8!8m2!3d1.3521624!4d103.9422907!16s%2Fg%2F11btxchk78!19sChIJgQS-SRI92jER2CvsMQ12S6A
