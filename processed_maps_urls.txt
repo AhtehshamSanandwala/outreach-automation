@@ -7233,3 +7233,4 @@ https://www.google.com/maps/place/Crisplant+A%2FS/data=!4m7!3m6!1s0x31da3cd760b0
 https://www.google.com/maps/place/FairPrice+Xtra+Changi+Business+Park/data=!4m7!3m6!1s0x31da3cd7791ee405:0xc2c62dfeb784e428!8m2!3d1.3351559!4d103.9634956!16s%2Fg%2F11b6dglk3m!19sChIJBeQeedc82jERKOSEt_4txsI
 https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da3d8349239e81:0x7ecb8264cc94b2ef!8m2!3d1.338486!4d103.9648431!16s%2Fg%2F11z34yp642!19sChIJgZ4jSYM92jER77KUzGSCy34
 https://www.google.com/maps/place/NIDEK+Singapore/data=!4m7!3m6!1s0x31da3cd75d42dfcd:0x2992ee1cb668fc64!8m2!3d1.3346919!4d103.9652116!16s%2Fg%2F11f4m9g7dg!19sChIJzd9CXdc82jERZPxothzukik
+https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da3dff043143a3:0x7bf0b9afcf952e74!8m2!3d1.3377441!4d103.9660256!16s%2Fg%2F11y8th6xnt!19sChIJo0MxBP892jERdC6Vz6-58Hs
