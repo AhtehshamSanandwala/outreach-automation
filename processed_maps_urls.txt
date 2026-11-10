@@ -6516,3 +6516,5 @@ https://www.google.com/maps/place/DigitalOne+Pte+Ltd/data=!4m7!3m6!1s0x31da3d391
 https://www.google.com/maps/place/Kiaxdizpno/data=!4m7!3m6!1s0x31da3d1e8427a5fb:0x67f9bc721bba00f7!8m2!3d1.348913!4d103.957537!16s%2Fg%2F11y1kvk0bh!19sChIJ-6UnhB492jER9wC6G3K8-Wc
 https://www.google.com/maps/place/Interface+Media+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d2e6253384b:0x61dc9b734e3509e!8m2!3d1.331362!4d103.951928!16s%2Fg%2F11c1wspcm_!19sChIJSzhTYi492jERnlDjNLfJHQY
 https://www.google.com/maps/place/DEP+Sign+Pte+Limited/data=!4m7!3m6!1s0x31da3d0872b6bfad:0xde4271e6ecd6b0f3!8m2!3d1.3353776!4d103.9460375!16s%2Fg%2F11lc9z6bls!19sChIJrb-2cgg92jER87DW7OZxQt4
+https://www.google.com/maps/place/Art+Twerkz/data=!4m7!3m6!1s0x31da3d1a5e6da981:0x62873b4c8c83f487!8m2!3d1.3514414!4d103.9507582!16s%2Fg%2F11jg5vx0m8!19sChIJgaltXho92jERh_SDjEw7h2I
+https://www.google.com/maps/place/The+Edu+Experience/data=!4m7!3m6!1s0x31da3dbabe47375b:0xca538d764e2e94a0!8m2!3d1.352687!4d103.9429503!16s%2Fg%2F11ngh_yk58!19sChIJWzdHvro92jERoJQuTnaNU8o
