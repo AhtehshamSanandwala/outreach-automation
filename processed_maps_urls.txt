@@ -7347,3 +7347,5 @@ https://www.google.com/maps/place/Sirius+Multimedia+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Loomify/data=!4m7!3m6!1s0x31da1141e9c72213:0x1f460a81fb523c4d!8m2!3d1.3300828!4d103.7446534!16s%2Fg%2F11ywbsqmws!19sChIJEyLH6UER2jERTTxS-4EKRh8
 https://www.google.com/maps/place/BrandMolecule/data=!4m7!3m6!1s0x31da16b60fb41adb:0x84e96224600cfa82!8m2!3d1.3380661!4d103.756207!16s%2Fg%2F113h021sb!19sChIJ2xq0D7YW2jERgvoMYCRi6YQ
 https://www.google.com/maps/place/Red+Events+Pte+Ltd/data=!4m7!3m6!1s0x31da199ee958396b:0xf0a9819ac13a1204!8m2!3d1.3299464!4d103.7446555!16s%2Fg%2F1ptynnxgz!19sChIJazlY6Z4Z2jERBBI6wZqBqfA
+https://www.google.com/maps/place/OnePoint+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da1005a1f5e0d3:0x28551c269d0b2828!8m2!3d1.3340489!4d103.7388713!16s%2Fg%2F1tcvrbzw!19sChIJ0-D1oQUQ2jERKCgLnSYcVSg
+https://www.google.com/maps/place/Vegetarian+at+Creative+Resource+Building/data=!4m7!3m6!1s0x31da100988555555:0xffa37e5238e48139!8m2!3d1.32873!4d103.7460644!16s%2Fg%2F11d_238tr0!19sChIJVVVViAkQ2jEROYHkOFJ-o_8
