@@ -6896,3 +6896,6 @@ https://www.google.com/maps/place/SHIP-BACK+%E6%A3%92%E5%AE%87%E5%9B%BD%E9%99%85
 https://www.google.com/maps/place/BCS+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3d2f066c2905:0xa23ac62b2616e8eb!8m2!3d1.333438!4d103.9518234!16s%2Fg%2F1tc_1m5c!19sChIJBSlsBi892jER6-gWJivGOqI
 https://www.google.com/maps/place/Linkz+Logistics+and+Trading+Services/data=!4m7!3m6!1s0x31da3ce1fbb50faf:0x4317565ebd3b32c2!8m2!3d1.348913!4d103.961344!16s%2Fg%2F1ptwq9p08!19sChIJrw-1--E82jERwjI7vV5WF0M
 https://www.google.com/maps/place/CG+Integrated+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd6bdb6dc41:0xd931687202c6b6cf!8m2!3d1.3306277!4d103.9645437!16s%2Fg%2F1tnmp7cq!19sChIJQdy2vdY82jERz7bGAnJoMdk
+https://www.google.com/maps/place/Thyssen+Haniel+Logistics+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd63c35eb0d:0xef4928437bfac3bf!8m2!3d1.332405!4d103.962225!16s%2Fg%2F1tfb8nzh!19sChIJDes1PNY82jERv8P6e0MoSe8
+https://www.google.com/maps/place/Mamgistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3b2a2bc0dd:0x2bc1784bd21c2ce1!8m2!3d1.3376523!4d103.9486266!16s%2Fg%2F1tx_3x2r!19sChIJ3cArKjs92jER4Swc0kt4wSs
+https://www.google.com/maps/place/Unison+Transport+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da3d003602f725:0x2c4c6f9cea432cb!8m2!3d1.3419809!4d103.9425716!16s%2Fg%2F11x65zl_yn!19sChIJJfcCNgA92jERyzKkzvnGxAI
