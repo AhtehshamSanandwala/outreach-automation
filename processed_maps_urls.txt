@@ -7361,3 +7361,4 @@ https://www.google.com/maps/place/World+Partners+Solution+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/Kenton+Marine+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da11317b8a5e7f:0x90b4053df09c1d18!8m2!3d1.3290115!4d103.7517348!16s%2Fg%2F1vyk00p5!19sChIJf16KezER2jERGB2c8D0FtJA
 https://www.google.com/maps/place/Red+Bug+Communications+Pte.+Ltd./data=!4m7!3m6!1s0x31da1159eb62d9b1:0x9582aba21392cc0d!8m2!3d1.3285746!4d103.7522417!16s%2Fg%2F11rvc2vyj2!19sChIJsdli61kR2jERDcySE6KrgpU
 https://www.google.com/maps/place/Little+Ferry+Agencies+Pte+Ltd/data=!4m7!3m6!1s0x31da1ab473ec7565:0x52df464c5897e914!8m2!3d1.3128266!4d103.7331431!16s%2Fg%2F11c59zxrbg!19sChIJZXXsc7Qa2jERFOmXWExG31I
+https://www.google.com/maps/place/Asia+Association+Pte.+Ltd./data=!4m7!3m6!1s0x31da100ddb72fe07:0x4291957c87d168db!8m2!3d1.3348385!4d103.7468606!16s%2Fg%2F11btmq3wng!19sChIJB_5y2w0Q2jER22jRh3yVkUI
