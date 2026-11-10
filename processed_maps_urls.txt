@@ -6654,3 +6654,5 @@ https://www.google.com/maps/place/HeySara+Corporate+Services+Sdn.+Bdn./data=!4m7
 https://www.google.com/maps/place/Mezzanine+Enterprise/data=!4m7!3m6!1s0x86a09da940594791:0xec076f57e43a46b5!8m2!3d1.2821948!4d103.8526504!16s%2Fg%2F11y0z_spc_!19sChIJkUdZQKmdoIYRtUY65FdvB-w
 https://www.google.com/maps/place/Pro-Frontier/data=!4m7!3m6!1s0x31da3d31a00fffff:0xf64d46d638821add!8m2!3d1.3394808!4d103.960926!16s%2Fg%2F11hzvchk65!19sChIJ__8PoDE92jER3RqCONZGTfY
 https://www.google.com/maps/place/Optimum+Solutions+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17acb1e38a29:0x3679bdeef327887!8m2!3d1.3334609!4d103.9653722!16s%2Fg%2F1tjfdc8d!19sChIJKYrjsawX2jERh3gy796bZwM
+https://www.google.com/maps/place/Tampines+West+Management+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da3d6bf0cf8f93:0x752cae349794de4a!8m2!3d1.3490819!4d103.932672!16s%2Fg%2F1tcvrcf1!19sChIJk4_P8Gs92jERSt6UlzSuLHU
+https://www.google.com/maps/place/COURTS+Megastore/data=!4m7!3m6!1s0x31da3d97645d1c89:0xdf327aff753f7105!8m2!3d1.3734101!4d103.9334918!16s%2Fg%2F1tf13d82!19sChIJiRxdZJc92jERBXE_df96Mt8
