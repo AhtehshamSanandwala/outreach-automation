@@ -6939,3 +6939,4 @@ https://www.google.com/maps/place/Durasafe/data=!4m7!3m6!1s0x31da17e374e905e3:0x
 https://www.google.com/maps/place/Eng+Cheong+Machinery+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd0efa15d35:0xff601c75b4bf1f0c!8m2!3d1.3334211!4d103.9688111!16s%2Fg%2F1v44bh1c!19sChIJNV2h79A82jERDB-_tHUcYP8
 https://www.google.com/maps/place/Teck+Seng+Hardware+Trading/data=!4m7!3m6!1s0x31da3d3ec3719dbd:0x2e77652d2961a69b!8m2!3d1.3414065!4d103.9418756!16s%2Fg%2F11f3vm888k!19sChIJvZ1xwz492jERm6ZhKS1ldy4
 https://www.google.com/maps/place/Mouser+Electronics/data=!4m7!3m6!1s0x31da3ce3844df7d1:0x3376920d8f67296c!8m2!3d1.3531865!4d103.9427316!16s%2Fg%2F1pty737ng!19sChIJ0fdNhOM82jERbClnjw2SdjM
+https://www.google.com/maps/place/Premier+Engineering+%26+Trading+Pte.+Ltd+%28Water+Pump+Singapore%29/data=!4m7!3m6!1s0x31da3de493a2bc2d:0xbdbcbc0c16db710b!8m2!3d1.3716296!4d103.9353501!16s%2Fg%2F11c1wrj198!19sChIJLbyik-Q92jERC3HbFgy8vL0
