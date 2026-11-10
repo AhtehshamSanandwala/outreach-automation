@@ -6789,3 +6789,5 @@ https://www.google.com/maps/place/WeMake/data=!4m7!3m6!1s0x31da3d0f2bc0868b:0x55
 https://www.google.com/maps/place/Fresh+Vegetables+%7C+Organic+Vegetables+%7C+Buy+Vegetables+Singapore/data=!4m7!3m6!1s0x31da3d1b17d11eb5:0x119bb8a34190b100!8m2!3d1.3527749!4d103.9529219!16s%2Fg%2F1hc1q1mfq!19sChIJtR7RFxs92jERALGQQaO4mxE
 https://www.google.com/maps/place/Herbalife+Nutrition+Independent+Distributor+@+Tampines/data=!4m7!3m6!1s0x31da3d1e44da3ae7:0x1961d5b1335b74ff!8m2!3d1.3617212!4d103.9565935!16s%2Fg%2F11scks9x5v!19sChIJ5zraRB492jER_3RbM7HVYRk
 https://www.google.com/maps/place/Empire+International+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d0322855555:0xcd571cc81d4743a2!8m2!3d1.3551282!4d103.9573188!16s%2Fg%2F11fmvk_sm7!19sChIJVVWFIgM92jERokNHHcgcV80
+https://www.google.com/maps/place/Able+H+%26+P+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da181fd5dc1d9d:0xa0787d7dcc8eef4d!8m2!3d1.3719767!4d103.9345394!16s%2Fg%2F1tgxfl8n!19sChIJnR3c1R8Y2jERTe-OzH19eKA
+https://www.google.com/maps/place/Fortune+Food+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3aebff5e8b:0x6cfb82add76984e1!8m2!3d1.3370516!4d103.9460975!16s%2Fg%2F1tctj99n!19sChIJi17_6zo92jER4YRp162C-2w
