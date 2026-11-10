@@ -7115,3 +7115,4 @@ https://www.google.com/maps/place/Certis+CISCO+Changi+Airport+Terminal+2/data=!4
 https://www.google.com/maps/place/Ultro+Building/data=!4m7!3m6!1s0x31da3cd8351aa165:0x1b5b635c3715892d!8m2!3d1.3364003!4d103.9636533!16s%2Fg%2F12hqd_21t!19sChIJZaEaNdg82jERLYkVN1xjWxs
 https://www.google.com/maps/place/Regus+-+Singapore,+The+Signature/data=!4m7!3m6!1s0x31da3cd760c213c1:0x54bb144829667bd!8m2!3d1.3351267!4d103.9652146!16s%2Fg%2F11byl9k5cb!19sChIJwRPCYNc82jERvWeWgkSxSwU
 https://www.google.com/maps/place/Smarte+Carte/data=!4m7!3m6!1s0x31da3c8984654cb9:0xe3f58a246acda0a4!8m2!3d1.3597738!4d103.9903714!16s%2Fg%2F11df0p2z3w!19sChIJuUxlhIk82jERpKDNaiSK9eM
+https://www.google.com/maps/place/Changi+North+Industrial+Park/data=!4m7!3m6!1s0x31da3ce6a740af0d:0x4d0ec6ef3d31011e!8m2!3d1.349177!4d103.967629!16s%2Fg%2F12hk4f_w9!19sChIJDa9Ap-Y82jERHgExPe_GDk0
