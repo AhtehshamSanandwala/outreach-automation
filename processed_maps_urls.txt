@@ -6759,3 +6759,4 @@ https://www.google.com/maps/place/The+Satay+Project/data=!4m7!3m6!1s0x31da3d26d7
 https://www.google.com/maps/place/Jackson+Bakery+%26+Confectionery/data=!4m7!3m6!1s0x31da3d3a59ef9871:0xd5cf24827d6e36fc!8m2!3d1.3372561!4d103.9436611!16s%2Fg%2F1wf1_b_k!19sChIJcZjvWTo92jER_DZufYIkz9U
 https://www.google.com/maps/place/Ingco+by+Horme+@+Tampines/data=!4m7!3m6!1s0x31da3deffa2cb309:0x32e0a9b0569b4f5!8m2!3d1.3641379!4d103.9312995!16s%2Fg%2F11nqs58b2j!19sChIJCbMs-u892jER9bRpBZsKLgM
 https://www.google.com/maps/place/City+Foods+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3aebfb3735:0xf5a850a1f0b96e41!8m2!3d1.3369246!4d103.9475734!16s%2Fg%2F1tj8_1ht!19sChIJNTf76zo92jERQW658KFQqPU
+https://www.google.com/maps/place/Adec+Distribution+Pte+Ltd/data=!4m7!3m6!1s0x31da3d651f0df5f5:0x4248128ca823c570!8m2!3d1.328695!4d103.9663395!16s%2Fg%2F11h7dclfjf!19sChIJ9fUNH2U92jERcMUjqIwSSEI
