@@ -6859,3 +6859,4 @@ https://www.google.com/maps/place/Royale+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/S%26P+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3e98c00001:0xb102972151492a72!8m2!3d1.3412445!4d103.9428715!16s%2Fg%2F11fm4yhjzc!19sChIJAQDAmD492jERcipJUSGXArE
 https://www.google.com/maps/place/Transnational+Supply+Chain+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3ce4ffffffff:0x8a00f80b1d5fb52f!8m2!3d1.332405!4d103.962225!16s%2Fg%2F11c2q38mnj!19sChIJ_____-Q82jERL7VfHQv4AIo
 https://www.google.com/maps/place/Teleport+Singapore/data=!4m7!3m6!1s0x31da3d0274c9e1bb:0xe0d38fa9e9cef0dd!8m2!3d1.3717711!4d103.9337283!16s%2Fg%2F11q3y96kvf!19sChIJu-HJdAI92jER3fDO6amP0-A
+https://www.google.com/maps/place/VT+SUCCESS+LOGISTICS+%28SG%29+PTE+LTD/data=!4m7!3m6!1s0x31da3d5bda3425d1:0xeb39c5137aa891cf!8m2!3d1.3376502!4d103.9486247!16s%2Fg%2F11q3smwm9w!19sChIJ0SU02ls92jERz5GoehPFOes
