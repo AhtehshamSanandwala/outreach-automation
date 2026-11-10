@@ -7062,3 +7062,4 @@ https://www.google.com/maps/place/3+%26+5+Changi+Business+Park+Crescent/data=!4m
 https://www.google.com/maps/place/1+Changi+Business+Park+Avenue+1+-+Space+for+Rent/data=!4m7!3m6!1s0x31da3d18766030bf:0xc356aad2193dbb28!8m2!3d1.3366252!4d103.9636648!16s%2Fg%2F11c48pgnzy!19sChIJvzBgdhg92jERKLs9GdKqVsM
 https://www.google.com/maps/place/MindChamps+Performing+Arts+PreSchool+@+Changi+Business+Park/data=!4m7!3m6!1s0x31da3cd74fffffff:0xe12c0128a1a943d2!8m2!3d1.335372!4d103.9649552!16s%2Fg%2F1xcbm4c8!19sChIJ____T9c82jER0kOpoSgBLOE
 https://www.google.com/maps/place/Rohde+%26+Schwarz+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd9f86c84a3:0x6b66a4987bb2443b!8m2!3d1.3386336!4d103.9649724!16s%2Fg%2F11xnng9bb!19sChIJo4Rs-Nk82jERO0Sye5ikZms
+https://www.google.com/maps/place/Changi+Airport+Group+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3b241b156f:0x5a4726e9366947ac!8m2!3d1.356224!4d103.9894319!16s%2Fg%2F11qq9n672g!19sChIJbxUbJDs92jERrEdpNukmR1o
