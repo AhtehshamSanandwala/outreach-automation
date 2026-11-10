@@ -6330,3 +6330,4 @@ https://www.google.com/maps/place/Tat+Hong+Holdings+Ltd/data=!4m7!3m6!1s0x31da12
 https://www.google.com/maps/place/UBZ+System+Ubi+Shop/data=!4m7!3m6!1s0x31da1716af941847:0x45113f881574501a!8m2!3d1.3325961!4d103.8974227!16s%2Fg%2F11pxppv6mm!19sChIJRxiUrxYX2jERGlB0FYg_EUU
 https://www.google.com/maps/place/Souma+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17550216b7b3:0x702abd8a12e13401!8m2!3d1.3322152!4d103.8903577!16s%2Fg%2F11p2bc9g33!19sChIJs7cWAlUX2jERATThEoq9KnA
 https://www.google.com/maps/place/MedicalAssistance4u/data=!4m7!3m6!1s0x31da14140b08d173:0xd68a9611a7db4903!8m2!3d1.333032!4d103.9022011!16s%2Fg%2F11b6_9b0fp!19sChIJc9EICxQU2jERA0nbpxGWitY
+https://www.google.com/maps/place/Metalis+Pte+Ltd/data=!4m7!3m6!1s0x31da17ed48f2432d:0x312952532b646d90!8m2!3d1.3303267!4d103.8956746!16s%2Fg%2F1tgcpcxs!19sChIJLUPySO0X2jERkG1kK1NSKTE
