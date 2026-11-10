@@ -7022,3 +7022,4 @@ https://www.google.com/maps/place/CrescentRating/data=!4m7!3m6!1s0x31da19e8096a0
 https://www.google.com/maps/place/Onyx+Island+Pte.+Ltd./data=!4m7!3m6!1s0x31da19cc0a049645:0x14a2bf61efbac275!8m2!3d1.3184358!4d103.8927403!16s%2Fg%2F12hp589_m!19sChIJRZYECswZ2jERdcK672G_ohQ
 https://www.google.com/maps/place/ONE@Changi+City/data=!4m7!3m6!1s0x31da3d7b128ee1df:0x1602e6f6fc745bd!8m2!3d1.3334798!4d103.9625577!16s%2Fg%2F11g0h80zs2!19sChIJ3-GOEns92jERvUXHb28uYAE
 https://www.google.com/maps/place/ESR+BizPark+@+Changi/data=!4m7!3m6!1s0x31da3cd82dc3e71f:0x7e511d3e07a70403!8m2!3d1.3350934!4d103.9636848!16s%2Fg%2F11xr3zkcl!19sChIJH-fDLdg82jERAwSnBz4dUX4
+https://www.google.com/maps/place/iSmart+Communications+Pte+Ltd/data=!4m7!3m6!1s0x31da196d2e2ab83d:0xa0e28211fcb0f3c7!8m2!3d1.3176136!4d103.7795187!16s%2Fg%2F1yfh_kmpy!19sChIJPbgqLm0Z2jERx_Ow_BGC4qA
