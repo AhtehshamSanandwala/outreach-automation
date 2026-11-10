@@ -6894,3 +6894,5 @@ https://www.google.com/maps/place/Lock%2BStore+%28Tampines%29/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Yusen+Air+%26+Sea+Service+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da3c0cc3c6c92b:0x2292685cb9aaf4e3!8m2!3d1.3328843!4d103.962985!16s%2Fg%2F1v5k0jqt!19sChIJK8nGwww82jER4_SquVxokiI
 https://www.google.com/maps/place/SHIP-BACK+%E6%A3%92%E5%AE%87%E5%9B%BD%E9%99%85/data=!4m7!3m6!1s0x31da174fab72f3bd:0x4bd0d321c1215c5b!8m2!3d1.3414498!4d103.9418375!16s%2Fg%2F11r3s29vt6!19sChIJvfNyq08X2jERW1whwSHT0Es
 https://www.google.com/maps/place/BCS+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3d2f066c2905:0xa23ac62b2616e8eb!8m2!3d1.333438!4d103.9518234!16s%2Fg%2F1tc_1m5c!19sChIJBSlsBi892jER6-gWJivGOqI
+https://www.google.com/maps/place/Linkz+Logistics+and+Trading+Services/data=!4m7!3m6!1s0x31da3ce1fbb50faf:0x4317565ebd3b32c2!8m2!3d1.348913!4d103.961344!16s%2Fg%2F1ptwq9p08!19sChIJrw-1--E82jERwjI7vV5WF0M
+https://www.google.com/maps/place/CG+Integrated+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd6bdb6dc41:0xd931687202c6b6cf!8m2!3d1.3306277!4d103.9645437!16s%2Fg%2F1tnmp7cq!19sChIJQdy2vdY82jERz7bGAnJoMdk
