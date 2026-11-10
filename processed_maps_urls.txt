@@ -6799,3 +6799,4 @@ https://www.google.com/maps/place/Cold+Storage/data=!4m7!3m6!1s0x31da3d0e270101f
 https://www.google.com/maps/place/Beauty+Language+@+Tampines+Mall/data=!4m7!3m6!1s0x31da3d119499fe2b:0x3bc19f2c7a6dc804!8m2!3d1.3525295!4d103.9449561!16s%2Fg%2F11hd6w98w6!19sChIJK_6ZlBE92jERBMhteiyfwTs
 https://www.google.com/maps/place/The+Bistro+Bliss/data=!4m7!3m6!1s0x31da3d490d13483b:0x143adf800a7ae138!8m2!3d1.3389288!4d103.9515127!16s%2Fg%2F11lv47c49n!19sChIJO0gTDUk92jEROOF6CoDfOhQ
 https://www.google.com/maps/place/Airbot+Tampines/data=!4m7!3m6!1s0x31da3d0073ba8943:0x80f473a6cb927c3b!8m2!3d1.3524839!4d103.9448199!16s%2Fg%2F11mdvjnfgr!19sChIJQ4m6cwA92jERO3ySy6Zz9IA
+https://www.google.com/maps/place/Dirt+Wheel+Tampines/data=!4m7!3m6!1s0x31da3d3ebb43ae49:0xee7ec9a007dae2f7!8m2!3d1.3405936!4d103.9425167!16s%2Fg%2F1wf363jw!19sChIJSa5Duz492jER9-LaB6DJfu4
