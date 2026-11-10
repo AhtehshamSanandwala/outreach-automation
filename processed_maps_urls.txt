@@ -6933,3 +6933,5 @@ https://www.google.com/maps/place/Aei+Ocean+Services+%28singapore%29+Pte+Ltd/dat
 https://www.google.com/maps/place/Avialink+Transporation+Pte+Ltd/data=!4m7!3m6!1s0x31da3d20e18b7cab:0xdabbc4f8388edb7d!8m2!3d1.3413837!4d103.9580072!16s%2Fg%2F1th1rkyk!19sChIJq3yL4SA92jERfduOOPjEu9o
 https://www.google.com/maps/place/Accord+Air+Freight+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d2fa277e085:0xb3e802addf85b742!8m2!3d1.33412!4d103.951613!16s%2Fg%2F11b6dq4vch!19sChIJheB3oi892jERQreF360C6LM
 https://www.google.com/maps/place/AirMark+Aviation+%28S%29+PTE+LTD/data=!4m7!3m6!1s0x31da3cd46c6e1c1d:0xe9d78145fe0fb160!8m2!3d1.329107!4d103.965436!16s%2Fg%2F1tm2766h!19sChIJHRxubNQ82jERYLEP_kWB1-k
+https://www.google.com/maps/place/Roylea+Express+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3d2fb0186411:0x49e67568b0d931ab!8m2!3d1.3329109!4d103.9509743!16s%2Fg%2F1ptwzy7bp!19sChIJEWQYsC892jERqzHZsGh15kk
+https://www.google.com/maps/place/Hankyu+Hanshin+Express+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cc4cdb2e29d:0x5bb5eaaf1191fd0!8m2!3d1.3381611!4d103.9726029!16s%2Fg%2F1ptyzqw8v!19sChIJneKyzcQ82jER0B8Z8apeuwU
