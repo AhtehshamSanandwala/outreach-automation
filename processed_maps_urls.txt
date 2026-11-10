@@ -6479,3 +6479,4 @@ https://www.google.com/maps/place/TJM+Employment+Agency/data=!4m7!3m6!1s0x31da17
 https://www.google.com/maps/place/Fine+Art+Advertising+Studio/data=!4m7!3m6!1s0x31da3d3e9be7934b:0x582409596c552187!8m2!3d1.341471!4d103.9429059!16s%2Fg%2F1tfx2f7r!19sChIJS5Pnmz492jERhyFVbFkJJFg
 https://www.google.com/maps/place/Mooi+Wonderland+Design+Studio/data=!4m7!3m6!1s0x31da15ffb880d5ad:0xd39f5c7692a73050!8m2!3d1.3717711!4d103.9337283!16s%2Fg%2F11jwm0fjs8!19sChIJrdWAuP8V2jERUDCnknZcn9M
 https://www.google.com/maps/place/Emilia+Art+Studio/data=!4m7!3m6!1s0x31da3d66edc7043b:0x16807ff39dc5ce42!8m2!3d1.3586058!4d103.9523818!16s%2Fg%2F11zcgq6v3l!19sChIJOwTH7WY92jERQs7FnfN_gBY
+https://www.google.com/maps/place/MSM+Satellite+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3d1210b01c9d:0xc5ac853094cad11!8m2!3d1.353256!4d103.9422777!16s%2Fg%2F1td2w_85!19sChIJnRywEBI92jEREa1MCVPIWgw
