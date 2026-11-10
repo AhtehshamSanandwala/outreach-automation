@@ -7150,3 +7150,5 @@ https://www.google.com/maps/place/Kyndryl+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/MEDINEX+LIMITED/data=!4m7!3m6!1s0x31da19a6ca41f809:0x87ce6b003d8f925b!8m2!3d1.3183044!4d103.8429447!16s%2Fg%2F11g9mx2525!19sChIJCfhByqYZ2jERW5KPPQBrzoc
 https://www.google.com/maps/place/MSP+IT+Concepts+Pvt.+Ltd./data=!4m7!3m6!1s0x395e84febd2ef5cb:0x3b14bc5a9d716d17!8m2!3d23.0196368!4d72.5616086!16s%2Fg%2F1hm3vw0gk!19sChIJy_Uuvf6EXjkRF21xnVq8FDs
 https://www.google.com/maps/place/ESR+BizPark/data=!4m7!3m6!1s0x31da3cd82b3d3923:0x2f40f23dfb848a63!8m2!3d1.3353899!4d103.9632518!16s%2Fg%2F11g6qxqxjd!19sChIJIzk9K9g82jERY4qE-z3yQC8
+https://www.google.com/maps/place/Changi+Business+Pk+Ter/data=!4m7!3m6!1s0x31da3cdc2e88d8d5:0xb538c1350baddd66!8m2!3d1.341888!4d103.96714!16s%2Fg%2F11cp71bp4w!19sChIJ1diILtw82jERZt2tCzXBOLU
+https://www.google.com/maps/place/Changi+East+Pass+Office/data=!4m7!3m6!1s0x31da2305922d1b35:0x4a532bad7b323fc3!8m2!3d1.3192888!4d103.9890682!16s%2Fg%2F11fjz0zhhb!19sChIJNRstkgUj2jERwz8ye60rU0o
