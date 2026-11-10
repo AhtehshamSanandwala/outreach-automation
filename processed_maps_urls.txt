@@ -6641,3 +6641,4 @@ https://www.google.com/maps/place/SOFGEN+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Procure+Associates+Pte+Ltd/data=!4m7!3m6!1s0x31da1927a787ac6f:0xe27b1830f509080c!8m2!3d1.3522658!4d103.9418353!16s%2Fg%2F11g1np052w!19sChIJb6yHpycZ2jERDAgJ9TAYe-I
 https://www.google.com/maps/place/A+T+Business+Communications+Services/data=!4m7!3m6!1s0x31da3d0542da692b:0x7afc65cabfdb300b!8m2!3d1.355086!4d103.94998!16s%2Fg%2F1ptyssfln!19sChIJK2naQgU92jERCzDbv8pl_Ho
 https://www.google.com/maps/place/Regus+-+Singapore,+Tampines+Junction/data=!4m7!3m6!1s0x31da3d1249be0481:0xa04b760d31ec2bd8!8m2!3d1.3521624!4d103.9422907!16s%2Fg%2F11btxchk78!19sChIJgQS-SRI92jER2CvsMQ12S6A
+https://www.google.com/maps/place/CT+Business+Accounting+Services/data=!4m7!3m6!1s0x31da3d6e823505ad:0x51671509c7a39831!8m2!3d1.351443!4d103.931629!16s%2Fg%2F11c1ws_806!19sChIJrQU1gm492jERMZijxwkVZ1E
