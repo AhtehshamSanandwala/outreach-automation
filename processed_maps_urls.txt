@@ -7193,3 +7193,4 @@ https://www.google.com/maps/place/International+SOS/data=!4m7!3m6!1s0x31da19a4fe
 https://www.google.com/maps/place/EXAIL/data=!4m7!3m6!1s0x31da17f257c5b4d3:0x134408196f4f3d56!8m2!3d1.3376693!4d103.9645858!16s%2Fg%2F11c316gqyt!19sChIJ07TFV_IX2jERVj1PbxkIRBM
 https://www.google.com/maps/place/Encora+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da19124739e1a3:0x11cf28ce689fc31d!8m2!3d1.3346916!4d103.9652977!16s%2Fg%2F11c1wrfg4f!19sChIJo-E5RxIZ2jERHcOfaM4ozxE
 https://www.google.com/maps/place/Aspire+Systems+Consulting+PTE+Ltd./data=!4m7!3m6!1s0x31da3df15a22fcc1:0xa8594c5f3deb2df6!8m2!3d1.3349782!4d103.9656094!16s%2Fg%2F11r2g0xlfj!19sChIJwfwiWvE92jER9i3rPV9MWag
+https://www.google.com/maps/place/Sembcorp+Specialised+Construction+Pte.+Ltd./data=!4m7!3m6!1s0x31da1bd6f868cb53:0x9c37c6d09034fc00!8m2!3d1.3352374!4d103.9656927!16s%2Fg%2F1tfb42f4!19sChIJU8to-NYb2jERAPw0kNDGN5w
