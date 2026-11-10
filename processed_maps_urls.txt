@@ -6312,3 +6312,5 @@ https://www.google.com/maps/place/PLC+Automation+Group+-+Global+Automation+Parts
 https://www.google.com/maps/place/Far+East+Group+Limited/data=!4m7!3m6!1s0x31da19cbe7756b6f:0x21bf0caa1cc92ad3!8m2!3d1.3330015!4d103.8959609!16s%2Fg%2F1v5_6ysp!19sChIJb2t158sZ2jER0yrJHKoMvyE
 https://www.google.com/maps/place/Nee+Hock+Hardware+Company/data=!4m7!3m6!1s0x31da17f50cb38a01:0xe6f97543c8ecc50!8m2!3d1.3273625!4d103.8935227!16s%2Fg%2F1tftbvdw!19sChIJAYqzDPUX2jERUMyOPFSXbw4
 https://www.google.com/maps/place/BMEC+Pte+Ltd/data=!4m7!3m6!1s0x31da1794bbed00e1:0xc7f124bf5cf6de92!8m2!3d1.3328516!4d103.8921805!16s%2Fg%2F1td6_hv5!19sChIJ4QDtu5QX2jERkt72XL8k8cc
+https://www.google.com/maps/place/Industrial+Automation/data=!4m7!3m6!1s0x31da17f338dc6db7:0xa76ef67edb7ca5f7!8m2!3d1.3322442!4d103.8922159!16s%2Fg%2F11f1p9b8w0!19sChIJt23cOPMX2jER96V82372bqc
+https://www.google.com/maps/place/Chai+Hoe+Huat+Machinery+Pte+Ltd/data=!4m7!3m6!1s0x31da3d129d294d57:0x6a35bf83a80dc8d6!8m2!3d1.3262083!4d103.901459!16s%2Fg%2F11g8nymnkl!19sChIJV00pnRI92jER1sgNqIO_NWo
