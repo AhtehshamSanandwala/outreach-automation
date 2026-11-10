@@ -6311,3 +6311,4 @@ https://www.google.com/maps/place/Disco+Hi-Tec+%28Singapore%29+Pte+Ltd/data=!4m7
 https://www.google.com/maps/place/PLC+Automation+Group+-+Global+Automation+Parts+Supplier/data=!4m7!3m6!1s0x31da1725c5727567:0xf3379f85ed48c85e!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11srtvtvpt!19sChIJZ3VyxSUX2jERXshI7YWfN_M
 https://www.google.com/maps/place/Far+East+Group+Limited/data=!4m7!3m6!1s0x31da19cbe7756b6f:0x21bf0caa1cc92ad3!8m2!3d1.3330015!4d103.8959609!16s%2Fg%2F1v5_6ysp!19sChIJb2t158sZ2jER0yrJHKoMvyE
 https://www.google.com/maps/place/Nee+Hock+Hardware+Company/data=!4m7!3m6!1s0x31da17f50cb38a01:0xe6f97543c8ecc50!8m2!3d1.3273625!4d103.8935227!16s%2Fg%2F1tftbvdw!19sChIJAYqzDPUX2jERUMyOPFSXbw4
+https://www.google.com/maps/place/BMEC+Pte+Ltd/data=!4m7!3m6!1s0x31da1794bbed00e1:0xc7f124bf5cf6de92!8m2!3d1.3328516!4d103.8921805!16s%2Fg%2F1td6_hv5!19sChIJ4QDtu5QX2jERkt72XL8k8cc
