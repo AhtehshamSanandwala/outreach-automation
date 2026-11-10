@@ -6218,3 +6218,4 @@ https://www.google.com/maps/place/L+logistics/data=!4m7!3m6!1s0x31da17005d775541
 https://www.google.com/maps/place/ModusLink+Corporation/data=!4m7!3m6!1s0x31da17f233548a15:0x25b08a65b43ef202!8m2!3d1.3329755!4d103.8962842!16s%2Fg%2F1t_tgtlj!19sChIJFYpUM_IX2jERAvI-tGWKsCU
 https://www.google.com/maps/place/DIRECT+GLOBAL+%28ASIA%29+PTE+LTD/data=!4m7!3m6!1s0x31da17db08dc3a33:0xd2a0a8bb61c8456e!8m2!3d1.3329084!4d103.8936751!16s%2Fg%2F11zxd9_1_p!19sChIJMzrcCNsX2jERbkXIYbuooNI
 https://www.google.com/maps/place/iHub+Solutions+Pte+Ltd+%7C+Logistics+Technology+firm+providing+third-party+logistics+services/data=!4m7!3m6!1s0x31da1aceef8f14bf:0x562393167d8b9395!8m2!3d1.3029276!4d103.7602818!16s%2Fg%2F1vzv1689!19sChIJvxSP784a2jERlZOLfRaTI1Y
+https://www.google.com/maps/place/WHS+Global+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1ac193126c73:0x4e8bbf63e5be0eb3!8m2!3d1.3046003!4d103.6591339!16s%2Fg%2F1v3kf01_!19sChIJc2wSk8Ea2jERsw6-5WO_i04
