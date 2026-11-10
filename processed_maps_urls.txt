@@ -7207,3 +7207,4 @@ https://www.google.com/maps/place/T.H.I.+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/Trans+Global+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c653f379561:0x7c5bcbe90c7b02f7!8m2!3d1.3745187!4d103.9956624!16s%2Fg%2F1xcbm4c5!19sChIJYZU3P2U82jER9wJ7DOnLW3w
 https://www.google.com/maps/place/Changi+Cargo+Complex/data=!4m7!3m6!1s0x31da3ceacd954d35:0xadc20a706b3fa890!8m2!3d1.3844189!4d103.9988941!16s%2Fg%2F11c0rqprwf!19sChIJNU2Vzeo82jERkKg_a3AKwq0
 https://www.google.com/maps/place/NGFS+SINGAPORE+PTE+LTD/data=!4m7!3m6!1s0x31da3dcb62f43f8b:0xc61461d14e848cc7!8m2!3d1.3744182!4d103.9958061!16s%2Fg%2F11j31ds2dt!19sChIJiz_0Yss92jERx4yETtFhFMY
+https://www.google.com/maps/place/21+Changi+South+Avenue+2+-+Space+for+Rent/data=!4m7!3m6!1s0x31da3d0fd830cdc9:0x226c043e498f4b6d!8m2!3d1.332049!4d103.9667827!16s%2Fg%2F11f6226lww!19sChIJyc0w2A892jERbUuPST4EbCI
