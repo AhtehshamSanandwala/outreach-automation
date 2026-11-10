@@ -6861,3 +6861,4 @@ https://www.google.com/maps/place/Transnational+Supply+Chain+Logistics+Pte+Ltd/d
 https://www.google.com/maps/place/Teleport+Singapore/data=!4m7!3m6!1s0x31da3d0274c9e1bb:0xe0d38fa9e9cef0dd!8m2!3d1.3717711!4d103.9337283!16s%2Fg%2F11q3y96kvf!19sChIJu-HJdAI92jER3fDO6amP0-A
 https://www.google.com/maps/place/VT+SUCCESS+LOGISTICS+%28SG%29+PTE+LTD/data=!4m7!3m6!1s0x31da3d5bda3425d1:0xeb39c5137aa891cf!8m2!3d1.3376502!4d103.9486247!16s%2Fg%2F11q3smwm9w!19sChIJ0SU02ls92jERz5GoehPFOes
 https://www.google.com/maps/place/Moments+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x31da3cd637daff27:0x87890198bee3a059!8m2!3d1.332405!4d103.962225!16s%2Fg%2F11p56mr61n!19sChIJJ__aN9Y82jERWaDjvpgBiYc
+https://www.google.com/maps/place/Noatum+Logistics+-+Singapore/data=!4m7!3m6!1s0x31da3d62a7a63a0f:0xba866d5353d37b9c!8m2!3d1.3372831!4d103.9684939!16s%2Fg%2F11w9j34m35!19sChIJDzqmp2I92jERnHvTU1Nthro
