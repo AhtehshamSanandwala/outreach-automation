@@ -7065,3 +7065,4 @@ https://www.google.com/maps/place/Rohde+%26+Schwarz+Asia+Pte+Ltd/data=!4m7!3m6!1
 https://www.google.com/maps/place/Changi+Airport+Group+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3b241b156f:0x5a4726e9366947ac!8m2!3d1.356224!4d103.9894319!16s%2Fg%2F11qq9n672g!19sChIJbxUbJDs92jERrEdpNukmR1o
 https://www.google.com/maps/place/Springworks+studio+-+%E9%A3%9B%E8%BA%8D%E5%B7%A5%E6%88%BF+~+%E5%A6%82%E6%AD%A4%E7%B0%A1%E5%8D%98/data=!4m7!3m6!1s0x31da1981bd1bbf95:0xc4df4078febd3faf!8m2!3d1.2804924!4d103.820775!16s%2Fg%2F1tcybzzp!19sChIJlb8bvYEZ2jERrz-9_nhA38Q
 https://www.google.com/maps/place/The+Graphic+Designers/data=!4m7!3m6!1s0x31da191764ad6f4f:0xf08bbff0d7627e70!8m2!3d1.2765928!4d103.7962242!16s%2Fg%2F11rb4r5ppr!19sChIJT2-tZBcZ2jERcH5i1_C_i_A
+https://www.google.com/maps/place/Kingsmen+Projects+Pte+Ltd/data=!4m7!3m6!1s0x31da3cdbc86aaaab:0x1739b606d2dd49c7!8m2!3d1.3379954!4d103.9681117!16s%2Fg%2F11j00sbjsk!19sChIJq6pqyNs82jERx0nd0ga2ORc
