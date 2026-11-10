@@ -6937,3 +6937,4 @@ https://www.google.com/maps/place/Roylea+Express+Singapore+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/Hankyu+Hanshin+Express+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cc4cdb2e29d:0x5bb5eaaf1191fd0!8m2!3d1.3381611!4d103.9726029!16s%2Fg%2F1ptyzqw8v!19sChIJneKyzcQ82jER0B8Z8apeuwU
 https://www.google.com/maps/place/Durasafe/data=!4m7!3m6!1s0x31da17e374e905e3:0xee7959cf08054db3!8m2!3d1.3717711!4d103.9337283!16s%2Fg%2F1tf7d5kn!19sChIJ4wXpdOMX2jERs00FCM9Zee4
 https://www.google.com/maps/place/Eng+Cheong+Machinery+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd0efa15d35:0xff601c75b4bf1f0c!8m2!3d1.3334211!4d103.9688111!16s%2Fg%2F1v44bh1c!19sChIJNV2h79A82jERDB-_tHUcYP8
+https://www.google.com/maps/place/Teck+Seng+Hardware+Trading/data=!4m7!3m6!1s0x31da3d3ec3719dbd:0x2e77652d2961a69b!8m2!3d1.3414065!4d103.9418756!16s%2Fg%2F11f3vm888k!19sChIJvZ1xwz492jERm6ZhKS1ldy4
