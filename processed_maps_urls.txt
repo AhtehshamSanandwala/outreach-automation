@@ -6524,3 +6524,4 @@ https://www.google.com/maps/place/PlayFACTO+School+@+Tampines+East/data=!4m7!3m6
 https://www.google.com/maps/place/RBA+Design+%26+Solution+Pte+Ltd/data=!4m7!3m6!1s0x31da3d190512a82b:0x2bd1830988eb6519!8m2!3d1.3352453!4d103.9469388!16s%2Fg%2F11lrmy0571!19sChIJK6gSBRk92jERGWXriAmD0Ss
 https://www.google.com/maps/place/AirDance/data=!4m7!3m6!1s0x31da3d3a577b8099:0x512e7d769b4f62cd!8m2!3d1.3370945!4d103.9461056!16s%2Fg%2F1ptwk16c1!19sChIJmYB7Vzo92jERzWJPm3Z9LlE
 https://www.google.com/maps/place/Gowin+Enterprise+Pte+Ltd/data=!4m7!3m6!1s0x31da3d6b781410d9:0x3a1602d1436f8440!8m2!3d1.3488156!4d103.9348754!16s%2Fg%2F1tfcf8w4!19sChIJ2RAUeGs92jERQIRvQ9ECFjo
+https://www.google.com/maps/place/Ang+Lay+See/data=!4m7!3m6!1s0x31da3d393b16cd3f:0x213f05cea20284eb!8m2!3d1.339254!4d103.941341!16s%2Fg%2F1pt_m11j0!19sChIJP80WOzk92jER64QCos4FPyE
