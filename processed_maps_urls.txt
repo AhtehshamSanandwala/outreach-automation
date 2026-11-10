@@ -7056,3 +7056,4 @@ https://www.google.com/maps/place/Boombirds/data=!4m7!3m6!1s0x31da1bf0655bfb5d:0
 https://www.google.com/maps/place/Maplebear+Changi+Business+Park/data=!4m7!3m6!1s0x31da3ded1c060793:0x2bfd75279e3b0817!8m2!3d1.3379282!4d103.964248!16s%2Fg%2F11rqy0vb5t!19sChIJkwcGHO092jERFwg7nid1_Ss
 https://www.google.com/maps/place/HCLTech/data=!4m7!3m6!1s0x31da19120247003f:0x62482f1c6dd56893!8m2!3d1.3330865!4d103.9659768!16s%2Fg%2F1pt_1pn0m!19sChIJPwBHAhIZ2jERk2jVbRwvSGI
 https://www.google.com/maps/place/3+Changi+Business+Park+Vista+-+Space+for+Rent/data=!4m7!3m6!1s0x31da3db86015ccad:0xeb307315ac9bd076!8m2!3d1.336811!4d103.9671555!16s%2Fg%2F11g0h8fcsb!19sChIJrcwVYLg92jERdtCbrBVzMOs
+https://www.google.com/maps/place/River+Design+Pte+Ltd/data=!4m7!3m6!1s0x100405056cb39f8d:0x52a62de2dd67ce2!8m2!3d1.335934!4d103.9632457!16s%2Fg%2F11b6xfk_c5!19sChIJjZ-zbAUFBBAR4nzWLd5iKgU
