@@ -7107,3 +7107,4 @@ https://www.google.com/maps/place/DBS+Asia+Hub+Visitor+Parking/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Satyam+Computer+Services+Ltd/data=!4m7!3m6!1s0x31da3cd9b3306923:0xc7ee28854753e483!8m2!3d1.3364003!4d103.9636533!16s%2Fg%2F1tkb2mz0!19sChIJI2kws9k82jERg-RTR4Uo7sc
 https://www.google.com/maps/place/Itg+International+Pte.+Ltd./data=!4m7!3m6!1s0x31da3cd75d6aaaab:0x7329ea5d926ce326!8m2!3d1.3347003!4d103.9652515!16s%2Fg%2F11lgy2w_29!19sChIJq6pqXdc82jERJuNskl3qKXM
 https://www.google.com/maps/place/Comsoft+Pte+Ltd/data=!4m7!3m6!1s0x31da3d365e0efad3:0xfec8aee75be1025!8m2!3d1.336811!4d103.9671555!16s%2Fg%2F1vntgdyl!19sChIJ0_oOXjY92jERJRC-de6K7A8
+https://www.google.com/maps/place/Standard+Chartered+Bank+CBP1/data=!4m7!3m6!1s0x31da3cd0b4a58b7d:0xa279ea832c3d615c!8m2!3d1.334643!4d103.9670107!16s%2Fg%2F12632gd28!19sChIJfYultNA82jERXGE9LIPqeaI
