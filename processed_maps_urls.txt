@@ -7102,3 +7102,4 @@ https://www.google.com/maps/place/WIS@Changi/data=!4m7!3m6!1s0x31da18107366637b:
 https://www.google.com/maps/place/Changi+Business+Park+Bus+Terminal/data=!4m7!3m6!1s0x31da3d24d9a6e4c3:0x4139844bc49cd622!8m2!3d1.3418536!4d103.9670439!16s%2Fg%2F11rwkxjkg4!19sChIJw-Sm2SQ92jERItacxEuEOUE
 https://www.google.com/maps/place/SecureWorks+Office/data=!4m7!3m6!1s0x31da3cd7b71f6d79:0x762ca105952ceeca!8m2!3d1.3333375!4d103.9625267!16s%2Fg%2F11f03tzr7g!19sChIJeW0ft9c82jERyu4slQWhLHY
 https://www.google.com/maps/place/I%27m+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd7672bb8d1:0x18cd8f3df54abd72!8m2!3d1.3348353!4d103.9652112!16s%2Fg%2F1pv1sm9rs!19sChIJ0bgrZ9c82jERcr1K9T2PzRg
+https://www.google.com/maps/place/J.P.+Morgan/data=!4m7!3m6!1s0x31da3cd7b71f4bf7:0xf5a07f0075844250!8m2!3d1.3334024!4d103.9624746!16s%2Fg%2F11cm16fmcm!19sChIJ90sft9c82jERUEKEdQB_oPU
