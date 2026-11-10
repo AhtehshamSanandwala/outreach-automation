@@ -7066,3 +7066,4 @@ https://www.google.com/maps/place/Changi+Airport+Group+%28Singapore%29+Pte+Ltd/d
 https://www.google.com/maps/place/Springworks+studio+-+%E9%A3%9B%E8%BA%8D%E5%B7%A5%E6%88%BF+~+%E5%A6%82%E6%AD%A4%E7%B0%A1%E5%8D%98/data=!4m7!3m6!1s0x31da1981bd1bbf95:0xc4df4078febd3faf!8m2!3d1.2804924!4d103.820775!16s%2Fg%2F1tcybzzp!19sChIJlb8bvYEZ2jERrz-9_nhA38Q
 https://www.google.com/maps/place/The+Graphic+Designers/data=!4m7!3m6!1s0x31da191764ad6f4f:0xf08bbff0d7627e70!8m2!3d1.2765928!4d103.7962242!16s%2Fg%2F11rb4r5ppr!19sChIJT2-tZBcZ2jERcH5i1_C_i_A
 https://www.google.com/maps/place/Kingsmen+Projects+Pte+Ltd/data=!4m7!3m6!1s0x31da3cdbc86aaaab:0x1739b606d2dd49c7!8m2!3d1.3379954!4d103.9681117!16s%2Fg%2F11j00sbjsk!19sChIJq6pqyNs82jERx0nd0ga2ORc
+https://www.google.com/maps/place/51+Changi+Business+Park+Central+2+Garage/data=!4m7!3m6!1s0x31da3cd7600c7915:0x31762df0e8570259!8m2!3d1.3351505!4d103.9651372!16s%2Fg%2F11jz5fslq2!19sChIJFXkMYNc82jERWQJX6PAtdjE
