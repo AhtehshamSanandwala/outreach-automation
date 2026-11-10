@@ -7165,3 +7165,4 @@ https://www.google.com/maps/place/The+Executive+Centre+-+The+Gateway+West/data=!
 https://www.google.com/maps/place/Search+Avenue/data=!4m7!3m6!1s0x6ebb7042c669a105:0xdc6e6873d465defc!8m2!3d1.314!4d103.84425!16s%2Fg%2F11x8j2mqng!19sChIJBaFpxkJwu24R_N5l1HNobtw
 https://www.google.com/maps/place/Nespresso+Singapore+Corporate+Office/data=!4m7!3m6!1s0x31da3cd909ab10cb:0x975a825f3a8e7d26!8m2!3d1.3376693!4d103.9645858!16s%2Fg%2F1ptx9jlm0!19sChIJyxCrCdk82jERJn2OOl-CWpc
 https://www.google.com/maps/place/IBM+Industry+4.0+Studio/data=!4m7!3m6!1s0x31da3cd9eaa85f71:0x848a00846edf675!8m2!3d1.3363522!4d103.965172!16s%2Fg%2F11dy_k8ltj!19sChIJcV-o6tk82jERdfbtRgigSAg
+https://www.google.com/maps/place/ASUS+Intelligent+Cloud+Services+%28AICS%29+-+SG+Office/data=!4m7!3m6!1s0x31da19bdb0157335:0xd95fab1584e731b3!8m2!3d1.3357172!4d103.9665208!16s%2Fg%2F11mthpm6_2!19sChIJNXMVsL0Z2jERszHnhBWrX9k
