@@ -6252,3 +6252,4 @@ https://www.google.com/maps/place/Paya+Ubi+Industrial+Park/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Jurong+Logistics+Hub/data=!4m7!3m6!1s0x31da0566fb4f6ce5:0x97248e13585d9047!8m2!3d1.3123125!4d103.7198665!16s%2Fg%2F11slk0zld4!19sChIJ5WxP-2YF2jERR5BdWBOOJJc
 https://www.google.com/maps/place/FTE+Logistics/data=!4m7!3m6!1s0x31da17f686a68d4f:0xa7e8826b69414d33!8m2!3d1.328858!4d103.897421!16s%2Fg%2F1ptwzx9_4!19sChIJT42mhvYX2jERM01BaWuC6Kc
 https://www.google.com/maps/place/Big-Foot+Logistic+Pte+Ltd/data=!4m7!3m6!1s0x31da0f3fa4daae63:0xb45b5aaa73a3ea49!8m2!3d1.326297!4d103.6746292!16s%2Fg%2F11ft1zfmtc!19sChIJY67apD8P2jERSeqjc6paW7Q
+https://www.google.com/maps/place/Pcsl+Logistics+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da17f3bf6c8571:0xa6af37b38cced27d!8m2!3d1.3321959!4d103.8955158!16s%2Fg%2F11cs5n1yz3!19sChIJcYVsv_MX2jERfdLOjLM3r6Y
