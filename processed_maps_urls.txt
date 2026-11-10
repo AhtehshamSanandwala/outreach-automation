@@ -6678,3 +6678,5 @@ https://www.google.com/maps/place/Tata+Consultancy+Services/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/ServiceWorks+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd834176ae9:0xeeee1bb4abbcc20b!8m2!3d1.3357701!4d103.9630888!16s%2Fg%2F1td8wmrz!19sChIJ6WoXNNg82jERC8K8q7Qb7u4
 https://www.google.com/maps/place/Atlas+Consulting+Surveyors/data=!4m7!3m6!1s0x31da3ce48b46e831:0x73de934b6a7098a6!8m2!3d1.3517704!4d103.9674421!16s%2Fg%2F1w97ry6c!19sChIJMehGi-Q82jERpphwakuT3nM
 https://www.google.com/maps/place/Growth+Consulting+%26+Training/data=!4m7!3m6!1s0x31da1a2c91d13d85:0x9fbb6d946079a72!8m2!3d1.3521151!4d103.9421941!16s%2Fg%2F1ptv_743z!19sChIJhT3RkSwa2jERcpoHRtm2-wk
+https://www.google.com/maps/place/ALVS+Management+Consulting/data=!4m7!3m6!1s0x31da3d12483fffff:0xff94940c00a6b77!8m2!3d1.3521624!4d103.9422907!16s%2Fg%2F11h4djm3x2!19sChIJ__8_SBI92jERd2sKwEBJ-Q8
+https://www.google.com/maps/place/Mr+Ho+-+Singapore+Will+Writer/data=!4m7!3m6!1s0x31da3d25d9f5492f:0x727b6ab25636c95f!8m2!3d1.3545336!4d103.9422526!16s%2Fg%2F11nwwxpxwz!19sChIJL0n12SU92jERX8k2VrJqe3I
