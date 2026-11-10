@@ -6522,3 +6522,5 @@ https://www.google.com/maps/place/Edifice+Pte+Ltd/data=!4m7!3m6!1s0x31da3d11f4e8
 https://www.google.com/maps/place/Lighthouse+Pictures/data=!4m7!3m6!1s0x31da3d189da17ec9:0xe2a7fe5fe486bd0b!8m2!3d1.344733!4d103.953034!16s%2Fg%2F1pv00z9m8!19sChIJyX6hnRg92jERC72G5F_-p-I
 https://www.google.com/maps/place/PlayFACTO+School+@+Tampines+East/data=!4m7!3m6!1s0x31da3df5daac54db:0x4fd4b73459b6b760!8m2!3d1.3533873!4d103.9545991!16s%2Fg%2F11lmnb9bq_!19sChIJ21Ss2vU92jERYLe2WTS31E8
 https://www.google.com/maps/place/RBA+Design+%26+Solution+Pte+Ltd/data=!4m7!3m6!1s0x31da3d190512a82b:0x2bd1830988eb6519!8m2!3d1.3352453!4d103.9469388!16s%2Fg%2F11lrmy0571!19sChIJK6gSBRk92jERGWXriAmD0Ss
+https://www.google.com/maps/place/AirDance/data=!4m7!3m6!1s0x31da3d3a577b8099:0x512e7d769b4f62cd!8m2!3d1.3370945!4d103.9461056!16s%2Fg%2F1ptwk16c1!19sChIJmYB7Vzo92jERzWJPm3Z9LlE
+https://www.google.com/maps/place/Gowin+Enterprise+Pte+Ltd/data=!4m7!3m6!1s0x31da3d6b781410d9:0x3a1602d1436f8440!8m2!3d1.3488156!4d103.9348754!16s%2Fg%2F1tfcf8w4!19sChIJ2RAUeGs92jERQIRvQ9ECFjo
