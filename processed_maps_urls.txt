@@ -7134,3 +7134,4 @@ https://www.google.com/maps/place/Dnata/data=!4m7!3m6!1s0x31da3c94be1dd491:0x32a
 https://www.google.com/maps/place/Dorsett+Changi+City+Singapore/data=!4m10!3m9!1s0x31da3d13919d29b1:0xae758ef9abc768ae!5m2!4m1!1i2!8m2!3d1.3338557!4d103.9636626!16s%2Fg%2F11w9_kk7xp!19sChIJsSmdkRM92jERrmjHq_mOda4
 https://www.google.com/maps/place/Aerospace+Component+Engineering+Services+Pte+Limited/data=!4m7!3m6!1s0x31da190dc4ee0539:0xc69a5f88441d6b20!8m2!3d1.347154!4d103.9711151!16s%2Fg%2F1pt_sw6jn!19sChIJOQXuxA0Z2jERIGsdRIhfmsY
 https://www.google.com/maps/place/SIM+Management+House/data=!4m7!3m6!1s0x31da1b77bb9e95af:0xfc04d82e02308a2d!8m2!3d1.3259326!4d103.800105!16s%2Fg%2F11h5qfqbdx!19sChIJr5Weu3cb2jERLYowAi7YBPw
+https://www.google.com/maps/place/INTTRA+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd7b0b02039:0xf9cdbb482404393e!8m2!3d1.3334345!4d103.9626617!16s%2Fg%2F11bw_6bdtf!19sChIJOSCwsNc82jERPjkEJEi7zfk
