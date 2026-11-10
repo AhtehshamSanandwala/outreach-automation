@@ -6854,3 +6854,4 @@ https://www.google.com/maps/place/Aramex/data=!4m7!3m6!1s0x31da3ce4a5631589:0xd3
 https://www.google.com/maps/place/SIFA+ASIA+PTE+LTD/data=!4m7!3m6!1s0x31da3dba52685a43:0x6a766dc527f510a9!8m2!3d1.3530398!4d103.9437973!16s%2Fg%2F11h_5vxdjp!19sChIJQ1poUro92jERqRD1J8Vtdmo
 https://www.google.com/maps/place/RS+Bonded+Logistics+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da3cd13f36ddcd:0x61fa8e2b7412c652!8m2!3d1.3330804!4d103.9529009!16s%2Fg%2F1tdjtjzl!19sChIJzd02P9E82jERUsYSdCuO-mE
 https://www.google.com/maps/place/Apex+Logistics+International+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x6cb5b58628ca4b89:0x2308e513ef8bd272!8m2!3d1.3559966!4d103.9417351!16s%2Fg%2F11xg77p08d!19sChIJiUvKKIa1tWwRctKL7xPlCCM
+https://www.google.com/maps/place/Yusen+Logistics+Singapore+Pte+Ltd+-+Freight+Links+Districentre/data=!4m7!3m6!1s0x31da3cd39ab880d3:0xd07c767e7a2b01ee!8m2!3d1.3282765!4d103.9675654!16s%2Fg%2F1ptxfbc4r!19sChIJ04C4mtM82jER7gEren52fNA
