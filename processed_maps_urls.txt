@@ -7087,3 +7087,4 @@ https://www.google.com/maps/place/KrisShop+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d522
 https://www.google.com/maps/place/Singapore+Changi+Airport/data=!4m7!3m6!1s0x31da17d693d0cde3:0xd6d6dd5e414e4503!8m2!3d1.358604!4d103.9899436!16zL20vMDEydnN3!19sChIJ483Qk9YX2jERA0VOQV7d1tY
 https://www.google.com/maps/place/ASUS+Global+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd909aa7ef7:0xb057fb8f5b33fc49!8m2!3d1.3357172!4d103.9665208!16s%2Fg%2F1td5j6fr!19sChIJ936qCdk82jERSfwzW4_7V7A
 https://www.google.com/maps/place/MindChamps+PreSchool/data=!4m7!3m6!1s0x31da3c8c5375dc0f:0xab47e28eb9822cfc!8m2!3d1.3563!4d103.987354!16s%2Fg%2F11ddwzbmcj!19sChIJD9x1U4w82jER_CyCuY7iR6s
+https://www.google.com/maps/place/Foo+Jee+Khim/data=!4m7!3m6!1s0x31da3d254c03de53:0x5564aa76f30bec04!8m2!3d1.3364013!4d103.9494771!16s%2Fg%2F1ptwr__73!19sChIJU94DTCU92jERBOwL83aqZFU
