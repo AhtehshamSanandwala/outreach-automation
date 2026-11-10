@@ -6801,3 +6801,4 @@ https://www.google.com/maps/place/The+Bistro+Bliss/data=!4m7!3m6!1s0x31da3d490d1
 https://www.google.com/maps/place/Airbot+Tampines/data=!4m7!3m6!1s0x31da3d0073ba8943:0x80f473a6cb927c3b!8m2!3d1.3524839!4d103.9448199!16s%2Fg%2F11mdvjnfgr!19sChIJQ4m6cwA92jERO3ySy6Zz9IA
 https://www.google.com/maps/place/Dirt+Wheel+Tampines/data=!4m7!3m6!1s0x31da3d3ebb43ae49:0xee7ec9a007dae2f7!8m2!3d1.3405936!4d103.9425167!16s%2Fg%2F1wf363jw!19sChIJSa5Duz492jER9-LaB6DJfu4
 https://www.google.com/maps/place/Wine+Caviar+LLP/data=!4m7!3m6!1s0x10040505425fa1e7:0x3d72e54a105a87d2!8m2!3d9.43677!4d111.0013972!16s%2Fg%2F11b70hklf3!19sChIJ56FfQgUFBBAR0odaEErlcj0
+https://www.google.com/maps/place/Thong+Garments+Trading+Co/data=!4m7!3m6!1s0x31da3d3eaf1d6409:0xe2f34a6d276889b5!8m2!3d1.339813!4d103.942417!16s%2Fg%2F1tdzt7dd!19sChIJCWQdrz492jERtYloJ21K8-I
