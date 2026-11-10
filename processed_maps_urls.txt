@@ -7466,3 +7466,5 @@ https://www.google.com/maps/place/Ht+Employment+Agency/data=!4m7!3m6!1s0x31da100
 https://www.google.com/maps/place/AMKY+Consultancy/data=!4m7!3m6!1s0x31da11631d86a161:0x4821c29c382b4560!8m2!3d1.330109!4d103.744756!16s%2Fg%2F11td77g4m9!19sChIJYaGGHWMR2jERYEUrOJzCIUg
 https://www.google.com/maps/place/Re+Source+Partners+Pte+Ltd/data=!4m7!3m6!1s0x31da1961a6958d3b:0xfc4f463ddcd1d568!8m2!3d1.3349575!4d103.7468492!16s%2Fg%2F11rs01hkr5!19sChIJO42VpmEZ2jERaNXR3D1GT_w
 https://www.google.com/maps/place/Acetech+Manpower+Consultancy+Pte.+Ltd./data=!4m7!3m6!1s0x31da10059b159a95:0x263a42c807285efc!8m2!3d1.3338215!4d103.7397289!16s%2Fg%2F1ptybmvz6!19sChIJlZoVmwUQ2jER_F4oB8hCOiY
+https://www.google.com/maps/place/Infinity+Jobcom/data=!4m7!3m6!1s0x31da191340c7341d:0x182e5a5a2b53af45!8m2!3d1.3340222!4d103.7388111!16s%2Fg%2F11b5pj607r!19sChIJHTTHQBMZ2jERRa9TK1paLhg
+https://www.google.com/maps/place/Galilee+Employment+Agency+Pte.+Ltd./data=!4m7!3m6!1s0x31da101a21365d5b:0x838997c96a4f2e44!8m2!3d1.3390542!4d103.7397095!16s%2Fg%2F11cs5n0j3d!19sChIJW102IRoQ2jERRC5PasmXiYM
