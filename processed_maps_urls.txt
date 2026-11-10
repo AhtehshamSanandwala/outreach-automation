@@ -6530,3 +6530,5 @@ https://www.google.com/maps/place/Electron+Audio+Industry/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/M.Y+World+@+Tampines+North/data=!4m7!3m6!1s0x31da3d08a8963905:0xc0d3de59adb1e6c6!8m2!3d1.3592637!4d103.9490349!16s%2Fg%2F11bwpzr4hd!19sChIJBTmWqAg92jERxuaxrVne08A
 https://www.google.com/maps/place/Archangel+Interior+Design/data=!4m7!3m6!1s0x31da3d255c24b40d:0x1dc4e1a1a7a0f9a6!8m2!3d1.3355933!4d103.9506603!16s%2Fg%2F1ts3c489!19sChIJDbQkXCU92jERpvmgp6HhxB0
 https://www.google.com/maps/place/Fun+Learners%27+School+-+Tampines/data=!4m7!3m6!1s0x31da3d3282a7dd9b:0x436f9d9506391522!8m2!3d1.3521172!4d103.9418422!16s%2Fg%2F11y4bf7mc1!19sChIJm92ngjI92jERIhU5BpWdb0M
+https://www.google.com/maps/place/Chew+Chin+Fong/data=!4m7!3m6!1s0x31da3d3ec3719dbd:0x50dcf627891ce445!8m2!3d1.340964!4d103.9413749!16s%2Fg%2F1ptvwwdv5!19sChIJvZ1xwz492jERReQciSf23FA
+https://www.google.com/maps/place/Foo+Hai+Aspiration+Child+Care+Centre/data=!4m7!3m6!1s0x31da3d6e0fd72677:0x6cfbfb2a5fc809cc!8m2!3d1.3542755!4d103.9330364!16s%2Fg%2F1td22z7r!19sChIJdybXD2492jERzAnIXyr7-2w
