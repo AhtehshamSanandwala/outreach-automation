@@ -6238,3 +6238,5 @@ https://www.google.com/maps/place/Skipper+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m
 https://www.google.com/maps/place/INGA+World+Lines+LLP/data=!4m7!3m6!1s0x31da173bb7bce647:0xd9f63b0fcafc71ef!8m2!3d1.3322686!4d103.892106!16s%2Fg%2F11h565981z!19sChIJR-a8tzsX2jER73H8yg879tk
 https://www.google.com/maps/place/MCS+United+Logistics+%26+Traders/data=!4m7!3m6!1s0x31da1798efba37f3:0xcf024075da92f9f!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11kqctz00d!19sChIJ8ze675gX2jERny-pXQck8Aw
 https://www.google.com/maps/place/ALLSWIN+LOGISTICS+%26+SERVICES+PTE+LTD/data=!4m7!3m6!1s0x31da175080dd509b:0x37393c3830e2fb1d!8m2!3d1.3322686!4d103.892106!16s%2Fg%2F11ldm60jm_!19sChIJm1DdgFAX2jERHfviMDg8OTc
+https://www.google.com/maps/place/ATG+Global+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da181fcdb00b35:0x82a90d9b72e71abe!8m2!3d1.325562!4d103.8938674!16s%2Fg%2F11hz188ks3!19sChIJNQuwzR8Y2jERvhrncpsNqYI
+https://www.google.com/maps/place/Mandate+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17f669569e5d:0x245de33c73d8872a!8m2!3d1.3265372!4d103.8984104!16s%2Fg%2F1tmkhg_s!19sChIJXZ5WafYX2jERKofYczzjXSQ
