@@ -7211,3 +7211,4 @@ https://www.google.com/maps/place/21+Changi+South+Avenue+2+-+Space+for+Rent/data
 https://www.google.com/maps/place/VCK-Vanuatu+Air+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cda4ed101e3:0xae6994bfa2a51965!8m2!3d1.3373153!4d103.9685154!16s%2Fg%2F11f50wnyqq!19sChIJ4wHRTto82jERZRmlor-Uaa4
 https://www.google.com/maps/place/Zaphon+Logistics+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c6553b42b57:0x4e7376faaf68f8ab!8m2!3d1.3730426!4d103.9949422!16s%2Fg%2F11fm4xygry!19sChIJVyu0U2U82jERq_hor_p2c04
 https://www.google.com/maps/place/Aspac/data=!4m7!3m6!1s0x31da3c0cf54c6cd9:0x45482c980be48bc2!8m2!3d1.3840178!4d103.9999693!16s%2Fg%2F1tjz0wzl!19sChIJ2WxM9Qw82jERwovkC5gsSEU
+https://www.google.com/maps/place/Morrison+Express+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3c0c5f4b728d:0x495bf3b5ea6c49b9!8m2!3d1.3342652!4d103.9519247!16s%2Fg%2F11b5pm12f0!19sChIJjXJLXww82jERuUls6rXzW0k
