@@ -6729,3 +6729,5 @@ https://www.google.com/maps/place/Atomy+LifeStyle+Centre+@+Tampines/data=!4m7!3m
 https://www.google.com/maps/place/A+%26+G+Industrial+Gas+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd0f9899b57:0x4f326d7af9aa4ba6!8m2!3d1.3333031!4d103.968883!16s%2Fg%2F1tg6s70d!19sChIJV5uJ-dA82jERpkuq-XptMk8
 https://www.google.com/maps/place/Taho+Enterprise+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3aefffffff:0x552af66c62bd3d54!8m2!3d1.3362856!4d103.9477374!16s%2Fg%2F1tggl4rc!19sChIJ____7zo92jERVD29Ymz2KlU
 https://www.google.com/maps/place/Chen+Tien+Industrial+Suppliers/data=!4m7!3m6!1s0x31da3d58482f2b55:0x352f7e7aa3554ace!8m2!3d1.337734!4d103.948804!16s%2Fg%2F1tdms48v!19sChIJVSsvSFg92jERzkpVo3p-LzU
+https://www.google.com/maps/place/New+Eastern+Food+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3aebff5e8b:0xce83e4c791f2965e!8m2!3d1.3370945!4d103.9461056!16s%2Fg%2F1v8w_q17!19sChIJi17_6zo92jERXpbykcfkg84
+https://www.google.com/maps/place/Vaner+Food+Supply+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3a51000001:0xd0bbbcc29d0b043b!8m2!3d1.3362886!4d103.9469131!16s%2Fg%2F11hz182kvm!19sChIJAQAAUTo92jEROwQLncK8u9A
