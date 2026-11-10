@@ -6351,3 +6351,4 @@ https://www.google.com/maps/place/Sakuragawa+Pump+%28Singapore%29+Pte+Ltd/data=!
 https://www.google.com/maps/place/LE-PLUS+SOLUTIONS+PTE+LTD/data=!4m7!3m6!1s0x31da173ded8fe137:0x1674f0299f495fa6!8m2!3d1.3299226!4d103.892831!16s%2Fg%2F11fny_hz_d!19sChIJN-GP7T0X2jERpl9JnynwdBY
 https://www.google.com/maps/place/Lim+Equipments+Pte+Ltd/data=!4m7!3m6!1s0x31da165c7413b229:0xd4b3075f590f16a!8m2!3d1.330489!4d103.89515!16s%2Fg%2F1tgxr0xj!19sChIJKbITdFwW2jERavGQ9XUwSw0
 https://www.google.com/maps/place/Seng+Bee+Mesh+Pte+Ltd/data=!4m7!3m6!1s0x31da181e0b9e5923:0xa8c7897dfc356696!8m2!3d1.3251335!4d103.8968364!16s%2Fg%2F1wb8r6cr!19sChIJI1meCx4Y2jERlmY1_H2Jx6g
+https://www.google.com/maps/place/Copier+Ace+Pte+Ltd/data=!4m7!3m6!1s0x31da17f8459eac17:0xfa26f73974972729!8m2!3d1.3345938!4d103.8953212!16s%2Fg%2F11htlc4l3b!19sChIJF6yeRfgX2jERKSeXdDn3Jvo
