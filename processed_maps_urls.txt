@@ -7229,3 +7229,5 @@ https://www.google.com/maps/place/HomePlus+2000+Building+Products/data=!4m7!3m6!
 https://www.google.com/maps/place/Juicy+Fresh+Vending+Machine/data=!4m7!3m6!1s0x31da3d8fdca96963:0x45abc6f82db0a4f0!8m2!3d1.334844!4d103.963907!16s%2Fg%2F11n5d3cmfw!19sChIJY2mp3I892jER8KSwLfjGq0U
 https://www.google.com/maps/place/Rollmac+Equipments+Pte+Ltd/data=!4m7!3m6!1s0x31da17f087101209:0xbb0bbcfc37a89ff3!8m2!3d1.3534005!4d103.9710541!16s%2Fg%2F1tc_y_bd!19sChIJCRIQh_AX2jER85-oN_y8C7s
 https://www.google.com/maps/place/Alleima+South+East+Asia+Pte.+Ltd./data=!4m7!3m6!1s0x31da0561ff098901:0xabd281d96122004a!8m2!3d1.3357172!4d103.9665208!16s%2Fg%2F1tcv3tyc!19sChIJAYkJ_2EF2jERSgAiYdmB0qs
+https://www.google.com/maps/place/Crisplant+A%2FS/data=!4m7!3m6!1s0x31da3cd760b0e299:0x29991544c060140c!8m2!3d1.334962!4d103.9650162!16s%2Fg%2F11c0rmbt1c!19sChIJmeKwYNc82jERDBRgwEQVmSk
+https://www.google.com/maps/place/FairPrice+Xtra+Changi+Business+Park/data=!4m7!3m6!1s0x31da3cd7791ee405:0xc2c62dfeb784e428!8m2!3d1.3351559!4d103.9634956!16s%2Fg%2F11b6dglk3m!19sChIJBeQeedc82jERKOSEt_4txsI
