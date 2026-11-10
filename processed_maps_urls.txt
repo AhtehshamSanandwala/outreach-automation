@@ -7154,3 +7154,4 @@ https://www.google.com/maps/place/Changi+Business+Pk+Ter/data=!4m7!3m6!1s0x31da3
 https://www.google.com/maps/place/Changi+East+Pass+Office/data=!4m7!3m6!1s0x31da2305922d1b35:0x4a532bad7b323fc3!8m2!3d1.3192888!4d103.9890682!16s%2Fg%2F11fjz0zhhb!19sChIJNRstkgUj2jERwz8ye60rU0o
 https://www.google.com/maps/place/Boarding+Gate/data=!4m7!3m6!1s0x31da3d8bcd03e019:0x6cdf5fd114490fcf!8m2!3d1.3343497!4d103.9626223!16s%2Fg%2F11s8j8wp04!19sChIJGeADzYs92jERzw9JFNFf32w
 https://www.google.com/maps/place/WorkClass+Pte+Ltd/data=!4m7!3m6!1s0x31da19bb94d63009:0x39b22bfbff45e9b8!8m2!3d1.3019277!4d103.8516686!16s%2Fg%2F11p56nc_n3!19sChIJCTDWlLsZ2jERuOlF__srsjk
+https://www.google.com/maps/place/Jobstudio+Pte+Ltd/data=!4m7!3m6!1s0x31da1914a724ca95:0x20d72fa74b902476!8m2!3d1.2913131!4d103.8512472!16s%2Fg%2F11c1wy6x9p!19sChIJlcokpxQZ2jERdiSQS6cv1yA
