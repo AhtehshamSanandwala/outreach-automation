@@ -6442,3 +6442,4 @@ https://www.google.com/maps/place/Inky+Content/data=!4m7!3m6!1s0x31da3d84603f8b5
 https://www.google.com/maps/place/Teman+Health/data=!4m7!3m6!1s0x31da3d942545e069:0x46a1659bde655c51!8m2!3d1.3717711!4d103.9337283!16s%2Fg%2F11qbr8fc60!19sChIJaeBFJZQ92jERUVxl3ptloUY
 https://www.google.com/maps/place/Atmedia+International/data=!4m7!3m6!1s0x31da3d0df188e1af:0xc5b6d0cd07abf59f!8m2!3d1.3545664!4d103.942316!16s%2Fg%2F11c59vysgd!19sChIJr-GI8Q092jERn_WrB83QtsU
 https://www.google.com/maps/place/Mireia+Pte+Ltd/data=!4m7!3m6!1s0x31da3dc8e3f7c5d1:0xb04903b328b39c4!8m2!3d1.3524344!4d103.9501493!16s%2Fg%2F11kmlsxq02!19sChIJ0cX348g92jERxDmLMjuQBAs
+https://www.google.com/maps/place/Tribe+Design+Pte.+Ltd./data=!4m7!3m6!1s0x31da19a2d299b753:0x777bef01f2ac3b23!8m2!3d1.353279!4d103.9418625!16s%2Fg%2F11fkb15vbl!19sChIJU7eZ0qIZ2jERIzus8gHve3c
