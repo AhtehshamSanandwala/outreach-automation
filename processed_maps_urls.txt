@@ -7411,3 +7411,5 @@ https://www.google.com/maps/place/CPG+Facilities+Management+Pte+Ltd/data=!4m7!3m
 https://www.google.com/maps/place/COURTS+%28Jem%29/data=!4m7!3m6!1s0x31da100f809a46f9:0x1bc8af8262296f9b!8m2!3d1.3326443!4d103.743172!16s%2Fg%2F11c59wrrr1!19sChIJ-UaagA8Q2jERm28pYoKvyBs
 https://www.google.com/maps/place/ICON+@+IBP/data=!4m7!3m6!1s0x31da100a87720ddb:0x7972c245b605b53b!8m2!3d1.3273618!4d103.7492663!16s%2Fg%2F11f_c01w8v!19sChIJ2w1yhwoQ2jERO7UFtkXCcnk
 https://www.google.com/maps/place/The+Endodontic+Office+@+Jurong+East/data=!4m7!3m6!1s0x31da116401f42bf9:0x3fd7e0dcc4265abe!8m2!3d1.330109!4d103.744756!16s%2Fg%2F11rk697h9g!19sChIJ-Sv0AWQR2jERvlomxNzg1z8
+https://www.google.com/maps/place/D%27Intel+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da100ddc815ca3:0x58c03b1214d822fe!8m2!3d1.3349541!4d103.7468944!16s%2Fg%2F1pty6hdsn!19sChIJo1yB3A0Q2jER_iLYFBI7wFg
+https://www.google.com/maps/place/Ashtree+International+Pte.+Ltd./data=!4m7!3m6!1s0x31da1a9d466d432b:0x3cef38ea8d9fdb94!8m2!3d1.333944!4d103.7402296!16s%2Fg%2F11c2q4hldv!19sChIJK0NtRp0a2jERlNufjeo47zw
