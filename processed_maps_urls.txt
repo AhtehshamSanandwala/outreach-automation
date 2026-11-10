@@ -7135,3 +7135,6 @@ https://www.google.com/maps/place/Dorsett+Changi+City+Singapore/data=!4m10!3m9!1
 https://www.google.com/maps/place/Aerospace+Component+Engineering+Services+Pte+Limited/data=!4m7!3m6!1s0x31da190dc4ee0539:0xc69a5f88441d6b20!8m2!3d1.347154!4d103.9711151!16s%2Fg%2F1pt_sw6jn!19sChIJOQXuxA0Z2jERIGsdRIhfmsY
 https://www.google.com/maps/place/SIM+Management+House/data=!4m7!3m6!1s0x31da1b77bb9e95af:0xfc04d82e02308a2d!8m2!3d1.3259326!4d103.800105!16s%2Fg%2F11h5qfqbdx!19sChIJr5Weu3cb2jERLYowAi7YBPw
 https://www.google.com/maps/place/INTTRA+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd7b0b02039:0xf9cdbb482404393e!8m2!3d1.3334345!4d103.9626617!16s%2Fg%2F11bw_6bdtf!19sChIJOSCwsNc82jERPjkEJEi7zfk
+https://www.google.com/maps/place/PT+Freeport+Indonesia+Co./data=!4m7!3m6!1s0x31da19e7e0002c1f:0xeb29a486ecc1170c!8m2!3d1.317181!4d103.843374!16s%2Fg%2F1ptwh8rlx!19sChIJHywA4OcZ2jERDBfB7IakKes
+https://www.google.com/maps/place/Emc+Computer+Systems/data=!4m7!3m6!1s0x31da3cda25411d9f:0xde8d5792620f9237!8m2!3d1.3366744!4d103.9672211!16s%2Fg%2F1tf6jq_v!19sChIJnx1BJdo82jERN5IPYpJXjd4
+https://www.google.com/maps/place/CCP/data=!4m7!3m6!1s0x31da3d00665abeab:0x651b901cd56385b3!8m2!3d1.3334535!4d103.9638017!16s%2Fg%2F11vzvhzgpr!19sChIJq75aZgA92jERs4Vj1RyQG2U
