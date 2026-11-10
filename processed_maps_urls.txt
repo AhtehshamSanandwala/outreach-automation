@@ -7054,3 +7054,4 @@ https://www.google.com/maps/place/Eightrium+@+Changi+Business+Park/data=!4m7!3m6
 https://www.google.com/maps/place/Factree+Creatives/data=!4m7!3m6!1s0x31da1948eeeca82d:0x5a50dda992e3095b!8m2!3d1.3165866!4d103.9012293!16s%2Fg%2F11m_gfn637!19sChIJLajs7kgZ2jERWwnjkqndUFo
 https://www.google.com/maps/place/Boombirds/data=!4m7!3m6!1s0x31da1bf0655bfb5d:0xd2e1054767f849f6!8m2!3d1.3343863!4d103.9657728!16s%2Fg%2F11hdq8ly85!19sChIJXftbZfAb2jER9kn4Z0cF4dI
 https://www.google.com/maps/place/Maplebear+Changi+Business+Park/data=!4m7!3m6!1s0x31da3ded1c060793:0x2bfd75279e3b0817!8m2!3d1.3379282!4d103.964248!16s%2Fg%2F11rqy0vb5t!19sChIJkwcGHO092jERFwg7nid1_Ss
+https://www.google.com/maps/place/HCLTech/data=!4m7!3m6!1s0x31da19120247003f:0x62482f1c6dd56893!8m2!3d1.3330865!4d103.9659768!16s%2Fg%2F1pt_1pn0m!19sChIJPwBHAhIZ2jERk2jVbRwvSGI
