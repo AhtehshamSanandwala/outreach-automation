@@ -6852,3 +6852,4 @@ https://www.google.com/maps/place/ISS+Trade+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/KWE/data=!4m7!3m6!1s0x31da3cd14b89a00f:0xc911bec7e715605c!8m2!3d1.3309716!4d103.9665053!16s%2Fg%2F1tkskwy8!19sChIJD6CJS9E82jERXGAV58e-Eck
 https://www.google.com/maps/place/Aramex/data=!4m7!3m6!1s0x31da3ce4a5631589:0xd392e1508041517b!8m2!3d1.3335479!4d103.967951!16s%2Fg%2F11hb4xtw4h!19sChIJiRVjpeQ82jERe1FBgFDhktM
 https://www.google.com/maps/place/SIFA+ASIA+PTE+LTD/data=!4m7!3m6!1s0x31da3dba52685a43:0x6a766dc527f510a9!8m2!3d1.3530398!4d103.9437973!16s%2Fg%2F11h_5vxdjp!19sChIJQ1poUro92jERqRD1J8Vtdmo
+https://www.google.com/maps/place/RS+Bonded+Logistics+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da3cd13f36ddcd:0x61fa8e2b7412c652!8m2!3d1.3330804!4d103.9529009!16s%2Fg%2F1tdjtjzl!19sChIJzd02P9E82jERUsYSdCuO-mE
