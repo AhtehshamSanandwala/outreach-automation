@@ -6829,3 +6829,5 @@ https://www.google.com/maps/place/Jaf+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da3d21
 https://www.google.com/maps/place/Jack+Kwong+Trading/data=!4m7!3m6!1s0x31da3d3e9927d5cf:0xb9356aae85686df1!8m2!3d1.341471!4d103.9429059!16s%2Fg%2F1tk88nf1!19sChIJz9UnmT492jER8W1oha5qNbk
 https://www.google.com/maps/place/The+Trading+Byte/data=!4m7!3m6!1s0x31da3de3f6940835:0x2d60cc70de7f5b28!8m2!3d1.3453214!4d103.9533111!16s%2Fg%2F11xtmh0mlg!19sChIJNQiU9uM92jERKFt_3nDMYC0
 https://www.google.com/maps/place/Berten+Trading/data=!4m7!3m6!1s0x31da3d3e9963544d:0xfe1305b55e736bd2!8m2!3d1.3413172!4d103.9430023!16s%2Fg%2F1ptx4c5rp!19sChIJTVRjmT492jER0mtzXrUFE_4
+https://www.google.com/maps/place/SGF+Global+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da3dcf4e2ecd43:0x47f87a8461d6b28d!8m2!3d1.3476444!4d103.927226!16s%2Fg%2F11p24pkbtm!19sChIJQ80uTs892jERjbLWYYR6-Ec
+https://www.google.com/maps/place/Hosoon+Trading/data=!4m7!3m6!1s0x31da3d3ebcf432f3:0xc84d6718bd41e174!8m2!3d1.341471!4d103.9429059!16s%2Fg%2F1txflp4z!19sChIJ8zL0vD492jERdOFBvRhnTcg
