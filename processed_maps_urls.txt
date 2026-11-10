@@ -7374,3 +7374,5 @@ https://www.google.com/maps/place/Synergy+Office+Solutions+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/Techtra+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1bd1f4fbd11f:0xf6d56fd03f94e4ac!8m2!3d1.334938!4d103.746872!16s%2Fg%2F11dxnmc984!19sChIJH9H79NEb2jERrOSUP9Bv1fY
 https://www.google.com/maps/place/Sysnet+System+and+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1abdfc69dad5:0xaf8b4cd40e4fde14!8m2!3d1.3132336!4d103.7514544!16s%2Fg%2F1ptw7m_nl!19sChIJ1dpp_L0a2jERFN5PDtRMi68
 https://www.google.com/maps/place/Protech+%28Jurong+East%29/data=!4m7!3m6!1s0x31da11b558cd48bb:0x179bb52a7db93c15!8m2!3d1.328296!4d103.7531194!16s%2Fg%2F11ldf_0bfx!19sChIJu0jNWLUR2jERFTy5fSq1mxc
+https://www.google.com/maps/place/Protech+%28Boon+Lay%29/data=!4m7!3m6!1s0x31da0f2025d636bd:0xc116d0beb3bf2328!8m2!3d1.3462076!4d103.7124343!16s%2Fg%2F11hf7xsfkn!19sChIJvTbWJSAP2jERKCO_s77QFsE
+https://www.google.com/maps/place/Nexus+Management+Services/data=!4m7!3m6!1s0x31da100fa90787cb:0xeb06da6e4fbd1c19!8m2!3d1.3342941!4d103.7428917!16s%2Fg%2F11mr30gzm8!19sChIJy4cHqQ8Q2jERGRy9T27aBus
