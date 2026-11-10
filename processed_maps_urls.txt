@@ -6240,3 +6240,6 @@ https://www.google.com/maps/place/MCS+United+Logistics+%26+Traders/data=!4m7!3m6
 https://www.google.com/maps/place/ALLSWIN+LOGISTICS+%26+SERVICES+PTE+LTD/data=!4m7!3m6!1s0x31da175080dd509b:0x37393c3830e2fb1d!8m2!3d1.3322686!4d103.892106!16s%2Fg%2F11ldm60jm_!19sChIJm1DdgFAX2jERHfviMDg8OTc
 https://www.google.com/maps/place/ATG+Global+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da181fcdb00b35:0x82a90d9b72e71abe!8m2!3d1.325562!4d103.8938674!16s%2Fg%2F11hz188ks3!19sChIJNQuwzR8Y2jERvhrncpsNqYI
 https://www.google.com/maps/place/Mandate+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17f669569e5d:0x245de33c73d8872a!8m2!3d1.3265372!4d103.8984104!16s%2Fg%2F1tmkhg_s!19sChIJXZ5WafYX2jERKofYczzjXSQ
+https://www.google.com/maps/place/Apac+Maritime/data=!4m7!3m6!1s0x31da17f2d7000001:0xf6004fcf84436cfd!8m2!3d1.3334267!4d103.8917435!16s%2Fg%2F11fm4xx_xv!19sChIJAQAA1_IX2jER_WxDhM9PAPY
+https://www.google.com/maps/place/Evan+Lim+Warehouse/data=!4m7!3m6!1s0x31da17edf2256add:0x730f280db9ad219!8m2!3d1.3360106!4d103.8958074!16s%2Fg%2F11hbkqf90t!19sChIJ3Wol8u0X2jERGdKa24DyMAc
+https://www.google.com/maps/place/Badger+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17f5f04d19dd:0x341b5d756bde0951!8m2!3d1.3263137!4d103.8961912!16s%2Fg%2F1thc_9wy!19sChIJ3RlN8PUX2jERUQnea3VdGzQ
