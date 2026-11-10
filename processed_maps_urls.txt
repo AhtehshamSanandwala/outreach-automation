@@ -6885,3 +6885,4 @@ https://www.google.com/maps/place/Richland+Logistics+Services+Pte+Ltd/data=!4m7!
 https://www.google.com/maps/place/5G+MAX+Pte+Ltd/data=!4m7!3m6!1s0x31da3d433770b267:0x20cfb4d03df3bd6d!8m2!3d1.3283224!4d103.9675181!16s%2Fg%2F11t3bqmrcv!19sChIJZ7JwN0M92jERbb3zPdC0zyA
 https://www.google.com/maps/place/Vantec+World+Transport+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd67bea1cb9:0x95a2822f6986cc06!8m2!3d1.3308732!4d103.962849!16s%2Fg%2F1tcy6djf!19sChIJuRzqe9Y82jERBsyGaS-CopU
 https://www.google.com/maps/place/Master+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3d20268240ef:0xf077e7cf00487a02!8m2!3d1.3443286!4d103.9588434!16s%2Fg%2F11bt_ppb8r!19sChIJ70CCJiA92jERAnpIAM_nd_A
+https://www.google.com/maps/place/Pantos+Logistics+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da3cd67e710075:0xe70eb042592667e2!8m2!3d1.3306017!4d103.9636959!16s%2Fg%2F11f1wf5787!19sChIJdQBxftY82jER4mcmWUKwDuc
