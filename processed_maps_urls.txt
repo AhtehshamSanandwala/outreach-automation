@@ -6368,3 +6368,4 @@ https://www.google.com/maps/place/Logicode+Pte+Ltd+%7C+Barcode+Scanner,+Barcode+
 https://www.google.com/maps/place/Dino-Lite+Digital+Microscope+Singapore/data=!4m7!3m6!1s0x31da17f246c00001:0xaedfa6a595509c22!8m2!3d1.3340799!4d103.8952776!16s%2Fg%2F11h4djk7g6!19sChIJAQDARvIX2jERIpxQlaWm364
 https://www.google.com/maps/place/Partec+Equipment/data=!4m7!3m6!1s0x31da17e2453ac7e3:0xdaf40f02d39d4880!8m2!3d1.331656!4d103.8968181!16s%2Fg%2F1tsclhv_!19sChIJ48c6ReIX2jERgEid0wIP9No
 https://www.google.com/maps/place/Playpoint+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da183ab2e757d5:0x982784e1aa16ef6a!8m2!3d1.3268908!4d103.8983586!16s%2Fg%2F1vyst1f4!19sChIJ1VfnsjoY2jERau8WquGEJ5g
+https://www.google.com/maps/place/United+Scientific+Equipment/data=!4m7!3m6!1s0x31da10729bcc90e7:0x529eea057cf3b821!8m2!3d1.3368729!4d103.7540797!16s%2Fg%2F1tgj6bjv!19sChIJ55DMm3IQ2jERIbjzfAXqnlI
