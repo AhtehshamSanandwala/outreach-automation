@@ -6601,3 +6601,4 @@ https://www.google.com/maps/place/SKV+Services/data=!4m7!3m6!1s0x31da3d1ed0de0c6
 https://www.google.com/maps/place/Futura+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da3d11f46c5465:0x1f4fb27913faf12f!8m2!3d1.3531116!4d103.9437086!16s%2Fg%2F1pt_gxy1h!19sChIJZVRs9BE92jERL_H6E3myTx8
 https://www.google.com/maps/place/GL+International+Resources/data=!4m7!3m6!1s0x31da3d30753ce6a5:0x65ab9b958ada9cb6!8m2!3d1.3352453!4d103.9469388!16s%2Fg%2F1pt_2lmt5!19sChIJpeY8dTA92jERtpzaipWbq2U
 https://www.google.com/maps/place/F1+Employment+Agency/data=!4m7!3m6!1s0x31da3dae9c5dca4f:0xe2f3a66e17316c0f!8m2!3d1.3696468!4d103.9547454!16s%2Fg%2F1ptxcpkmt!19sChIJT8pdnK492jERD2wxF26m8-I
+https://www.google.com/maps/place/Weekend+Go+Where+Singapore/data=!4m7!3m6!1s0x31da1a502978c395:0x70f52e70423f7f25!8m2!3d1.3522658!4d103.9418353!16s%2Fg%2F11c1qklz0r!19sChIJlcN4KVAa2jERJX8_QnAu9XA
