@@ -7350,3 +7350,4 @@ https://www.google.com/maps/place/Red+Events+Pte+Ltd/data=!4m7!3m6!1s0x31da199ee
 https://www.google.com/maps/place/OnePoint+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da1005a1f5e0d3:0x28551c269d0b2828!8m2!3d1.3340489!4d103.7388713!16s%2Fg%2F1tcvrbzw!19sChIJ0-D1oQUQ2jERKCgLnSYcVSg
 https://www.google.com/maps/place/Vegetarian+at+Creative+Resource+Building/data=!4m7!3m6!1s0x31da100988555555:0xffa37e5238e48139!8m2!3d1.32873!4d103.7460644!16s%2Fg%2F11d_238tr0!19sChIJVVVViAkQ2jEROYHkOFJ-o_8
 https://www.google.com/maps/place/AKG+Singapore/data=!4m7!3m6!1s0x31da110ae5be53d5:0x8c3454826f8ec62f!8m2!3d1.3342941!4d103.7428917!16s%2Fg%2F11y4m68l_3!19sChIJ1VO-5QoR2jERL8aOb4JUNIw
+https://www.google.com/maps/place/ACS+Innovations+International+Pte+Ltd/data=!4m7!3m6!1s0x31da1aa107f2cdb5:0x70fc2acadf018b91!8m2!3d1.3243966!4d103.7491376!16s%2Fg%2F1ptvxt01w!19sChIJtc3yB6Ea2jERkYsB38oq_HA
