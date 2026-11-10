@@ -7470,3 +7470,6 @@ https://www.google.com/maps/place/Infinity+Jobcom/data=!4m7!3m6!1s0x31da191340c7
 https://www.google.com/maps/place/Galilee+Employment+Agency+Pte.+Ltd./data=!4m7!3m6!1s0x31da101a21365d5b:0x838997c96a4f2e44!8m2!3d1.3390542!4d103.7397095!16s%2Fg%2F11cs5n0j3d!19sChIJW102IRoQ2jERRC5PasmXiYM
 https://www.google.com/maps/place/Suina+Employment+Agency/data=!4m7!3m6!1s0x31da1005a1c735e3:0x757ee4c12629aeb8!8m2!3d1.3339827!4d103.7388339!16s%2Fg%2F1ptyjvjhh!19sChIJ4zXHoQUQ2jERuK4pJsHkfnU
 https://www.google.com/maps/place/SDH+Employment+Singapore+Agency/data=!4m7!3m6!1s0x31da10202960b201:0x7fb9dc0662cc8c81!8m2!3d1.3461489!4d103.7314296!16s%2Fg%2F1ptynnln3!19sChIJAbJgKSAQ2jERgYzMYgbcuX8
+https://www.google.com/maps/place/Bumble+Bees+Employment+Agency/data=!4m7!3m6!1s0x31da100e743c1a37:0xb35d12a7db1f8e4f!8m2!3d1.335061!4d103.746042!16s%2Fg%2F1ptwhwzrz!19sChIJNxo8dA4Q2jERT44f26cSXbM
+https://www.google.com/maps/place/United+HR+Asia+Pte.+Ltd./data=!4m7!3m6!1s0x72abec75ba01c43:0x749e1f40ba6d6b27!8m2!3d1.330109!4d103.744756!16s%2Fg%2F11sjzh5zfv!19sChIJQxygW8e-KgcRJ2ttukAfnnQ
+https://www.google.com/maps/place/Davy+Omega/data=!4m7!3m6!1s0x31da1008b9001d7b:0xe81147ccf718a7cc!8m2!3d1.3310801!4d103.7417637!16s%2Fg%2F11h4djc8yv!19sChIJex0AuQgQ2jERzKcY98xHEeg
