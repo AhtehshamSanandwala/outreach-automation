@@ -6971,3 +6971,6 @@ https://www.google.com/maps/place/Linde+AMT+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/ULVAC+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3dca54d495:0x9f9b549557119520!8m2!3d1.3422537!4d103.9452161!16s%2Fg%2F1pty7r2d7!19sChIJldRUyj092jERIJURV5VUm58
 https://www.google.com/maps/place/Newtools+Trading/data=!4m7!3m6!1s0x31da3d3eaf18f9d9:0x7258a7d7e704d566!8m2!3d1.34091!4d103.943287!16s%2Fg%2F1tddzwb8!19sChIJ2fkYrz492jERZtUE59enWHI
 https://www.google.com/maps/place/ebm-papst+SEA+Pte.+Ltd./data=!4m7!3m6!1s0x31da17ecfbeb3c6f:0x9723f3d3627835ce!8m2!3d1.332405!4d103.962225!16s%2Fg%2F11csqdf__q!19sChIJbzzr--wX2jERzjV4YtPzI5c
+https://www.google.com/maps/place/STUBBE+SINGAPORE/data=!4m7!3m6!1s0x31da3d9efd079965:0x8fc173bd15d036b8!8m2!3d1.3521624!4d103.9422907!16s%2Fg%2F11t809xnj6!19sChIJZZkH_Z492jERuDbQFb1zwY8
+https://www.google.com/maps/place/Excluspeed+Trading+Enterprise/data=!4m7!3m6!1s0x31da3d21e5df8863:0x232b38722bf693cf!8m2!3d1.3442193!4d103.9565348!16s%2Fg%2F1ptxw1675!19sChIJY4jf5SE92jERz5P2K3I4KyM
+https://www.google.com/maps/place/S+%26+E+-+Plumber+Service+Singapore/data=!4m7!3m6!1s0x31da190b5ffaa4a3:0xc15a78dd8b6af296!8m2!3d1.3611206!4d103.949817!16s%2Fg%2F1ptvr89p9!19sChIJo6T6XwsZ2jERlvJqi914WsE
