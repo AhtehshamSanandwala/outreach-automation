@@ -7317,3 +7317,4 @@ https://www.google.com/maps/place/SUBX/data=!4m7!3m6!1s0x31da111262c94ac7:0xd280
 https://www.google.com/maps/place/Singapore+Mobile+Web+Design/data=!4m7!3m6!1s0x31da102735936b55:0x4a47fde1ae82a602!8m2!3d1.3509551!4d103.7305005!16s%2Fg%2F1tg_ckpd!19sChIJVWuTNScQ2jERAqaCruH9R0o
 https://www.google.com/maps/place/Good+Maid+Agency+@+Jurong+Gateway/data=!4m7!3m6!1s0x31da111ce7ec5391:0xbedad39dbcfa0eec!8m2!3d1.3343699!4d103.7396316!16s%2Fg%2F11v4j6qr95!19sChIJkVPs5xwR2jER7A76vJ3T2r4
 https://www.google.com/maps/place/Grey.Folio/data=!4m7!3m6!1s0x31da1171c68acb5f:0xfa01a02a3023d095!8m2!3d1.3301415!4d103.7444497!16s%2Fg%2F11t_tp7lyq!19sChIJX8uKxnER2jERldAjMCqgAfo
+https://www.google.com/maps/place/Craffee+Design+Studio/data=!4m7!3m6!1s0x31da115d59344a19:0xb142380eb91b9153!8m2!3d1.3313083!4d103.7416099!16s%2Fg%2F11hxmcvk_1!19sChIJGUo0WV0R2jERU5EbuQ44QrE
