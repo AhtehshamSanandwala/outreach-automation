@@ -7238,3 +7238,5 @@ https://www.google.com/maps/place/Horme+Hardware+Woodlands/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da3d94bdba9d87:0xbbf2978e600c2ff4!8m2!3d1.3349141!4d103.9639568!16s%2Fg%2F11z34yjt4q!19sChIJh526vZQ92jER9C8MYI6X8rs
 https://www.google.com/maps/place/PERI+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da18254b2b4569:0x7c353a5bfce668e7!8m2!3d1.3170166!4d103.8809414!16s%2Fg%2F1tf2zxd3!19sChIJaUUrSyUY2jER52jm_Fs6NXw
 https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da3df87db47a8b:0xce62b1679c5f4a50!8m2!3d1.3347903!4d103.9664914!16s%2Fg%2F11y8thf0_w!19sChIJi3q0ffg92jERUEpfnGexYs4
+https://www.google.com/maps/place/Spacelabs+Healthcare+Pte.+Ltd./data=!4m7!3m6!1s0x31da3cd7672bb8d1:0xe78e348d5bea4f9f!8m2!3d1.3348353!4d103.9652112!16s%2Fg%2F11b6dnptmf!19sChIJ0bgrZ9c82jERn0_qW400juc
+https://www.google.com/maps/place/Creatz3D+Pte+Ltd+-+3D+Printing+Solutions+Provider/data=!4m7!3m6!1s0x31da178b5e69843b:0x817dbe6c133b3991!8m2!3d1.3308697!4d103.8899413!16s%2Fg%2F1yfjl9xh3!19sChIJO4RpXosX2jERkTk7E2y-fYE
