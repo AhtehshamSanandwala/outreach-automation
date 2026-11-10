@@ -6501,3 +6501,5 @@ https://www.google.com/maps/place/Re+Creations+Pte+Ltd/data=!4m7!3m6!1s0x31da187
 https://www.google.com/maps/place/Hay+Yong+Kwee/data=!4m7!3m6!1s0x31da3d3ec3719dbd:0xa461672e29c2db5d!8m2!3d1.340964!4d103.9413749!16s%2Fg%2F1pty73kd0!19sChIJvZ1xwz492jERXdvCKS5nYaQ
 https://www.google.com/maps/place/Cruf+Enterprise/data=!4m7!3m6!1s0x31da3d07c3c815b9:0xde44a9919f0e378d!8m2!3d1.362056!4d103.950207!16s%2Fg%2F11c1wsb6bg!19sChIJuRXIwwc92jERjTcOn5GpRN4
 https://www.google.com/maps/place/Globe+Engineering+%26+Electric+Company+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3e8e42d0bf:0xbfc62dfc9527050a!8m2!3d1.341892!4d103.942416!16s%2Fg%2F11b5phqc8t!19sChIJv9BCjj492jERCgUnlfwtxr8
+https://www.google.com/maps/place/content+creator/data=!4m7!3m6!1s0x31da3d9b78b0a547:0xb2285f169a8a116a!8m2!3d1.3585225!4d103.9333576!16s%2Fg%2F11nr4dnq1t!19sChIJR6WweJs92jERahGKmhZfKLI
+https://www.google.com/maps/place/Servo/data=!4m7!3m6!1s0x31da3d42831da171:0x4700e916bf4259b7!8m2!3d1.3515407!4d103.9610196!16s%2Fg%2F11lf1_pthj!19sChIJcaEdg0I92jERt1lCvxbpAEc
