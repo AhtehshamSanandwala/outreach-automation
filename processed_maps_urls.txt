@@ -6504,3 +6504,4 @@ https://www.google.com/maps/place/Globe+Engineering+%26+Electric+Company+Pte+Ltd
 https://www.google.com/maps/place/content+creator/data=!4m7!3m6!1s0x31da3d9b78b0a547:0xb2285f169a8a116a!8m2!3d1.3585225!4d103.9333576!16s%2Fg%2F11nr4dnq1t!19sChIJR6WweJs92jERahGKmhZfKLI
 https://www.google.com/maps/place/Servo/data=!4m7!3m6!1s0x31da3d42831da171:0x4700e916bf4259b7!8m2!3d1.3515407!4d103.9610196!16s%2Fg%2F11lf1_pthj!19sChIJcaEdg0I92jERt1lCvxbpAEc
 https://www.google.com/maps/place/Chan+Kee+Leong/data=!4m7!3m6!1s0x31da3d393b16cd3f:0x9dba24728879b824!8m2!3d1.339254!4d103.941341!16s%2Fg%2F1pv5xxqkf!19sChIJP80WOzk92jERJLh5iHIkup0
+https://www.google.com/maps/place/Masco+Sign+%26+Neon/data=!4m7!3m6!1s0x31da3d394c406093:0xce78a70cd5b62c85!8m2!3d1.339813!4d103.942417!16s%2Fg%2F1tc_njqd!19sChIJk2BATDk92jERhSy21QyneM4
