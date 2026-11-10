@@ -6604,3 +6604,5 @@ https://www.google.com/maps/place/F1+Employment+Agency/data=!4m7!3m6!1s0x31da3da
 https://www.google.com/maps/place/Weekend+Go+Where+Singapore/data=!4m7!3m6!1s0x31da1a502978c395:0x70f52e70423f7f25!8m2!3d1.3522658!4d103.9418353!16s%2Fg%2F11c1qklz0r!19sChIJlcN4KVAa2jERJX8_QnAu9XA
 https://www.google.com/maps/place/Frondosa+City+Employment+Agency+%28Appointment+only%29/data=!4m7!3m6!1s0x31da186dc74da70b:0xbfadbaecc7121f0e!8m2!3d1.305614!4d103.915385!16s%2Fg%2F1pp2vd1zm!19sChIJC6dNx20Y2jERDh8Sx-y6rb8
 https://www.google.com/maps/place/Stellare+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da3d0dba400001:0x58ec58782cf468d2!8m2!3d1.3557701!4d103.9414999!16s%2Fg%2F11h4dhwbf3!19sChIJAQBAug092jER0mj0LHhY7Fg
+https://www.google.com/maps/place/A.C.E.S.+Employment+Agency+Pte+Ltd/data=!4m7!3m6!1s0x31da22b4be72a3e9:0x1fe18568ca3b0b05!8m2!3d1.3249404!4d103.9329324!16s%2Fg%2F11gg_wwbr_!19sChIJ6aNyvrQi2jERBQs7ymiF4R8
+https://www.google.com/maps/place/BTI+Employment+Pte+Ltd/data=!4m7!3m6!1s0x31da199332d8641b:0x47ba0f4e126f1a17!8m2!3d1.3815092!4d103.9705157!16s%2Fg%2F11gr61fxzj!19sChIJG2TYMpMZ2jERFxpvEk4Pukc
