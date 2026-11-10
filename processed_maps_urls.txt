@@ -6535,3 +6535,5 @@ https://www.google.com/maps/place/Foo+Hai+Aspiration+Child+Care+Centre/data=!4m7
 https://www.google.com/maps/place/Coloury+Art+Tampines+By+Liberal/data=!4m7!3m6!1s0x31da3d7a6f59dcbb:0x8278fc5aefe37f5c!8m2!3d1.346228!4d103.9440047!16s%2Fg%2F11njsg4wb_!19sChIJu9xZb3o92jERXH_j71r8eII
 https://www.google.com/maps/place/Urban+Li%27l/data=!4m7!3m6!1s0x31da117c321bf541:0x8932ff8f0332e5bd!8m2!3d1.3367659!4d103.949887!16s%2Fg%2F11gtxcynrx!19sChIJQfUbMnwR2jERveUyA4__Mok
 https://www.google.com/maps/place/Flex+Integrated+Marketing+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd3e030d105:0x5a7668b8cc602887!8m2!3d1.3304615!4d103.9679168!16s%2Fg%2F11c1wt43zt!19sChIJBdEw4NM82jERhyhgzLhodlo
+https://www.google.com/maps/place/Caxton+Services+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3c018683f9:0x39d8a60b4b6592d1!8m2!3d1.3402968!4d103.9435524!16s%2Fg%2F1pty4_tgy!19sChIJ-YOGATw92jER0ZJlSwum2Dk
+https://www.google.com/maps/place/Seaband+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3b298dbcbf:0x18081db3af9424!8m2!3d1.337734!4d103.948804!16s%2Fg%2F1ptz4n_bk!19sChIJv7yNKTs92jERJJSvsx0IGAA
