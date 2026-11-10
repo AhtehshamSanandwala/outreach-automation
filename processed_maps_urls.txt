@@ -7097,3 +7097,4 @@ https://www.google.com/maps/place/PCCW+Solutions+Insys+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/TechSQ/data=!4m7!3m6!1s0x31da3ce1208597e9:0x596220c196e2242f!8m2!3d1.3335454!4d103.9625317!16s%2Fg%2F11bwqm54v_!19sChIJ6ZeFIOE82jERLyTilsEgYlk
 https://www.google.com/maps/place/Mindtree+Limited/data=!4m7!3m6!1s0x100405000ef70723:0x86baebf369183615!8m2!3d1.3371264!4d103.9656349!16s%2Fg%2F11bbw_yfh_!19sChIJIwf3DgAFBBARFTYYafPruoY
 https://www.google.com/maps/place/Offices+@+Park+Avenue+Changi/data=!4m7!3m6!1s0x31da3cd8340cca1b:0xefff42a5f4c130e9!8m2!3d1.3356287!4d103.9628977!16s%2Fg%2F1s04wc8_2!19sChIJG8oMNNg82jER6TDB9KVC_-8
+https://www.google.com/maps/place/IT+Consulting+%26+Services/data=!4m7!3m6!1s0x31da3c936a99e503:0x2e5162d8003f118c!8m2!3d1.350226!4d103.985514!16s%2Fg%2F1hm3f91d0!19sChIJA-WZapM82jERjBE_ANhiUS4
