@@ -6309,3 +6309,4 @@ https://www.google.com/maps/place/Antbuildz/data=!4m7!3m6!1s0x31da0555c014a33b:0
 https://www.google.com/maps/place/Auric+Pacific+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da181e46b6524b:0x30d30ebf9090e8d6!8m2!3d1.3324183!4d103.8947353!16s%2Fg%2F1tf3wx11!19sChIJS1K2Rh4Y2jER1uiQkL8O0zA
 https://www.google.com/maps/place/Disco+Hi-Tec+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17f2de47e209:0x65e73e8d99b69277!8m2!3d1.3328502!4d103.8919095!16s%2Fg%2F1ptwzl7n0!19sChIJCeJH3vIX2jERd5K2mY0-52U
 https://www.google.com/maps/place/PLC+Automation+Group+-+Global+Automation+Parts+Supplier/data=!4m7!3m6!1s0x31da1725c5727567:0xf3379f85ed48c85e!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11srtvtvpt!19sChIJZ3VyxSUX2jERXshI7YWfN_M
+https://www.google.com/maps/place/Far+East+Group+Limited/data=!4m7!3m6!1s0x31da19cbe7756b6f:0x21bf0caa1cc92ad3!8m2!3d1.3330015!4d103.8959609!16s%2Fg%2F1v5_6ysp!19sChIJb2t158sZ2jER0yrJHKoMvyE
