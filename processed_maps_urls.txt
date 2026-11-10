@@ -7204,3 +7204,4 @@ https://www.google.com/maps/place/FSL+Express+Pte+Ltd/data=!4m7!3m6!1s0x2dd32040
 https://www.google.com/maps/place/Changi+Logistics+Centre/data=!4m7!3m6!1s0x31da3c458cd117ad:0x1259853131a556ff!8m2!3d1.3752735!4d103.9729682!16s%2Fg%2F11btlwp1xp!19sChIJrRfRjEU82jER_1alMTGFWRI
 https://www.google.com/maps/place/AIT+Worldwide+Logistics/data=!4m7!3m6!1s0x31da3d122b9d7281:0xc89693c9b21b4c97!8m2!3d1.3734523!4d103.9951172!16s%2Fg%2F11mzpmmqh_!19sChIJgXKdKxI92jERl0wbssmTlsg
 https://www.google.com/maps/place/T.H.I.+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3d337d2a7e5d:0x30219c05bea84ab2!8m2!3d1.3376663!4d103.9674628!16s%2Fg%2F11z1skqdry!19sChIJXX4qfTM92jERskqovgWcITA
+https://www.google.com/maps/place/Trans+Global+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c653f379561:0x7c5bcbe90c7b02f7!8m2!3d1.3745187!4d103.9956624!16s%2Fg%2F1xcbm4c5!19sChIJYZU3P2U82jER9wJ7DOnLW3w
