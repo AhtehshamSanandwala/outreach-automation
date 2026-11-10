@@ -6299,3 +6299,6 @@ https://www.google.com/maps/place/Indus+Global+Line+Pte.+Ltd./data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Wilton+Express+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17f668b33541:0xf526b0e521cc3775!8m2!3d1.3279399!4d103.898087!16s%2Fg%2F1ptwt24y4!19sChIJQTWzaPYX2jERdTfMIeWwJvU
 https://www.google.com/maps/place/21VISIONTEK/data=!4m7!3m6!1s0x31da17f666401c99:0x3373dcc0ab3921bb!8m2!3d1.3280652!4d103.8981786!16s%2Fg%2F11qg2g7tsq!19sChIJmRxAZvYX2jERuyE5q8DcczM
 https://www.google.com/maps/place/Cargo+Trinity+Pte+Ltd/data=!4m7!3m6!1s0x31da19edbbac5b27:0x63fe6e2456935e2c!8m2!3d1.3247645!4d103.8915885!16s%2Fg%2F11ssdqnbw7!19sChIJJ1usu-0Z2jERLF6TViRu_mM
+https://www.google.com/maps/place/e2e+SUPPLY+CHAIN+MANAGEMENT+PTE+LTD/data=!4m7!3m6!1s0x31da17f5f9955555:0xae3d44dbd27e0039!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11h4djj9t2!19sChIJVVWV-fUX2jEROQB-0ttEPa4
+https://www.google.com/maps/place/Ariesta+Logistindo+International/data=!4m7!3m6!1s0x31da181e057245a5:0x47d60de47695bc16!8m2!3d1.325723!4d103.896444!16s%2Fg%2F1ptybmw02!19sChIJpUVyBR4Y2jERFryVduQN1kc
+https://www.google.com/maps/place/Longshot+Transport+Pte+Ltd/data=!4m7!3m6!1s0x31da17aeed2898c1:0x26996aecf98e0e9c!8m2!3d1.3579013!4d103.8758302!16s%2Fg%2F11hzsvzwxs!19sChIJwZgo7a4X2jERnA6O-exqmSY
