@@ -6518,3 +6518,6 @@ https://www.google.com/maps/place/Interface+Media+Pte.+Ltd./data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/DEP+Sign+Pte+Limited/data=!4m7!3m6!1s0x31da3d0872b6bfad:0xde4271e6ecd6b0f3!8m2!3d1.3353776!4d103.9460375!16s%2Fg%2F11lc9z6bls!19sChIJrb-2cgg92jER87DW7OZxQt4
 https://www.google.com/maps/place/Art+Twerkz/data=!4m7!3m6!1s0x31da3d1a5e6da981:0x62873b4c8c83f487!8m2!3d1.3514414!4d103.9507582!16s%2Fg%2F11jg5vx0m8!19sChIJgaltXho92jERh_SDjEw7h2I
 https://www.google.com/maps/place/The+Edu+Experience/data=!4m7!3m6!1s0x31da3dbabe47375b:0xca538d764e2e94a0!8m2!3d1.352687!4d103.9429503!16s%2Fg%2F11ngh_yk58!19sChIJWzdHvro92jERoJQuTnaNU8o
+https://www.google.com/maps/place/Edifice+Pte+Ltd/data=!4m7!3m6!1s0x31da3d11f4e82a93:0x24f0241789f5ab87!8m2!3d1.352976!4d103.943641!16s%2Fg%2F11c1ws4nck!19sChIJkyro9BE92jERh6v1iRck8CQ
+https://www.google.com/maps/place/Lighthouse+Pictures/data=!4m7!3m6!1s0x31da3d189da17ec9:0xe2a7fe5fe486bd0b!8m2!3d1.344733!4d103.953034!16s%2Fg%2F1pv00z9m8!19sChIJyX6hnRg92jERC72G5F_-p-I
+https://www.google.com/maps/place/PlayFACTO+School+@+Tampines+East/data=!4m7!3m6!1s0x31da3df5daac54db:0x4fd4b73459b6b760!8m2!3d1.3533873!4d103.9545991!16s%2Fg%2F11lmnb9bq_!19sChIJ21Ss2vU92jERYLe2WTS31E8
