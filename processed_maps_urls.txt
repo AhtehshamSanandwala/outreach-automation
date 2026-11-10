@@ -6803,3 +6803,6 @@ https://www.google.com/maps/place/Dirt+Wheel+Tampines/data=!4m7!3m6!1s0x31da3d3e
 https://www.google.com/maps/place/Wine+Caviar+LLP/data=!4m7!3m6!1s0x10040505425fa1e7:0x3d72e54a105a87d2!8m2!3d9.43677!4d111.0013972!16s%2Fg%2F11b70hklf3!19sChIJ56FfQgUFBBAR0odaEErlcj0
 https://www.google.com/maps/place/Thong+Garments+Trading+Co/data=!4m7!3m6!1s0x31da3d3eaf1d6409:0xe2f34a6d276889b5!8m2!3d1.339813!4d103.942417!16s%2Fg%2F1tdzt7dd!19sChIJCWQdrz492jERtYloJ21K8-I
 https://www.google.com/maps/place/G+D+Trading+Company/data=!4m7!3m6!1s0x31da3d22cc3a167f:0xae12c23f357fd594!8m2!3d1.3430641!4d103.9495345!16s%2Fg%2F11c1wsj1zl!19sChIJfxY6zCI92jERlNV_NT_CEq4
+https://www.google.com/maps/place/Hock+Sin+Seng+Hardware+%26+Trading+Co/data=!4m7!3m6!1s0x31da3d04a93198a9:0xf4d7089f4ffd4cdc!8m2!3d1.3544733!4d103.9539937!16s%2Fg%2F1tk60mrp!19sChIJqZgxqQQ92jER3Ez9T58I1_Q
+https://www.google.com/maps/place/Hong+Huang+Trading+Co./data=!4m7!3m6!1s0x31da3d005049e54d:0x1528320c326bc2a7!8m2!3d1.3450951!4d103.9452261!16s%2Fg%2F11ww3dwnr2!19sChIJTeVJUAA92jERp8JrMgwyKBU
+https://www.google.com/maps/place/Yong+Xi+Trading/data=!4m7!3m6!1s0x31da3d1ae9fe56a7:0x69ff744a99d24ddf!8m2!3d1.352851!4d103.951031!16s%2Fg%2F1ptz2ptsp!19sChIJp1b-6Ro92jER303SmUp0_2k
