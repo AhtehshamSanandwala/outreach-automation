@@ -7047,3 +7047,4 @@ https://www.google.com/maps/place/Thatz+Communications+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/rankeco/data=!4m7!3m6!1s0x31da3cd75d6aaaab:0xfd9b645c341c8f17!8m2!3d1.3347003!4d103.9652515!16s%2Fg%2F11jr5hf4dy!19sChIJq6pqXdc82jERF48cNFxkm_0
 https://www.google.com/maps/place/Tagit+Pte+Ltd/data=!4m7!3m6!1s0x31da19a0bd555555:0x90fc67174ddc6bfd!8m2!3d1.3372831!4d103.9684939!16s%2Fg%2F1wk7nd3n!19sChIJVVVVvaAZ2jER_WvcTRdn_JA
 https://www.google.com/maps/place/S.B+Digital+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da19c53f66602f:0xde48cd32a49c78b4!8m2!3d1.278027!4d103.8479839!16s%2Fg%2F11kxmtpjl2!19sChIJL2BmP8UZ2jERtHicpDLNSN4
+https://www.google.com/maps/place/Blockchain-Ads+Advertising+Network/data=!4m7!3m6!1s0x31da1963163ed4c5:0x528b63cff8639d7d!8m2!3d1.2876109!4d103.8401485!16s%2Fg%2F11vx6c93t8!19sChIJxdQ-FmMZ2jERfZ1j-M9ji1I
