@@ -6754,3 +6754,4 @@ https://www.google.com/maps/place/Tai+Kong+Food+Industries+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/Innox+Higa+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3c39b24e30a9:0xedf19087d62adbe6!8m2!3d1.3328619!4d103.9509453!16s%2Fg%2F1v6wlvqk!19sChIJqTBOsjk82jER5tsq1oeQ8e0
 https://www.google.com/maps/place/Chin+Tat+Hardware+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3932c2f2f5:0xd93c8102fce9bb11!8m2!3d1.3399611!4d103.9413186!16s%2Fg%2F1w0hy47c!19sChIJ9fLCMjk92jEREbvp_AKBPNk
 https://www.google.com/maps/place/Sterra+Singapore+@+Tampines+Mall/data=!4m7!3m6!1s0x31da3d9dfbd0e939:0xd9cd8b552b0334c4!8m2!3d1.3524841!4d103.9447746!16s%2Fg%2F11sw16h1h8!19sChIJOenQ-5092jERxDQDK1WLzdk
+https://www.google.com/maps/place/The+Cake+Factory+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3aebef80f5:0xf665c7f59229dee0!8m2!3d1.336742!4d103.947448!16s%2Fg%2F1pv2l7mrz!19sChIJ9YDv6zo92jER4N4pkvXHZfY
