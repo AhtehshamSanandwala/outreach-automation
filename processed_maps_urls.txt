@@ -7120,3 +7120,4 @@ https://www.google.com/maps/place/Rigel+Innovation+Centre/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/SATS+Inflight+Catering+Centre+1/data=!4m7!3m6!1s0x31da3cc082f81f6d:0xc862838cb3f96ace!8m2!3d1.3414614!4d103.9838777!16s%2Fg%2F11c1p2fg8c!19sChIJbR_4gsA82jERzmr5s4yDYsg
 https://www.google.com/maps/place/JustCo+%E2%80%93+Changi+Airport+Terminal+3+%7C+Coworking+%26+Office+Space/data=!4m7!3m6!1s0x31da3d509e1a9371:0x8fc4333abd410c31!8m2!3d1.3568463!4d103.9864322!16s%2Fg%2F11v61jc9ps!19sChIJcZManlA92jERMQxBvTozxI8
 https://www.google.com/maps/place/Black+%26+Veatch/data=!4m7!3m6!1s0x31da11ea207368dd:0x61a227979661a7a2!8m2!3d1.3357172!4d103.9665208!16s%2Fg%2F1tdwmm4s!19sChIJ3WhzIOoR2jERoqdhlpcnomE
+https://www.google.com/maps/place/Standard+Chartered+Bank+ATM+@+Changi+Business+Park/data=!4m7!3m6!1s0x31da3cd754acc301:0x88db4b206f06952e!8m2!3d1.3344726!4d103.9666455!16s%2Fg%2F11c5zyx0dr!19sChIJAcOsVNc82jERLpUGbyBL24g
