@@ -6197,3 +6197,6 @@ https://www.google.com/maps/place/Marine+%26+Offshore+Integrated+Logistics+%28S%
 https://www.google.com/maps/place/HJ+Global+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da181e48cdc727:0x702dba53b48d80d9!8m2!3d1.324991!4d103.8940229!16s%2Fg%2F11f01y6y_x!19sChIJJ8fNSB4Y2jER2YCNtFO6LXA
 https://www.google.com/maps/place/Hock+Teoh+Huat+Transport+Pte+Ltd/data=!4m7!3m6!1s0x31da181e0b3b17f3:0xbe15e6442b2a217!8m2!3d1.3249977!4d103.8967275!16s%2Fg%2F1tk88n5n!19sChIJ8xc7Cx4Y2jERF6KyQmRe4Qs
 https://www.google.com/maps/place/Soon+San+Group+of+Companies/data=!4m7!3m6!1s0x31da17f5f7c5bccd:0x10ef15a0c106c8c3!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F1q6j8fqhd!19sChIJzbzF9_UX2jERw8gGwaAV7xA
+https://www.google.com/maps/place/Weload/data=!4m7!3m6!1s0x31da1798b9864a33:0x1c46ee8d1845d2e4!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11j6zw__tf!19sChIJM0qGuZgX2jER5NJFGI3uRhw
+https://www.google.com/maps/place/SR+Express+Private+Limited/data=!4m7!3m6!1s0x2e446ee8f763f7db:0x79e3dcc7a10cfb5!8m2!3d1.3334826!4d103.8939684!16s%2Fg%2F11ybpk_9ty!19sChIJ2_dj9-huRC4Rtc8Qesw9ngc
+https://www.google.com/maps/place/Hong+Fa+Logistics+%26+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x100405000f3baa0d:0xf3d3e29e41bc26a5!8m2!3d1.3279528!4d103.8979975!16s%2Fg%2F11b6xrl2bm!19sChIJDao7DwAFBBARpSa8QZ7i0_M
