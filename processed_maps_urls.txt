@@ -6909,3 +6909,5 @@ https://www.google.com/maps/place/UPS+Worldwide+Express/data=!4m7!3m6!1s0x31da3c
 https://www.google.com/maps/place/Hong+Hing+Transport+Company/data=!4m7!3m6!1s0x31da3d0542da692b:0x950f728278a469e3!8m2!3d1.355086!4d103.94998!16s%2Fg%2F1ptxb4r8w!19sChIJK2naQgU92jER42mkeIJyD5U
 https://www.google.com/maps/place/DHL+Express+Service+Point+-+Cheers+DTL+Tampines+East+%28DHL+Partner%29/data=!4m7!3m6!1s0x31da3d37c8fb008d:0x552a3ebe912161e1!8m2!3d1.3563635!4d103.9544221!16s%2Fg%2F11n99lfgfr!19sChIJjQD7yDc92jER4WEhkb4-KlU
 https://www.google.com/maps/place/Dentino+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3d1ddc1a342d:0x4cffd2f4e4a4ce2a!8m2!3d1.34962!4d103.959059!16s%2Fg%2F11b6dq4m68!19sChIJLTQa3B092jERKs6k5PTS_0w
+https://www.google.com/maps/place/Changi+Freight+Forwarders/data=!4m7!3m6!1s0x31da3d6c776bbdc1:0x37c1d548e016ec6d!8m2!3d1.349652!4d103.933901!16s%2Fg%2F11b6dq6fc7!19sChIJwb1rd2w92jERbewW4EjVwTc
+https://www.google.com/maps/place/Century+Freight+Forwarders+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c702975b65f:0x8d82dfa0ec106114!8m2!3d1.374325!4d103.996108!16s%2Fg%2F1v_z6fgx!19sChIJX7Z1KXA82jERFGEQ7KDfgo0
