@@ -7346,3 +7346,4 @@ https://www.google.com/maps/place/Mago+Manufacturing+%26+Trading+Pte+Ltd/data=!4
 https://www.google.com/maps/place/Sirius+Multimedia+Pte+Ltd/data=!4m7!3m6!1s0x31da1009892f59c1:0xdf774602844821ed!8m2!3d1.328818!4d103.7458786!16s%2Fg%2F1w_vks_0!19sChIJwVkviQkQ2jER7SFIhAJGd98
 https://www.google.com/maps/place/Loomify/data=!4m7!3m6!1s0x31da1141e9c72213:0x1f460a81fb523c4d!8m2!3d1.3300828!4d103.7446534!16s%2Fg%2F11ywbsqmws!19sChIJEyLH6UER2jERTTxS-4EKRh8
 https://www.google.com/maps/place/BrandMolecule/data=!4m7!3m6!1s0x31da16b60fb41adb:0x84e96224600cfa82!8m2!3d1.3380661!4d103.756207!16s%2Fg%2F113h021sb!19sChIJ2xq0D7YW2jERgvoMYCRi6YQ
+https://www.google.com/maps/place/Red+Events+Pte+Ltd/data=!4m7!3m6!1s0x31da199ee958396b:0xf0a9819ac13a1204!8m2!3d1.3299464!4d103.7446555!16s%2Fg%2F1ptynnxgz!19sChIJazlY6Z4Z2jERBBI6wZqBqfA
