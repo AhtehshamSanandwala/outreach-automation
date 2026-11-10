@@ -6886,3 +6886,4 @@ https://www.google.com/maps/place/5G+MAX+Pte+Ltd/data=!4m7!3m6!1s0x31da3d433770b
 https://www.google.com/maps/place/Vantec+World+Transport+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd67bea1cb9:0x95a2822f6986cc06!8m2!3d1.3308732!4d103.962849!16s%2Fg%2F1tcy6djf!19sChIJuRzqe9Y82jERBsyGaS-CopU
 https://www.google.com/maps/place/Master+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3d20268240ef:0xf077e7cf00487a02!8m2!3d1.3443286!4d103.9588434!16s%2Fg%2F11bt_ppb8r!19sChIJ70CCJiA92jERAnpIAM_nd_A
 https://www.google.com/maps/place/Pantos+Logistics+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da3cd67e710075:0xe70eb042592667e2!8m2!3d1.3306017!4d103.9636959!16s%2Fg%2F11f1wf5787!19sChIJdQBxftY82jER4mcmWUKwDuc
+https://www.google.com/maps/place/Leeway+Trans-Act+Pte+Ltd/data=!4m7!3m6!1s0x31da3d2fb4b21ab5:0x9b32776839bd7e91!8m2!3d1.332949!4d103.9509919!16s%2Fg%2F1tgfmn6q!19sChIJtRqytC892jERkX69OWh3Mps
