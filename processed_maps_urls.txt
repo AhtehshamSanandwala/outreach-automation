@@ -7140,3 +7140,4 @@ https://www.google.com/maps/place/Emc+Computer+Systems/data=!4m7!3m6!1s0x31da3cd
 https://www.google.com/maps/place/CCP/data=!4m7!3m6!1s0x31da3d00665abeab:0x651b901cd56385b3!8m2!3d1.3334535!4d103.9638017!16s%2Fg%2F11vzvhzgpr!19sChIJq75aZgA92jERs4Vj1RyQG2U
 https://www.google.com/maps/place/Changi+Transit+Hotel+Terminal+1/data=!4m7!3m6!1s0x31da3c89b6d6db2f:0x578bf6082550a488!8m2!3d1.3618915!4d103.9910067!16s%2Fg%2F11zcrzlpd_!19sChIJL9vWtok82jERiKRQJQj2i1c
 https://www.google.com/maps/place/NCODE+Consultant+Pte+Ltd/data=!4m7!3m6!1s0x31da22accc1882e3:0x897839dce50e264c!8m2!3d1.3613927!4d103.8832035!16s%2Fg%2F1tgg7h4w!19sChIJ44IYzKwi2jERTCYO5dw5eIk
+https://www.google.com/maps/place/Inspira+Tech+Asia+Pte.+Ltd./data=!4m7!3m6!1s0x31da3df3e050661b:0xfa3b41e223a3538e!8m2!3d1.334962!4d103.9650162!16s%2Fg%2F11kq27wzm9!19sChIJG2ZQ4PM92jERjlOjI-JBO_o
