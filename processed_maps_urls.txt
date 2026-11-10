@@ -7441,3 +7441,5 @@ https://www.google.com/maps/place/Minyo+International+%7C+Employment+Agency/data
 https://www.google.com/maps/place/VikConnect+Pte.+Ltd./data=!4m7!3m6!1s0x31da10090c063bf3:0xdbb55dd8e298fd55!8m2!3d1.330109!4d103.744756!16s%2Fg%2F11j00s3m6y!19sChIJ8zsGDAkQ2jERVf2Y4thdtds
 https://www.google.com/maps/place/MSS+Staffing+Consultation+Agency/data=!4m7!3m6!1s0x31da1005a21c2ba1:0x4c2d4ec017611ffb!8m2!3d1.3300963!4d103.74468!16s%2Fg%2F1tfd4gs0!19sChIJoSscogUQ2jER-x9hF8BOLUw
 https://www.google.com/maps/place/Union+Manpower+Services/data=!4m7!3m6!1s0x31da1005a1b6e789:0xf7956386dacd3d1f!8m2!3d1.3339717!4d103.7388197!16s%2Fg%2F1v8g8js0!19sChIJiee2oQUQ2jERHz3N2oZjlfc
+https://www.google.com/maps/place/BT+Maid+Agency/data=!4m7!3m6!1s0x31da10059b159a95:0x9b407497cc9996be!8m2!3d1.333806!4d103.7397519!16s%2Fg%2F1ptxnzhjh!19sChIJlZoVmwUQ2jERvpaZzJd0QJs
+https://www.google.com/maps/place/Express+Employment+Service+Centre/data=!4m7!3m6!1s0x31da1005a0e2dc87:0xfbab6dda1c6b601!8m2!3d1.3342246!4d103.7393019!16s%2Fg%2F1thc_9nq!19sChIJh9zioAUQ2jERAbbGod22ug8
