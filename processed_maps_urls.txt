@@ -7143,3 +7143,4 @@ https://www.google.com/maps/place/NCODE+Consultant+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Inspira+Tech+Asia+Pte.+Ltd./data=!4m7!3m6!1s0x31da3df3e050661b:0xfa3b41e223a3538e!8m2!3d1.334962!4d103.9650162!16s%2Fg%2F11kq27wzm9!19sChIJG2ZQ4PM92jERjlOjI-JBO_o
 https://www.google.com/maps/place/Workplace/data=!4m7!3m6!1s0x31da3da7f89dbf3f:0xcb8d95e0a410b622!8m2!3d1.3347182!4d103.9650811!16s%2Fg%2F11j9dkg9jl!19sChIJP7-d-Kc92jERIrYQpOCVjcs
 https://www.google.com/maps/place/NEC+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da1a473481baa5:0x86009d41f9c4c8c2!8m2!3d1.316853!4d103.8632057!16s%2Fg%2F1tg4yyjl!19sChIJpbqBNEca2jERwsjE-UGdAIY
+https://www.google.com/maps/place/M1/data=!4m7!3m6!1s0x31da1aa0fbdaebe9:0xeae8372da12815d5!8m2!3d1.3254831!4d103.7490558!16s%2Fg%2F1ptwj1sg8!19sChIJ6eva-6Aa2jER1RUooS036Oo
