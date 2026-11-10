@@ -7178,3 +7178,4 @@ https://www.google.com/maps/place/Dell+Global+B.V.+%28Singapore+Branch%29/data=!
 https://www.google.com/maps/place/Nordic+European+Centre/data=!4m7!3m6!1s0x31da1aa09c7e11f9:0x3b0501334af6c349!8m2!3d1.3273159!4d103.7484261!16s%2Fg%2F1ptxmy766!19sChIJ-RF-nKAa2jERScP2SjMBBTs
 https://www.google.com/maps/place/Aviate+Services+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da1763925639db:0x8f32cb269777749f!8m2!3d1.4203155!4d103.8641543!16s%2Fg%2F11j301rvm5!19sChIJ2zlWkmMX2jERn3R3lybLMo8
 https://www.google.com/maps/place/Corporate+Locations+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da198b5b33f21f:0x642ae9d7293fab4a!8m2!3d1.3010685!4d103.8626788!16s%2Fg%2F11gxrl1v14!19sChIJH_IzW4sZ2jERSqs_KdfpKmQ
+https://www.google.com/maps/place/PSA+Pass+Centre/data=!4m7!3m6!1s0x31da196ae506134d:0x7d2f32c7c7585ea3!8m2!3d1.2712701!4d103.8425377!16s%2Fg%2F11bzv2gghp!19sChIJTRMG5WoZ2jERo15Yx8cyL30
