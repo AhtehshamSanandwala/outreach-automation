@@ -7416,3 +7416,5 @@ https://www.google.com/maps/place/Ashtree+International+Pte.+Ltd./data=!4m7!3m6!
 https://www.google.com/maps/place/J+Gateway/data=!4m7!3m6!1s0x31da100fdce0d4dd:0x53c6440d3e65ad23!8m2!3d1.3357764!4d103.7424381!16s%2Fg%2F11csqd16v_!19sChIJ3dTg3A8Q2jERI61lPg1ExlM
 https://www.google.com/maps/place/Belships+Management+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da107567e322fb:0x5a071855b930983c!8m2!3d1.330109!4d103.744756!16s%2Fg%2F1tcw_0j_!19sChIJ-yLjZ3UQ2jERPJgwuVUYB1o
 https://www.google.com/maps/place/AETOS+Holdings+%28HQ%29/data=!4m7!3m6!1s0x31da0556700d30b5:0xe1083b7faed02605!8m2!3d1.3255944!4d103.7225346!16s%2Fg%2F11f_lv3xsy!19sChIJtTANcFYF2jERBSbQrn87COE
+https://www.google.com/maps/place/SATA+CommHealth+Jurong+Medical+Centre/data=!4m7!3m6!1s0x31da10059b9385a3:0x69e4635f5d8493f6!8m2!3d1.3338972!4d103.7404056!16s%2Fg%2F1ptzsbkn6!19sChIJo4WTmwUQ2jER9pOEXV9j5Gk
+https://www.google.com/maps/place/Expat+Corporate+Apartments+Singapore+Pte+Ltd+-+Service+Apartments+Singapore/data=!4m7!3m6!1s0x31da1725f3ea2bf9:0x53a8da2e9dca7c9c!8m2!3d1.3355818!4d103.742454!16s%2Fg%2F11fyljx1l4!19sChIJ-Svq8yUX2jERnHzKnS7aqFM
