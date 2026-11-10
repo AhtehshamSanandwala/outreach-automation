@@ -6868,3 +6868,4 @@ https://www.google.com/maps/place/CEVA+Logistics/data=!4m7!3m6!1s0x31da3db71eee4
 https://www.google.com/maps/place/DSV/data=!4m7!3m6!1s0x31da3cd616de1403:0xdf3ead51060b0974!8m2!3d1.330993!4d103.96099!16s%2Fg%2F1td45h52!19sChIJAxTeFtY82jERdAkLBlGtPt8
 https://www.google.com/maps/place/138+PROFESSIONAL+MOVERS/data=!4m7!3m6!1s0x31da3d3931021007:0x9e729200b6e0b49b!8m2!3d1.3393019!4d103.9414093!16s%2Fg%2F1pty8t868!19sChIJBxACMTk92jERm7TgtgCScp4
 https://www.google.com/maps/place/Legion+Express+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d468605eb71:0x233b5fcdd4ea4097!8m2!3d1.333542!4d103.9678122!16s%2Fg%2F11fr731wry!19sChIJcesFhkY92jERl0Dq1M1fOyM
+https://www.google.com/maps/place/MNX+Global+Logistics/data=!4m7!3m6!1s0x31da3cd0dcf6df03:0xb1ef2a47bbf75afe!8m2!3d1.3333097!4d103.9678234!16s%2Fg%2F11r2rtgj7q!19sChIJA9_23NA82jER_lr3u0cq77E
