@@ -6423,3 +6423,7 @@ https://www.google.com/maps/place/One+Stop+Content+Pte.+Ltd./data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Amplified+Simply/data=!4m7!3m6!1s0x31da3dab8a99fdd1:0xf31083d482817314!8m2!3d1.3537562!4d103.9421447!16s%2Fg%2F11vztx7y28!19sChIJ0f2Ziqs92jERFHOBgtSDEPM
 https://www.google.com/maps/place/eTrail+Web+Space/data=!4m7!3m6!1s0xa1b95dd0bfbbe7c3:0x3b3e5f520869e1cb!8m2!3d1.3717711!4d103.9337283!16s%2Fg%2F11sshmg49g!19sChIJw-e7v9BduaERy-FpCFJfPjs
 https://www.google.com/maps/place/Singlish+Man/data=!4m7!3m6!1s0x31da3de5e718c7ef:0x98ad619fd658491f!8m2!3d1.3559353!4d103.9445366!16s%2Fg%2F11y915lczg!19sChIJ78cY5-U92jERH0lY1p9hrZg
+https://www.google.com/maps/place/Gorgeous+Media+Communications/data=!4m7!3m6!1s0x31da3dd60d091bd1:0xa3ae6fe37466b59!8m2!3d1.3485576!4d103.9593446!16s%2Fg%2F11y3t5bv9t!19sChIJ0RsJDdY92jERWWtGN_7mOgo
+https://www.google.com/maps/place/Site4charity/data=!4m7!3m6!1s0x31da3d14a2b70c59:0x9f5a5b73d1f3dad8!8m2!3d1.348862!4d103.938975!16s%2Fg%2F11c4__rq8g!19sChIJWQy3ohQ92jER2Nrz0XNbWp8
+https://www.google.com/maps/place/Matt+%26+Eva+Works+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d340983ac95:0xaa552b0796407f55!8m2!3d1.3399559!4d103.9418321!16s%2Fg%2F11r9wf839v!19sChIJlayDCTQ92jERVX9AlgcrVao
+https://www.google.com/maps/place/ResCafe%2B+Marketing/data=!4m7!3m6!1s0xaa7ad1bcefc6df81:0xed8eaae31a1c3fc3!8m2!3d1.334762!4d103.9652468!16s%2Fg%2F11x5v8cl2v!19sChIJgd_G77zReqoRwz8cGuOqju0
