@@ -7352,3 +7352,6 @@ https://www.google.com/maps/place/Vegetarian+at+Creative+Resource+Building/data=
 https://www.google.com/maps/place/AKG+Singapore/data=!4m7!3m6!1s0x31da110ae5be53d5:0x8c3454826f8ec62f!8m2!3d1.3342941!4d103.7428917!16s%2Fg%2F11y4m68l_3!19sChIJ1VO-5QoR2jERL8aOb4JUNIw
 https://www.google.com/maps/place/ACS+Innovations+International+Pte+Ltd/data=!4m7!3m6!1s0x31da1aa107f2cdb5:0x70fc2acadf018b91!8m2!3d1.3243966!4d103.7491376!16s%2Fg%2F1ptvxt01w!19sChIJtc3yB6Ea2jERkYsB38oq_HA
 https://www.google.com/maps/place/Our+Choice+Pte+Ltd/data=!4m7!3m6!1s0x31da1aa129d99e61:0x720836ec413f3688!8m2!3d1.3247372!4d103.7467805!16s%2Fg%2F1ptwpp6nz!19sChIJYZ7ZKaEa2jERiDY_Qew2CHI
+https://www.google.com/maps/place/Forwarders+%26+Delivery+Agency+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da054c4dd762f1:0xd826264dc57295a7!8m2!3d1.3152228!4d103.7251603!16s%2Fg%2F11fx_323h7!19sChIJ8WLXTUwF2jERp5VyxU0mJtg
+https://www.google.com/maps/place/The+Sage+Media/data=!4m7!3m6!1s0x31da107537590185:0xda6ef86e3d3e2509!8m2!3d1.328495!4d103.7527949!16s%2Fg%2F11fy4pl_0d!19sChIJhQFZN3UQ2jERCSU-PW74bto
+https://www.google.com/maps/place/Poya+Communications+Pte.+Ltd./data=!4m7!3m6!1s0x31da100c0a5b17f5:0x7507a84549a84d55!8m2!3d1.3323477!4d103.7482111!16s%2Fg%2F1tg_tlt4!19sChIJ9RdbCgwQ2jERVU2oSUWoB3U
