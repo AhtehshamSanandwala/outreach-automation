@@ -6891,3 +6891,5 @@ https://www.google.com/maps/place/Yfe-Clark+Express+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/RoadEx+Logistics/data=!4m7!3m6!1s0x31da3d221db84193:0x4b00996691d46125!8m2!3d1.3438007!4d103.9549123!16s%2Fg%2F1pv1_0d8v!19sChIJk0G4HSI92jERJWHUkWaZAEs
 https://www.google.com/maps/place/Pharma+Express+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d0f788fffff:0x41b7916ae4bee59b!8m2!3d1.3558696!4d103.9496541!16s%2Fg%2F11fnwhdmk3!19sChIJ__-PeA892jERm-W-5GqRt0E
 https://www.google.com/maps/place/Lock%2BStore+%28Tampines%29/data=!4m7!3m6!1s0x31da3d3c018683f9:0x60f750e205009a5b!8m2!3d1.3399956!4d103.9437954!16s%2Fg%2F11cly3tk85!19sChIJ-YOGATw92jERW5oABeJQ92A
+https://www.google.com/maps/place/Yusen+Air+%26+Sea+Service+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da3c0cc3c6c92b:0x2292685cb9aaf4e3!8m2!3d1.3328843!4d103.962985!16s%2Fg%2F1v5k0jqt!19sChIJK8nGwww82jER4_SquVxokiI
+https://www.google.com/maps/place/SHIP-BACK+%E6%A3%92%E5%AE%87%E5%9B%BD%E9%99%85/data=!4m7!3m6!1s0x31da174fab72f3bd:0x4bd0d321c1215c5b!8m2!3d1.3414498!4d103.9418375!16s%2Fg%2F11r3s29vt6!19sChIJvfNyq08X2jERW1whwSHT0Es
