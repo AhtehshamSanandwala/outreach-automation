@@ -7344,3 +7344,4 @@ https://www.google.com/maps/place/Elique+Pte+Ltd/data=!4m7!3m6!1s0x31da131b06d13
 https://www.google.com/maps/place/PassionSwirls+Creative/data=!4m7!3m6!1s0x31da11ca80f51247:0x4d36401b274b5c78!8m2!3d1.314!4d103.84425!16s%2Fg%2F11q_76zwlz!19sChIJRxL1gMoR2jEReFxLJxtANk0
 https://www.google.com/maps/place/Mago+Manufacturing+%26+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da100ddadb696b:0x1af244e72a7930bc!8m2!3d1.3348172!4d103.7472031!16s%2Fg%2F1tnbhn5q!19sChIJa2nb2g0Q2jERvDB5KudE8ho
 https://www.google.com/maps/place/Sirius+Multimedia+Pte+Ltd/data=!4m7!3m6!1s0x31da1009892f59c1:0xdf774602844821ed!8m2!3d1.328818!4d103.7458786!16s%2Fg%2F1w_vks_0!19sChIJwVkviQkQ2jER7SFIhAJGd98
+https://www.google.com/maps/place/Loomify/data=!4m7!3m6!1s0x31da1141e9c72213:0x1f460a81fb523c4d!8m2!3d1.3300828!4d103.7446534!16s%2Fg%2F11ywbsqmws!19sChIJEyLH6UER2jERTTxS-4EKRh8
