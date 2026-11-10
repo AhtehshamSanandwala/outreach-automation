@@ -6525,3 +6525,6 @@ https://www.google.com/maps/place/RBA+Design+%26+Solution+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/AirDance/data=!4m7!3m6!1s0x31da3d3a577b8099:0x512e7d769b4f62cd!8m2!3d1.3370945!4d103.9461056!16s%2Fg%2F1ptwk16c1!19sChIJmYB7Vzo92jERzWJPm3Z9LlE
 https://www.google.com/maps/place/Gowin+Enterprise+Pte+Ltd/data=!4m7!3m6!1s0x31da3d6b781410d9:0x3a1602d1436f8440!8m2!3d1.3488156!4d103.9348754!16s%2Fg%2F1tfcf8w4!19sChIJ2RAUeGs92jERQIRvQ9ECFjo
 https://www.google.com/maps/place/Ang+Lay+See/data=!4m7!3m6!1s0x31da3d393b16cd3f:0x213f05cea20284eb!8m2!3d1.339254!4d103.941341!16s%2Fg%2F1pt_m11j0!19sChIJP80WOzk92jER64QCos4FPyE
+https://www.google.com/maps/place/Banographics+Advertising/data=!4m7!3m6!1s0x31da3d254a6b1fa1:0xf3e18bb967bd2f85!8m2!3d1.336436!4d103.94949!16s%2Fg%2F1tcw_0zm!19sChIJoR9rSiU92jERhS-9Z7mL4fM
+https://www.google.com/maps/place/Electron+Audio+Industry/data=!4m7!3m6!1s0x31da3d3e9963544d:0xf212ad891d916103!8m2!3d1.341471!4d103.9429059!16s%2Fg%2F11c59xzbx5!19sChIJTVRjmT492jERA2GRHYmtEvI
+https://www.google.com/maps/place/M.Y+World+@+Tampines+North/data=!4m7!3m6!1s0x31da3d08a8963905:0xc0d3de59adb1e6c6!8m2!3d1.3592637!4d103.9490349!16s%2Fg%2F11bwpzr4hd!19sChIJBTmWqAg92jERxuaxrVne08A
