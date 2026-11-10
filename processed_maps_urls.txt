@@ -6173,3 +6173,5 @@ https://www.google.com/maps/place/Hi+Trading+Supplies/data=!4m7!3m6!1s0x31da181f
 https://www.google.com/maps/place/ATC+Painting+%26+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da17f4079687d3:0x832e0d4e6c9beb9a!8m2!3d1.328277!4d103.895996!16s%2Fg%2F1tkln1p1!19sChIJ04eWB_QX2jERmuubbE4NLoM
 https://www.google.com/maps/place/Yuen+Lay+Trading+Co/data=!4m7!3m6!1s0x31da17f5f04d19dd:0x41e10f4185d9cf4d!8m2!3d1.3263168!4d103.896365!16s%2Fg%2F1vbl52dg!19sChIJ3RlN8PUX2jERTc_ZhUEP4UE
 https://www.google.com/maps/place/Power+Value+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da17f7149f841f:0x7f3f45a12af9179f!8m2!3d1.329257!4d103.9013659!16s%2Fg%2F11c6dzxqln!19sChIJH4SfFPcX2jERnxf5KqFFP38
+https://www.google.com/maps/place/EST+Trading/data=!4m7!3m6!1s0x31da181e488767dd:0x3a52dbf89171ab38!8m2!3d1.3248561!4d103.8951713!16s%2Fg%2F11c59xdm5t!19sChIJ3WeHSB4Y2jEROKtxkfjbUjo
+https://www.google.com/maps/place/Sonic+Car+Trading/data=!4m7!3m6!1s0x24f009fa6fbcb0c3:0x117d2be585e503f9!8m2!3d1.3255447!4d103.8975357!16s%2Fg%2F11scs4rllj!19sChIJw7C8b_oJ8CQR-QPlheUrfRE
