@@ -6871,3 +6871,4 @@ https://www.google.com/maps/place/Legion+Express+Pte.+Ltd./data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/MNX+Global+Logistics/data=!4m7!3m6!1s0x31da3cd0dcf6df03:0xb1ef2a47bbf75afe!8m2!3d1.3333097!4d103.9678234!16s%2Fg%2F11r2rtgj7q!19sChIJA9_23NA82jER_lr3u0cq77E
 https://www.google.com/maps/place/TransPak+%7C+Singapore+%28Global+Logistics+Air+Freight%29/data=!4m7!3m6!1s0x31da3d4cb3f6f88b:0xf4c5492928cd8bd1!8m2!3d1.3391639!4d103.9668835!16s%2Fg%2F11mcltk_7d!19sChIJi_j2s0w92jER0YvNKClJxfQ
 https://www.google.com/maps/place/CTI+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd39ab880d3:0xa2c049e592943ae6!8m2!3d1.3280272!4d103.9671586!16s%2Fg%2F1ptzbnbdf!19sChIJ04C4mtM82jER5jqUkuVJwKI
+https://www.google.com/maps/place/EGL+Eagle+Global+Logistics+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd60ba47939:0xb6692db66b25c84b!8m2!3d1.330749!4d103.962046!16s%2Fg%2F1ptwkbzw0!19sChIJOXmkC9Y82jERS8gla7YtabY
