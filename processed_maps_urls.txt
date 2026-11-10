@@ -7077,3 +7077,4 @@ https://www.google.com/maps/place/Information+Development+Singapore+Pte.+Ltd./da
 https://www.google.com/maps/place/Theme+Design+%26+Contract/data=!4m7!3m6!1s0x31da3cdb3b58120f:0xff2adb2696e2b77!8m2!3d1.338494!4d103.971405!16s%2Fg%2F1tdnbs7d!19sChIJDxJYO9s82jERdytuabKt8g8
 https://www.google.com/maps/place/Changi+City+Point/data=!4m7!3m6!1s0x31da3c8dd2aa223f:0xd56922fc86e05677!8m2!3d1.3342732!4d103.9627387!16s%2Fm%2F0p3qb8s!19sChIJPyKq0o082jERd1bghvwiadU
 https://www.google.com/maps/place/Inventor+Pte+Ltd/data=!4m7!3m6!1s0x2f2c341ef1fbd6a3:0xcf957ef2748eca7f!8m2!3d1.3347003!4d103.9652515!16s%2Fg%2F11krtxltvn!19sChIJo9b78R40LC8Rf8qOdPJ-lc8
+https://www.google.com/maps/place/Learning+Vision+Changi+Business+Park/data=!4m7!3m6!1s0x31da3cd909ab10cb:0x99bb3a8948502d23!8m2!3d1.3382767!4d103.9654209!16s%2Fg%2F11b6dghbdn!19sChIJyxCrCdk82jERIy1QSIk6u5k
