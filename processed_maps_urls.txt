@@ -7209,3 +7209,4 @@ https://www.google.com/maps/place/Changi+Cargo+Complex/data=!4m7!3m6!1s0x31da3ce
 https://www.google.com/maps/place/NGFS+SINGAPORE+PTE+LTD/data=!4m7!3m6!1s0x31da3dcb62f43f8b:0xc61461d14e848cc7!8m2!3d1.3744182!4d103.9958061!16s%2Fg%2F11j31ds2dt!19sChIJiz_0Yss92jERx4yETtFhFMY
 https://www.google.com/maps/place/21+Changi+South+Avenue+2+-+Space+for+Rent/data=!4m7!3m6!1s0x31da3d0fd830cdc9:0x226c043e498f4b6d!8m2!3d1.332049!4d103.9667827!16s%2Fg%2F11f6226lww!19sChIJyc0w2A892jERbUuPST4EbCI
 https://www.google.com/maps/place/VCK-Vanuatu+Air+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cda4ed101e3:0xae6994bfa2a51965!8m2!3d1.3373153!4d103.9685154!16s%2Fg%2F11f50wnyqq!19sChIJ4wHRTto82jERZRmlor-Uaa4
+https://www.google.com/maps/place/Zaphon+Logistics+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c6553b42b57:0x4e7376faaf68f8ab!8m2!3d1.3730426!4d103.9949422!16s%2Fg%2F11fm4xygry!19sChIJVyu0U2U82jERq_hor_p2c04
