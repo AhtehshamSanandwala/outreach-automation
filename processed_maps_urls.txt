@@ -6480,3 +6480,5 @@ https://www.google.com/maps/place/Fine+Art+Advertising+Studio/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Mooi+Wonderland+Design+Studio/data=!4m7!3m6!1s0x31da15ffb880d5ad:0xd39f5c7692a73050!8m2!3d1.3717711!4d103.9337283!16s%2Fg%2F11jwm0fjs8!19sChIJrdWAuP8V2jERUDCnknZcn9M
 https://www.google.com/maps/place/Emilia+Art+Studio/data=!4m7!3m6!1s0x31da3d66edc7043b:0x16807ff39dc5ce42!8m2!3d1.3586058!4d103.9523818!16s%2Fg%2F11zcgq6v3l!19sChIJOwTH7WY92jERQs7FnfN_gBY
 https://www.google.com/maps/place/MSM+Satellite+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3d1210b01c9d:0xc5ac853094cad11!8m2!3d1.353256!4d103.9422777!16s%2Fg%2F1td2w_85!19sChIJnRywEBI92jEREa1MCVPIWgw
+https://www.google.com/maps/place/Syukran.com/data=!4m7!3m6!1s0x31da1810879df391:0xb1547a5da92e0da5!8m2!3d1.3519738!4d103.9334779!16s%2Fg%2F12j8h6s60!19sChIJkfOdhxAY2jERpQ0uqV16VLE
+https://www.google.com/maps/place/Monster+Prints/data=!4m7!3m6!1s0x31da3d3eaf1d6409:0xb96bfd92a001d50e!8m2!3d1.3391103!4d103.9429049!16s%2Fg%2F1tj8_1hv!19sChIJCWQdrz492jERDtUBoJL9a7k
