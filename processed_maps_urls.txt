@@ -6223,3 +6223,5 @@ https://www.google.com/maps/place/Yusen+Logistics+Singapore+Pte+Ltd+-+Airfreight
 https://www.google.com/maps/place/MondoConnx/data=!4m7!3m6!1s0x31da17f3a27e85bd:0x2b6e7f0710cce439!8m2!3d1.332124!4d103.89463!16s%2Fg%2F11btwjzt2q!19sChIJvYV-ovMX2jEROeTMEAd_bis
 https://www.google.com/maps/place/Sino-Xin+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da181e37227781:0x70614771d8fd4de9!8m2!3d1.3248019!4d103.8946879!16s%2Fg%2F1ptwwy31w!19sChIJgXciNx4Y2jER6U392HFHYXA
 https://www.google.com/maps/place/Regent+Express+Pte+Ltd/data=!4m7!3m6!1s0x31da181e0467f81f:0x54c5cf3e1ff96779!8m2!3d1.33241!4d103.8943975!16s%2Fg%2F1v1shqqm!19sChIJH_hnBB4Y2jEReWf5Hz7PxVQ
+https://www.google.com/maps/place/Ambuzz+Logistics+Services/data=!4m7!3m6!1s0x31da1933559c9eb9:0x5ccd7c9ea6c7dfff!8m2!3d1.32534!4d103.8984395!16s%2Fg%2F11hyt9j68r!19sChIJuZ6cVTMZ2jER_9_Hpp58zVw
+https://www.google.com/maps/place/TranspoTrade+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da17692fb469d9:0x43b7e28607524a5!8m2!3d1.333496!4d103.8918092!16s%2Fg%2F11lnr9m5b2!19sChIJ2Wm0L2kX2jERpSR1YCh-OwQ
