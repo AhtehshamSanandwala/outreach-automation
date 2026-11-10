@@ -6277,3 +6277,5 @@ https://www.google.com/maps/place/Shiplah!+Technologies+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Gim+Guan+Freight+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3a9e4d013:0x5e2b8b8e77f409be!8m2!3d1.332917!4d103.8940171!16s%2Fg%2F1ptx_5n3f!19sChIJE9DkqfMX2jERvgn0d46LK14
 https://www.google.com/maps/place/World-Bridge+Air+%26+Sea+Pte+Ltd/data=!4m7!3m6!1s0x31da17f617914349:0x9d7910b130d44e0!8m2!3d1.326862!4d103.898324!16s%2Fg%2F1tjbppbg!19sChIJSUORF_YX2jER4EQNEwuR1wk
 https://www.google.com/maps/place/OceanHub+Shipping+Pte+Ltd/data=!4m7!3m6!1s0x31da17f255aaaaab:0x9bd6900e058b718c!8m2!3d1.333427!4d103.8942808!16s%2Fg%2F11h4dhx_rp!19sChIJq6qqVfIX2jERjHGLBQ6Q1ps
+https://www.google.com/maps/place/WATERWAY+SHIPPING+LINE/data=!4m7!3m6!1s0x31da179d702671f3:0x8c631faa7441f8cc!8m2!3d1.3340799!4d103.8952776!16s%2Fg%2F11jgcdntmk!19sChIJ83EmcJ0X2jERzPhBdKofY4w
+https://www.google.com/maps/place/U-Tech+Logistics+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1ac86cfa300b:0xd8fd5b67ade6a913!8m2!3d1.3324062!4d103.7483095!16s%2Fg%2F1v1shqx3!19sChIJCzD6bMga2jERE6nmrWdb_dg
