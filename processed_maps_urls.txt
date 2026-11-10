@@ -6493,3 +6493,5 @@ https://www.google.com/maps/place/Good+Art+Enterprise+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/A+%26+P+Studio/data=!4m7!3m6!1s0x31da3d17584842ef:0xa8c3e3c6935e4749!8m2!3d1.348692!4d103.949063!16s%2Fg%2F1ptzpmlmb!19sChIJ70JIWBc92jERSUdek8bjw6g
 https://www.google.com/maps/place/Radical+Design+Partnership+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d394c405fd3:0x96cf803863a26e9f!8m2!3d1.3408266!4d103.9434942!16s%2Fg%2F11c1wszxv2!19sChIJ019ATDk92jERn26iYziAz5Y
 https://www.google.com/maps/place/Gomotex+Signcraft+Studio%2799/data=!4m7!3m6!1s0x31da3d255ce175a9:0x2496a4ed21ba42cd!8m2!3d1.3356405!4d103.9506378!16s%2Fg%2F1tg_tm6v!19sChIJqXXhXCU92jERzUK6Ie2kliQ
+https://www.google.com/maps/place/Jun+Yan+Advertising/data=!4m7!3m6!1s0x31da3d392d3c4137:0x9fdf5d05aa727b03!8m2!3d1.3399247!4d103.9409504!16s%2Fg%2F1ptwm8mf6!19sChIJN0E8LTk92jERA3tyqgVd358
+https://www.google.com/maps/place/Paper+Carpenter/data=!4m7!3m6!1s0x31da16f68214d497:0x49e7193985ffc86a!8m2!3d1.3353415!4d103.9465297!16s%2Fg%2F11btw_zn21!19sChIJl9QUgvYW2jERasj_hTkZ50k
