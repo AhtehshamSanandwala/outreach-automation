@@ -7163,3 +7163,4 @@ https://www.google.com/maps/place/GEMS+Partners+Network/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Das+Spektrum/data=!4m7!3m6!1s0x31da3dce7e4b969d:0x70b1ccade0a72dde!8m2!3d1.3386066!4d103.9649115!16s%2Fg%2F11ss19g5z_!19sChIJnZZLfs492jER3i2n4K3MsXA
 https://www.google.com/maps/place/The+Executive+Centre+-+The+Gateway+West/data=!4m7!3m6!1s0x31da1944df3c0e53:0xe1be2a1d5c22cc5d!8m2!3d1.2984927!4d103.8589061!16s%2Fg%2F11f4pd1x29!19sChIJUw4830QZ2jERXcwiXB0qvuE
 https://www.google.com/maps/place/Search+Avenue/data=!4m7!3m6!1s0x6ebb7042c669a105:0xdc6e6873d465defc!8m2!3d1.314!4d103.84425!16s%2Fg%2F11x8j2mqng!19sChIJBaFpxkJwu24R_N5l1HNobtw
+https://www.google.com/maps/place/Nespresso+Singapore+Corporate+Office/data=!4m7!3m6!1s0x31da3cd909ab10cb:0x975a825f3a8e7d26!8m2!3d1.3376693!4d103.9645858!16s%2Fg%2F1ptx9jlm0!19sChIJyxCrCdk82jERJn2OOl-CWpc
