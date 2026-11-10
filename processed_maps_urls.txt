@@ -6890,3 +6890,4 @@ https://www.google.com/maps/place/Leeway+Trans-Act+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Yfe-Clark+Express+Pte+Ltd/data=!4m7!3m6!1s0x31da3ce404d38ca5:0xcf6bb633d4817d7b!8m2!3d1.3494241!4d103.9670433!16s%2Fg%2F1tfxd64y!19sChIJpYzTBOQ82jERe32B1DO2a88
 https://www.google.com/maps/place/RoadEx+Logistics/data=!4m7!3m6!1s0x31da3d221db84193:0x4b00996691d46125!8m2!3d1.3438007!4d103.9549123!16s%2Fg%2F1pv1_0d8v!19sChIJk0G4HSI92jERJWHUkWaZAEs
 https://www.google.com/maps/place/Pharma+Express+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d0f788fffff:0x41b7916ae4bee59b!8m2!3d1.3558696!4d103.9496541!16s%2Fg%2F11fnwhdmk3!19sChIJ__-PeA892jERm-W-5GqRt0E
+https://www.google.com/maps/place/Lock%2BStore+%28Tampines%29/data=!4m7!3m6!1s0x31da3d3c018683f9:0x60f750e205009a5b!8m2!3d1.3399956!4d103.9437954!16s%2Fg%2F11cly3tk85!19sChIJ-YOGATw92jERW5oABeJQ92A
