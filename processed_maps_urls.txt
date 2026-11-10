@@ -6899,3 +6899,4 @@ https://www.google.com/maps/place/CG+Integrated+Logistics+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/Thyssen+Haniel+Logistics+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd63c35eb0d:0xef4928437bfac3bf!8m2!3d1.332405!4d103.962225!16s%2Fg%2F1tfb8nzh!19sChIJDes1PNY82jERv8P6e0MoSe8
 https://www.google.com/maps/place/Mamgistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3b2a2bc0dd:0x2bc1784bd21c2ce1!8m2!3d1.3376523!4d103.9486266!16s%2Fg%2F1tx_3x2r!19sChIJ3cArKjs92jER4Swc0kt4wSs
 https://www.google.com/maps/place/Unison+Transport+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da3d003602f725:0x2c4c6f9cea432cb!8m2!3d1.3419809!4d103.9425716!16s%2Fg%2F11x65zl_yn!19sChIJJfcCNgA92jERyzKkzvnGxAI
+https://www.google.com/maps/place/StorHub+Self+Storage+-+Tampines/data=!4m7!3m6!1s0x31da3d3c3e260077:0x151da3e6d7500dc4!8m2!3d1.3387205!4d103.9428353!16s%2Fg%2F11cfddcjq!19sChIJdwAmPjw92jERxA1Q1-ajHRU
