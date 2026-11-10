@@ -6644,3 +6644,4 @@ https://www.google.com/maps/place/Regus+-+Singapore,+Tampines+Junction/data=!4m7
 https://www.google.com/maps/place/CT+Business+Accounting+Services/data=!4m7!3m6!1s0x31da3d6e823505ad:0x51671509c7a39831!8m2!3d1.351443!4d103.931629!16s%2Fg%2F11c1ws_806!19sChIJrQU1gm492jERMZijxwkVZ1E
 https://www.google.com/maps/place/Supra+International+Investment+Holding+Pte+Ltd/data=!4m7!3m6!1s0x31da3df8129898cb:0x914d79e56c2729a!8m2!3d1.3742479!4d103.9457258!16s%2Fg%2F11j8ggtdc2!19sChIJy5iYEvg92jERmnLCVp7XFAk
 https://www.google.com/maps/place/Lim+Business+Systems+%26+Services/data=!4m7!3m6!1s0x31da3d3e8e42d0bf:0xe685aa90b7e3febf!8m2!3d1.341892!4d103.942416!16s%2Fg%2F11c1ws7pbs!19sChIJv9BCjj492jERv_7jt5CqheY
+https://www.google.com/maps/place/Planners-Hub+Consultancy/data=!4m7!3m6!1s0x31da3d05dd8774a5:0x596c44563caa2daf!8m2!3d1.3581508!4d103.9505641!16s%2Fg%2F1tdq3jkf!19sChIJpXSH3QU92jERry2qPFZEbFk
