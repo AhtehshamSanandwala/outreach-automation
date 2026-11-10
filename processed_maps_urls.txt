@@ -7104,3 +7104,6 @@ https://www.google.com/maps/place/SecureWorks+Office/data=!4m7!3m6!1s0x31da3cd7b
 https://www.google.com/maps/place/I%27m+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd7672bb8d1:0x18cd8f3df54abd72!8m2!3d1.3348353!4d103.9652112!16s%2Fg%2F1pv1sm9rs!19sChIJ0bgrZ9c82jERcr1K9T2PzRg
 https://www.google.com/maps/place/J.P.+Morgan/data=!4m7!3m6!1s0x31da3cd7b71f4bf7:0xf5a07f0075844250!8m2!3d1.3334024!4d103.9624746!16s%2Fg%2F11cm16fmcm!19sChIJ90sft9c82jERUEKEdQB_oPU
 https://www.google.com/maps/place/DBS+Asia+Hub+Visitor+Parking/data=!4m7!3m6!1s0x31da3cd6df933dcb:0xd0e5c2522ef944a3!8m2!3d1.3328349!4d103.9652062!16s%2Fg%2F1q6j7vl25!19sChIJyz2T39Y82jERo0T5LlLC5dA
+https://www.google.com/maps/place/Satyam+Computer+Services+Ltd/data=!4m7!3m6!1s0x31da3cd9b3306923:0xc7ee28854753e483!8m2!3d1.3364003!4d103.9636533!16s%2Fg%2F1tkb2mz0!19sChIJI2kws9k82jERg-RTR4Uo7sc
+https://www.google.com/maps/place/Itg+International+Pte.+Ltd./data=!4m7!3m6!1s0x31da3cd75d6aaaab:0x7329ea5d926ce326!8m2!3d1.3347003!4d103.9652515!16s%2Fg%2F11lgy2w_29!19sChIJq6pqXdc82jERJuNskl3qKXM
+https://www.google.com/maps/place/Comsoft+Pte+Ltd/data=!4m7!3m6!1s0x31da3d365e0efad3:0xfec8aee75be1025!8m2!3d1.336811!4d103.9671555!16s%2Fg%2F1vntgdyl!19sChIJ0_oOXjY92jERJRC-de6K7A8
