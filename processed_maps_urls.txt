@@ -7049,3 +7049,4 @@ https://www.google.com/maps/place/Tagit+Pte+Ltd/data=!4m7!3m6!1s0x31da19a0bd5555
 https://www.google.com/maps/place/S.B+Digital+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da19c53f66602f:0xde48cd32a49c78b4!8m2!3d1.278027!4d103.8479839!16s%2Fg%2F11kxmtpjl2!19sChIJL2BmP8UZ2jERtHicpDLNSN4
 https://www.google.com/maps/place/Blockchain-Ads+Advertising+Network/data=!4m7!3m6!1s0x31da1963163ed4c5:0x528b63cff8639d7d!8m2!3d1.2876109!4d103.8401485!16s%2Fg%2F11vx6c93t8!19sChIJxdQ-FmMZ2jERfZ1j-M9ji1I
 https://www.google.com/maps/place/GLOBIVIO/data=!4m7!3m6!1s0x31da6d64bccbbfeb:0xd26c09ca34bd0313!8m2!3d1.528637!4d103.7896459!16s%2Fg%2F11h3c3zg6z!19sChIJ67_LvGRt2jEREwO9NMoJbNI
+https://www.google.com/maps/place/Plaza+8+@+CBP/data=!4m7!3m6!1s0x31da3cd72120a981:0x1bf1b463d9ee49d9!8m2!3d1.3331726!4d103.9657953!16s%2Fg%2F1ptwjd4dg!19sChIJgakgIdc82jER2Unu2WO08Rs
