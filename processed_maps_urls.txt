@@ -6864,3 +6864,4 @@ https://www.google.com/maps/place/Moments+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Noatum+Logistics+-+Singapore/data=!4m7!3m6!1s0x31da3d62a7a63a0f:0xba866d5353d37b9c!8m2!3d1.3372831!4d103.9684939!16s%2Fg%2F11w9j34m35!19sChIJDzqmp2I92jERnHvTU1Nthro
 https://www.google.com/maps/place/Mapletree+Logistics/data=!4m7!3m6!1s0x31da3cd6168f8a0d:0xddb951bbd2c6631e!8m2!3d1.331213!4d103.962018!16s%2Fg%2F11gy0ljcn9!19sChIJDYqPFtY82jERHmPG0rtRud0
 https://www.google.com/maps/place/Tang+Logistics+Centre/data=!4m7!3m6!1s0x31da3cd46cbfde2f:0x1f86a67ac36bfa53!8m2!3d1.3292844!4d103.9656142!16s%2Fg%2F1ttdvzpq!19sChIJL96_bNQ82jERU_prw3qmhh8
+https://www.google.com/maps/place/CEVA+Logistics/data=!4m7!3m6!1s0x31da3db71eee4471:0x84ba7a9ec21a79f7!8m2!3d1.3330883!4d103.9530126!16s%2Fg%2F11sgkzwgjc!19sChIJcUTuHrc92jER93kawp56uoQ
