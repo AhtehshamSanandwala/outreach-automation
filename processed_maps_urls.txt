@@ -6838,3 +6838,4 @@ https://www.google.com/maps/place/My+Way+Trading/data=!4m7!3m6!1s0x31da3d1b435b4
 https://www.google.com/maps/place/Chua+Hock+Trading+Pte+Ltd/data=!4m7!3m6!1s0x31da3d06eb4a5f53:0x3dbfa2e18e9ac684!8m2!3d1.3598359!4d103.9535112!16s%2Fg%2F1tdx670m!19sChIJU19K6wY92jERhMaajuGivz0
 https://www.google.com/maps/place/Overseas+Continental+Trading+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d3b2a2bc0dd:0x91027be2ac9cfd03!8m2!3d1.337734!4d103.948804!16s%2Fg%2F1tdx1nlk!19sChIJ3cArKjs92jERA_2crOJ7ApE
 https://www.google.com/maps/place/A-Transline+Global+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da178a055c1729:0xe898e5d7de3e41a0!8m2!3d1.3535341!4d103.9420678!16s%2Fg%2F11g0trx4q0!19sChIJKRdcBYoX2jERoEE-3tflmOg
+https://www.google.com/maps/place/Trust+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da3df094f50b2f:0x7ed5fae71589237e!8m2!3d1.3717799!4d103.9337714!16s%2Fg%2F11gh_g1dng!19sChIJLwv1lPA92jERfiOJFef61X4
