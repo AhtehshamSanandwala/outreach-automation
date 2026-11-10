@@ -6316,3 +6316,4 @@ https://www.google.com/maps/place/Industrial+Automation/data=!4m7!3m6!1s0x31da17
 https://www.google.com/maps/place/Chai+Hoe+Huat+Machinery+Pte+Ltd/data=!4m7!3m6!1s0x31da3d129d294d57:0x6a35bf83a80dc8d6!8m2!3d1.3262083!4d103.901459!16s%2Fg%2F11g8nymnkl!19sChIJV00pnRI92jER1sgNqIO_NWo
 https://www.google.com/maps/place/Jotro+International+Pte+Ltd/data=!4m7!3m6!1s0x31da17e844ac6cef:0x844bfb6aa9fc8822!8m2!3d1.3322078!4d103.8944419!16s%2Fg%2F11fv3n06f1!19sChIJ72ysROgX2jERIoj8qWr7S4Q
 https://www.google.com/maps/place/Enge+Plas+Automation+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17c84248e62d:0x838b7bf5e5062d21!8m2!3d1.325474!4d103.898102!16s%2Fg%2F11bw5m88vs!19sChIJLeZIQsgX2jERIS0G5fV7i4M
+https://www.google.com/maps/place/Val-Technik+Pte+Ltd/data=!4m7!3m6!1s0x31da17f5faaaaaab:0xb37b80f75f1ae7cb!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F1tl8h6xc!19sChIJq6qq-vUX2jERy-caX_eAe7M
