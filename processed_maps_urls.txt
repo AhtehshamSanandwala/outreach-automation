@@ -6695,3 +6695,4 @@ https://www.google.com/maps/place/Channel+Consulting+Group+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/Merger+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d1b5d6640d5:0xa7ab56160feeccaa!8m2!3d1.3528732!4d103.9543895!16s%2Fg%2F11f1z3lm8l!19sChIJ1UBmXRs92jERqszuDxZWq6c
 https://www.google.com/maps/place/WDC+Consulting+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd7672bb8d1:0x3ded5be5d6308ed4!8m2!3d1.3348353!4d103.9652112!16s%2Fg%2F1pv5x4xtm!19sChIJ0bgrZ9c82jER1I4w1uVb7T0
 https://www.google.com/maps/place/Crest+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da1986bab00001:0xf70222f66fa734d!8m2!3d1.3474666!4d103.9582821!16s%2Fg%2F11p0hxbphy!19sChIJAQCwuoYZ2jERTXP6Zi8icA8
+https://www.google.com/maps/place/Hitachi+Consulting+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da19a580fdda9d:0xebfd772d35c3437b!8m2!3d1.3330865!4d103.9659768!16s%2Fg%2F11c584_0m7!19sChIJndr9gKUZ2jERe0PDNS13_es
