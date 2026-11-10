@@ -6630,3 +6630,4 @@ https://www.google.com/maps/place/Accounts+Inc+International+Pte+Ltd/data=!4m7!3
 https://www.google.com/maps/place/Daisy+Corporate+Secretarial+%26+Management+Services/data=!4m7!3m6!1s0x31da22a9af65acc5:0xcee747a21a9cbf6b!8m2!3d1.3196478!4d103.9168187!16s%2Fg%2F1ptwdv03n!19sChIJxaxlr6ki2jERa7-cGqJH584
 https://www.google.com/maps/place/sychandraservices/data=!4m7!3m6!1s0x31da3d02f3571f89:0x7e702dd5c14c6166!8m2!3d1.3559227!4d103.9591319!16s%2Fg%2F11svnkwmk6!19sChIJiR9X8wI92jERZmFMwdUtcH4
 https://www.google.com/maps/place/ServiceSG+Centre+Our+Tampines+Hub/data=!4m7!3m6!1s0x31da3da496317fad:0x8b14f3336ba1adfe!8m2!3d1.3528162!4d103.9396416!16s%2Fg%2F11jz8420fn!19sChIJrX8xlqQ92jER_q2hazPzFIs
+https://www.google.com/maps/place/SCIC+%28Tampines%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3de4790d67f3:0x7c2c2f15d0155c88!8m2!3d1.3521624!4d103.9422907!16s%2Fg%2F11jclb1g04!19sChIJ82cNeeQ92jERiFwV0BUvLHw
