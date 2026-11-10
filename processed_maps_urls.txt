@@ -6395,3 +6395,4 @@ https://www.google.com/maps/place/United+Bakery+Supplies/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Continental+Equipment+Pte+Ltd/data=!4m7!3m6!1s0x31da0ff7a5555555:0x4289b5e6f3426ae8!8m2!3d1.3598612!4d103.8335855!16s%2Fg%2F1tf7v6zn!19sChIJVVVVpfcP2jER6GpC8-a1iUI
 https://www.google.com/maps/place/Yamato+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3a9e4d013:0x682ec40bbb53d71!8m2!3d1.3339129!4d103.8954117!16s%2Fg%2F1ptw5vmk_!19sChIJE9DkqfMX2jERcT21u0DsggY
 https://www.google.com/maps/place/Lenbrook+Asia/data=!4m7!3m6!1s0x31da19af87ac0637:0x9a381c667fc9b876!8m2!3d1.3333612!4d103.8911833!16s%2Fg%2F12ll1g0qt!19sChIJNwash68Z2jERdrjJf2YcOJo
+https://www.google.com/maps/place/Kubra+Media/data=!4m7!3m6!1s0x31da19a249ca5d3f:0x5eae6d9d0543527e!8m2!3d1.352675!4d103.942487!16s%2Fg%2F11t3c_qm70!19sChIJP13KSaIZ2jERflJDBZ1trl4
