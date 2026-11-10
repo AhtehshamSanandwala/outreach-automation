@@ -6212,3 +6212,4 @@ https://www.google.com/maps/place/Smart+Transport+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/JPM+LOGISTICS+PTE+LTD/data=!4m7!3m6!1s0x31da181df1aaaaab:0x5735bec785fb6186!8m2!3d1.3257958!4d103.8979055!16s%2Fg%2F11f5hp01qf!19sChIJq6qq8R0Y2jERhmH7hce-NVc
 https://www.google.com/maps/place/Medov+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da1700015c9f2b:0xee808ce07260decc!8m2!3d1.3338647!4d103.8926055!16s%2Fg%2F11p22ww2yf!19sChIJK59cAQAX2jERzN5gcuCMgO4
 https://www.google.com/maps/place/Skylift+Consolidator+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da3d2edc464611:0xc886ae77915b1b5b!8m2!3d1.3322442!4d103.8922159!16s%2Fg%2F1tgxfljh!19sChIJEUZG3C492jERWxtbkXeuhsg
+https://www.google.com/maps/place/Aviatrans+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da183282fd19bf:0xd79040a29b4bc8b9!8m2!3d1.3248239!4d103.8946732!16s%2Fg%2F11g6qxdmlc!19sChIJvxn9gjIY2jERuchLm6JAkNc
