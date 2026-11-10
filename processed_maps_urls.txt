@@ -6797,3 +6797,4 @@ https://www.google.com/maps/place/Natural+Dog+Company+%28Singapore+Authorised+Di
 https://www.google.com/maps/place/Aaron+Lighting/data=!4m7!3m6!1s0x31da3d1b71af651f:0xc70413ab0e669e8d!8m2!3d1.3522297!4d103.9540207!16s%2Fg%2F11cm05xjlw!19sChIJH2WvcRs92jERjZ5mDqsTBMc
 https://www.google.com/maps/place/Cold+Storage/data=!4m7!3m6!1s0x31da3d0e270101f9:0x4ac5cdd49bfa8403!8m2!3d1.354212!4d103.9450352!16s%2Fg%2F1tmz4g23!19sChIJ-QEBJw492jERA4T6m9TNxUo
 https://www.google.com/maps/place/Beauty+Language+@+Tampines+Mall/data=!4m7!3m6!1s0x31da3d119499fe2b:0x3bc19f2c7a6dc804!8m2!3d1.3525295!4d103.9449561!16s%2Fg%2F11hd6w98w6!19sChIJK_6ZlBE92jERBMhteiyfwTs
+https://www.google.com/maps/place/The+Bistro+Bliss/data=!4m7!3m6!1s0x31da3d490d13483b:0x143adf800a7ae138!8m2!3d1.3389288!4d103.9515127!16s%2Fg%2F11lv47c49n!19sChIJO0gTDUk92jEROOF6CoDfOhQ
