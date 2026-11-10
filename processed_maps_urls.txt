@@ -6514,3 +6514,4 @@ https://www.google.com/maps/place/Abe+Marketing/data=!4m7!3m6!1s0x31da3d1b72a0bc
 https://www.google.com/maps/place/The+Art+People+Tampines/data=!4m7!3m6!1s0x31da3d1b72a0bc1d:0x2ce0b3479895f94e!8m2!3d1.3522541!4d103.9418625!16s%2Fg%2F1pt_d0rsr!19sChIJHbygchs92jERTvmVmEez4Cw
 https://www.google.com/maps/place/DigitalOne+Pte+Ltd/data=!4m7!3m6!1s0x31da3d3914351c1f:0x69417f65c9ea384e!8m2!3d1.3387018!4d103.9416772!16s%2Fg%2F1ptvtfxh0!19sChIJHxw1FDk92jERTjjqyWV_QWk
 https://www.google.com/maps/place/Kiaxdizpno/data=!4m7!3m6!1s0x31da3d1e8427a5fb:0x67f9bc721bba00f7!8m2!3d1.348913!4d103.957537!16s%2Fg%2F11y1kvk0bh!19sChIJ-6UnhB492jER9wC6G3K8-Wc
+https://www.google.com/maps/place/Interface+Media+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d2e6253384b:0x61dc9b734e3509e!8m2!3d1.331362!4d103.951928!16s%2Fg%2F11c1wspcm_!19sChIJSzhTYi492jERnlDjNLfJHQY
