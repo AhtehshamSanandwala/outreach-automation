@@ -7391,3 +7391,5 @@ https://www.google.com/maps/place/Epica+Consulting/data=!4m7!3m6!1s0x31da11e4abc
 https://www.google.com/maps/place/Career+Services+Center+Singapore+-+e2i+West/data=!4m7!3m6!1s0x31da100e3d28a67f:0x40a04e337a2467f6!8m2!3d1.335594!4d103.7445517!16s%2Fg%2F11byhl3z9v!19sChIJf6YoPQ4Q2jER9mckejNOoEA
 https://www.google.com/maps/place/CCLOUD+MANAGEMENT+SERVICES/data=!4m7!3m6!1s0x31da1bcb79e56d6d:0xf271c8f81ab5d98c!8m2!3d1.3177055!4d103.7336127!16s%2Fg%2F11gl48qvb8!19sChIJbW3lecsb2jERjNm1GvjIcfI
 https://www.google.com/maps/place/JEM+Office+Tower/data=!4m7!3m6!1s0x31da100ee0b2f14f:0xaf6749ab7fa401a!8m2!3d1.3331316!4d103.7435163!16s%2Fg%2F11d_v86w4s!19sChIJT_Gy4A4Q2jERGkD6t5p09go
+https://www.google.com/maps/place/GECO+Asia+Pte.+Ltd./data=!4m7!3m6!1s0x31da107545d59779:0x4773c1ad3d295634!8m2!3d1.3297628!4d103.7448127!16s%2Fg%2F1tdk_1yk!19sChIJeZfVRXUQ2jERNFYpPa3Bc0c
+https://www.google.com/maps/place/Singapore+Institute+of+Purchasing+and+Materials+Management/data=!4m7!3m6!1s0x31da1bd6cbcb1e41:0x41351d910899fd95!8m2!3d1.3289351!4d103.741323!16s%2Fg%2F1v7pv_65!19sChIJQR7Ly9Yb2jERlf2ZCJEdNUE
