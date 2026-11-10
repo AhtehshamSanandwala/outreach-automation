@@ -6692,3 +6692,4 @@ https://www.google.com/maps/place/International+Biz+Net/data=!4m7!3m6!1s0x31da23
 https://www.google.com/maps/place/Duo+Link+LLP/data=!4m7!3m6!1s0x31da3d028ee7a3b9:0xdce41fdf831b5b6d!8m2!3d1.3556461!4d103.9599717!16s%2Fg%2F11bxg31qg1!19sChIJuaPnjgI92jERbVsbg98f5Nw
 https://www.google.com/maps/place/Astreem+Consulting/data=!4m7!3m6!1s0x31da19b1998cebb9:0x15de406a0a63d86d!8m2!3d1.3164135!4d103.9012556!16s%2Fg%2F1tjxc55h!19sChIJueuMmbEZ2jERbdhjCmpA3hU
 https://www.google.com/maps/place/Channel+Consulting+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd7672bb8d1:0xe2f6386f8807257f!8m2!3d1.3348353!4d103.9652112!16s%2Fg%2F1pv608fsm!19sChIJ0bgrZ9c82jERfyUHiG849uI
+https://www.google.com/maps/place/Merger+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d1b5d6640d5:0xa7ab56160feeccaa!8m2!3d1.3528732!4d103.9543895!16s%2Fg%2F11f1z3lm8l!19sChIJ1UBmXRs92jERqszuDxZWq6c
