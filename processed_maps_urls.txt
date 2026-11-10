@@ -7195,3 +7195,4 @@ https://www.google.com/maps/place/Encora+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Aspire+Systems+Consulting+PTE+Ltd./data=!4m7!3m6!1s0x31da3df15a22fcc1:0xa8594c5f3deb2df6!8m2!3d1.3349782!4d103.9656094!16s%2Fg%2F11r2g0xlfj!19sChIJwfwiWvE92jER9i3rPV9MWag
 https://www.google.com/maps/place/Sembcorp+Specialised+Construction+Pte.+Ltd./data=!4m7!3m6!1s0x31da1bd6f868cb53:0x9c37c6d09034fc00!8m2!3d1.3352374!4d103.9656927!16s%2Fg%2F1tfb42f4!19sChIJU8to-NYb2jERAPw0kNDGN5w
 https://www.google.com/maps/place/A%26B+Organisation+Pte+Ltd/data=!4m7!3m6!1s0x31da3d5e6e7c0e27:0xf5479f3614634869!8m2!3d1.3347003!4d103.9652515!16s%2Fg%2F11pts8ssnd!19sChIJJw58bl492jERaUhjFDafR_U
+https://www.google.com/maps/place/Critical+Facility+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da3c3709bcc891:0x91e33a9e029d4c30!8m2!3d1.3380502!4d103.9679714!16s%2Fg%2F1ptx_vddr!19sChIJkci8CTc82jERMEydAp4645E
