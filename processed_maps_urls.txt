@@ -7265,3 +7265,6 @@ https://www.google.com/maps/place/Orion+Code/data=!4m7!3m6!1s0x31da11b3d3266095:
 https://www.google.com/maps/place/Labyrinth+Media+Communications/data=!4m7!3m6!1s0x31da19e031412705:0xdee024e9f5a29644!8m2!3d1.3309225!4d103.7441626!16s%2Fg%2F11xvxvmdy4!19sChIJBSdBMeAZ2jERRJai9ekk4N4
 https://www.google.com/maps/place/ENM+Prestige/data=!4m7!3m6!1s0x31da116415312eb7:0xc2dddf8682e116fd!8m2!3d1.3350044!4d103.7466569!16s%2Fg%2F11nth_sy1f!19sChIJty4xFWQR2jER_Rbhgobf3cI
 https://www.google.com/maps/place/Simpliify+Pte+Ltd/data=!4m7!3m6!1s0x31da116d7cf68c8b:0x2e1fce1558963f22!8m2!3d1.3299464!4d103.7446555!16s%2Fg%2F11fwgxjnnd!19sChIJi4z2fG0R2jERIj-WWBXOHy4
+https://www.google.com/maps/place/Avery+BPO+Pte+Ltd/data=!4m7!3m6!1s0x31da11ee6ba3075f:0x67ce96160f1feff5!8m2!3d1.3300473!4d103.7446157!16s%2Fg%2F11jp11mxyl!19sChIJXweja-4R2jER9e8fDxaWzmc
+https://www.google.com/maps/place/Space+Creatives/data=!4m7!3m6!1s0x85bf0ba41336ef2f:0x284590215613624e!8m2!3d1.330115!4d103.7446534!16s%2Fg%2F11pd1hflnk!19sChIJL-82E6QLv4URTmITViGQRSg
+https://www.google.com/maps/place/Ads+Catalyst+%7C+Best+Digital+Marketing+Agency+in+Singapore/data=!4m7!3m6!1s0x807d95370fdde0e5:0xda4f0deaac6601ec!8m2!3d1.314!4d103.84425!16s%2Fg%2F11mdh_x650!19sChIJ5eDdDzeVfYAR7AFmrOoNT9o
