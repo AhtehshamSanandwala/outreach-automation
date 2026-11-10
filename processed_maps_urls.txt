@@ -7141,3 +7141,5 @@ https://www.google.com/maps/place/CCP/data=!4m7!3m6!1s0x31da3d00665abeab:0x651b9
 https://www.google.com/maps/place/Changi+Transit+Hotel+Terminal+1/data=!4m7!3m6!1s0x31da3c89b6d6db2f:0x578bf6082550a488!8m2!3d1.3618915!4d103.9910067!16s%2Fg%2F11zcrzlpd_!19sChIJL9vWtok82jERiKRQJQj2i1c
 https://www.google.com/maps/place/NCODE+Consultant+Pte+Ltd/data=!4m7!3m6!1s0x31da22accc1882e3:0x897839dce50e264c!8m2!3d1.3613927!4d103.8832035!16s%2Fg%2F1tgg7h4w!19sChIJ44IYzKwi2jERTCYO5dw5eIk
 https://www.google.com/maps/place/Inspira+Tech+Asia+Pte.+Ltd./data=!4m7!3m6!1s0x31da3df3e050661b:0xfa3b41e223a3538e!8m2!3d1.334962!4d103.9650162!16s%2Fg%2F11kq27wzm9!19sChIJG2ZQ4PM92jERjlOjI-JBO_o
+https://www.google.com/maps/place/Workplace/data=!4m7!3m6!1s0x31da3da7f89dbf3f:0xcb8d95e0a410b622!8m2!3d1.3347182!4d103.9650811!16s%2Fg%2F11j9dkg9jl!19sChIJP7-d-Kc92jERIrYQpOCVjcs
+https://www.google.com/maps/place/NEC+Asia+Pacific+Pte+Ltd/data=!4m7!3m6!1s0x31da1a473481baa5:0x86009d41f9c4c8c2!8m2!3d1.316853!4d103.8632057!16s%2Fg%2F1tg4yyjl!19sChIJpbqBNEca2jERwsjE-UGdAIY
