@@ -7389,3 +7389,5 @@ https://www.google.com/maps/place/Lite+Mobile+-+Jurong+East/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Technokain+Solutions+Private+Ltd/data=!4m7!3m6!1s0x31da11f2d82514e1:0xca31d9fb31b8caf1!8m2!3d1.3300828!4d103.7446534!16s%2Fg%2F11c547vwds!19sChIJ4RQl2PIR2jER8cq4MfvZMco
 https://www.google.com/maps/place/Epica+Consulting/data=!4m7!3m6!1s0x31da11e4abc9e121:0x8c61c504aa07184!8m2!3d1.3298759!4d103.7446366!16s%2Fg%2F11j7n65_m7!19sChIJIeHJq-QR2jERhHGgSlAcxgg
 https://www.google.com/maps/place/Career+Services+Center+Singapore+-+e2i+West/data=!4m7!3m6!1s0x31da100e3d28a67f:0x40a04e337a2467f6!8m2!3d1.335594!4d103.7445517!16s%2Fg%2F11byhl3z9v!19sChIJf6YoPQ4Q2jER9mckejNOoEA
+https://www.google.com/maps/place/CCLOUD+MANAGEMENT+SERVICES/data=!4m7!3m6!1s0x31da1bcb79e56d6d:0xf271c8f81ab5d98c!8m2!3d1.3177055!4d103.7336127!16s%2Fg%2F11gl48qvb8!19sChIJbW3lecsb2jERjNm1GvjIcfI
+https://www.google.com/maps/place/JEM+Office+Tower/data=!4m7!3m6!1s0x31da100ee0b2f14f:0xaf6749ab7fa401a!8m2!3d1.3331316!4d103.7435163!16s%2Fg%2F11d_v86w4s!19sChIJT_Gy4A4Q2jERGkD6t5p09go
