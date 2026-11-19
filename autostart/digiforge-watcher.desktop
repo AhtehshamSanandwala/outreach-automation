@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=DigiForge Outreach Watcher
+Comment=Mount-aware background watcher for DigiForge outreach automation
+Exec=/run/media/ahtesham/HDD/Project/DigiForgeScripts/outreach-automation/autostart_watcher.sh
+Icon=utilities-terminal
+Terminal=false
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel
+

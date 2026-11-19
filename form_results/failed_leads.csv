@@ -489,3 +489,40 @@ https://radjawaligroup.com/,Failed,No contact form detected,Loaded,1.8,Opened,No
 https://taiwah.com.sg/about-us,Failed,No contact form detected,Loaded,2.7,Opened,Not found,,,,,,,
 https://www.topseller.com.sg/about-us/,Failed,Submitted but no confirmation detected,Loaded,2.4,Opened,Found,5,"first_name,email,phone,company,message","last_name,full_name,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=120),No confirmation
 https://pacbev.sg/about-us/,Failed,Submitted but no confirmation detected,Loaded,4.4,Opened,Found,4,"full_name,email,phone,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Send Enquiry' (score=105),No confirmation
+https://emlab.sg/about/,Failed,No contact form detected,Loaded,4.3,Opened,Not found,,,,,,,
+https://www.360.com.sg,Failed,No contact form detected,Loaded,3.9,Opened,Not found,,,,,,,
+https://adssentialmarketing.com/,Failed,No contact form detected,Loaded,0.6,Opened,Not found,,,,,,,
+https://hashmeta.com/,Failed,No contact form detected,Loaded,1.3,Opened,Not found,,,,,,,
+https://presencemarketing.asia/about-us/,Failed,Submitted but no confirmation detected,Loaded,8.3,Opened,Found,4,"full_name,email,phone,message","first_name,last_name,company,website,job_title,subject,budget,address",,Auto-solved at pre-submit: reCAPTCHA v2,Clicked: 'Submit' (score=120),No confirmation
+https://ixen-interactive.com/solutions/consultation-audit,Failed,No contact form detected,Loaded,1.8,Opened,Not found,,,,,,,
+https://abrandaday.com,Failed,No contact form detected,Loaded,3.8,Opened,Not found,,,,,,,
+https://www.orfeostory.com/contact-us/,Failed,Submitted but no confirmation detected,Loaded,2.2,Opened,Found,5,"full_name,phone,email,subject,message","first_name,last_name,company,website,job_title,budget,address",,Not present,Clicked: 'Send Message' (score=120),No confirmation
+https://refine-interactive.com/about/,Failed,Submitted but no confirmation detected,Loaded,5.3,Opened,Found,4,"full_name,email,phone,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'SEND' (score=120),No confirmation
+https://i-concept.com.sg/,Failed,No contact form detected,Loaded,0.6,Opened,Not found,,,,,,,
+https://jobplus.com.sg/hr-consultancy/,Failed,Submitted but no confirmation detected,Loaded,2.0,Opened,Found,5,"full_name,email,select:Service of interest,company,message","first_name,last_name,phone,website,job_title,subject,budget,address",,Not present,Clicked: 'Send Message' (score=120),No confirmation
+https://www.eps.com.sg/about-us/,Failed,No contact form detected,Loaded,3.5,Opened,Not found,,,,,,,
+https://cultivar.asia/about-us/,Failed,No contact form detected,Loaded,4.8,Opened,Not found,,,,,,,
+https://singasia.sg/index.php/about/,Failed,No contact form detected,Loaded,7.5,Opened,Not found,,,,,,,
+https://www.searchpersonnel.com.sg/contact,Failed,Submitted but no confirmation detected,Loaded,1.5,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Not present,Clicked: 'Send' (score=105),No confirmation
+https://www.hays.com.sg/contact/all-offices,Failed,No contact form detected,Loaded,3.5,Opened,Not found,,,,,,,
+https://www.corestaff.com.sg/about-us/,Failed,Submitted but no confirmation detected,Loaded,4.5,Opened,Found,4,"company,phone,email,message","first_name,last_name,full_name,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=105),No confirmation
+https://www.alliedsearch.com.sg,Skipped,Page load timeout,Timeout,,,,,,,,,,
+https://www.hunter-employment.com/about-us,Failed,No contact form detected,Loaded,3.8,Opened,Not found,,,,,,,
+https://www.findtalents.co/en/hire-talent,Failed,No contact form detected,Loaded,2.9,Opened,Not found,,,,,,,
+https://talentvis.com/site/hireplace,Skipped,reCAPTCHA v2 rate-limited at pre-submit,Loaded,5.7,Opened,Found,4,"last_name,email,phone,message","first_name,full_name,company,website,job_title,subject,budget,address",,Rate-limited at pre-submit: reCAPTCHA v2,,
+https://www.rmglogistics.com.sg/about-us/,Failed,Submitted but no confirmation detected,Loaded,4.9,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Not present,Clicked: 'Submit' (score=120),No confirmation
+https://www.tsllogistics.sg/about,Failed,Submitted but no confirmation detected,Loaded,1.8,Opened,Found,4,"full_name,phone,email,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'SUBMIT' (score=105),No confirmation
+https://www.dankelogistics.com/aboutus,Failed,No contact form detected,Loaded,1.3,Opened,Not found,,,,,,,
+http://www.kanglogistics.com.sg,Failed,No contact form detected,Loaded,1.2,Opened,Not found,,,,,,,
+https://lchlogistics.com/lets-connect/,Failed,No contact form detected,Loaded,4.3,Opened,Not found,,,,,,,
+https://shground.com/about-us,Failed,Submitted but no confirmation detected,Loaded,1.8,Opened,Found,5,"full_name,email,phone,subject,message","first_name,last_name,company,website,job_title,budget,address",,Auto-solved at post-submit: reCAPTCHA v2,Clicked: 'Submit' (score=120),No confirmation
+https://stlogs.com/,Failed,No contact form detected,Loaded,0.5,Opened,Not found,,,,,,,
+https://geodis.com/in-en/about-us,Failed,No contact form detected,Loaded,1.8,Opened,Not found,,,,,,,
+https://www.sgpaclogistics.com,Failed,No contact form detected,Loaded,1.6,Opened,Not found,,,,,,,
+https://www.famous.com.sg/our-offices,Failed,No contact form detected,Loaded,1.9,Opened,Not found,,,,,,,
+https://www.yslogistics.com.sg/index.php/en/contact-us-2,Failed,Submitted but no confirmation detected,Loaded,7.2,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Not present,Clicked: 'Submit' (score=105),No confirmation
+https://vanguardlogistics.com/company/about-us/,Failed,Submitted but no confirmation detected,Loaded,8.7,Opened,Found,6,"full_name,email,phone,select:REGION,select:ENQUIRY TYPE,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit Enquiry' (score=95),No confirmation
+https://jlog.com.sg/about-us/,Failed,No contact form detected,Loaded,4.1,Opened,Not found,,,,,,,
+https://hubdistributors.com/,Failed,No contact form detected,Loaded,4.1,Opened,Not found,,,,,,,
+https://yusen-logistics.com,Skipped,"unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
