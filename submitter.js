@@ -411,29 +411,45 @@ const SUCCESS_TEXTS = [
   'message sent','message received','we will contact','we will get back',
   'we have received','received your','get back to you','be in touch',
   'confirmation','your submission','inquiry received','enquiry received',
-  'request received','we received your',
+  'request received','we received your','your message has been sent',
+  'message has been sent','mail sent','query submitted','inquiry submitted',
+  'enquiry submitted','request submitted','thank you for contacting',
+  'thanks for contacting','thanks for reaching out','thank you for reaching out',
+  'your response has been recorded','form has been submitted','sent successfully',
+  'we will be in touch','we\'ll be in touch','we\'ll get back to you',
   'gracias','enviado','obrigado','merci','danke',
 ];
 // These are STRONG signals — any match = success
 // CSS selectors specific to well-known contact-form plugins/frameworks
 // (Contact Form 7, Elementor, Gravity Forms, WPForms, Ninja Forms, Formidable,
-// generic Bootstrap alert-success, etc.). If any of these is visible with
-// real text content, we consider the submission a confirmed success.
+// generic Bootstrap alert-success, Webflow, HubSpot, etc.).
 const SUCCESS_SELS = [
   '.wpcf7-mail-sent-ok',
+  '.wpcf7.sent',
+  'form.sent',
   '.elementor-message-success',
+  '.elementor-message.elementor-message-success',
   '.gform_confirmation_message',
+  '#gform_confirmation_message',
   '.wpforms-confirmation',
+  '.wpforms-confirmation-container',
   '.nf-response-msg',
   '.frm_message',
   '.alert-success',
   '.success-message',
   '.form-success',
   '.submission-success',
+  '.w-form-done',
+  '.hs-success-message',
+  '.toast-success',
+  '.swal2-success',
+  '.iziToast-success',
+  '.toastr-success',
+  '[data-status="sent"]',
+  '[data-status="success"]',
   '[class*="confirmation"]',
   '[class*="thank-you"]',
   '[class*="thankyou"]',
-  '#gform_confirmation_message',
 ];
 // Weak signals — only count if text also matches. These class/id patterns are
 // too generic to trust on their own (e.g. `#message` could be the message
@@ -512,6 +528,15 @@ async function detectSuccess(driver) {
 
   // Poll up to 10s waiting for confirmation (20 iterations * 500ms).
   for (let i = 0; i < 20; i++) {
+    // Check for native browser alert dialog (common in PHP forms: alert("Message Sent"))
+    try {
+      const alert = await driver.switchTo().alert();
+      const alertText = (await alert.getText() || '').toLowerCase();
+      const isSuccessAlert = ['sent', 'thank', 'success', 'received', 'submit', 'record', 'contact'].some(w => alertText.includes(w));
+      await alert.accept();
+      if (isSuccessAlert) return true;
+    } catch (_) {}
+
     await sleep(500);
     if (await check()) return true;
   }

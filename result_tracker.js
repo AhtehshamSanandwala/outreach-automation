@@ -85,6 +85,237 @@ const fs   = require('fs');
 const path = require('path');
 const { CSV_FIELDS, CSV_PATH, PROGRESS_FILE, OUTPUT_DIR } = require('./config');
 
+// Dedicated failure tracking files
+const FAILED_CSV   = path.join(OUTPUT_DIR, 'failed_leads.csv');
+const FAILED_URLS  = path.join(OUTPUT_DIR, 'failed_urls.txt');
+const CAPTCHA_CSV  = path.join(OUTPUT_DIR, 'captcha_blocked.csv');
+const CAPTCHA_URLS = path.join(OUTPUT_DIR, 'captcha_retry_urls.txt');
+const MANUAL_CSV   = path.join(OUTPUT_DIR, 'manual_followup_leads.csv');
+const MANUAL_URLS  = path.join(OUTPUT_DIR, 'manual_followup_urls.txt');
+
+// Dedicated Cold Email Outbound Segments for Leads that Cannot be Reached via Form
+const COLD_EMAIL_ALL    = path.join(OUTPUT_DIR, 'cold_email_outbound_queue.csv');
+const COLD_EMAIL_AGENCY = path.join(OUTPUT_DIR, 'cold_email_agency_leads.csv');
+const COLD_EMAIL_B2B    = path.join(OUTPUT_DIR, 'cold_email_highvalue_b2b_leads.csv');
+const COLD_EMAIL_OPS    = path.join(OUTPUT_DIR, 'cold_email_operations_leads.csv');
+
+const COLD_EMAIL_HEADERS = [
+  'Company Name',
+  'Primary Email',
+  'All Emails',
+  'Phone',
+  'Website',
+  'Target URL',
+  'ICP Cluster',
+  'Suggested Subject',
+  'Form Failure Reason',
+  'Timestamp'
+];
+
+let _leadsCache = null;
+const _seenColdDomains = new Set();
+
+function _extractDomain(u) {
+  if (!u) return '';
+  try {
+    let host = new URL(u).hostname.toLowerCase();
+    if (host.startsWith('www.')) host = host.slice(4);
+    return host;
+  } catch (_) {
+    return '';
+  }
+}
+
+function _cleanCompanyName(raw) {
+  if (!raw) return '';
+  return raw
+    .split(/[-–|]/)[0]
+    .replace(/\b(pte\.?|ltd\.?|private|limited|llc|pvt\.?)\b/gi, '')
+    .trim();
+}
+
+function _getLeadsCache() {
+  if (_leadsCache) return _leadsCache;
+  _leadsCache = new Map();
+
+  const files = [
+    path.resolve(__dirname, 'singapore_leads_cleaned.csv'),
+    path.resolve(__dirname, 'digital_marketing_data.csv')
+  ];
+
+  for (const fpath of files) {
+    if (!fs.existsSync(fpath)) continue;
+    try {
+      const lines = fs.readFileSync(fpath, 'utf8').split('\n');
+      for (let i = 1; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (!line) continue;
+        const cols = [];
+        let cur = '', inQuotes = false;
+        for (let j = 0; j < line.length; j++) {
+          const c = line[j];
+          if (c === '"') inQuotes = !inQuotes;
+          else if (c === ',' && !inQuotes) { cols.push(cur.trim()); cur = ''; }
+          else cur += c;
+        }
+        cols.push(cur.trim());
+
+        const rawName = cols[3] || '';
+        const name = _cleanCompanyName(rawName) || rawName;
+        const phone = cols[7] || '';
+        const mapsSite = cols[8] || '';
+        const actualSite = cols[9] || '';
+        const cfUrl = cols[10] || '';
+        const allEmails = cols[12] || '';
+        const targetUrl = cols[17] || cfUrl || actualSite || mapsSite;
+        const cluster = cols[19] || (rawName.toLowerCase().includes('agency') ? 'Agency_MSP' : 'General');
+
+        const leadData = {
+          companyName: name,
+          phone,
+          website: actualSite || mapsSite || targetUrl,
+          targetUrl,
+          allEmails,
+          cluster
+        };
+
+        for (const u of [targetUrl, cfUrl, actualSite, mapsSite]) {
+          const d = _extractDomain(u);
+          if (d && !_leadsCache.has(d)) _leadsCache.set(d, leadData);
+        }
+      }
+    } catch (_) {}
+  }
+  return _leadsCache;
+}
+
+// Automatically routes failed form submissions to dedicated cold email CSVs
+function _routeToColdEmail(r) {
+  const url = (r.url || '').trim();
+  const domain = _extractDomain(url);
+  if (!domain || _seenColdDomains.has(domain)) return;
+  _seenColdDomains.add(domain);
+
+  const cache = _getLeadsCache();
+  const lead = cache.get(domain) || {
+    companyName: domain,
+    phone: '',
+    website: url,
+    targetUrl: url,
+    allEmails: '',
+    cluster: 'General'
+  };
+
+  const primaryEmail = lead.allEmails ? lead.allEmails.split(';')[0].trim() : '';
+  const reason = (r.details || r.captcha_status || 'Form submission failed').replace(/\n/g, ' ');
+
+  let suggestedSubject = 'Agency technical delivery overflow';
+  let targetFile = COLD_EMAIL_AGENCY;
+
+  if (lead.cluster === 'HighValue_B2B') {
+    suggestedSubject = 'Quick question on inbound lead response';
+    targetFile = COLD_EMAIL_B2B;
+  } else if (lead.cluster === 'Operations_Wholesale') {
+    suggestedSubject = 'Eliminating manual order entry from WhatsApp & email';
+    targetFile = COLD_EMAIL_OPS;
+  }
+
+  const rowData = [
+    lead.companyName,
+    primaryEmail,
+    lead.allEmails,
+    lead.phone,
+    lead.website,
+    lead.targetUrl,
+    lead.cluster,
+    suggestedSubject,
+    reason,
+    new Date().toLocaleString()
+  ];
+
+  const row = rowData.map(v => _escapeCsv(v)).join(',');
+
+  // 1. Append to master cold email queue
+  if (!fs.existsSync(COLD_EMAIL_ALL)) {
+    fs.writeFileSync(COLD_EMAIL_ALL, COLD_EMAIL_HEADERS.join(',') + '\n', 'utf8');
+  }
+  _appendToFile(COLD_EMAIL_ALL, row + '\n');
+
+  // 2. Append to segmented cluster file
+  if (!fs.existsSync(targetFile)) {
+    fs.writeFileSync(targetFile, COLD_EMAIL_HEADERS.join(',') + '\n', 'utf8');
+  }
+  _appendToFile(targetFile, row + '\n');
+}
+
+function _appendToFile(filePath, content) {
+  try {
+    fs.appendFileSync(filePath, content, 'utf8');
+  } catch (_) {}
+}
+
+// Categorizes and persists non-success records to dedicated triage files
+function _recordFailure(r) {
+  if (!r || r.status === 'Success') return;
+
+  const url = (r.url || '').trim();
+  if (!url) return;
+
+  const row = CSV_FIELDS.map(f => _escapeCsv(r[f] || '')).join(',');
+
+  // 1. All non-success records go into failed_leads.csv and failed_urls.txt
+  if (!fs.existsSync(FAILED_CSV)) {
+    fs.writeFileSync(FAILED_CSV, CSV_FIELDS.join(',') + '\n', 'utf8');
+  }
+  _appendToFile(FAILED_CSV, row + '\n');
+  _appendToFile(FAILED_URLS, url + '\n');
+
+  // Route to segmented cold email outbound queue
+  _routeToColdEmail(r);
+
+  const cStatus = (r.captcha_status || '').toLowerCase();
+  const details = (r.details || '').toLowerCase();
+
+  // 2. Did it fail specifically due to CAPTCHA / bot protection?
+  const isCaptchaBlocked = (
+    cStatus.includes('not solved') ||
+    cStatus.includes('blocked') ||
+    cStatus.includes('failed') ||
+    cStatus.includes('timeout') ||
+    details.includes('captcha') ||
+    details.includes('turnstile') ||
+    details.includes('recaptcha') ||
+    details.includes('hcaptcha') ||
+    details.includes('ocr')
+  ) && !cStatus.includes('auto-solved');
+
+  if (isCaptchaBlocked) {
+    if (!fs.existsSync(CAPTCHA_CSV)) {
+      fs.writeFileSync(CAPTCHA_CSV, CSV_FIELDS.join(',') + '\n', 'utf8');
+    }
+    _appendToFile(CAPTCHA_CSV, row + '\n');
+    _appendToFile(CAPTCHA_URLS, url + '\n');
+    return;
+  }
+
+  // 3. Did it fail because no form or fields were detected (manual outreach required)?
+  const isManualNeeded = (
+    details.includes('no contact form') ||
+    details.includes('no form fields') ||
+    details.includes('0 fields') ||
+    r.fields_filled === '0' ||
+    !r.fields_filled
+  );
+
+  if (isManualNeeded) {
+    if (!fs.existsSync(MANUAL_CSV)) {
+      fs.writeFileSync(MANUAL_CSV, CSV_FIELDS.join(',') + '\n', 'utf8');
+    }
+    _appendToFile(MANUAL_CSV, row + '\n');
+    _appendToFile(MANUAL_URLS, url + '\n');
+  }
+}
+
 // URL of the deployed Google Apps Script Web App (code.gs) that receives live
 // row updates and writes them into the "CFResults" sheet. Can be overridden
 // via the GOOGLE_SHEETS_URL env var without touching code; falls back to the
@@ -156,6 +387,9 @@ function saveResults(results) {
   const row = CSV_FIELDS.map(f => _escapeCsv(r[f] || '')).join(',');
   fs.appendFileSync(CSV_PATH, row + '\n', 'utf8');
   sendToSheets(r);
+
+  // Automatically categorize and save non-success records
+  _recordFailure(r);
 }
 
 // Writes the "resume point" — the index (into the URL list) that should be
@@ -211,6 +445,31 @@ function clearProgress() {
   try { if (fs.existsSync(PROGRESS_FILE)) fs.unlinkSync(PROGRESS_FILE); } catch (_) {}
 }
 
+// Scans CSV_PATH and builds exact URL and Root-Domain sets of all previously
+// processed websites to prevent double-submitting across stops/restarts.
+function getProcessedHistory() {
+  const urls = new Set();
+  const domains = new Set();
+  if (!fs.existsSync(CSV_PATH)) return { urls, domains };
+
+  try {
+    const lines = fs.readFileSync(CSV_PATH, 'utf8').split('\n').filter(Boolean).slice(1);
+    for (const line of lines) {
+      const rawUrl = line.split(',')[0].replace(/^"|"$/g, '').trim();
+      if (!rawUrl) continue;
+      urls.add(rawUrl);
+      urls.add(rawUrl.toLowerCase());
+      urls.add(rawUrl.replace(/\/+$/, '').toLowerCase());
+      try {
+        const u = new URL(rawUrl);
+        const host = u.hostname.toLowerCase().replace(/^www\./, '');
+        if (host && !host.includes('google.com')) domains.add(host);
+      } catch (_) {}
+    }
+  } catch (_) {}
+  return { urls, domains };
+}
+
 // Best-effort cleanup of common cookie-consent banners / accessibility
 // widgets that can visually cover or intercept clicks on the actual contact
 // form (e.g. a "Accept cookies" bar sitting on top of the submit button).
@@ -231,4 +490,5 @@ function removeOverlays(driver) {
 module.exports = {
   takeDebugScreenshot, saveResults, saveProgress,
   loadProgress, loadExistingResults, clearProgress, removeOverlays, sendToSheets,
+  getProcessedHistory,
 };

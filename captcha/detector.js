@@ -243,8 +243,8 @@ async function detectCaptchaState(driver, formContext) {
         // Check label for math question
         if (/\d+\s*[+\-*\/x×÷]\s*\d+/.test(q) ||
             /(plus|minus|times|divided|multiplied|add|subtract)/.test(q) ||
-            /what is|calculate|solve|correct answer|enter.*answer|spam.*protect|anti.?spam/.test(q) ||
-            /captcha|verify|human|robot|math|spam|answer/.test(name+' '+id)) {
+            /what is|calculate|solve|correct answer|enter.*answer|spam.*protect|anti.?spam|type.*text/.test(q) ||
+            /c[ap]{1,2}t?cha|captch|cpatcha|verify|human|robot|math|spam|answer|security.?code/.test(name+' '+id)) {
           return true;
         }
       }
@@ -262,8 +262,10 @@ async function detectCaptchaState(driver, formContext) {
   try {
     const found = await driver.executeScript(`
       var IMG_SELS = ['img[src*="captcha" i]','img[id*="captcha" i]','img[class*="captcha" i]',
+                      'img[src*="cpatcha" i]','img[id*="cpatcha" i]','img[class*="cpatcha" i]',
                       'img[src*="securimage" i]','img[src*="verify" i]','img[src*="security" i]'];
       var INP_SELS = ['input[name*="captcha" i]','input[id*="captcha" i]',
+                      'input[name*="cpatcha" i]','input[id*="cpatcha" i]',
                       'input[name*="securimage" i]','input[name*="security_code" i]',
                       'input[name*="verify" i]'];
       function isCaptchaImg(el) {

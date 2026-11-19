@@ -99,11 +99,23 @@ let _proc = null, _ready = false;
 // Lazily spawn (or return the existing) persistent Whisper server process.
 function getWhisper() {
   if (_proc && !_proc.killed) return _proc;
-  const py  = process.env.PYTHON || '/usr/bin/python3';
+  const py  = process.env.PYTHON || (process.platform === 'win32' ? 'python' : '/usr/bin/python3');
   const scr = path.join(__dirname, '..', 'whisper_server.py');
   console.log('      🔄 Starting Whisper...');
-  _proc  = spawn(py, [scr], { stdio: ['pipe','pipe','pipe'] });
+  try {
+    _proc  = spawn(py, [scr], { stdio: ['pipe','pipe','pipe'] });
+  } catch (err) {
+    console.log('      ⚠️ Whisper spawn failed:', err.message);
+    _proc = null;
+    _ready = false;
+    return null;
+  }
   _ready = false;
+  _proc.on('error', err => {
+    console.log(`      ⚠️ Whisper worker notice (${err.message}) — audio captcha solver disabled`);
+    _proc = null;
+    _ready = false;
+  });
   // stderr carries log/status lines; watch for the "model loaded" marker to
   // know Whisper has finished initializing and can accept transcribe requests.
   _proc.stderr.on('data', d => {
@@ -127,6 +139,7 @@ async function transcribe(audioPath) {
   return new Promise(resolve => {
     try {
       const proc = getWhisper();
+      if (!proc) return resolve('');
       // Wait for the model to finish loading (polls _ready every 300ms,
       // gives up after 90s) before writing to stdin — writing too early
       // would just sit in the pipe buffer until the model is ready anyway,

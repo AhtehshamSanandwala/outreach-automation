@@ -102,7 +102,7 @@ let _pendingResolvers = [];   // queue of {resolve, reject, timer} — one entry
                                // per in-flight classify() request, matched to
                                // the Python process's stdout lines in FIFO order
 
-const PYTHON     = process.env.PYTHON || '/usr/bin/python3';
+const PYTHON     = process.env.PYTHON || (process.platform === 'win32' ? 'python' : '/usr/bin/python3');
 const SOLVER_PY  = path.join(__dirname, '..', 'hcaptcha_cnn_solver.py');
 const MAX_ROUNDS = 12;  // max challenge rounds (includes reloads for unsolvable types)
 
@@ -113,8 +113,20 @@ function getPyProc() {
   if (_pyProc && !_pyProc.killed) return _pyProc;
 
   console.log('      🔄 Starting hCaptcha CNN solver...');
-  _pyProc  = spawn(PYTHON, [SOLVER_PY], { stdio: ['pipe', 'pipe', 'pipe'] });
+  try {
+    _pyProc  = spawn(PYTHON, [SOLVER_PY], { stdio: ['pipe', 'pipe', 'pipe'] });
+  } catch (err) {
+    console.log('      ⚠️ hCaptcha solver spawn failed:', err.message);
+    _pyProc = null;
+    _pyReady = false;
+    return null;
+  }
   _pyReady = false;
+  _pyProc.on('error', err => {
+    console.log(`      ⚠️ hCaptcha solver notice (${err.message})`);
+    _pyProc = null;
+    _pyReady = false;
+  });
 
   let _lineBuf = '';
 
@@ -577,8 +589,20 @@ const SB_PY = require('path').join(__dirname, '..', 'hcaptcha_sb_solver.py');
 function getSbProc() {
   if (_sbProc && !_sbProc.killed) return _sbProc;
   console.log('      🔄 Starting SeleniumBase hCaptcha solver...');
-  _sbProc  = require('child_process').spawn(PYTHON, [SB_PY], { stdio: ['pipe','pipe','pipe'] });
+  try {
+    _sbProc  = require('child_process').spawn(PYTHON, [SB_PY], { stdio: ['pipe','pipe','pipe'] });
+  } catch (err) {
+    console.log('      ⚠️ SeleniumBase solver spawn failed:', err.message);
+    _sbProc = null;
+    _sbReady = false;
+    return null;
+  }
   _sbReady = false;
+  _sbProc.on('error', err => {
+    console.log(`      ⚠️ SeleniumBase solver notice (${err.message})`);
+    _sbProc = null;
+    _sbReady = false;
+  });
   let _buf = '';
   // Protocol: each line of stdout is one response (a token, or empty string).
   _sbProc.stdout.on('data', chunk => {

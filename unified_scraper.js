@@ -624,10 +624,14 @@ async function scrapeUnified() {
     console.log(`📊 Remaining: ${searches.length - progress.currentIndex}`);
 
     async function launchScraperBrowser() {
-        const b = await puppeteer.launch({
+        const bravePath = '/var/lib/flatpak/app/com.brave.Browser/x86_64/stable/active/files/brave/brave';
+        const customBin = process.env.CHROME_BIN || (fs.existsSync(bravePath) ? bravePath : undefined);
+        const launchOpts = {
             headless: true,
             args: PUPPETEER_LIGHTWEIGHT_ARGS
-        });
+        };
+        if (customBin) launchOpts.executablePath = customBin;
+        const b = await puppeteer.launch(launchOpts);
         const p = await b.newPage();
         await p.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
         return { browser: b, page: p };

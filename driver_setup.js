@@ -66,20 +66,26 @@ function getRotator() {
   return _rotator;
 }
 
-// Common install locations for Chrome/Chromium across typical Linux setups
-// (apt package, snap package via /opt/google, chromium fallback). We probe
-// these instead of relying on PATH because headless/server environments
-// often don't have `google-chrome` on PATH even when it's installed.
+// Common install locations for Chrome/Brave/Chromium across Windows and Linux.
 const CHROME_CANDIDATES = [
+  // Windows Candidates (Brave, Chrome)
+  'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe',
+  'C:\\Program Files (x86)\\BraveSoftware\\Brave-Browser\\Application\\brave.exe',
+  path.join(process.env.LOCALAPPDATA || '', 'BraveSoftware', 'Brave-Browser', 'Application', 'brave.exe'),
+  'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+  'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
+  path.join(process.env.LOCALAPPDATA || '', 'Google', 'Chrome', 'Application', 'chrome.exe'),
+  // Linux Candidates (Brave preferred, then Chrome, then Chromium)
+  '/var/lib/flatpak/app/com.brave.Browser/x86_64/stable/active/files/brave/brave',
+  '/usr/bin/brave-browser',
+  '/usr/bin/brave',
+  '/opt/brave.com/brave/brave-browser',
   '/opt/google/chrome/chrome',
   '/opt/google/chrome/google-chrome',
   '/usr/bin/google-chrome',
   '/usr/bin/google-chrome-stable',
   '/usr/bin/chromium-browser',
   '/usr/bin/chromium',
-  '/usr/bin/brave-browser',
-  '/usr/bin/brave',
-  '/opt/brave.com/brave/brave-browser',
 ];
 
 // Directory where `webdriver-manager` (wdm) caches downloaded ChromeDriver
@@ -90,23 +96,16 @@ const WDM_BASE = path.join(os.homedir(), '.wdm', 'drivers', 'chromedriver', 'lin
 // new one is created (e.g. on driver restart).
 let _profileDir = null;
 
-// Walk the candidate paths and return the first one that is an actual,
-// executable file. Snap-installed Chrome exposes `google-chrome` as a
-// symlink into a snap mount; `fs.realpathSync` resolves that so we get the
-// true executable path (needed later for `execFileSync` version checks).
+// Walk candidate paths and return the first valid executable
 function findBrowserBinary() {
+  if (process.env.CHROME_BIN && fs.existsSync(process.env.CHROME_BIN)) {
+    return process.env.CHROME_BIN;
+  }
   for (const p of CHROME_CANDIDATES) {
+    if (!p) continue;
     try {
-      const real = fs.realpathSync(p);
-      if (fs.existsSync(real) && fs.accessSync(real, fs.constants.X_OK) === undefined) return real;
-    } catch (_) {
-      // realpathSync/existsSync failed (e.g. broken symlink) — fall back to
-      // checking the raw path itself before giving up on this candidate.
-      try {
-        fs.accessSync(p, fs.constants.X_OK);
-        return p;
-      } catch (_2) { /* skip */ }
-    }
+      if (fs.existsSync(p)) return p;
+    } catch (_) {}
   }
   return null;
 }
@@ -167,6 +166,23 @@ function findChromedriverBinary(browserBinary) {
       fs.accessSync(p, fs.constants.X_OK);
       if (isCompatibleDriver(p, browserMajor)) return p;
       console.log(`   ⚠️  Ignoring CHROMEDRIVER_PATH with incompatible version: ${p}`);
+    } catch (_) {}
+  }
+
+  // Common Linux system ChromeDriver locations
+  const SYSTEM_DRIVERS = [
+    path.join(os.homedir(), '.local/lib/python3.13/site-packages/seleniumbase/drivers/chromedriver'),
+    path.join(os.homedir(), '.local/bin/chromedriver'),
+    '/usr/bin/chromedriver',
+    '/usr/lib64/chromium/chromedriver',
+    '/usr/lib/chromium-browser/chromedriver',
+    '/usr/local/bin/chromedriver',
+    '/snap/bin/chromium.chromedriver'
+  ];
+  for (const p of SYSTEM_DRIVERS) {
+    try {
+      fs.accessSync(p, fs.constants.X_OK);
+      if (isCompatibleDriver(p, browserMajor)) return p;
     } catch (_) {}
   }
 
@@ -236,6 +252,19 @@ async function makeDriver() {
     '--window-size=960,1080',
     '--window-position=0,0',
     `--user-data-dir=${profileDir}`,      // isolate this session's cookies/cache in a throwaway profile
+
+    // ── Performance, RAM, CPU & GPU Optimization Flags ──
+    '--disable-gpu',                      // eliminates GPU VRAM usage & 3D engine load
+    '--disable-software-rasterizer',      // prevents fallback CPU rendering
+    '--renderer-process-limit=2',         // caps renderer sub-processes to prevent RAM spikes
+    '--js-flags=--max-old-space-size=256',// limits JavaScript V8 engine memory to 256MB
+    '--disable-background-networking',    // stops background telemetry / update checks
+    '--disable-sync',                     // disables browser sync
+    '--disable-default-apps',             // disables default app background services
+    '--mute-audio',                       // mutes autoplay videos to eliminate audio DSP CPU load
+    '--no-first-run',
+    '--no-default-browser-check',
+    '--ozone-platform-hint=auto'          // supports Wayland/X11 automatically on modern Linux
   );
 
   // Load hektCaptcha extension for auto hCaptcha solving

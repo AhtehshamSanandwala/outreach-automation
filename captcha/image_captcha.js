@@ -325,7 +325,7 @@ async function ocrVariants(variantBuffers) {
 // succeeds where Tesseract.js fails. Runs synchronously via execFileSync
 // with a 30s timeout so it can't hang the whole solve attempt.
 function ocrWithPython(imagePath) {
-  const PYTHON = process.env.PYTHON || '/home/ubuntu/Captch-Solver-Contact-Form/.venv/bin/python';
+  const PYTHON = process.env.PYTHON || (process.platform === 'win32' ? 'python' : '/usr/bin/python3');
   const script = `
 import sys, re
 from PIL import Image, ImageFilter, ImageEnhance

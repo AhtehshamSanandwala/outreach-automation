@@ -1,0 +1,7 @@
+url,status,details,load_status,load_time_s,contact_page_status,form_status,fields_filled,filled_fields,failed_fields,validation_status,captcha_status,submit_status,success_status
+https://melangedigital.co/about,Failed,,Loaded,1.1,Opened,Found,6,"full_name,email,company,address,phone,message","first_name,last_name,website,job_title,subject,budget",,Image OCR failed at pre-submit,,
+https://www.oom.com.sg/contact/,Failed,Submitted but no confirmation detected,Loaded,1.5,Opened,Found,6,"full_name,company,email,phone,website,message","first_name,last_name,job_title,subject,budget,address",,Image OCR failed at post-submit,Clicked: '' (score=50),No confirmation
+https://masterdigitalmedia.com,Failed,,Loaded,6.7,Opened,Found,5,"full_name,company,email,phone,message","first_name,last_name,website,job_title,subject,budget,address",,Image OCR failed at pre-submit,,
+https://melangedigital.co/about,Failed,,Loaded,1.1,Opened,Found,6,"full_name,email,company,address,phone,message","first_name,last_name,website,job_title,subject,budget",,Image OCR failed at pre-submit,,
+https://www.oom.com.sg/contact/,Failed,Submitted but no confirmation detected,Loaded,1.5,Opened,Found,6,"full_name,company,email,phone,website,message","first_name,last_name,job_title,subject,budget,address",,Image OCR failed at post-submit,Clicked: '' (score=50),No confirmation
+https://masterdigitalmedia.com,Failed,,Loaded,6.7,Opened,Found,5,"full_name,company,email,phone,message","first_name,last_name,website,job_title,subject,budget,address",,Image OCR failed at pre-submit,,

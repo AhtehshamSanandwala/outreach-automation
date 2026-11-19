@@ -86,7 +86,7 @@ function push() {
     console.log(`[autopush] Changes detected:\n${status}`);
     execSync('git add -A', { cwd: DIR });
     execSync(`git commit -m "auto: ${new Date().toISOString()}"`, { cwd: DIR });
-    execSync('git push origin main', { cwd: DIR });
+    execSync('git push origin HEAD', { cwd: DIR });
     console.log('[autopush] ✅ Pushed to GitHub');
   } catch (e) {
     // Covers: nothing staged (race with the status check above), commit

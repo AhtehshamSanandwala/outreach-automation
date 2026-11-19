@@ -70,7 +70,7 @@ const { handleCaptcha }                               = require('./captcha/handl
 const { submitForm, detectSuccess }                   = require('./submitter');
 const { removeBlockers }                              = require('./form_types');
 const { takeDebugScreenshot, saveResults, saveProgress,
-        loadProgress, loadExistingResults, clearProgress } = require('./result_tracker');
+        loadProgress, loadExistingResults, clearProgress, getProcessedHistory } = require('./result_tracker');
 
 // Small utility helpers used throughout: sleep() for pacing/anti-bot delays,
 // rand() to produce a randomized delay window so timing doesn't look
@@ -161,7 +161,28 @@ async function processUrl(driver, url, record, contact) {
   await clearOverlays(driver); // navigating may have triggered a new cookie banner
 
   // Step 2: Find form
-  const form = await findContactForm(driver);
+  let form = await findContactForm(driver);
+  if (!form) {
+    try {
+      const cur = await driver.getCurrentUrl();
+      const u = new URL(cur);
+      if (!u.pathname.includes('contact')) {
+        console.log('   🔄 No form on current page — attempting direct fallback to /contact-us...');
+        for (const p of ['/contact-us', '/contact', '/get-in-touch']) {
+          const target = `${u.protocol}//${u.host}${p}`;
+          await driver.get(target);
+          await sleep(2000);
+          form = await findContactForm(driver);
+          if (form) {
+            console.log(`   ✅ Contact form found on fallback path: ${p}`);
+            record.contact_page_status = 'Opened (fallback)';
+            break;
+          }
+        }
+      }
+    } catch (_) {}
+  }
+
   if (!form) {
     record.details = 'No contact form detected';
     record.form_status = 'Not found';
@@ -195,6 +216,34 @@ async function processUrl(driver, url, record, contact) {
     const rf = [], rfa = [];
     await fillAllFields(driver, form, contact, usedFields, rf, rfa);
     if (rf.length) { filled.push(...rf); console.log(`   ✅ Retry: ${rf.join(', ')}`); }
+  }
+
+  // If 0 fields were filled, landing page may have had a dummy search/newsletter form
+  if (!filled.length) {
+    try {
+      const cur = await driver.getCurrentUrl();
+      const u = new URL(cur);
+      if (!u.pathname.includes('contact')) {
+        console.log('   🔄 Current form had 0 fields — trying direct navigation to /contact-us...');
+        for (const p of ['/contact-us', '/contact', '/get-in-touch']) {
+          const target = `${u.protocol}//${u.host}${p}`;
+          await driver.get(target);
+          await sleep(2000);
+          const fallbackForm = await findContactForm(driver);
+          if (fallbackForm) {
+            const fbFilled = [], fbFailed = [], fbUsed = new Set();
+            await fillAllFields(driver, fallbackForm, contact, fbUsed, fbFilled, fbFailed);
+            if (fbFilled.length > 0) {
+              form = fallbackForm;
+              filled.push(...fbFilled);
+              failed.push(...fbFailed);
+              console.log(`   ✅ Recovered form on ${p} with ${fbFilled.length} fields!`);
+              break;
+            }
+          }
+        }
+      }
+    } catch (_) {}
   }
 
   console.log(`   ✅ Filled ${filled.length}: [${filled.join(', ')}]`);
@@ -292,6 +341,8 @@ async function processUrl(driver, url, record, contact) {
 // eventually get picked up without needing to restart the process.
 (async () => {
   let idx = startIndex;
+  const processedHistory = getProcessedHistory();
+  console.log(`🛡️  Loaded ${processedHistory.domains.size} previously processed domains to prevent duplicate submissions.`);
 
   while (true) {
     // Reload URLs from file on every iteration to pick up newly added URLs
@@ -307,6 +358,25 @@ async function processUrl(driver, url, record, contact) {
     }
 
     const url = allUrls[idx];
+
+    // Extract root domain to protect against double-submitting to the same company
+    let domain = '';
+    try {
+      domain = new URL(url).hostname.toLowerCase().replace(/^www\./, '');
+    } catch (_) {}
+
+    const isAlreadyDone = processedHistory.urls.has(url) ||
+                          processedHistory.urls.has(url.toLowerCase()) ||
+                          processedHistory.urls.has(url.replace(/\/+$/, '').toLowerCase()) ||
+                          (domain && processedHistory.domains.has(domain));
+
+    if (isAlreadyDone) {
+      console.log(`\n⏭️  [${idx+1}/${allUrls.length}] Already processed: ${url}${domain ? ' (' + domain + ')' : ''} — skipping to protect reputation`);
+      idx++;
+      saveProgress(idx);
+      continue;
+    }
+
     console.log(`\n🟢 [${idx+1}/${allUrls.length}] ${url}`);
 
     // Attempt loop: normally runs once, but if CAPTCHA solving fails it will
@@ -378,6 +448,8 @@ async function processUrl(driver, url, record, contact) {
       // is killed before finishing the whole URL list.
       results.push(record);
       saveResults(results);
+      processedHistory.urls.add(url);
+      if (domain) processedHistory.domains.add(domain);
       saveProgress(idx + 1);
       await sleep(rand(3000, 6000)); // pace requests between different target sites
       break;

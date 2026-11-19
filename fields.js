@@ -122,9 +122,10 @@ const SET_VALUE_JS = `
 // entirely (never filled, never counted as "unknown") — filling it with
 // contact data would just fail the human check and break form submission.
 const CAPTCHA_PATTERNS = [
-  'captcha','securimage','verify_code','verification_code','security_code',
+  'captcha','cpatcha','captch','securimage','verify_code','verification_code','security_code',
+  'security-code','securitycode','security code','verifycode','code_verify',
   'antispam','anti_spam','bot_check','human_check','spam_check',
-  'enter the code','enter code','type the code','type code','math',
+  'enter the code','enter code','type the code','type code','type the text','type text','math',
   'enter the correct','correct answer','spam protection','anti spam',
   'what is','calculate','solve this',
   'wpcf7-quiz','quiz-',
@@ -712,21 +713,49 @@ async function fillAllFields(driver, form, contact, usedFields, filled, failed) 
 
 // Ticks every visible, currently-unchecked checkbox inside the form — used
 // for "I agree to the terms" / consent checkboxes that often block
-// submission if left unchecked. There's no attempt to distinguish which
-// checkbox means what; any visible unchecked checkbox in the form is
-// assumed safe to check.
+// submission if left unchecked. Also selects radio buttons or service chip pills
+// if none are currently active.
 async function checkCheckboxes(driver, form) {
   let n = 0;
   try {
     n = await driver.executeScript(`
-      var n=0;
+      var n = 0;
+      // 1. Consent checkboxes
       Array.from(arguments[0].querySelectorAll("input[type='checkbox']")).forEach(function(cb){
-        if(cb.offsetParent!==null && !cb.checked){ cb.click(); n++; }
+        if (cb.offsetParent !== null && !cb.checked){ cb.click(); n++; }
       });
+
+      // 2. Radio buttons (e.g. service selection) — tick first if group has nothing selected
+      var radios = Array.from(arguments[0].querySelectorAll("input[type='radio']")).filter(function(r){ return r.offsetParent !== null; });
+      if (radios.length > 0 && !radios.some(function(r){ return r.checked; })) {
+        radios[0].click();
+        n++;
+      }
+
+      // 3. Clickable service pills / chips / tags (e.g. Bombay Blokes style)
+      var pills = Array.from(arguments[0].querySelectorAll("button, [role='button'], div, span")).filter(function(el){
+        if (el.offsetParent === null) return false;
+        var cls = (el.className || '').toLowerCase();
+        var txt = (el.innerText || '').toLowerCase().trim();
+        var isPillClass = cls.includes('pill') || cls.includes('chip') || cls.includes('tag') || cls.includes('service');
+        var isServiceText = ['website','branding','seo','marketing','performance','tech'].includes(txt);
+        return (isPillClass || isServiceText) && txt.length > 1 && txt.length < 25;
+      });
+      if (pills.length > 0) {
+        var hasActive = pills.some(function(p){
+          var c = (p.className || '').toLowerCase();
+          return c.includes('active') || c.includes('selected') || p.getAttribute('aria-pressed') === 'true';
+        });
+        if (!hasActive) {
+          pills[0].click();
+          n++;
+        }
+      }
+
       return n;
     `, form);
   } catch (_) {}
-  if (n) console.log(`      ✓ Checked ${n} checkboxes`);
+  if (n) console.log(`      ✓ Checked/selected ${n} checkboxes/pills`);
 }
 
 // Stubs for API compat
