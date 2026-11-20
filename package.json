@@ -4,10 +4,13 @@
   "description": "Google Maps business scraper + email/Facebook/LinkedIn finder + LinkedIn enrichment + automated contact-form filler with CAPTCHA solving",
   "main": "main.js",
   "scripts": {
-    "start": "node orchestrator.js",
-    "orchestrate": "node orchestrator.js",
-    "orchestrate:status": "node orchestrator.js --status",
-    "orchestrate:stop": "node orchestrator.js --stop",
+    "start": "./service.sh start",
+    "stop": "./service.sh stop",
+    "status": "./service.sh status",
+    "logs": "./service.sh logs",
+    "orchestrate": "./service.sh start",
+    "orchestrate:status": "./service.sh status",
+    "orchestrate:stop": "./service.sh stop",
     "batch": "node main.js",
     "scrape": "node unified_scraper.js",
     "fill": "node fill.js"

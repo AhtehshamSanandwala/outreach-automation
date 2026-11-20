@@ -8,6 +8,14 @@ const { notify } = require('./notifier');
 const { loadNextBatch } = require('./batch_loader');
 const { URL_FILE, OUTPUT_DIR, PROGRESS_FILE } = require('./config');
 
+// Prevent crash when terminal emulator is closed (EPIPE)
+process.stdout.on('error', (err) => {
+  if (err.code === 'EPIPE') return;
+});
+process.stderr.on('error', (err) => {
+  if (err.code === 'EPIPE') return;
+});
+
 // ── Configuration & Environment Defaults ─────────────────────────────────────
 const TIMEZONE = process.env.TARGET_TIMEZONE || 'Asia/Singapore';
 const WORK_START_HOUR = parseInt(process.env.WORK_START_HOUR || '8', 10);   // 8 AM SGT
@@ -306,8 +314,12 @@ async function startOrchestrator() {
     }
 
     // 5. Execute Batch
-    updateStatus('running', { message: `Batch in progress (Attempt #${completedBatchesToday + 1})` });
+    updateStatus('running', { 
+      message: `Batch in progress (Attempt #${completedBatchesToday + 1})`,
+      inhibiting_shutdown: true 
+    });
     const batchResult = await runBatchProcess();
+    updateStatus('running', { inhibiting_shutdown: false });
 
     if (isShuttingDown) break;
 
@@ -352,7 +364,13 @@ function cleanupAndExit(code = 0) {
 
 process.on('SIGINT', () => cleanupAndExit(0));
 process.on('SIGTERM', () => cleanupAndExit(0));
-process.on('SIGHUP', () => cleanupAndExit(0));
+// When running in a terminal that gets closed, do NOT kill orchestrator — continue in background
+process.on('SIGHUP', () => {
+  try {
+    const t = getTargetTime();
+    console.log(`[${t.timeStr}] ℹ️ Controlling terminal closed (SIGHUP). Orchestrator continues in background.`);
+  } catch (_) {}
+});
 
 // ── CLI Command Handling (--status, --stop) ──────────────────────────────────
 const args = process.argv.slice(2);

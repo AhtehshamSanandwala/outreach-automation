@@ -17,3 +17,8 @@ token.json
 client_secret*.json
 
 .vscode/settings.json
+downloaded_files/
+form_results/*.lock
+form_results/*.log
+
+

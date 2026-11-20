@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=DigiForge Outreach (Stop)
+Comment=Stop Singapore Outreach Background Service Cleanly
+Exec=/run/media/ahtesham/HDD/Project/DigiForgeScripts/outreach-automation/stop.sh
+Icon=media-playback-stop
+Terminal=false
+Categories=Office;Network;Utility;
+StartupNotify=true
+
