@@ -526,3 +526,93 @@ https://jlog.com.sg/about-us/,Failed,No contact form detected,Loaded,4.1,Opened,
 https://hubdistributors.com/,Failed,No contact form detected,Loaded,4.1,Opened,Not found,,,,,,,
 https://yusen-logistics.com,Skipped,"unknown error: net::ERR_NAME_NOT_RESOLVED
   (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
+https://adwebdesign.com.sg/contact-us/,Failed,No contact form detected,Loaded,1.9,Opened,Not found,,,,,,,
+https://www.dwhq.com.sg/about-us,Failed,No contact form detected,Loaded,3.6,Opened,Not found,,,,,,,
+https://www.alfdesigngroup.com/about-us,Failed,No contact form detected,Loaded,1.9,Opened,Not found,,,,,,,
+https://www.thedigitalcube.com/services/email-templates,Failed,No contact form detected,Loaded,2.3,Opened,Not found,,,,,,,
+https://www.activamedia.com.sg/about-us/,Failed,No contact form detected,Loaded,5.6,Opened,Not found,,,,,,,
+https://mailchimp.com/solutions/email-sms-small-businesses/,Failed,No contact form detected,Loaded,1.7,Opened,Not found,,,,,,,
+https://websitedesign.sg/lander,Failed,No contact form detected,Loaded,0.6,Opened,Not found,,,,,,,
+https://neutrl.studio/contact/,Failed,Turnstile widget not solved at pre-submit,Loaded,2.0,Opened,Found,6,"last_name,email,phone,message,select:Readiness
+
+
+Start in 1-3 months
+Start immediately,select:Preferred Communication Style
+
+
+Comfortable with tech basics.
+Feel free to go into the tech details.","first_name,full_name,company,website,job_title,subject,budget,address",,Not solved at pre-submit: Turnstile widget,,
+https://www.metric.com.sg/about-us/,Failed,Submitted but no confirmation detected,Loaded,8.1,Opened,Found,6,"first_name,last_name,email,phone,company,website","full_name,job_title,subject,message,budget,address",,Not present,Clicked: 'REDEEM YOUR FREE CONSULT' (score=90),No confirmation
+https://aidentity.sg/,Failed,No contact form detected,Loaded,1.5,Opened,Not found,,,,,,,
+https://tiny.cc/about-tiny-urls,Failed,No contact form detected,Loaded,1.5,Opened,Not found,,,,,,,
+https://brewinteractive.com/contact/,Failed,,Loaded,0.8,Opened,Found,6,"full_name,company,email,select:Number of Employees*,phone,message","first_name,last_name,website,job_title,subject,budget,address",,Image OCR failed at pre-submit,,
+https://light4flash.com/about-us/,Failed,Submitted but no confirmation detected,Loaded,1.8,Opened,Found,4,"full_name,phone,email,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'SEND' (score=105),No confirmation
+https://onevent.design/about-us/,Failed,No contact form detected,Loaded,0.9,Opened,Not found,,,,,,,
+https://www.swiftsearchglobal.sg/contact,Failed,Submitted but no confirmation detected,Loaded,1.6,Opened,Found,4,"first_name,email,phone,message","last_name,full_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=65),No confirmation
+https://singaporeemploymentagency.com/,Failed,No contact form detected,Loaded,1.4,Opened,Not found,,,,,,,
+https://singtact.com/about-us/,Failed,No contact form detected,Loaded,10.6,Opened,Not found,,,,,,,
+https://www.ambition.com.sg/start-hiring,Failed,,Loaded,2.6,Opened,Found,4,"full_name,email,phone,message","first_name,last_name,company,website,job_title,subject,budget,address",,Image OCR failed at pre-submit,,
+https://www.kababayan.com.sg/,Failed,No contact form detected,Loaded,5.0,Opened,Not found,,,,,,,
+https://jobexpress.sg/,Failed,No contact form detected,Loaded,0.8,Not found,Not found,,,,,,,
+https://osini.co/page/about-us,Failed,No contact form detected,Loaded,1.1,Opened,Not found,,,,,,,
+https://queensrecruiters.com/index.php/about/,Failed,No contact form detected,Loaded,5.3,Opened,Not found,,,,,,,
+https://orchardemployment.sg/about-us/,Failed,No contact form detected,Loaded,3.2,Opened,Not found,,,,,,,
+https://www.staffking.com.sg/aboutus,Failed,No contact form detected,Loaded,1.5,Opened,Not found,,,,,,,
+https://www.apexea.com.sg/,Failed,No contact form detected,Loaded,1.8,Opened,Not found,,,,,,,
+https://www.frc.com.sg/,Failed,No contact form detected,Loaded,1.7,Not found,Not found,,,,,,,
+https://thewhisky.sg/,Failed,No contact form detected,Loaded,5.8,Opened,Not found,,,,,,,
+https://limsianghuat.com/,Failed,No contact form detected,Loaded,7.0,Opened,Not found,,,,,,,
+https://www.cartonbox.sg/collections/office-moving-carton-box,Failed,No contact form detected,Loaded,1.9,Opened,Not found,,,,,,,
+https://drs-secret.com/,Failed,No contact form detected,Loaded,1.2,Opened,Not found,,,,,,,
+https://sogoodk.com/pages/contact-us,Failed,hCaptcha response not solved at pre-submit,Loaded,2.5,Opened,Found,4,"full_name,email,phone,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not solved at pre-submit: hCaptcha response,,
+https://candy.com.sg/pages/about-us,Failed,No contact form detected,Loaded,1.8,Opened,Not found,,,,,,,
+https://www.maybev.com.sg/index.php,Failed,No form fields detected,Loaded,5.7,Opened,Found,0,,,,,,
+https://chanhuat.com.sg/,Failed,No contact form detected,Loaded,2.8,Opened,Not found,,,,,,,
+https://www.midea.com/in/about-midea,Failed,No contact form detected,Loaded,3.0,Opened,Not found,,,,,,,
+http://www.aox.com.sg/,Failed,No contact form detected,Loaded,6.2,Opened,Not found,,,,,,,
+https://mamawarehouse.com/pages/about-us,Failed,No contact form detected,Loaded,2.8,Opened,Not found,,,,,,,
+https://www.latierrasg.com/about,Failed,No contact form detected,Loaded,4.8,Opened,Not found,,,,,,,
+https://fareastfloramarket.com/pages/contact,Failed,hCaptcha response not solved at pre-submit,Loaded,3.0,Opened,Found,4,"full_name,email,phone,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not solved at pre-submit: hCaptcha response,,
+https://hosin.com.sg/our-showrooms/,Failed,Submitted but no confirmation detected,Loaded,4.1,Opened,Found,4,"last_name,email,phone,message","first_name,full_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Send message' (score=120),No confirmation
+https://www.pohhua.com.sg/about-us,Failed,No contact form detected,Loaded,7.2,Opened,Not found,,,,,,,
+https://webstergy.com/,Failed,No contact form detected,Loaded,2.6,Opened,Not found,,,,,,,
+https://www.teamlewis.com/contact/,Failed,No form fields detected,Loaded,7.6,Opened,Found,0,,,,,,
+https://qi-integrated.com/about/,Failed,No contact form detected,Loaded,3.7,Opened,Not found,,,,,,,
+https://www.pentahex.co/about,Failed,No contact form detected,Loaded,1.6,Opened,Not found,,,,,,,
+https://ideaink.co/about-us,Failed,Submitted but no confirmation detected,Loaded,2.4,Opened,Found,4,"full_name,email,phone,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,form.submit(): form[0],No confirmation
+https://www.nerb.com.sg/manage-website-with-chatgpt-claude/,Failed,Turnstile widget not solved at pre-submit,Loaded,0.6,Opened,Found,5,"full_name,company,email,phone,message","first_name,last_name,website,job_title,subject,budget,address",,Not solved at pre-submit: Turnstile widget,,
+https://www.diseno.com.sg/about-us/,Failed,No contact form detected,Loaded,2.5,Opened,Not found,,,,,,,
+https://www.cmca.asia/,Failed,No contact form detected,Loaded,2.7,Opened,Not found,,,,,,,
+https://www.aaoverseas.com.sg/about_us,Skipped,Page load timeout,Timeout,,,,,,,,,,
+https://southwest-employment.com/,Skipped,"unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
+https://recruitmentcentral.co/,Failed,No contact form detected,Loaded,6.9,Opened,Not found,,,,,,,
+https://averise.com.sg/,Failed,No contact form detected,Loaded,1.2,Opened,Not found,,,,,,,
+https://topone.com.sg/,Failed,Submitted but no confirmation detected,Loaded,1.6,Opened,Found,5,"full_name,phone,email,subject,message","first_name,last_name,company,website,job_title,budget,address",,Not present,Clicked: 'Submit' (score=80),No confirmation
+https://www.thebranch.com.sg/about/,Failed,No contact form detected,Loaded,15.4,Opened,Not found,,,,,,,
+https://olyemployment.com/about-us/,Failed,Submitted but no confirmation detected,Loaded,2.4,Opened,Found,4,"full_name,email,website,message","first_name,last_name,phone,company,job_title,subject,budget,address",,Not present,Clicked: 'Submit Form' (score=120),No confirmation
+https://www.whiteglovesingapore.com/about,Failed,Submitted but no confirmation detected,Loaded,0.8,Opened,Found,1,email,"first_name,last_name,full_name,phone,company,website,job_title,subject,message,budget,address",,Not present,Clicked: 'More Domestic Employers pages' (score=50),No confirmation
+https://centuryevergreen.com/about-us/,Failed,No contact form detected,Loaded,2.7,Opened,Not found,,,,,,,
+https://www.aatas.com.sg/about/,Failed,No contact form detected,Loaded,2.7,Opened,Not found,,,,,,,
+https://byhisgraceemployment.com/,Failed,No contact form detected,Loaded,4.0,Opened,Not found,,,,,,,
+https://www.taharah.com.sg/contact,Failed,Submitted but no confirmation detected,Loaded,1.3,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Not present,Clicked: 'Submit' (score=105),No confirmation
+https://21stcentury.com.sg/contact-us/,Failed,Submitted but no confirmation detected,Loaded,3.1,Opened,Found,4,"full_name,email,phone,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Send Message' (score=105),No confirmation
+https://pangemployment.agency/,Skipped,"unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
+https://ptt-trading.com/,Failed,No contact form detected,Loaded,11.4,Opened,Not found,,,,,,,
+https://swiss-singapore.com/,Skipped,"unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
+https://www.cmcmarkets.com/hi,Failed,No contact form detected,Loaded,5.6,Opened,Not found,,,,,,,
+https://www.itiger.com/quote,Failed,No contact form detected,Loaded,5.8,Opened,Not found,,,,,,,
+https://www.cmcinvest.com/en-sg/about-us,Failed,No contact form detected,Loaded,3.6,Opened,Not found,,,,,,,
+https://etgworld.com/about-us,Failed,No contact form detected,Loaded,2.8,Opened,Not found,,,,,,,
+https://radiant-world.com/,Failed,No contact form detected,Loaded,0.9,Opened,Not found,,,,,,,
+https://shop.president-trading.com/pages/contact-us-1,Failed,hCaptcha response not solved at pre-submit,Loaded,2.4,Opened,Found,5,"full_name,email,phone,subject,message","first_name,last_name,company,website,job_title,budget,address",,Not solved at pre-submit: hCaptcha response,,
+https://ctcleantrading.com.sg/about-us/,Failed,,Loaded,3.8,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Image OCR failed at pre-submit,,
+https://dawoodwholesale.com/contact/,Failed,No contact form detected,Loaded,2.6,Opened,Not found,,,,,,,
+https://ciec.com/,Skipped,"unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
+https://tradingtechnologies.com/post-trade/allocation-blotter/,Skipped,reCAPTCHA v2 rate-limited at pre-submit,Loaded,1.1,Opened,Found,7,"first_name,last_name,email,phone,select:Country *,address,message","full_name,company,website,job_title,subject,budget",,Rate-limited at pre-submit: reCAPTCHA v2,,
+https://singaporetradingpost.com/pages/locations-hours,Failed,No contact form detected,Loaded,3.5,Opened,Not found,,,,,,,
+https://www.repsol.com/es/pie-de-pagina/contacto/index.cshtml,Failed,No contact form detected,Loaded,3.3,Opened,Not found,,,,,,,
+https://www.anarkali.com.sg/,Failed,No contact form detected,Loaded,1.3,Opened,Not found,,,,,,,

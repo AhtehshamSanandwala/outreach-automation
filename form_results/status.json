@@ -1,11 +1,10 @@
 {
-  "state": "cooldown",
-  "pid": 7738,
-  "singapore_time": "03:39:39 SGT",
+  "state": "stopped",
+  "pid": 5781,
+  "singapore_time": "11:42:50 SGT",
   "date": "2026-11-20",
   "today_batches_completed": 0,
   "max_daily_batches": 3,
-  "last_updated": "2026-11-19T19:39:39.705Z",
-  "message": "Sleeping until next business window (261m remaining)",
-  "next_wake_sgt": "8:00:00 AM"
+  "last_updated": "2026-11-20T03:42:50.961Z",
+  "message": "Orchestrator stopped cleanly"
 }
