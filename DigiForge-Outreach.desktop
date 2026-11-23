@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Name=DigiForge Outreach (Start)
-Comment=Start Singapore Outreach Background Automation & Tray Status
+Comment=Start Singapore Outreach Background Automation & Notifications
 Exec=/run/media/ahtesham/HDD/Project/DigiForgeScripts/outreach-automation/start.sh
 Icon=mail-send
 Terminal=false

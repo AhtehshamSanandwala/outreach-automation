@@ -1,10 +1,11 @@
 {
-  "state": "stopped",
-  "pid": 5781,
-  "singapore_time": "11:42:50 SGT",
-  "date": "2026-11-20",
+  "state": "running",
+  "pid": 39730,
+  "singapore_time": "16:24:19 SGT",
+  "date": "2026-11-23",
   "today_batches_completed": 0,
   "max_daily_batches": 3,
-  "last_updated": "2026-11-20T03:42:50.961Z",
-  "message": "Orchestrator stopped cleanly"
+  "last_updated": "2026-11-23T08:24:19.434Z",
+  "message": "Batch in progress (Attempt #1)",
+  "inhibiting_shutdown": true
 }

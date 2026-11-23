@@ -4,10 +4,10 @@
 #
 # USAGE:
 #   ./service.sh start    -> Starts orchestrator in true background daemon mode
-#   ./service.sh stop     -> Gracefully stops background orchestrator & tray icon
-#   ./service.sh status   -> Displays live status & recent execution output
-#   ./service.sh logs     -> Live-streams log output (Ctrl+C to stop viewing)
-#   ./service.sh restart  -> Stops and starts service
+#   ./service.sh stop     -> Stops ALL background processes cleanly (no ghost PIDs)
+#   ./service.sh status   -> Displays live status, PIDs, and milestone activity
+#   ./service.sh logs     -> Live-streams log output (Ctrl+C to exit viewing)
+#   ./service.sh restart  -> Full clean stop + start
 # ==============================================================================
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -15,130 +15,191 @@ PROJECT_DIR="$SCRIPT_DIR"
 cd "$PROJECT_DIR" || exit 1
 
 LOCK_FILE="$PROJECT_DIR/form_results/orchestrator.lock"
-TRAY_LOCK="$PROJECT_DIR/form_results/tray.lock"
 LOG_FILE="$PROJECT_DIR/form_results/orchestrator.log"
 STATUS_JSON="$PROJECT_DIR/form_results/status.json"
 
 mkdir -p "$PROJECT_DIR/form_results"
 
-is_orchestrator_running() {
+# Returns list of running orchestrator PIDs (excluding self)
+get_orchestrator_pids() {
+  local pids=""
+  # 1. Check lockfile first
   if [ -f "$LOCK_FILE" ]; then
-    local pid
-    pid=$(cat "$LOCK_FILE" 2>/dev/null)
-    if [ -n "$pid" ] && kill -0 "$pid" 2>/dev/null; then
-      echo "$pid"
-      return 0
+    local lpid
+    lpid=$(cat "$LOCK_FILE" 2>/dev/null | tr -d '[:space:]')
+    if [ -n "$lpid" ] && kill -0 "$lpid" 2>/dev/null; then
+      pids="$lpid"
     fi
   fi
-  return 1
+  # 2. Also check pgrep
+  local pgrep_pids
+  pgrep_pids=$(pgrep -f "node.*orchestrator\.js" 2>/dev/null | grep -v "$$" || true)
+  if [ -n "$pgrep_pids" ]; then
+    pids=$(echo -e "${pids}\n${pgrep_pids}" | grep -v "^$" | sort -u | tr '\n' ' ' | xargs)
+  fi
+  echo "$pids"
+}
+
+# Returns list of all outreach worker PIDs (orchestrator, main.js, inhibitors)
+get_all_outreach_pids() {
+  {
+    pgrep -f "node.*orchestrator\.js" || true
+    pgrep -f "node.*main\.js" || true
+    pgrep -f "systemd-inhibit.*DigiForge" || true
+    pgrep -f "tray_indicator\.py" || true
+  } | grep -v "$$" | sort -u
 }
 
 start_service() {
-  local running_pid
-  if running_pid=$(is_orchestrator_running); then
-    echo "⚠️ DigiForge Outreach is already running in background (PID: $running_pid)."
-    echo "   Check status with: ./service.sh status"
+  local running_pids
+  running_pids=$(get_orchestrator_pids)
+
+  if [ -n "$running_pids" ]; then
+    echo "⚠️ DigiForge Outreach is ALREADY RUNNING in background (PID: $running_pids)."
+    echo "   • Check live status:  npm run status   (or ./status.sh)"
+    echo "   • Stop all processes: npm stop         (or ./stop.sh)"
     return 0
   fi
 
   echo "═══════════════════════════════════════════════════════════════"
-  echo "   STARTING DIGIFORGE OUTREACH (TRUE BACKGROUND DAEMON)        "
+  echo "   STARTING DIGIFORGE OUTREACH (AUTONOMOUS BACKGROUND DAEMON)  "
   echo "═══════════════════════════════════════════════════════════════"
 
-  # Clean stale locks
-  rm -f "$LOCK_FILE"
+  # Clean stale lock files
+  rm -f "$LOCK_FILE" "$PROJECT_DIR/form_results/tray.lock"
 
-  # 1. Launch orchestrator detached from terminal with systemd inhibitor
-  if command -v systemd-inhibit >/dev/null 2>&1; then
-    nohup systemd-inhibit \
-      --what=shutdown:sleep:idle:handle-lid-switch \
-      --who="DigiForge Outreach Automation" \
-      --why="Active outreach batch is running in background" \
-      --mode=block \
-      node orchestrator.js >> "$LOG_FILE" 2>&1 &
-    ORCH_PID=$!
-  else
-    nohup node orchestrator.js >> "$LOG_FILE" 2>&1 &
-    ORCH_PID=$!
-  fi
+  echo "[$(date '+%Y-%m-%d %H:%M:%S')] 🚀 Launching background orchestrator daemon..." >> "$LOG_FILE"
+
+  # Launch orchestrator directly detached from terminal with nohup
+  nohup node orchestrator.js >> "$LOG_FILE" 2>&1 &
+  ORCH_PID=$!
 
   echo "$ORCH_PID" > "$LOCK_FILE"
-  echo "✅ Orchestrator launched in background (PID: $ORCH_PID)."
-  echo "   Log output: $LOG_FILE"
 
-  # 2. Launch persistent KDE System Tray Indicator if graphical session active
-  if [ -n "$DISPLAY" ] || [ -n "$WAYLAND_DISPLAY" ]; then
-    nohup python3 tray_indicator.py >/dev/null 2>&1 &
-    TRAY_PID=$!
-    echo "$TRAY_PID" > "$TRAY_LOCK"
-    echo "✅ KDE System Tray status icon active in panel (PID: $TRAY_PID)."
+  # Give it a second to initialize
+  sleep 1
+
+  if kill -0 "$ORCH_PID" 2>/dev/null; then
+    echo "✅ Orchestrator started in background (PID: $ORCH_PID)."
+    echo "   • Operating Hours: 08:00 – 20:00 SGT (Mon–Fri)"
+    echo "   • Notifications:   Logged to KDE Notification History (Bell Icon)"
+    echo "   • Log Output:      form_results/orchestrator.log"
+    echo ""
+    echo "💡 You can now SAFELY CLOSE THIS TERMINAL at any time."
+    echo "   The script will continue running autonomously until PC shutdown."
+  else
+    echo "❌ Failed to start orchestrator. Check log:"
+    tail -n 15 "$LOG_FILE"
+    exit 1
   fi
-
-  # 3. Corner notification
-  if command -v kdialog >/dev/null 2>&1; then
-    kdialog --passivepopup "DigiForge Outreach is now running in background.\nTray icon active in panel corner." 7 --title "DigiForge Outreach Started" >/dev/null 2>&1 &
-  fi
-
-  echo ""
-  echo "💡 You can now SAFELY CLOSE THIS TERMINAL at any time."
-  echo "   The script will continue running in the background."
-  echo "   Hover over the tray icon in your corner to see live status."
 }
 
 stop_service() {
-  echo "Stopping DigiForge Outreach Service..."
+  echo "═══════════════════════════════════════════════════════════════"
+  echo "   STOPPING ALL DIGIFORGE OUTREACH PROCESSES                  "
+  echo "═══════════════════════════════════════════════════════════════"
 
-  # Stop orchestrator via node CLI flag
-  node orchestrator.js --stop >/dev/null 2>&1
+  # 1. Ask orchestrator to stop gracefully first if lock exists
+  if [ -f "$LOCK_FILE" ]; then
+    node orchestrator.js --stop >/dev/null 2>&1 || true
+  fi
 
-  local running_pid
-  if running_pid=$(is_orchestrator_running); then
-    echo "Sending SIGTERM to orchestrator (PID: $running_pid)..."
-    kill "$running_pid" 2>/dev/null
+  local pids
+  pids=$(get_all_outreach_pids)
+
+  if [ -z "$pids" ]; then
+    echo "ℹ️ No running DigiForge outreach processes found."
+    rm -f "$LOCK_FILE" "$PROJECT_DIR/form_results/tray.lock"
+    return 0
+  fi
+
+  echo "Found running outreach process(es): $pids"
+  echo "Sending graceful SIGTERM..."
+
+  for pid in $pids; do
+    kill -15 "$pid" 2>/dev/null || true
+  done
+
+  # Wait up to 3 seconds for clean exit
+  local waited=0
+  while [ $waited -lt 3 ]; do
     sleep 1
-    if kill -0 "$running_pid" 2>/dev/null; then
-      kill -9 "$running_pid" 2>/dev/null
+    waited=$((waited + 1))
+    pids=$(get_all_outreach_pids)
+    if [ -z "$pids" ]; then
+      break
     fi
-  fi
-  rm -f "$LOCK_FILE"
+  done
 
-  # Stop tray indicator
-  if [ -f "$TRAY_LOCK" ]; then
-    local tpid
-    tpid=$(cat "$TRAY_LOCK" 2>/dev/null)
-    if [ -n "$tpid" ]; then
-      kill "$tpid" 2>/dev/null
-    fi
-    rm -f "$TRAY_LOCK"
+  # Force kill any stubborn survivors
+  pids=$(get_all_outreach_pids)
+  if [ -n "$pids" ]; then
+    echo "Force terminating stubborn process(es): $pids"
+    for pid in $pids; do
+      kill -9 "$pid" 2>/dev/null || true
+    done
   fi
-  # Kill any stray tray_indicator.py
-  pkill -f "tray_indicator.py" 2>/dev/null
 
-  # Corner notification
+  # Clean locks
+  rm -f "$LOCK_FILE" "$PROJECT_DIR/form_results/tray.lock"
+
+  # Update status.json to reflect clean stop
+  if [ -f "$STATUS_JSON" ]; then
+    node -e '
+      try {
+        const fs = require("fs");
+        const path = "'"$STATUS_JSON"'";
+        const d = JSON.parse(fs.readFileSync(path, "utf8"));
+        d.state = "stopped";
+        d.message = "All outreach processes stopped cleanly";
+        d.last_updated = new Date().toISOString();
+        fs.writeFileSync(path, JSON.stringify(d, null, 2));
+      } catch (_) {}
+    ' 2>/dev/null || true
+  fi
+
+  # Notification
   if command -v kdialog >/dev/null 2>&1; then
-    kdialog --passivepopup "DigiForge Outreach service stopped cleanly." 5 --title "DigiForge Outreach Stopped" >/dev/null 2>&1 &
+    kdialog --passivepopup "All DigiForge background outreach processes stopped cleanly." 5 --title "🛑 DigiForge: Service Stopped" >/dev/null 2>&1 &
   fi
 
-  echo "✅ DigiForge Outreach service and tray icon stopped cleanly."
+  echo "[$(date '+%Y-%m-%d %H:%M:%S')] 🛑 All outreach processes stopped cleanly. Zero lingering PIDs." >> "$LOG_FILE"
+
+  echo "✅ All DigiForge outreach processes stopped cleanly. Zero lingering PIDs."
 }
 
 show_status() {
-  local running_pid
-  if running_pid=$(is_orchestrator_running); then
-    echo "🟢 Service Status: RUNNING (PID: $running_pid)"
+  local orch_pids worker_pids
+  orch_pids=$(get_orchestrator_pids)
+  worker_pids=$(pgrep -f "node.*main\.js" | grep -v "$$" || true)
+
+  echo "═══════════════════════════════════════════════════════════════"
+  if [ -n "$orch_pids" ]; then
+    echo "   🟢 DIGIFORGE OUTREACH SERVICE: RUNNING                      "
+    echo "═══════════════════════════════════════════════════════════════"
+    echo "• Supervisor PID:    $orch_pids"
+    if [ -n "$worker_pids" ]; then
+      echo "• Batch Worker PID:  $worker_pids (actively submitting forms)"
+    else
+      echo "• Batch Worker PID:  None (currently resting in cooldown break)"
+    fi
   else
-    echo "🔴 Service Status: STOPPED"
+    echo "   🔴 DIGIFORGE OUTREACH SERVICE: STOPPED                      "
+    echo "═══════════════════════════════════════════════════════════════"
+    echo "• Active Processes:  0 (No outreach processes running)"
   fi
 
+  # Print structured metrics from orchestrator
   node orchestrator.js --status
 
   echo "──────────────── Recent Log Activity ────────────────"
   if [ -f "$LOG_FILE" ]; then
-    tail -n 12 "$LOG_FILE"
+    tail -n 10 "$LOG_FILE"
   else
     echo "No log file found yet ($LOG_FILE)."
   fi
   echo "──────────────────────────────────────────────────────"
+  echo "💡 Tip: Check your KDE Panel Bell Icon for notification history."
 }
 
 show_logs() {
@@ -159,7 +220,7 @@ case "$1" in
     ;;
   restart)
     stop_service
-    sleep 2
+    sleep 1
     start_service
     ;;
   status)
@@ -173,4 +234,3 @@ case "$1" in
     exit 1
     ;;
 esac
-

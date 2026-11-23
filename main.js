@@ -71,6 +71,8 @@ const { submitForm, detectSuccess }                   = require('./submitter');
 const { removeBlockers }                              = require('./form_types');
 const { takeDebugScreenshot, saveResults, saveProgress,
         loadProgress, loadExistingResults, clearProgress, getProcessedHistory } = require('./result_tracker');
+const { notify }                                       = require('./notifier');
+
 
 // Small utility helpers used throughout: sleep() for pacing/anti-bot delays,
 // rand() to produce a randomized delay window so timing doesn't look
@@ -441,6 +443,8 @@ async function processUrl(driver, url, record, contact) {
         console.log(`   🔄 CAPTCHA retry ${attempt}/${MAX_CAPTCHA_RETRIES}...`);
         await sleep(rand(2000, 3500));
         continue;
+      } else if (captchaFailed) {
+        notify('⚠️ DigiForge: Notice', 'Site requires manual check or CAPTCHA retry (isolated to queue).', { urgency: 'critical' });
       }
 
       // Final outcome for this URL (whether success, partial, or exhausted
@@ -451,6 +455,14 @@ async function processUrl(driver, url, record, contact) {
       processedHistory.urls.add(url);
       if (domain) processedHistory.domains.add(domain);
       saveProgress(idx + 1);
+
+      // Milestone notification: Halfway through batch
+      const totalInBatch = allUrls.length;
+      const halfwayMark = Math.floor(totalInBatch / 2);
+      if (idx === halfwayMark && totalInBatch >= 10) {
+        const submittedCount = results.filter(r => (r.status || '').toLowerCase() === 'success').length;
+        notify('⚡ DigiForge: Halfway Through', `Batch progress: ${idx + 1}/${totalInBatch} leads processed. ${submittedCount} submitted so far.`);
+      }
       await sleep(rand(3000, 6000)); // pace requests between different target sites
       break;
     }

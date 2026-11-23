@@ -131,9 +131,9 @@ function acquireLock() {
   if (fs.existsSync(LOCK_FILE)) {
     const rawPid = fs.readFileSync(LOCK_FILE, 'utf8').trim();
     const pid = parseInt(rawPid, 10);
-    if (!isNaN(pid)) {
+    if (!isNaN(pid) && pid !== process.pid) {
       try {
-        // Test if process is still running
+        // Test if another process is still running
         process.kill(pid, 0);
         console.log(`⚠️ Another instance of orchestrator is already running (PID: ${pid}).`);
         console.log(`   To check status: node orchestrator.js --status`);
@@ -254,7 +254,7 @@ async function startOrchestrator() {
   console.log(`   Process PID:        ${process.pid}`);
   console.log(`═══════════════════════════════════════════════════════════════\n`);
 
-  notify('DigiForge Orchestrator Active', `Outreach supervisor running (PID: ${process.pid}). Operating 8am–8pm SGT.`);
+  notify('🚀 DigiForge: Service Active', `Outreach supervisor running (PID: ${process.pid}). Operating 8am–8pm SGT.`);
 
   while (!isShuttingDown) {
     const t = getTargetTime();
@@ -271,7 +271,7 @@ async function startOrchestrator() {
       console.log(`\n🌙 [${t.timeStr}] ${hoursCheck.reason}.`);
       const wakeHours = (hoursCheck.msUntilNextWindow / 3600000).toFixed(1);
       console.log(`   Sleeping until 08:00 SGT next business window (~${wakeHours} hours)...`);
-      notify('DigiForge: Off-Hours Sleep', `Outside SGT business hours. Sleeping until 08:00 SGT tomorrow.`);
+      notify('🌙 DigiForge: Day Complete', `Outside Singapore business hours (8am–8pm SGT). Sleeping until 08:00 SGT tomorrow.`);
       await sleepTick(hoursCheck.msUntilNextWindow, 'Sleeping until next business window');
       continue;
     }
@@ -279,7 +279,7 @@ async function startOrchestrator() {
     // 2. Daily Batch Quota Check
     if (completedBatchesToday >= MAX_BATCHES_PER_DAY) {
       console.log(`\n🎯 [${t.timeStr}] Daily quota reached (${completedBatchesToday}/${MAX_BATCHES_PER_DAY} batches). Protecting domain reputation.`);
-      notify('DigiForge: Daily Quota Reached', `Completed ${completedBatchesToday} batches today. Sleeping until tomorrow.`);
+      notify('🌙 DigiForge: Day Complete', `Completed all ${MAX_BATCHES_PER_DAY} batches today. Sleeping until 08:00 SGT tomorrow.`);
       // Sleep until 08:00 SGT next day
       const untilTomorrow = checkOperatingHours();
       await sleepTick(untilTomorrow.msUntilNextWindow || 3600000, 'Daily quota complete. Resting until tomorrow');
@@ -294,7 +294,7 @@ async function startOrchestrator() {
       if (urls.length > 0 && progress > 0 && progress < urls.length) {
         hasIncompleteBatch = true;
         console.log(`\n🔄 Found interrupted batch at lead #${progress + 1} of ${urls.length}! Resuming seamlessly...`);
-        notify('DigiForge: Resuming Batch', `Resuming incomplete batch from lead #${progress + 1}/${urls.length}.`);
+        notify('🔄 DigiForge: Resuming Batch', `Resuming incomplete batch from lead #${progress + 1}/${urls.length}.`);
       }
     }
 
@@ -304,10 +304,10 @@ async function startOrchestrator() {
       try {
         const batchInfo = loadNextBatch(BATCH_SIZE);
         console.log(`   ✅ Loaded ${batchInfo.total} fresh leads into retry_urls.txt (Progress reset to 0).`);
-        notify('DigiForge: Batch Staged', `Loaded ${batchInfo.total} fresh leads. Launching outreach engine...`);
+        notify('🚀 DigiForge: Batch Started', `Processing Batch #${completedBatchesToday + 1} (${batchInfo.total} leads: 17 Agency, 17 B2B, 17 Wholesale)`);
       } catch (err) {
         console.error(`❌ Batch generation error: ${err.message}`);
-        notify('DigiForge Error', `Batch generation failed: ${err.message}`);
+        notify('⚠️ DigiForge: Notice', `Batch generation failed: ${err.message}`, { urgency: 'critical' });
         await sleepTick(300000, 'Error cooldown');
         continue;
       }
@@ -325,7 +325,7 @@ async function startOrchestrator() {
 
     completedBatchesToday++;
     console.log(`\n🏁 [${getTargetTime().timeStr}] Batch #${completedBatchesToday} execution finished.`);
-    notify('DigiForge: Batch Complete', `Batch #${completedBatchesToday} finished! Results recorded & cold emails triaged.`);
+    notify('✅ DigiForge: Batch Finished', `Batch #${completedBatchesToday} complete! Results recorded, leads added to Cold Email queue & Git synced.`);
 
     // 6. Git Sync
     syncGitAfterBatch(completedBatchesToday);
@@ -336,7 +336,7 @@ async function startOrchestrator() {
     const nextRunTime = new Date(Date.now() + breakMs).toLocaleTimeString('en-US', { timeZone: TIMEZONE });
 
     console.log(`\n☕ Entering cooldown break of ${breakMins} minutes. Next batch scheduled at ~${nextRunTime} SGT.`);
-    notify('DigiForge: Cooldown Break', `Resting for ${breakMins} mins. Next batch at ${nextRunTime} SGT.`);
+    notify('☕ DigiForge: Cooldown', `Taking a ${breakMins}-minute break. Next batch scheduled at ${nextRunTime} SGT.`);
 
     await sleepTick(breakMs, `Resting between batches`);
   }
@@ -358,7 +358,7 @@ function cleanupAndExit(code = 0) {
 
   updateStatus('stopped', { message: 'Orchestrator stopped cleanly' });
   releaseLock();
-  notify('DigiForge Orchestrator', 'Outreach orchestrator stopped cleanly. Progress preserved.');
+  notify('🛑 DigiForge: Service Stopped', 'Outreach orchestrator stopped cleanly. All progress preserved.');
   process.exit(code);
 }
 

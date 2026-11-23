@@ -3,28 +3,45 @@
 const { exec } = require('child_process');
 
 /**
- * Universal desktop notification helper for Linux (KDE Plasma, GNOME, etc.)
- * Uses kdialog --passivepopup, notify-send, or gdbus without external npm dependencies.
+ * Universal desktop notification helper for Linux KDE Plasma
+ *
+ * Sends native Freedesktop D-Bus notifications so that:
+ * 1. A clean corner toast appears on the screen (5-6s).
+ * 2. It automatically persists in the KDE Notification History (the panel bell icon).
+ *    You can click the bell icon in your KDE panel anytime to view the entire timeline!
+ * 3. Falls back gracefully to kdialog if gdbus is not present.
  */
-function notify(title, message, timeoutSeconds = 6) {
-  // Sanitize message to prevent shell command breakages
-  const safeTitle = (title || 'DigiForge Outreach').replace(/["`$\\]/g, '');
-  const safeMsg = (message || '').replace(/["`$\\]/g, '');
-  const timeoutMs = timeoutSeconds * 1000;
+function notify(summary, body, options = {}) {
+  const safeTitle = (summary || 'DigiForge Outreach').replace(/["`$\\]/g, '');
+  const safeBody = (body || '').replace(/["`$\\]/g, '');
+  const urgencyByte = options.urgency === 'critical' ? 2 : (options.urgency === 'low' ? 0 : 1);
+  const icon = options.icon || (options.urgency === 'critical' ? 'dialog-warning' : 'mail-send');
+  const timeoutMs = options.timeoutMs || 6000;
 
-  // 1. Try kdialog (KDE native)
-  const kdialogCmd = `kdialog --passivepopup "${safeMsg}" ${timeoutSeconds} --title "${safeTitle}" >/dev/null 2>&1`;
+  // 1. Freedesktop standard notification over D-Bus via gdbus
+  // Notice: hints dictionary uses transient: <false> and urgency: <byte X>
+  // This explicitly instructs KDE Plasma to log and retain the notification in the panel bell history!
+  const gdbusCmd = `gdbus call --session \\
+    --dest org.freedesktop.Notifications \\
+    --object-path /org/freedesktop/Notifications \\
+    --method org.freedesktop.Notifications.Notify \\
+    "DigiForge Outreach" \\
+    0 \\
+    "${icon}" \\
+    "${safeTitle}" \\
+    "${safeBody}" \\
+    "[]" \\
+    "{'urgency': <byte ${urgencyByte}>, 'transient': <false>, 'desktop-entry': <'digiforge-outreach'>}" \\
+    ${timeoutMs} >/dev/null 2>&1`;
 
-  // 2. Try gdbus (Universal freedesktop D-Bus standard)
-  const gdbusCmd = `gdbus call --session --dest org.freedesktop.Notifications --object-path /org/freedesktop/Notifications --method org.freedesktop.Notifications.Notify "DigiForge" 0 "" "${safeTitle}" "${safeMsg}" "[]" "{}" ${timeoutMs} >/dev/null 2>&1`;
+  // 2. Fallback: KDE native kdialog
+  const kdialogCmd = `kdialog --passivepopup "${safeBody}" ${Math.round(timeoutMs / 1000)} --title "${safeTitle}" >/dev/null 2>&1`;
 
-  // Try KDE kdialog first, then gdbus fallback
-  exec(kdialogCmd, (err) => {
+  exec(gdbusCmd, (err) => {
     if (err) {
-      exec(gdbusCmd, () => {});
+      exec(kdialogCmd, () => {});
     }
   });
 }
 
 module.exports = { notify };
-
