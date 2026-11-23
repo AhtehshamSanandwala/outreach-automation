@@ -720,3 +720,57 @@ https://kgieworld.sg/,Skipped,"unknown error: net::ERR_NAME_NOT_RESOLVED
 https://www.theedgesingapore.com/news/us-stocks/wall-street-grapples-us57-tril-rout-ai-bets-unwind,Failed,No contact form detected,Loaded,4.0,Opened,Not found,,,,,,,
 https://www.eni.com/en-IT/careers/job-opportunities/ambassador.html,Failed,No contact form detected,Loaded,8.0,Opened,Not found,,,,,,,
 https://leftrightcorp.com/about-us/,Success,Verified thank-you / redirect,Loaded,1.5,Opened,Found,4,"full_name,phone,email,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=115),Success detected
+https://dnm.sg/,Success,Verified thank-you / redirect,Loaded,7.5,Opened,Found,5,"full_name,email,company,subject,message","first_name,last_name,phone,website,job_title,budget,address",,Not present,Clicked: 'SEND' (score=120),Success detected
+https://gloopr.biz/,Failed,No contact form detected,Loaded,1.0,Opened,Not found,,,,,,,
+https://parel.co/about/,Partial,Submitted but missing:  name,Loaded,3.9,Opened,Found,7,"last_name,email,phone,company,website,address,message","first_name,full_name,job_title,subject,budget",,Not present,Clicked: 'Send Your Message' (score=110),Success detected
+https://displayscience.com/about/,Failed,No contact form detected,Loaded,1.0,Opened,Not found,,,,,,,
+https://www.advanceit.sg/it-support,Failed,Submitted but no confirmation detected,Loaded,3.6,Opened,Found,5,"first_name,last_name,email,job_title,message","full_name,phone,company,website,subject,budget,address",,Not present,Clicked: 'Our Services' (score=45),No confirmation
+https://rammp.com.sg/contact/,Failed,No contact form detected,Loaded,3.2,Opened,Not found,,,,,,,
+https://m365.cloud.microsoft/,Failed,No contact form detected,Loaded,13.3,Not found,Not found,,,,,,,
+https://www.itcs-group.com/locations/,Success,Verified thank-you / redirect,Loaded,13.8,Opened,Found,6,"full_name,email,phone,company,select:Nature of Inquiry,message","first_name,last_name,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=100),Success detected
+https://www.asiacloud.com.sg/about-us,Failed,No contact form detected,Loaded,8.1,Opened,Not found,,,,,,,
+https://ardentit.com.sg/it-managed/it-consulting/,Success,Verified thank-you / redirect,Loaded,3.9,Opened,Found,5,"full_name,phone,email,select:Service You Wish To Avail*,message","first_name,last_name,company,website,job_title,subject,budget,address",,Rate-limited at post-submit: reCAPTCHA v2,Clicked: 'Submit' (score=120),Success detected
+https://www.entrustnetwork.com/about/,Success,Verified thank-you / redirect,Loaded,6.8,Opened,Found,5,"full_name,email,phone,company,message","first_name,last_name,website,job_title,subject,budget,address",,Not present,Clicked: 'Send Message' (score=120),Success detected
+https://www.functioneight.com/about-us/,Failed,No contact form detected,Loaded,1.5,Opened,Not found,,,,,,,
+https://www.itoutsourcingsingapore.com/hire-vs-outsource/,Failed,Submitted but no confirmation detected,Loaded,4.1,Opened,Found,10,"full_name,company,phone,email,select:Number of Employees *,select:Number of Computers / Laptops,address,select:Current IT Arrangement,select:Are You Considering Hiring IT Staff?,message","first_name,last_name,website,job_title,subject,budget",,Not present,Clicked: 'Request IT Outsourcing Quote' (score=95),No confirmation
+https://www.eiresystems.com/about/company-profile/,Success,Verified thank-you / redirect,Loaded,11.5,Opened,Found,8,"first_name,last_name,email,phone,company,website,subject,message","full_name,job_title,budget,address",,Auto-solved at post-submit: reCAPTCHA v2,Clicked: 'Contact Us' (score=120),Success detected
+https://www.care.biz/services/it-outsourcing/it-support,Failed,No contact form detected,Loaded,12.0,Opened,Not found,,,,,,,
+https://www.oit.com.sg/managed-it-support-raffles-quay/,Failed,,Loaded,10.0,Opened,Found,3,"full_name,email,message","first_name,last_name,phone,company,website,job_title,subject,budget,address",,Image OCR failed at pre-submit,,
+https://www.psideo.com/CommunityPortal/ProgressivePortal/PSIDEO_3/App/Views/InformationPage/View.aspx,Skipped,Page load timeout,Timeout,,,,,,,,,,
+https://www.singaporesecretaryservices.com/inducing-breach-of-contract-singapore/,Failed,No contact form detected,Loaded,10.4,Opened,Not found,,,,,,,
+https://secretarial.com/,Failed,No contact form detected,Loaded,7.9,Opened,Not found,,,,,,,
+https://www.incorp.asia/contact-us/,Skipped,Page load timeout,Timeout,,,,,,,,,,
+https://officem.com.sg/,Skipped,Page load timeout,Timeout,,,,,,,,,,
+https://corporatesuccess.com.sg/about-us/,Success,Verified thank-you / redirect,Loaded,5.9,Opened,Found,5,"first_name,last_name,email,phone,message","full_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'SEND MESSAGE' (score=120),Success detected
+https://claricount.com/,Failed,No contact form detected,Loaded,1.7,Opened,Not found,,,,,,,
+https://www.shkoh.com.sg/tax-consultancy-advice-for-insurance-agents-in-singapore/,Failed,No contact form detected,Loaded,1.0,Opened,Not found,,,,,,,
+https://www.budgetcorporate.sg/registered-office,Failed,No contact form detected,Loaded,5.3,Opened,Not found,,,,,,,
+https://www.sgcorporateservices.sg/about-1-1,Failed,No contact form detected,Loaded,7.7,Opened,Not found,,,,,,,
+https://corporatefinedge.com/about,Success,Verified thank-you / redirect,Loaded,2.7,Opened,Found,5,"full_name,email,phone,select:Service of Interest,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Send Message' (score=105),Success detected
+https://freeincorp.sg/about-us/,Success,Verified thank-you / redirect,Loaded,5.2,Opened,Found,4,"full_name,phone,email,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'SUBMIT' (score=105),Success detected
+https://www.ask-corporate.com/,Failed,No contact form detected,Loaded,9.2,Opened,Not found,,,,,,,
+https://digitalcorpsect.com/,Failed,No contact form detected,Loaded,4.6,Opened,Not found,,,,,,,
+https://www.singaporebusinesscentre.com.sg/about-us/,Failed,No contact form detected,Loaded,3.5,Opened,Not found,,,,,,,
+https://achibiz.com/about-us/,Failed,No contact form detected,Loaded,5.9,Opened,Not found,,,,,,,
+https://hub.com.sg/about-us/,Success,Verified thank-you / redirect,Loaded,6.4,Opened,Found,5,"full_name,email,phone,select:service,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,"Clicked: 'Contact Us
+Contact Us' (score=110)",Success detected
+https://cacscorporate.com.sg/about-us/,Success,Verified thank-you / redirect,Loaded,3.4,Opened,Found,4,"full_name,email,phone,subject","first_name,last_name,company,website,job_title,message,budget,address",,Not present,Clicked: 'Let’s connect' (score=90),Success detected
+https://www.mitsui-soko.sg/aboutus/,Failed,No contact form detected,Loaded,2.4,Opened,Not found,,,,,,,
+https://www.cevalogistics.com/en/contact-us,Failed,No contact form detected,Loaded,3.6,Opened,Not found,,,,,,,
+https://www.jetsea.com.sg/about-us/,Success,Verified thank-you / redirect,Loaded,9.8,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Not present,Clicked: 'Send' (score=120),Success detected
+https://kmslog.com.sg/about-us/,Success,Verified thank-you / redirect,Loaded,1.7,Opened,Found,3,"full_name,email,message","first_name,last_name,phone,company,website,job_title,subject,budget,address",,Not present,Clicked: 'SUBMIT' (score=120),Success detected
+https://www.craneww.com/industries/cruise-marine,Failed,No contact form detected,Loaded,1.7,Opened,Not found,,,,,,,
+https://cgo.sg/,Failed,No contact form detected,Loaded,4.1,Opened,Not found,,,,,,,
+https://www.cklogasia.com/about-us/,Failed,No form fields detected,Loaded,4.6,Opened,Found,0,,,,,,
+https://sg.logisteed.com/index.html,Skipped,Page load timeout,Timeout,,,,,,,,,,
+https://www.sla.org.sg/digitalLogisticsEcosystem,Failed,No contact form detected,Loaded,1.5,Opened,Not found,,,,,,,
+https://www.rohlig.com/,Success,Verified thank-you / redirect,Loaded,1.3,Opened,Found,5,"first_name,last_name,email,company,message","full_name,phone,website,job_title,subject,budget,address",,Not solved within 20s at post-submit: Captcha challenge text,Clicked: 'Send message' (score=115),Success detected
+https://starconcord.com.sg/about-us/,Failed,No contact form detected,Loaded,3.1,Opened,Not found,,,,,,,
+https://www.swatmobility.com/about-us,Failed,No contact form detected,Loaded,3.8,Opened,Not found,,,,,,,
+https://prioritymailexpress.sg/,Partial,Submitted but missing:  name,Loaded,2.0,Opened,Found,1,email,"first_name,last_name,full_name,phone,company,website,job_title,subject,message,budget,address",,Not present,Clicked: 'SUBSCRIBE' (score=75),Success detected
+http://www.agifreight.com.sg/,Failed,No contact form detected,Loaded,2.2,Opened,Not found,,,,,,,
+http://www.movinghousesingapore.com.sg/,Skipped,"unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
+https://vault268.com.sg/,Failed,No contact form detected,Loaded,0.9,Opened,Not found,,,,,,,
+https://dimerco.com/,Partial,Submitted but missing:  name,Loaded,4.6,Opened,Found,1,email,"first_name,last_name,full_name,phone,company,website,job_title,subject,message,budget,address",,Not present,Clicked: 'Submit' (score=105),Success detected
+https://dimerco.com/,Partial,Submitted but missing:  name,Loaded,4.6,Opened,Found,1,email,"first_name,last_name,full_name,phone,company,website,job_title,subject,message,budget,address",,Not present,Clicked: 'Submit' (score=105),Success detected
