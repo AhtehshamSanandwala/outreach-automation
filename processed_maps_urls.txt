@@ -12453,3 +12453,4 @@ https://www.google.com/maps/place/Reed+Smith+Pte+Ltd/data=!4m7!3m6!1s0x31da190e6
 https://www.google.com/maps/place/Hogan+Lovells/data=!4m7!3m6!1s0x31da190953a264e1:0xa84d0af11c4a2509!8m2!3d1.282889!4d103.8530027!16s%2Fg%2F1tdql50n!19sChIJ4WSiUwkZ2jERCSVKHPEKTag
 https://www.google.com/maps/place/Resource+Law+LLC/data=!4m7!3m6!1s0x31da190eeca218d7:0x68a3506696e408ec!8m2!3d1.2831801!4d103.8520125!16s%2Fg%2F11c4syhmcm!19sChIJ1xii7A4Z2jER7AjklmZQo2g
 https://www.google.com/maps/place/OC+Queen+Street+LLC/data=!4m7!3m6!1s0x31da190bfd7fdd53:0x50dc8b0749593f4!8m2!3d1.3000342!4d103.8576382!16s%2Fg%2F11hb2qw0sv!19sChIJU91__QsZ2jER9JOVdLDIDQU
+https://www.google.com/maps/place/Tan+%26+Au+LLP/data=!4m7!3m6!1s0x31da1913440f0e5b:0x9c11ae35ae696d52!8m2!3d1.2760013!4d103.8459347!16s%2Fg%2F1tfr7q6_!19sChIJWw4PRBMZ2jERUm1prjWuEZw
