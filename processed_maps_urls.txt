@@ -12218,3 +12218,7 @@ https://www.google.com/maps/place/Rhino+Partners+Pte.+Ltd./data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Easyera+Pte.+Ltd./data=!4m7!3m6!1s0x31da19ce8bad8d8d:0xebe986763dd1f2cf!8m2!3d1.2929869!4d103.8322498!16s%2Fg%2F11xrn4zs41!19sChIJjY2ti84Z2jERz_LRPXaG6es
 https://www.google.com/maps/place/Hyperlink+InfoSystem/data=!4m7!3m6!1s0x395e83495886e8ff:0x9de15da989d2bf4b!8m2!3d23.0752274!4d72.5256776!16s%2Fg%2F11b5qw8dt1!19sChIJ_-iGWEmDXjkRS7_Siald4Z0
 https://www.google.com/maps/place/Integrated+Retail+-+Delivering+Innovation+for+Retail/data=!4m7!3m6!1s0x31da1941023e1833:0x2478fa6e3fe28d48!8m2!3d1.3593882!4d103.8341087!16s%2Fg%2F11qlm9s2r6!19sChIJMxg-AkEZ2jERSI3iP276eCQ
+https://www.google.com/maps/place/NiTM+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da1914bd555555:0xf1fc9a8254e8fc55!8m2!3d1.3584275!4d103.8336301!16s%2Fg%2F1vxz741_!19sChIJVVVVvRQZ2jERVfzoVIKa_PE
+https://www.google.com/maps/place/Appsmakerstore+Southeast+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da19f7f8c144fd:0xe0559876672bd422!8m2!3d1.3168043!4d103.8618795!16s%2Fg%2F11j4fjd156!19sChIJ_UTB-PcZ2jERItQrZ3aYVeA
+https://www.google.com/maps/place/ITify+LLP/data=!4m7!3m6!1s0x31da1719cf3bc6f9:0xfbdd67a3c64d68d9!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F11ghdr6tgs!19sChIJ-cY7zxkX2jER2WhNxqNn3fs
+https://www.google.com/maps/place/Portcities+Singapore/data=!4m7!3m6!1s0x31da1906b109a481:0x4af444f5dbbbb9a5!8m2!3d1.288031!4d103.8477936!16s%2Fg%2F11mvsg86lz!19sChIJgaQJsQYZ2jERpbm72_VE9Eo
