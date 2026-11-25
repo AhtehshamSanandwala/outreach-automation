@@ -12585,3 +12585,6 @@ https://www.google.com/maps/place/Former+City+Hall/data=!4m7!3m6!1s0x31da19a73c8
 https://www.google.com/maps/place/Gotham+Singapore/data=!4m7!3m6!1s0x31da196f339aca99:0xd6791d0311c91f8f!8m2!3d1.300164!4d103.8577305!16s%2Fg%2F11lq2spyhl!19sChIJmcqaM28Z2jERjx_JEQMdedY
 https://www.google.com/maps/place/LOOK+Architects/data=!4m7!3m6!1s0x31da107567e322fb:0x2794a35c53d69ff5!8m2!3d1.328382!4d103.752966!16s%2Fg%2F1tct66w6!19sChIJ-yLjZ3UQ2jER9Z_WU1yjlCc
 https://www.google.com/maps/place/City+Architectural+Models+Studio/data=!4m7!3m6!1s0x31da1488bb9ae721:0xfb258b5121d1a0ce!8m2!3d1.4430729!4d103.833904!16s%2Fg%2F1pv0x344y!19sChIJIeeau4gU2jERzqDRIVGLJfs
+https://www.google.com/maps/place/Singapore+Institute+of+Landscape+Architects/data=!4m7!3m6!1s0x31da1bd13f2aed35:0x23da4f326f0c9b72!8m2!3d1.2986691!4d103.8533635!16s%2Fg%2F1ptwc0n6r!19sChIJNe0qP9Eb2jERcpsMbzJP2iM
+https://www.google.com/maps/place/P+%26+T+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x31da190ec8100e47:0x622d386c25bc230a!8m2!3d1.2984708!4d103.8588833!16s%2Fg%2F1tsjb5g8!19sChIJRw4QyA4Z2jERCiO8JWw4LWI
+https://www.google.com/maps/place/Ipli+Architects/data=!4m7!3m6!1s0x31da1b2f99a3ccd3:0x953e7ea7352c6981!8m2!3d1.2754557!4d103.7958446!16s%2Fg%2F11ksl5vsql!19sChIJ08yjmS8b2jERgWksNad-PpU
