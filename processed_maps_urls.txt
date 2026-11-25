@@ -12783,3 +12783,6 @@ https://www.google.com/maps/place/Teambuild+Construction+Group/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/KTC+Civil+Engineering+%26+Construction+Pte+Ltd/data=!4m7!3m6!1s0x31da1aeb7fd3960f:0xd1a772c240db07ea!8m2!3d1.306197!4d103.757756!16s%2Fg%2F1tx4lwvh!19sChIJD5bTf-sa2jER6gfbQMJyp9E
 https://www.google.com/maps/place/CGW+Construction+%26+Engineering+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da17b147897e25:0x15a32497cfdc68b7!8m2!3d1.318533!4d103.877395!16s%2Fg%2F1v2dz0b4!19sChIJJX6JR7EX2jERt2jcz5ckoxU
 https://www.google.com/maps/place/SCAL+Construction+Hub/data=!4m7!3m6!1s0x31da1bcc41395dfd:0x168f9e9612c40731!8m2!3d1.3291679!4d103.8749769!16s%2Fg%2F1tw_krx3!19sChIJ_V05Qcwb2jERMQfEEpaejxY
+https://www.google.com/maps/place/Gammon+Pte.+Limited/data=!4m7!3m6!1s0x31da1aa0aab6a4bf:0xca4d26a00af56bc!8m2!3d1.3289885!4d103.7486486!16s%2Fg%2F1tdznnjk!19sChIJv6S2qqAa2jERvFavAGrSpAw
+https://www.google.com/maps/place/Sim+Lian+Construction+Co.+%28Pte.%29+Ltd./data=!4m7!3m6!1s0x1004054442604fe9:0x88552fda1aab3adc!8m2!3d1.344467!4d103.7743314!16s%2Fg%2F1q6h_yz5q!19sChIJ6U9gQkQFBBAR3DqrGtovVYg
+https://www.google.com/maps/place/Straits+Construction+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1bcd933f5b7b:0x50d9b22dfd02f43a!8m2!3d1.2857164!4d103.8091122!16s%2Fg%2F1tgjhtjz!19sChIJe1s_k80b2jEROvQC_S2y2VA
