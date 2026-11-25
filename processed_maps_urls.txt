@@ -12627,3 +12627,5 @@ https://www.google.com/maps/place/Kistler+Instruments+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Panduit+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da05ff350e5807:0xf50688209801f219!8m2!3d1.2962426!4d103.8532723!16s%2Fg%2F1td9n0tc!19sChIJB1gONf8F2jERGfIBmCCIBvU
 https://www.google.com/maps/place/Testmax+Manufacturing+Pte+Ltd+%28Singapore%29/data=!4m7!3m6!1s0x31da177d1db87aaf:0x9dd8ef8b7fb2ae34!8m2!3d1.3882218!4d103.848673!16s%2Fg%2F1tdy6k_p!19sChIJr3q4HX0X2jERNK6yf4vv2J0
 https://www.google.com/maps/place/Alliance+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da0f505b7387ed:0xa95d7b1e4cdcc074!8m2!3d1.335155!4d103.645963!16s%2Fg%2F11btws5380!19sChIJ7YdzW1AP2jERdMDcTB57Xak
+https://www.google.com/maps/place/Taihei+Industries+Pte+Ltd+%28Singapore%29/data=!4m7!3m6!1s0x31da1787ae9ea527:0xb4357d787abc7592!8m2!3d1.3284757!4d103.8771554!16s%2Fg%2F1tczy0hh!19sChIJJ6WerocX2jERknW8enh9NbQ
+https://www.google.com/maps/place/Semiconductor+Technologies+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1725ef011a6b:0x2a5a3a402d6e86a2!8m2!3d1.3587374!4d103.8342185!16s%2Fg%2F11b5pk5166!19sChIJaxoB7yUX2jERooZuLUA6Wio
