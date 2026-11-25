@@ -12609,3 +12609,4 @@ https://www.google.com/maps/place/Murata+Electronics+Singapore+%28Pte.%29+Ltd./d
 https://www.google.com/maps/place/Concentrate+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da056508d877f3:0xe6fcf64c33d1256a!8m2!3d1.3199582!4d103.6973314!16s%2Fg%2F11c3128dxl!19sChIJ83fYCGUF2jERaiXRM0z2_OY
 https://www.google.com/maps/place/JSL+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da1832cee2ef43:0xacf35796b0cc50d1!8m2!3d1.3147767!4d103.8686729!16s%2Fg%2F1tf05552!19sChIJQ-_izjIY2jER0VDMsJZX86w
 https://www.google.com/maps/place/Angel+Manufacturing+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da0f46bed206b9:0xf2f6fc5c3c292a1!8m2!3d1.3570974!4d103.7070161!16s%2Fg%2F11f7kv99zs!19sChIJuQbSvkYP2jERoZLCw8VvLw8
+https://www.google.com/maps/place/Advanced+Integrated+Manufacturing+Corporation.+Ltd/data=!4m7!3m6!1s0x31da17f597562de9:0x43894bfaf0749a3f!8m2!3d1.3390535!4d103.9715981!16s%2Fg%2F1td0d06z!19sChIJ6S1Wl_UX2jERP5p08PpLiUM
