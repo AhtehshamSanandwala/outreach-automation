@@ -12677,3 +12677,4 @@ https://www.google.com/maps/place/Hicharge+Technology/data=!4m7!3m6!1s0x31da161a
 https://www.google.com/maps/place/Source+EC/data=!4m7!3m6!1s0x31da196d52ba38d5:0x590a52d682bf476b!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11bxf449xh!19sChIJ1Ti6Um0Z2jERa0e_gtZSClk
 https://www.google.com/maps/place/Vale+Enterprise+LLP/data=!4m7!3m6!1s0x31da17866d719041:0xc307a742b7bf2aff!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11s0kk389x!19sChIJQZBxbYYX2jER_yq_t0KnB8M
 https://www.google.com/maps/place/Mation/data=!4m7!3m6!1s0x31da1725ee50de77:0xe29d319cd50ae838!8m2!3d1.3580964!4d103.8339922!16s%2Fg%2F11fm4ys4nn!19sChIJd95Q7iUX2jEROOgK1ZwxneI
+https://www.google.com/maps/place/RFCOM+Technologies+Pte.+Ltd./data=!4m7!3m6!1s0x31da177304abfa61:0x67368642a418d98!8m2!3d1.3580295!4d103.8334895!16s%2Fg%2F11gr60jf6p!19sChIJYfqrBHMX2jERmI1BKmRocwY
