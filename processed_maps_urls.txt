@@ -12606,3 +12606,4 @@ https://www.google.com/maps/place/Imperial+Manufacturing+Pte+Ltd/data=!4m7!3m6!1
 https://www.google.com/maps/place/Singapore+Manufacturing+Federation/data=!4m7!3m6!1s0x31da1bd164eb278d:0x8d0298dd05896c0b!8m2!3d1.2778014!4d103.8007987!16s%2Fg%2F1tr799zn!19sChIJjSfrZNEb2jERC2yJBd2YAo0
 https://www.google.com/maps/place/PLC+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da1ab38a585fc1:0x1ad44105cc02a0cf!8m2!3d1.313141!4d103.7328538!16s%2Fg%2F1w6r5t33!19sChIJwV9YirMa2jERz6ACzAVB1Bo
 https://www.google.com/maps/place/Murata+Electronics+Singapore+%28Pte.%29+Ltd./data=!4m7!3m6!1s0x31da1462a8702429:0x464c6497f3ee8d33!8m2!3d1.4390465!4d103.8335446!16s%2Fg%2F1tdvm7k6!19sChIJKSRwqGIU2jERM43u85dkTEY
+https://www.google.com/maps/place/Concentrate+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da056508d877f3:0xe6fcf64c33d1256a!8m2!3d1.3199582!4d103.6973314!16s%2Fg%2F11c3128dxl!19sChIJ83fYCGUF2jERaiXRM0z2_OY
