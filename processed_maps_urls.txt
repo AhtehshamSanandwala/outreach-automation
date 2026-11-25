@@ -12318,3 +12318,5 @@ https://www.google.com/maps/place/Accenture/data=!4m7!3m6!1s0x31da19a6834ab653:0
 https://www.google.com/maps/place/Cisstac+Pte.+Ltd./data=!4m7!3m6!1s0x31da19b03cfb42d3:0x608f4605d1ba079a!8m2!3d1.2990692!4d103.8580647!16s%2Fg%2F11m__k2rzy!19sChIJ00L7PLAZ2jERmge60QVGj2A
 https://www.google.com/maps/place/CSIntelligence+Pte+Ltd+-+24%2F7+Cyber+Defenders+Singapore/data=!4m7!3m6!1s0x31da1957cded1b25:0x50cf5e2251634c67!8m2!3d1.2864244!4d103.827346!16s%2Fg%2F11fgm64_05!19sChIJJRvtzVcZ2jERZ0xjUSJez1A
 https://www.google.com/maps/place/Thales+DIS+Singapore/data=!4m7!3m6!1s0x31da1a4e2d387cc9:0x2817d357fc7cf921!8m2!3d1.2965883!4d103.7879173!16s%2Fg%2F1tcvwyt5!19sChIJyXw4LU4a2jERIfl8_FfTFyg
+https://www.google.com/maps/place/cyber+security+course+singapore/data=!4m7!3m6!1s0x31da174ad24e55d5:0xe8412b13255acd36!8m2!3d1.32852!4d103.8757511!16s%2Fg%2F11vb_xmd7n!19sChIJ1VVO0koX2jERNs1aJRMrQeg
+https://www.google.com/maps/place/syscyber+security+and+solutions+pte+ltd/data=!4m7!3m6!1s0x31da1b018a46e071:0x1a652022bcbeb0b0!8m2!3d1.3132336!4d103.7514544!16s%2Fg%2F11ty3_x_sk!19sChIJceBGigEb2jERsLC-vCIgZRo
