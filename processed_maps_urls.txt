@@ -12545,3 +12545,5 @@ https://www.google.com/maps/place/Aerostar+Corporation+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/KK+Forges+LLP/data=!4m7!3m6!1s0x31da17d98227a025:0xd11640ba402618a7!8m2!3d1.3836886!4d103.8282377!16s%2Fg%2F11s17p6my7!19sChIJJaAngtkX2jERpxgmQLpAFtE
 https://www.google.com/maps/place/ASET+Engineers+Pte+Ltd/data=!4m7!3m6!1s0x31da17d387df9565:0x7b683cd387745417!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F11g_v69776!19sChIJZZXfh9MX2jERF1R0h9M8aHs
 https://www.google.com/maps/place/Everest+Cool+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da175255632b49:0x1d4df278711b9ab2!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F11r9nnl2zw!19sChIJSStjVVIX2jERspobcXjyTR0
+https://www.google.com/maps/place/TechNarwhals/data=!4m7!3m6!1s0x31da17151ee3c9c1:0x2c3784e5fa848f84!8m2!3d1.3270245!4d103.8464664!16s%2Fg%2F11v3_t66vb!19sChIJwcnjHhUX2jERhI-E-uWENyw
+https://www.google.com/maps/place/Everest+Heatec+Enterprise/data=!4m7!3m6!1s0x31da1714a4c305f9:0x28f3ca7a9aef45c6!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11y34kt72k!19sChIJ-QXDpBQX2jERxkXvmnrK8yg
