@@ -12361,3 +12361,5 @@ https://www.google.com/maps/place/Antarex+%28SG%29+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/IronNet+cybersecurity/data=!4m7!3m6!1s0x31da19d00d997b8b:0xd2bf955ebfcf9a1a!8m2!3d1.2783154!4d103.8487085!16s%2Fg%2F11h7_t2kbt!19sChIJi3uZDdAZ2jERGprPv16Vv9I
 https://www.google.com/maps/place/i-schoolapp/data=!4m7!3m6!1s0x31da17c4dc4a715d:0xaac2903711c9595a!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F11s5lwwwt9!19sChIJXXFK3MQX2jERWlnJETeQwqo
 https://www.google.com/maps/place/ACSOLV+CONSULT+PTE.+LTD./data=!4m7!3m6!1s0x31da17fac5e2b881:0x8c7b005dae9f5f00!8m2!3d1.3335818!4d103.8920859!16s%2Fg%2F11bbrl2y48!19sChIJgbjixfoX2jERAF-frl0Ae4w
+https://www.google.com/maps/place/OrangeKloud,+INC./data=!4m7!3m6!1s0x31da159b270798b9:0xdf54f40c83f594bc!8m2!3d1.316296!4d103.8628014!16s%2Fg%2F11f6y1hbkd!19sChIJuZgHJ5sV2jERvJT1gwz0VN8
+https://www.google.com/maps/place/Applivon+Pte+Ltd/data=!4m7!3m6!1s0x31da3dfc71ae70df:0x271cdd7a0aa748ba!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11h8ftxs2c!19sChIJ33Cucfw92jERukinCnrdHCc
