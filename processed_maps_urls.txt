@@ -12765,3 +12765,6 @@ https://www.google.com/maps/place/Global+Marine+Safety+Pte.+Ltd./data=!4m7!3m6!1
 https://www.google.com/maps/place/Hoidi+International/data=!4m7!3m6!1s0x31da19a91c22c4bb:0x99bff294c8d795f!8m2!3d1.2946975!4d103.859618!16s%2Fg%2F11b6svml0r!19sChIJu8QiHKkZ2jERX3mNTCn_mwk
 https://www.google.com/maps/place/Singapore+Island+Cruise+%26+Ferry+Services+%7C+St+John%27s%2FLazarus,+Kusu+%26+Sisters%27+Island/data=!4m7!3m6!1s0x31da191f77bbbc09:0x314af2095eeedae!8m2!3d1.2710096!4d103.8632179!16s%2Fg%2F1w96d8cq!19sChIJCby7dx8Z2jERru3ulSCvFAM
 https://www.google.com/maps/place/Aurora+Maritime+PTE+LTD/data=!4m7!3m6!1s0x31da19cc4909cf83:0xbf983611dd54d3a7!8m2!3d1.295272!4d103.8596019!16s%2Fg%2F11y27pyc5z!19sChIJg88JScwZ2jERp9NU3RE2mL8
+https://www.google.com/maps/place/Asia+Offshore+Pte+Ltd/data=!4m7!3m6!1s0x31da05f927854449:0x996befc91e63cff8!8m2!3d1.3253112!4d103.6429174!16s%2Fg%2F11c520rvvc!19sChIJSUSFJ_kF2jER-M9jHsnva5k
+https://www.google.com/maps/place/Seatrium+Shipyard+Ltd+%28Benoi+Rd%29/data=!4m7!3m6!1s0x31da05a5d1528493:0x4ecd908ec0dd5ace!8m2!3d1.2996002!4d103.6773194!16s%2Fg%2F1tfq6r5x!19sChIJk4RS0aUF2jERzlrdwI6QzU4
+https://www.google.com/maps/place/Pamarine+Private+Limited/data=!4m7!3m6!1s0x31da0f515c3114cd:0x7b73f5ac21c5ba1d!8m2!3d1.333446!4d103.6421585!16s%2Fg%2F12llq3kn_!19sChIJzRQxXFEP2jERHbrFIaz1c3s
