@@ -12550,3 +12550,4 @@ https://www.google.com/maps/place/Everest+Heatec+Enterprise/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Technithon+International+Pte.+Ltd./data=!4m7!3m6!1s0x31da1725f6b4c95b:0x7aa584c9db77ec1f!8m2!3d1.358586!4d103.83358!16s%2Fg%2F1pv2l7mmw!19sChIJW8m09iUX2jERH-x328mEpXo
 https://www.google.com/maps/place/PI+ARCHITECTS/data=!4m7!3m6!1s0x31da19452b01ecbb:0x63158a12a897d1f1!8m2!3d1.324926!4d103.879401!16s%2Fg%2F11g0_5411l!19sChIJu-wBK0UZ2jER8dGXqBKKFWM
 https://www.google.com/maps/place/TA.LE+Architects/data=!4m7!3m6!1s0x31da190cf0935267:0x8ba3b27943d2fed!8m2!3d1.2801853!4d103.8482963!16s%2Fg%2F11cnwh39yy!19sChIJZ1KT8AwZ2jER7S89lCc7ugg
+https://www.google.com/maps/place/WOHA+Architects/data=!4m7!3m6!1s0x31da190af20edc5f:0x9851f7bee3e87cc3!8m2!3d1.2876337!4d103.8470054!16s%2Fg%2F1tpn0253!19sChIJX9wO8goZ2jERw3zo4773UZg
