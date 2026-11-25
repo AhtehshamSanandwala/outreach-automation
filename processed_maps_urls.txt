@@ -12312,3 +12312,4 @@ https://www.google.com/maps/place/INTfinity+Consulting/data=!4m7!3m6!1s0x31da193
 https://www.google.com/maps/place/D%E2%80%99Crypt/data=!4m7!3m6!1s0x31da1a4e55555555:0x428369610af4c5f6!8m2!3d1.3475744!4d103.8412838!16s%2Fg%2F11c2r0f11b!19sChIJVVVVVU4a2jER9sX0CmFpg0I
 https://www.google.com/maps/place/Acronis/data=!4m7!3m6!1s0x31da1962ad501335:0x2d2732b71b2fce59!8m2!3d1.2952806!4d103.859597!16s%2Fg%2F1tk6mvn0!19sChIJNRNQrWIZ2jERWc4vG7cyJy0
 https://www.google.com/maps/place/CyberSG+TIG+Collaboration+Centre+%28formerly+ICE71%29/data=!4m7!3m6!1s0x31da1b853b263aa5:0xd311e76b8daa2e94!8m2!3d1.2923879!4d103.7756989!16s%2Fg%2F11vt4nmyh_!19sChIJpTomO4Ub2jERlC6qjWvnEdM
+https://www.google.com/maps/place/Terrabyte+Group/data=!4m7!3m6!1s0x31da165ba3ab78b5:0x8eb6cb072fe65c9a!8m2!3d1.3417116!4d103.8855366!16s%2Fg%2F1th5fzhb!19sChIJtXiro1sW2jERmlzmLwfLto4
