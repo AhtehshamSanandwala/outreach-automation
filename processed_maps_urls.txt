@@ -12561,3 +12561,4 @@ https://www.google.com/maps/place/ID+Architects/data=!4m7!3m6!1s0x31da19e7c7aa13
 https://www.google.com/maps/place/Singapore+Institute+of+Architects/data=!4m7!3m6!1s0x31da196d78262aa1:0x7b72e72052ff9445!8m2!3d1.2791459!4d103.8421135!16s%2Fg%2F1v_z1w3v!19sChIJoSomeG0Z2jERRZT_UiDncns
 https://www.google.com/maps/place/DCA+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da190bfc7d1e37:0xd8257530aac45f7f!8m2!3d1.2648865!4d103.818133!16s%2Fg%2F1v7pv_11!19sChIJNx59_AsZ2jERf1_EqjB1Jdg
 https://www.google.com/maps/place/RSP+Architects+Planners+%26+Engineers+%28Pte%29+Ltd./data=!4m7!3m6!1s0x31da19f2ac913751:0x28b42acf3ec07867!8m2!3d1.2769024!4d103.8479514!16s%2Fg%2F1tsjb5kb!19sChIJUTeRrPIZ2jERZ3jAPs8qtCg
+https://www.google.com/maps/place/L+Architects/data=!4m7!3m6!1s0x31da0f85a8b916d5:0x67384472ff4caae2!8m2!3d1.3499144!4d103.8418276!16s%2Fg%2F11h52ywn8y!19sChIJ1Ra5qIUP2jER4qpM_3JEOGc
