@@ -12602,3 +12602,5 @@ https://www.google.com/maps/place/Armstrong+Industrial+Corporation+Limited+%28Si
 https://www.google.com/maps/place/HG+Metal+Manufacturing+Limited/data=!4m7!3m6!1s0x31da0556a05a686b:0xb3f786c66600a51f!8m2!3d1.3130648!4d103.707138!16s%2Fg%2F1ttp_md3!19sChIJa2haoFYF2jERH6UAZsaG97M
 https://www.google.com/maps/place/Sin+Cheong+Containers+Manufacturing+Co.+%28Pte%29+Ltd./data=!4m7!3m6!1s0x31da059b3047fad1:0x18353bb1879306ae!8m2!3d1.3182023!4d103.674715!16s%2Fg%2F1wc2zrhk!19sChIJ0fpHMJsF2jERrgaTh7E7NRg
 https://www.google.com/maps/place/ROHM+Semiconductor+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da199f3c3c1747:0xcc152b029d64c4dd!8m2!3d1.292809!4d103.842937!16s%2Fg%2F11b7r_pxm5!19sChIJRxc8PJ8Z2jER3cRknQIrFcw
+https://www.google.com/maps/place/Imperial+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da3d0d367198bf:0x876356b35e1539de!8m2!3d1.3373091!4d103.9435094!16s%2Fg%2F11rkcfvxkr!19sChIJv5hxNg092jER3jkVXrNWY4c
+https://www.google.com/maps/place/Singapore+Manufacturing+Federation/data=!4m7!3m6!1s0x31da1bd164eb278d:0x8d0298dd05896c0b!8m2!3d1.2778014!4d103.8007987!16s%2Fg%2F1tr799zn!19sChIJjSfrZNEb2jERC2yJBd2YAo0
