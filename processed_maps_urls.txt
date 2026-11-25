@@ -12304,3 +12304,5 @@ https://www.google.com/maps/place/Conversant+Solutions/data=!4m7!3m6!1s0x31da19a
 https://www.google.com/maps/place/Smart+Nation+and+Digital+Government+Office+%28SNDGO%29/data=!4m7!3m6!1s0x31da194fce96d93d:0x76f02b2ff35495bf!8m2!3d1.2915157!4d103.8501338!16s%2Fg%2F11hm_5pdcj!19sChIJPdmWzk8Z2jERv5VU8y8r8HY
 https://www.google.com/maps/place/Certis+Commonwealth/data=!4m7!3m6!1s0x31da16597c5a51e7:0xd18f1b30ada5d740!8m2!3d1.3049332!4d103.7969628!16s%2Fg%2F1tg5x448!19sChIJ51FafFkW2jERQNelrTAbj9E
 https://www.google.com/maps/place/Tenable+Singapore/data=!4m7!3m6!1s0x31da19b05dfefccf:0xafb3f274091a03e!8m2!3d1.2955667!4d103.858987!16s%2Fg%2F11c47zvjfc!19sChIJz_z-XbAZ2jERPqCRQCc_-wo
+https://www.google.com/maps/place/Computer+Security+Initiative+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da1bb923672c0d:0x695bfff853e7fb4d!8m2!3d1.276217!4d103.794921!16s%2Fg%2F1pv610vz2!19sChIJDSxnI7kb2jERTfvnU_j_W2k
+https://www.google.com/maps/place/Cyber+Security+Research+Centre+@+NTU+%28CYSREN%29/data=!4m7!3m6!1s0x31da0f0ed6895ce5:0xe21743d23df45bbc!8m2!3d1.3467009!4d103.6822145!16s%2Fg%2F11rq2f_bqr!19sChIJ5VyJ1g4P2jERvFv0PdJDF-I
