@@ -12505,3 +12505,4 @@ https://www.google.com/maps/place/Hitech+Engineering,+M%26E+Consultants/data=!4m
 https://www.google.com/maps/place/APEL+Pte+Ltd/data=!4m7!3m6!1s0x31da17d285e3215d:0x1d70c0032802f74a!8m2!3d1.3594917!4d103.8340235!16s%2Fg%2F11tp7770kj!19sChIJXSHjhdIX2jERSvcCKAPAcB0
 https://www.google.com/maps/place/KCL+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x31da187143e701d3:0x2ae5cf06abe6d91c!8m2!3d1.3123942!4d103.8628207!16s%2Fg%2F1ptxw163h!19sChIJ0wHnQ3EY2jERHNnmqwbP5So
 https://www.google.com/maps/place/Sterling+Engineers+Pte+Ltd/data=!4m7!3m6!1s0x31da178cb56c05f1:0xef1bfe5ba0b17c0b!8m2!3d1.3084036!4d103.8622518!16s%2Fg%2F11btxcsvbb!19sChIJ8QVstYwX2jERC3yxoFv-G-8
+https://www.google.com/maps/place/LC+Engineering+Services+Pte.+Ltd.+%28LEW+Services%29/data=!4m7!3m6!1s0x31da1015af5c94ff:0x18dd0b9aff500994!8m2!3d1.3308901!4d103.8900219!16s%2Fg%2F11c1wsgr_h!19sChIJ_5RcrxUQ2jERlAlQ_5oL3Rg
