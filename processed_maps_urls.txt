@@ -12234,3 +12234,5 @@ https://www.google.com/maps/place/zappz+pte+ltd/data=!4m7!3m6!1s0x31da171202f765
 https://www.google.com/maps/place/DEVR+Tech+Enterprise/data=!4m7!3m6!1s0xa25dcfe2986ca29f:0x13a1e6cf3ae8f834!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11t2y_h4t0!19sChIJn6JsmOLPXaIRNPjoOs_moRM
 https://www.google.com/maps/place/Gametop+Pte+Ltd/data=!4m7!3m6!1s0x31da19f2ab507bcb:0xc6a3015bf4aea732!8m2!3d1.3299464!4d103.7446555!16s%2Fg%2F11c3trm776!19sChIJy3tQq_IZ2jERMqeu9FsBo8Y
 https://www.google.com/maps/place/ITCAN+PTE+LTD/data=!4m7!3m6!1s0x31da19127b36744b:0x4e8d8e5b324321ae!8m2!3d1.2828776!4d103.8499315!16s%2Fg%2F1tg7zzyx!19sChIJS3Q2exIZ2jERriFDMluOjU4
+https://www.google.com/maps/place/UI+UX+Design+School/data=!4m7!3m6!1s0x31da19c8a0555555:0x988de7ff698b0d42!8m2!3d1.3113982!4d103.8565897!16s%2Fg%2F11w4k95xcq!19sChIJVVVVoMgZ2jERQg2Laf_njZg
+https://www.google.com/maps/place/Apptech+System+Pte+Ltd/data=!4m7!3m6!1s0x31da170d71442251:0x38d037d498a57dc2!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11kkkx1kvw!19sChIJUSJEcQ0X2jERwn2lmNQ30Dg
