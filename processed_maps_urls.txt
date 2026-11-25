@@ -12402,3 +12402,5 @@ https://www.google.com/maps/place/PDLegal+LLC/data=!4m7!3m6!1s0x31da190ea9f05ef9
 https://www.google.com/maps/place/LSBF+in+Singapore+%28London+School+of+Business+and+Finance%29/data=!4m7!3m6!1s0x31da19094d735f89:0x4d8337ba3a7f8fd9!8m2!3d1.2789127!4d103.848173!16s%2Fg%2F12qgh7608!19sChIJiV9zTQkZ2jER2Y9_Oro3g00
 https://www.google.com/maps/place/Dentons+Rodyk+%26+Davidson+LLP/data=!4m7!3m6!1s0x31da190935638dcb:0x3a7482667a94b3e8!8m2!3d1.2857195!4d103.8501255!16s%2Fg%2F1vtqslrr!19sChIJy41jNQkZ2jER6LOUemaCdDo
 https://www.google.com/maps/place/Twin+Cities+Accounting+Advisory+Pte+Ltd/data=!4m7!3m6!1s0x6922eceb16caa823:0xaf87f557cf63cb76!8m2!3d4.186514!4d109.1677!16s%2Fg%2F11xl3tfwm7!19sChIJI6jKFuvsImkRdstjz1f1h68
+https://www.google.com/maps/place/JM+Partners/data=!4m7!3m6!1s0x31da191343eb5b27:0xbee254b9eb22989d!8m2!3d1.2913131!4d103.8512472!16s%2Fg%2F11cs5s4nhf!19sChIJJ1vrQxMZ2jERnZgi67lU4r4
+https://www.google.com/maps/place/Connexions+Corporate+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da18185d4b79b3:0x43ca6b21257f7c0e!8m2!3d1.3585618!4d103.833479!16s%2Fg%2F11cmb9859_!19sChIJs3lLXRgY2jERDnx_JSFrykM
