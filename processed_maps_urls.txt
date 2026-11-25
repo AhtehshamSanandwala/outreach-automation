@@ -12732,3 +12732,4 @@ https://www.google.com/maps/place/ST+Engineering/data=!4m7!3m6!1s0x31da05a1cda49
 https://www.google.com/maps/place/Technology+Centre+for+Offshore+and+Marine,+Singapore/data=!4m7!3m6!1s0x31da1bbf10fcb867:0xde0731905333c761!8m2!3d1.293035!4d103.7766103!16s%2Fg%2F11c6dvq7c9!19sChIJZ7j8EL8b2jERYcczU5AxB94
 https://www.google.com/maps/place/Marine+Consultants+%26+Engineers+Pte+Ltd/data=!4m7!3m6!1s0x31da19b1be61664b:0x54944049d3b8e1f3!8m2!3d1.2854707!4d103.8507043!16s%2Fg%2F1ptvrwvvd!19sChIJS2ZhvrEZ2jER8-G400lAlFQ
 https://www.google.com/maps/place/Maritime+%26+Port+Authority+Of+Singapore/data=!4m7!3m6!1s0x31da1bc11b63f16b:0xc0af43cde5b858ad!8m2!3d1.2736761!4d103.8015216!16s%2Fg%2F1tcw_0y3!19sChIJa_FjG8Eb2jERrVi45c1Dr8A
+https://www.google.com/maps/place/ACE+MARINE+%26+OFFSHORE-+NAVAL+ARCHITECTS+AND+SURVEYORS/data=!4m7!3m6!1s0x31da19a426259ebd:0xd566a0a2eb41433c!8m2!3d1.2845452!4d103.8526975!16s%2Fg%2F11gc9sf79v!19sChIJvZ4lJqQZ2jERPENB66KgZtU
