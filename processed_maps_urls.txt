@@ -12590,3 +12590,4 @@ https://www.google.com/maps/place/P+%26+T+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Ipli+Architects/data=!4m7!3m6!1s0x31da1b2f99a3ccd3:0x953e7ea7352c6981!8m2!3d1.2754557!4d103.7958446!16s%2Fg%2F11ksl5vsql!19sChIJ08yjmS8b2jERgWksNad-PpU
 https://www.google.com/maps/place/Timur+Designs+LLP/data=!4m7!3m6!1s0x31da17258ae1977d:0x24b41ba2f8d24770!8m2!3d1.3581502!4d103.8332378!16s%2Fg%2F1ptyjpbdt!19sChIJfZfhiiUX2jERcEfS-KIbtCQ
 https://www.google.com/maps/place/AKN+Architects/data=!4m7!3m6!1s0x31da181e37227781:0x3aeefa21a3581ee0!8m2!3d1.3248019!4d103.8946879!16s%2Fg%2F11c1wsj28p!19sChIJgXciNx4Y2jER4B5YoyH67jo
+https://www.google.com/maps/place/DesignSingapore+Council/data=!4m7!3m6!1s0x31da19a0e59d78f7:0xb3100638cc7fdb1c!8m2!3d1.2986691!4d103.8533635!16s%2Fg%2F1pzpt31lk!19sChIJ93id5aAZ2jERHNt_zDgGELM
