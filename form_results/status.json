@@ -1,10 +1,11 @@
 {
-  "state": "running",
-  "pid": 8565,
-  "singapore_time": "14:14:56 SGT",
-  "date": "2026-11-25",
+  "state": "cooldown",
+  "pid": 4576,
+  "singapore_time": "05:01:51 SGT",
+  "date": "2026-11-26",
   "today_batches_completed": 0,
   "max_daily_batches": 3,
-  "last_updated": "2026-11-25T06:14:56.893Z",
-  "inhibiting_shutdown": false
+  "last_updated": "2026-11-25T21:01:51.063Z",
+  "message": "Sleeping until next business window (179m remaining)",
+  "next_wake_sgt": "8:00:00 AM"
 }

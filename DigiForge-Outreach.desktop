@@ -5,7 +5,7 @@ Name=DigiForge Outreach (Start)
 Comment=Start Singapore Outreach Background Automation & Notifications
 Exec=/run/media/ahtesham/HDD/Project/DigiForgeScripts/outreach-automation/start.sh
 Icon=mail-send
-Terminal=false
+Terminal=true
 Categories=Office;Network;Utility;
 StartupNotify=true
 

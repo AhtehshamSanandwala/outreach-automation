@@ -353,10 +353,8 @@ async function processUrl(driver, url, record, contact) {
       : [];
 
     if (idx >= allUrls.length) {
-      // No more URLs — wait for new ones
-      process.stdout.write('.');
-      await sleep(5000);
-      continue;
+      console.log(`\n🏁 All ${allUrls.length} leads in batch processed successfully!`);
+      break;
     }
 
     const url = allUrls[idx];
@@ -470,9 +468,8 @@ async function processUrl(driver, url, record, contact) {
     idx++;
   }
 
-  // Unreachable in practice (the while(true) loop never breaks), but kept as
-  // a defensive final flush/cleanup in case the loop is ever changed to exit.
   saveResults(results);
   clearProgress();
-  console.log(`\n🏁 Done! → ${require('./config').CSV_PATH}`);
+  console.log(`\n🏁 Done! Results saved to ${require('./config').CSV_PATH}`);
+  process.exit(0);
 })();
