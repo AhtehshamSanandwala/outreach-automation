@@ -12618,3 +12618,4 @@ https://www.google.com/maps/place/Singapore+Manufacturing+Industry+Pte.+Ltd./dat
 https://www.google.com/maps/place/Pfizer+Asia+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da05723c9dacb9:0xa96381edaf3de14e!8m2!3d1.3028495!4d103.6384602!16s%2Fg%2F11nn2_33q6!19sChIJuaydPHIF2jERTuE9r-2BY6k
 https://www.google.com/maps/place/Murata+Electronics+Singapore+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da14899ba24a7d:0xfd14bab94dbe5ce5!8m2!3d1.441121!4d103.838082!16s%2Fg%2F1pty_t0wh!19sChIJfUqim4kU2jER5Vy-Tbm6FP0
 https://www.google.com/maps/place/Singapore+Automotive+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da057f22d0ac8b:0x957f168fa32d4154!8m2!3d1.323803!4d103.6848009!16s%2Fg%2F11hzv4_6t0!19sChIJi6zQIn8F2jERVEEto48Wf5U
+https://www.google.com/maps/place/Miltec+Industrial+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da17878599fd63:0xf26ac38fd06f4a7d!8m2!3d1.3288666!4d103.8792857!16s%2Fg%2F1ptw4gpdh!19sChIJY_2ZhYcX2jERfUpv0I_DavI
