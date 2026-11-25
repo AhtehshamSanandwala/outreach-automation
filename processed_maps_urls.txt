@@ -12494,3 +12494,4 @@ https://www.google.com/maps/place/Southbank/data=!4m7!3m6!1s0x31da19ca109e7ce7:0
 https://www.google.com/maps/place/Park+View+Square/data=!4m7!3m6!1s0x31da19b06669ee07:0x557b99348cf42378!8m2!3d1.3003857!4d103.8577453!16s%2Fg%2F12vr2d6bh!19sChIJB-5pZrAZ2jEReCP0jDSZe1U
 https://www.google.com/maps/place/StreetSine+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da173f1d1ee34d:0xf495ac75ab845280!8m2!3d1.3402112!4d103.8475371!16s%2Fg%2F1pty0f9t7!19sChIJTeMeHT8X2jERgFKEq3WslfQ
 https://www.google.com/maps/place/City+Estate+Management/data=!4m7!3m6!1s0x395e9b4aa05e9f75:0x2dff630cdf4a34af!8m2!3d23.0435227!4d72.4821707!16s%2Fg%2F11rvhns5_8!19sChIJdZ9eoEqbXjkRrzRK3wxj_y0
+https://www.google.com/maps/place/Warehouse+Rental+Singapore/data=!4m7!3m6!1s0x31da22a77b95f591:0xa0354040c311670f!8m2!3d1.3323786!4d103.8487199!16s%2Fg%2F113gvg14d!19sChIJkfWVe6ci2jERD2cRw0BANaA
