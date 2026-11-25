@@ -2514,3 +2514,4 @@ https://www.linkedin.com/company/cybersg-tig-collaboration-centre
 https://www.linkedin.com/company/terrabyte-group
 https://www.linkedin.com/company/accenture
 https://www.linkedin.com/company/accenture&quot;,&quot;analytics-engagement&quot;:&quot;false&quot;,&quot;analytics-link-type&quot;:&quot;nav
+https://www.linkedin.com/company/thales
