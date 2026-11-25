@@ -12337,3 +12337,4 @@ https://www.google.com/maps/place/Just+Analytics/data=!4m7!3m6!1s0x31da3cd9f811a
 https://www.google.com/maps/place/Vectra+AI/data=!4m7!3m6!1s0x31da19ceb37978cd:0x14a07a6ec15fffac!8m2!3d1.3027623!4d103.8342901!16s%2Fg%2F11tx1mx180!19sChIJzXh5s84Z2jERrP9fwW56oBQ
 https://www.google.com/maps/place/MSC+Cyberport+Sdn+Bhd/data=!4m7!3m6!1s0x31da12ded195b3f5:0xac7a79899fa38bc1!8m2!3d1.4629805!4d103.7719136!16s%2Fg%2F1hc17dwcj!19sChIJ9bOV0d4S2jERwYujn4l5eqw
 https://www.google.com/maps/place/Cyber+Centre/data=!4m7!3m6!1s0x31da1b0062fd9c8b:0x5b1de15254595e07!8m2!3d1.2844207!4d103.8079042!16s%2Fg%2F11x1l1rpj6!19sChIJi5z9YgAb2jERB15ZVFLhHVs
+https://www.google.com/maps/place/Suntec+Tower+2/data=!4m7!3m6!1s0x31da19c86376d8c9:0x19de54ae16e178e8!8m2!3d1.2956778!4d103.8589961!16s%2Fg%2F11fd4hyncn!19sChIJydh2Y8gZ2jER6HjhFq5U3hk
