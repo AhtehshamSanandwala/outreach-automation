@@ -12611,3 +12611,5 @@ https://www.google.com/maps/place/JSL+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Angel+Manufacturing+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da0f46bed206b9:0xf2f6fc5c3c292a1!8m2!3d1.3570974!4d103.7070161!16s%2Fg%2F11f7kv99zs!19sChIJuQbSvkYP2jERoZLCw8VvLw8
 https://www.google.com/maps/place/Advanced+Integrated+Manufacturing+Corporation.+Ltd/data=!4m7!3m6!1s0x31da17f597562de9:0x43894bfaf0749a3f!8m2!3d1.3390535!4d103.9715981!16s%2Fg%2F1td0d06z!19sChIJ6S1Wl_UX2jERP5p08PpLiUM
 https://www.google.com/maps/place/Hexagon+Manufacturing+Intelligence+%7C+Singapore/data=!4m7!3m6!1s0x31da136896c753ed:0x988d2cd6f0ccf52c!8m2!3d1.4621264!4d103.8144714!16s%2Fg%2F11bbrgbbgs!19sChIJ7VPHlmgT2jERLPXM8NYsjZg
+https://www.google.com/maps/place/West+View+Food+Factory/data=!4m7!3m6!1s0x31da060bb5b22505:0x58dc3c8caed4fe87!8m2!3d1.3124333!4d103.6328917!16s%2Fg%2F11c1rfk72l!19sChIJBSWytQsG2jERh_7Urow83Fg
+https://www.google.com/maps/place/All+Industrial+Manufacturing+Pte.+Ltd./data=!4m7!3m6!1s0x31da182948b92b21:0xc6b3c01056b5039e!8m2!3d1.3326598!4d103.9038433!16s%2Fg%2F119tqv59_!19sChIJISu5SCkY2jERngO1VhDAs8Y
