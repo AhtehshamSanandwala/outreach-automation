@@ -12172,3 +12172,5 @@ https://www.google.com/maps/place/A1+Photocopy+%26+Laminating/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Webify+Global+Pte.+Ltd./data=!4m7!3m6!1s0x31da1760ec67cf07:0xbc1631e80fc2e9db!8m2!3d1.3586404!4d103.8340972!16s%2Fg%2F11vjvztfn9!19sChIJB89n7GAX2jER2-nCD-gxFrw
 https://www.google.com/maps/place/Webdaddy/data=!4m7!3m6!1s0x31da17314381ac87:0x17f880b5ad6f542e!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11wc11b3t6!19sChIJh6yBQzEX2jERLlRvrbWA-Bc
 https://www.google.com/maps/place/Visible+One+SG/data=!4m7!3m6!1s0x31da17754e1c4291:0xe0c736f394b3b46a!8m2!3d1.360392!4d103.833808!16s%2Fg%2F11m6ky8zgv!19sChIJkUIcTnUX2jERarSzlPM2x-A
+https://www.google.com/maps/place/Thriveon+services/data=!4m7!3m6!1s0x630512a5f84fcc47:0xce2493cc6086d2de!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11y458rxyg!19sChIJR8xP-KUSBWMR3tKGYMyTJM4
+https://www.google.com/maps/place/Fluxx/data=!4m7!3m6!1s0x31da1725f3ea2bf9:0x4698b902bf4dab78!8m2!3d1.3585719!4d103.8333856!16s%2Fg%2F11ddzhg_sl!19sChIJ-Svq8yUX2jEReKtNvwK5mEY
