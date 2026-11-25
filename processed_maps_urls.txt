@@ -12326,3 +12326,4 @@ https://www.google.com/maps/place/ICE71/data=!4m7!3m6!1s0x31da1b0b6ebebeb9:0xe89
 https://www.google.com/maps/place/Association+of+Information+Security+Professionals/data=!4m7!3m6!1s0x31da196cffffffff:0x5e8e1cdb83aebad6!8m2!3d1.4145988!4d103.9086421!16s%2Fg%2F11cs2kqknd!19sChIJ_____2wZ2jER1rqug9scjl4
 https://www.google.com/maps/place/Smart+City+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da17ceee4bc1b9:0x5aba95105b20826a!8m2!3d1.3589935!4d103.8334875!16s%2Fg%2F11srtt2mf0!19sChIJucFL7s4X2jERaoIgWxCVulo
 https://www.google.com/maps/place/ONESECURE+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da178e008db7b1:0x481c013c5c9e76ee!8m2!3d1.3333315!4d103.8916986!16s%2Fg%2F1ptydwwr1!19sChIJsbeNAI4X2jER7naeXDwBHEg
+https://www.google.com/maps/place/Secureage+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da1a4e8d1b7285:0xc05c2fbc913ae81c!8m2!3d1.2991684!4d103.7875815!16s%2Fg%2F1thxhlh9!19sChIJhXIbjU4a2jERHOg6kbwvXMA
