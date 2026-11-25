@@ -12620,3 +12620,4 @@ https://www.google.com/maps/place/Murata+Electronics+Singapore+%28Pte%29+Ltd/dat
 https://www.google.com/maps/place/Singapore+Automotive+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da057f22d0ac8b:0x957f168fa32d4154!8m2!3d1.323803!4d103.6848009!16s%2Fg%2F11hzv4_6t0!19sChIJi6zQIn8F2jERVEEto48Wf5U
 https://www.google.com/maps/place/Miltec+Industrial+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da17878599fd63:0xf26ac38fd06f4a7d!8m2!3d1.3288666!4d103.8792857!16s%2Fg%2F1ptw4gpdh!19sChIJY_2ZhYcX2jERfUpv0I_DavI
 https://www.google.com/maps/place/Pyramid+Manufacturing+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da0f590b5e4143:0x871d25c0c2652387!8m2!3d1.3306899!4d103.6510161!16s%2Fg%2F1ptxm7wfq!19sChIJQ0FeC1kP2jERhyNlwsAlHYc
+https://www.google.com/maps/place/Wellmic+Industries+%28S%29+Pte+Ltd+-+Horizontal+Bead+Mills+%2F+Mixer/data=!4m7!3m6!1s0x31da170991298f2f:0x85fc4b5dc81a5342!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11vk5y15kw!19sChIJL48pkQkX2jERQlMayF1L_IU
