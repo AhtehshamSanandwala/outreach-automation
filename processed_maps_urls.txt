@@ -12684,3 +12684,4 @@ https://www.google.com/maps/place/Balluff+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da172
 https://www.google.com/maps/place/Yen+Food+Solutions+%28Singapore%29/data=!4m7!3m6!1s0x31da17f8dfd196c1:0x4beb9de102969582!8m2!3d1.3590576!4d103.8335229!16s%2Fg%2F11s57_m04q!19sChIJwZbR3_gX2jERgpWWAuGd60s
 https://www.google.com/maps/place/SINCORE+EISEN+PTE+LTD/data=!4m7!3m6!1s0x31da172a76ca226f:0x4a6e5f5e1c1de2d2!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11x7t4l_3p!19sChIJbyLKdioX2jER0uIdHF5fbko
 https://www.google.com/maps/place/Amazing+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da179fb514e92f:0xd5dcd691ce9a3530!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11t1f8zy_f!19sChIJL-kUtZ8X2jERMDWazpHW3NU
+https://www.google.com/maps/place/Centrotherm+Photovoltaics+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da1725e4f67b99:0x46925aeeaeb0973!8m2!3d1.3590152!4d103.8341154!16s%2Fg%2F11b7t3dmct!19sChIJmXv25CUX2jERcwnr6q4laQQ
