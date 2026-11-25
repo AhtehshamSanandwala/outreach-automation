@@ -12213,3 +12213,4 @@ https://www.google.com/maps/place/One+X+Tech/data=!4m7!3m6!1s0x31da1952139034f5:
 https://www.google.com/maps/place/Affyn+Pte+Ltd/data=!4m7!3m6!1s0x31da199f7a477941:0x69a0257131486661!8m2!3d1.2956309!4d103.8590333!16s%2Fg%2F11t991mtr7!19sChIJQXlHep8Z2jERYWZIMXEloGk
 https://www.google.com/maps/place/Novade/data=!4m7!3m6!1s0x31da19a6c96364c7:0x98f56ed451e03265!8m2!3d1.2923407!4d103.8508826!16s%2Fg%2F11c2ppfnrr!19sChIJx2RjyaYZ2jERZTLgUdRu9Zg
 https://www.google.com/maps/place/Rezerv+-+Fitness+and+Wellness+Software+%28Formerly+Rezeve%29/data=!4m7!3m6!1s0x31da179b4d2b3467:0x83c8c4eb76eb9625!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F11nx2ly0bl!19sChIJZzQrTZsX2jERJZbrduvEyIM
+https://www.google.com/maps/place/Google+Singapore/data=!4m7!3m6!1s0x31da1911f12998e9:0x43e454b88753032a!8m2!3d1.2761807!4d103.8000401!16s%2Fg%2F11c1lzwprp!19sChIJ6Zgp8REZ2jERKgNTh7hU5EM
