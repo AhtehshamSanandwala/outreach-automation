@@ -12581,3 +12581,4 @@ https://www.google.com/maps/place/MORROW+Architects+%26+Planners+Pte.Ltd./data=!
 https://www.google.com/maps/place/AGA+Architects/data=!4m7!3m6!1s0x31da196b6cac0581:0x25af6592e0ae7c7d!8m2!3d1.273971!4d103.842982!16s%2Fg%2F1v9ggh_d!19sChIJgQWsbGsZ2jERfXyu4JJlryU
 https://www.google.com/maps/place/Hassell/data=!4m7!3m6!1s0x31da190d9bed12e7:0x53d062b7632728f8!8m2!3d1.282215!4d103.8476854!16s%2Fg%2F11ckvbp950!19sChIJ5xLtmw0Z2jER-CgnY7di0FM
 https://www.google.com/maps/place/Architects+61+Pte.+Ltd./data=!4m7!3m6!1s0x31da19afd5ea9a7f:0x630e90d63696ff4b!8m2!3d1.298414!4d103.858764!16s%2Fg%2F1vwllnms!19sChIJf5rq1a8Z2jERS_-WNtaQDmM
+https://www.google.com/maps/place/Former+City+Hall/data=!4m7!3m6!1s0x31da19a73c85876f:0x7aea3e37018775b1!8m2!3d1.29068!4d103.851743!16zL20vMDdtNWoy!19sChIJb4eFPKcZ2jERsXWHATc-6no
