@@ -12451,3 +12451,4 @@ https://www.google.com/maps/place/Selvam+LLC/data=!4m7!3m6!1s0x31da190bff96b13f:
 https://www.google.com/maps/place/Chambers+Law+LLP/data=!4m7!3m6!1s0x31da190ae432ff3b:0xb52136a8bd8eb41b!8m2!3d1.2872518!4d103.8467766!16s%2Fg%2F1tg9q6cx!19sChIJO_8y5AoZ2jERG7SOvag2IbU
 https://www.google.com/maps/place/Reed+Smith+Pte+Ltd/data=!4m7!3m6!1s0x31da190e6a27c599:0x5b40bf008ce17972!8m2!3d1.2831801!4d103.8520125!16s%2Fg%2F1ptvzhbbl!19sChIJmcUnag4Z2jERcnnhjAC_QFs
 https://www.google.com/maps/place/Hogan+Lovells/data=!4m7!3m6!1s0x31da190953a264e1:0xa84d0af11c4a2509!8m2!3d1.282889!4d103.8530027!16s%2Fg%2F1tdql50n!19sChIJ4WSiUwkZ2jERCSVKHPEKTag
+https://www.google.com/maps/place/Resource+Law+LLC/data=!4m7!3m6!1s0x31da190eeca218d7:0x68a3506696e408ec!8m2!3d1.2831801!4d103.8520125!16s%2Fg%2F11c4syhmcm!19sChIJ1xii7A4Z2jER7AjklmZQo2g
