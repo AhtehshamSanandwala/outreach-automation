@@ -12448,3 +12448,4 @@ https://www.google.com/maps/place/KennethWong+LLC/data=!4m7!3m6!1s0x31da19e4a1ca
 https://www.google.com/maps/place/Duane+Morris+%26+Selvam+LLP/data=!4m7!3m6!1s0x31da19124ae66623:0xd6fa3232fbacf1dd!8m2!3d1.2842159!4d103.8526006!16s%2Fg%2F1vk6wqp4!19sChIJI2bmShIZ2jER3fGs-zIy-tY
 https://www.google.com/maps/place/Latham+%26+Watkins+LLP/data=!4m7!3m6!1s0x31da190e9ecc1339:0xc03d802f1f841aa9!8m2!3d1.2829192!4d103.8509408!16s%2Fg%2F1ttyt7zg!19sChIJORPMng4Z2jERqRqEHy-APcA
 https://www.google.com/maps/place/Selvam+LLC/data=!4m7!3m6!1s0x31da190bff96b13f:0xe8ae00abe593e946!8m2!3d1.2842206!4d103.8525622!16s%2Fg%2F1vyst1fv!19sChIJP7GW_wsZ2jERRumT5asArug
+https://www.google.com/maps/place/Chambers+Law+LLP/data=!4m7!3m6!1s0x31da190ae432ff3b:0xb52136a8bd8eb41b!8m2!3d1.2872518!4d103.8467766!16s%2Fg%2F1tg9q6cx!19sChIJO_8y5AoZ2jERG7SOvag2IbU
