@@ -774,3 +774,69 @@ http://www.movinghousesingapore.com.sg/,Skipped,"unknown error: net::ERR_NAME_NO
 https://vault268.com.sg/,Failed,No contact form detected,Loaded,0.9,Opened,Not found,,,,,,,
 https://dimerco.com/,Partial,Submitted but missing:  name,Loaded,4.6,Opened,Found,1,email,"first_name,last_name,full_name,phone,company,website,job_title,subject,message,budget,address",,Not present,Clicked: 'Submit' (score=105),Success detected
 https://dimerco.com/,Partial,Submitted but missing:  name,Loaded,4.6,Opened,Found,1,email,"first_name,last_name,full_name,phone,company,website,job_title,subject,message,budget,address",,Not present,Clicked: 'Submit' (score=105),Success detected
+https://www.accrets.com/managed-service-provider/,Failed,No contact form detected,Loaded,2.4,Opened,Not found,,,,,,,
+https://www.infoc.com/contact,Failed,Submitted but no confirmation detected,Loaded,1.7,Opened,Found,6,"full_name,email,phone,select:Solution area *,company,message","first_name,last_name,website,job_title,subject,budget,address",,Not present,Clicked: 'Send the enquiry' (score=90),No confirmation
+https://www.opensource.com.sg/about/,Failed,Turnstile widget not solved at pre-submit,Loaded,1.3,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Not solved at pre-submit: Turnstile widget,,
+https://www.managedit.sg/small-business-managed-it-services-contact/,Failed,Submitted but no confirmation detected,Loaded,7.5,Opened,Found,5,"full_name,email,company,phone,message","first_name,last_name,website,job_title,subject,budget,address",,Auto-solved at post-submit: Image CAPTCHA,form.submit(): form[0],No confirmation
+https://nucleoconsulting.com/about-us/,Failed,No contact form detected,Loaded,3.0,Opened,Not found,,,,,,,
+https://kaopiz.com/ja-contact,Failed,Submitted but no confirmation detected,Loaded,2.8,Opened,Found,5,"select:役職 *,email,select:ご相談の種類 *,select:当社WEBサイトを知った経緯,message","first_name,last_name,full_name,phone,company,website,job_title,subject,budget,address",,Not present,Clicked: '送信する' (score=85),No confirmation
+https://smartcs.sg/,Failed,No contact form detected,Loaded,8.5,Opened,Not found,,,,,,,
+https://swiftly.sg/,Skipped,Page load timeout,Timeout,,,,,,,,,,
+https://www.oneibc.com/business/serviced-office,Failed,,Loaded,2.5,Opened,Found,5,"subject,full_name,email,phone,message","first_name,last_name,company,website,job_title,budget,address",,Image OCR failed at pre-submit,,
+https://osome.com/sg/contact-us/,Failed,Submitted but no confirmation detected,Loaded,0.9,Opened,Found,5,"full_name,email,phone,subject,message","first_name,last_name,company,website,job_title,budget,address",,Not present,Clicked: 'Send your message' (score=95),No confirmation
+https://www.ds-solutions.com.sg/upload/download/DSRemoteSupport.exe,Failed,No contact form detected,Loaded,1.1,Opened,Not found,,,,,,,
+https://www.ensigninfosecurity.com/contact-us,Failed,No contact form detected,Loaded,8.7,Opened,Not found,,,,,,,
+https://www.info-tech.com.sg/,Failed,No contact form detected,Loaded,9.2,Opened,Not found,,,,,,,
+https://corpit.com.sg/,Failed,No contact form detected,Loaded,0.8,Opened,Not found,,,,,,,
+https://www.synergixtech.com/about-us/,Failed,No contact form detected,Loaded,8.1,Opened,Not found,,,,,,,
+https://www.opusit.com.sg/it_outsourcing,Failed,Submitted but no confirmation detected,Loaded,2.9,Opened,Found,5,"first_name,company,email,phone,message","last_name,full_name,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=105),No confirmation
+https://elservicecentre.com/get-repair-quote,Failed,No contact form detected,Loaded,2.6,Opened,Not found,,,,,,,
+https://tellboss.co/about-us/,Failed,Submitted but no confirmation detected,Loaded,1.6,Opened,Found,5,"full_name,phone,email,subject,message","first_name,last_name,company,website,job_title,budget,address",,Not present,Clicked: 'Send message' (score=120),No confirmation
+https://www.voplus.com/en/services/business/data-protection-officer,Failed,No contact form detected,Loaded,1.4,Opened,Not found,,,,,,,
+https://metrocorp.com.sg/contact-us/,Success,Verified thank-you / redirect,Loaded,2.3,Opened,Found,6,"full_name,email,phone,select:enquiry-type,select:service-type,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=120),Success detected
+https://www.lanturn.com/sg/about-us,Failed,No form fields detected,Loaded,7.4,Opened,Found,0,,,,,,
+https://jje.sg/about-us/,Success,Verified thank-you / redirect,Loaded,4.5,Opened,Found,5,"full_name,phone,email,select:Please Select A Subject,message","first_name,last_name,company,website,job_title,subject,budget,address",,Image OCR failed at post-submit,Clicked: 'SUBMIT' (score=120),Success detected
+https://www.tawk.to/contact-us/,Failed,Submitted but no confirmation detected,Loaded,1.0,Opened,Found,5,"full_name,email,company,select:· TOPIC
+Choose a topic
+General question
+Technical support
+Sales / billing
+Partnerships
+Press & media
+Report abuse
+Something else,message","first_name,last_name,phone,website,job_title,subject,budget,address",,Not present,Clicked: 'Products' (score=50),No confirmation
+https://aviscsp.com.sg/about-us/,Success,Verified thank-you / redirect,Loaded,5.7,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Not present,Clicked: 'SUBMIT' (score=120),Success detected
+https://chuamgmt.com/,Failed,No contact form detected,Loaded,0.8,Opened,Not found,,,,,,,
+https://accountingdna.com.sg/about-us/,Success,Verified thank-you / redirect,Loaded,1.0,Opened,Found,5,"full_name,email,phone,company,message","first_name,last_name,website,job_title,subject,budget,address",,Not present,Clicked: 'Send' (score=120),Success detected
+https://www.ckcms.com.sg/about-us/,Partial,Submitted but missing:  name,Loaded,2.6,Opened,Found,4,"last_name,email,company,message","first_name,full_name,phone,website,job_title,subject,budget,address",,Not present,Clicked: 'SUBMIT' (score=105),Success detected
+https://www.sscmglobal.com/web_singapore/index.html,Failed,No contact form detected,Loaded,2.9,Opened,Not found,,,,,,,
+https://sgcompanyservices.com/about-us/,Success,Verified thank-you / redirect,Loaded,3.2,Opened,Found,4,"email,full_name,phone,company","first_name,last_name,website,job_title,subject,message,budget,address",,Not present,Clicked: 'Learn more' (score=35),Success detected
+https://3rise-accounting.com/about-us/,Success,Verified thank-you / redirect,Loaded,3.9,Opened,Found,5,"full_name,email,phone,select:form_fields[field_4379753],message","first_name,last_name,company,website,job_title,subject,budget,address",,Auto-solved at post-submit: reCAPTCHA v2,Clicked: 'Send' (score=105),Success detected
+https://complete-corp.com/contact-us/,Success,Verified thank-you / redirect,Loaded,3.6,Opened,Found,7,"first_name,last_name,job_title,company,email,select:Get in touch with Complete Corporate Services,message","full_name,phone,website,subject,budget,address",,Not present,Clicked: 'Contact Us' (score=120),Success detected
+https://pgsecretarial.com.sg/,Failed,No contact form detected,Loaded,1.5,Opened,Not found,,,,,,,
+https://beaufort.sg/services/representative-office/,Skipped,Submitted but no confirmation detected,Loaded,3.3,Opened,Found,5,"full_name,email,phone,select:Subject
+
+
+I'd like Beaufort to take over the management of our Singapore company
+I'd like to apply for Employment Pass
+I'd like to speak with an Advisor
+Others,message","first_name,last_name,company,website,job_title,subject,budget,address",,Rate-limited at post-submit: reCAPTCHA v2,Clicked: 'Send Message' (score=120),No confirmation
+https://kca.sg/contact-us/,Success,Verified thank-you / redirect,Loaded,3.2,Opened,Found,4,"first_name,company,email,phone","last_name,full_name,website,job_title,subject,message,budget,address",,Auto-solved at post-submit: Image CAPTCHA,Clicked: 'SUBMIT' (score=120),Success detected
+https://ebcstorage.com.sg/serviced-office/,Failed,Turnstile widget not solved at pre-submit,Loaded,7.0,Opened,Found,5,"full_name,phone,email,select:I Am Interested In *,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not solved at pre-submit: Turnstile widget,,
+https://www.commercialguru.com.sg/office-for-sale,Failed,No contact form detected,Loaded,2.9,Opened,Not found,,,,,,,
+https://www.globalalliancelog.com/contact-us,Failed,Submitted but no confirmation detected,Loaded,2.5,Opened,Found,6,"full_name,email,select:Freight Type,message,select:Code,phone","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=105),No confirmation
+https://www.transglobal.com.sg/service/water-front-support/,Failed,Submitted but no confirmation detected,Loaded,9.6,Opened,Found,4,"full_name,email,phone,message","first_name,last_name,company,website,job_title,subject,budget,address",,Auto-solved at post-submit: reCAPTCHA v2,Clicked: 'SEND' (score=120),No confirmation
+https://www.mp.com.sg/about-us/,Success,Verified thank-you / redirect,Loaded,7.3,Opened,Found,4,"full_name,phone,email,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'SUBMIT' (score=120),Success detected
+https://apollologintl.com.sg/,Failed,No contact form detected,Loaded,10.6,Opened,Not found,,,,,,,
+https://www.chianghuat.com.sg/sea-freight-shipment/sea-enquiry/,Success,Verified thank-you / redirect,Loaded,10.0,Opened,Found,8,"last_name,first_name,phone,email,subject,message,select:Incoterm:,address","full_name,company,website,job_title,budget",,Auto-solved at pre-submit: reCAPTCHA v2,Clicked: 'Submit' (score=80),Success detected
+https://www.bestglobal.com.sg/logistics-customer-support.php,Failed,No contact form detected,Loaded,1.5,Opened,Not found,,,,,,,
+https://www.amglobal.com.sg/,Failed,No form fields detected,Loaded,2.1,Opened,Found,0,,"first_name,last_name,full_name,email,phone,company,website,job_title,subject,message,budget,address",,,,
+https://zhenghelogistics.com/about,Failed,Submitted but no confirmation detected,Loaded,5.8,Opened,Found,5,"full_name,company,email,phone,message","first_name,last_name,website,job_title,subject,budget,address",,Not present,Clicked: 'Send request' (score=105),No confirmation
+http://www.uafsin.com.sg/,Success,Verified thank-you / redirect,Loaded,5.8,Opened,Found,5,"first_name,last_name,phone,email,message","full_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=120),Success detected
+https://www.tascargo.com/ocean_freight_europe%20.php,Failed,No contact form detected,Loaded,9.8,Opened,Not found,,,,,,,
+https://singaporeairfreight.com/,Failed,No contact form detected,Loaded,1.7,Opened,Not found,,,,,,,
+https://www.leehoe.com.sg/about-us/,Failed,Submitted but no confirmation detected,Loaded,4.7,Opened,Found,7,"full_name,phone,email,company,select:service-type,subject,message","first_name,last_name,website,job_title,budget,address",,Not present,Clicked: 'Submit' (score=120),No confirmation
+https://s2mfreight.com/,Failed,No contact form detected,Loaded,7.9,Opened,Not found,,,,,,,
+https://www.oal.com.my/,Failed,No contact form detected,Loaded,2.5,Opened,Not found,,,,,,,
+https://leadingintlsg.wordpress.com/,Success,Verified thank-you / redirect,Loaded,2.7,Opened,Found,4,"first_name,last_name,email,message","full_name,phone,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=105),Success detected
+https://leadingintlsg.wordpress.com/,Success,Verified thank-you / redirect,Loaded,2.7,Opened,Found,4,"first_name,last_name,email,message","full_name,phone,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=105),Success detected

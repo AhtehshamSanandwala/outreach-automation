@@ -33,3 +33,22 @@
 2026-11-23T09:20:46.183Z | https://parel.co/contact/ | label="WPA" name="pmnxly9251" id="" ph="" type=text
 2026-11-23T09:25:03.570Z | https://www.itcs-group.com/contact/ | label="If Others, please specify:" name="form_fields[field_dd6b0c8]" id="form-field-field_dd6b0c8" ph="" type=text
 2026-11-23T09:27:19.456Z | https://www.entrustnetwork.com/contact/ | label="Alternative:" name="alt_s" id="alt_s" ph="" type=text
+2026-11-25T05:50:41.113Z | https://kaopiz.com/ja-contact/ | label="貴社名 *" name="wpforms[fields][3]" id="wpforms-10463-field_3" ph="株式会社カオピーズ" type=text
+2026-11-25T05:50:41.118Z | https://kaopiz.com/ja-contact/ | label="お名前 *" name="wpforms[fields][4]" id="wpforms-10463-field_4" ph="姓　名" type=text
+2026-11-25T05:50:41.123Z | https://kaopiz.com/ja-contact/ | label="部署名 *" name="wpforms[fields][5]" id="wpforms-10463-field_5" ph="部署名" type=text
+2026-11-25T05:50:41.176Z | https://kaopiz.com/ja-contact/ | label="ご連絡先電話番号 *" name="wpforms[fields][10]" id="wpforms-10463-field_10" ph="0358092633" type=text
+2026-11-25T05:50:41.208Z | https://kaopiz.com/ja-contact/ | label="添付ファイル (合計10MBまでの添付ファイルが送信できます。)" name="wpforms[fields][35]" id="wpforms-10463-field_35" ph="" type=text
+2026-11-25T05:51:24.250Z | https://kaopiz.com/ja-contact/ | label="貴社名 *" name="wpforms[fields][3]" id="wpforms-10463-field_3" ph="株式会社カオピーズ" type=text
+2026-11-25T05:51:24.254Z | https://kaopiz.com/ja-contact/ | label="お名前 *" name="wpforms[fields][4]" id="wpforms-10463-field_4" ph="姓　名" type=text
+2026-11-25T05:51:24.257Z | https://kaopiz.com/ja-contact/ | label="部署名 *" name="wpforms[fields][5]" id="wpforms-10463-field_5" ph="部署名" type=text
+2026-11-25T05:51:24.271Z | https://kaopiz.com/ja-contact/ | label="ご連絡先電話番号 *" name="wpforms[fields][10]" id="wpforms-10463-field_10" ph="0358092633" type=text
+2026-11-25T05:51:24.291Z | https://kaopiz.com/ja-contact/ | label="添付ファイル (合計10MBまでの添付ファイルが送信できます。)" name="wpforms[fields][35]" id="wpforms-10463-field_35" ph="" type=text
+2026-11-25T05:58:19.081Z | https://jje.sg/contact-us/ | label="Alternative:" name="alt_s" id="alt_s" ph="" type=text
+2026-11-25T06:00:21.884Z | https://www.ckcms.com.sg/contact-us/ | label="Contact Number" name="contact-number" id="inputContactNumber" ph="Contact Number" type=number
+2026-11-25T06:02:32.513Z | https://complete-corp.com/contact-us/ | label="WPA" name="qrtefg9570" id="" ph="" type=text
+2026-11-25T06:10:03.835Z | https://www.chianghuat.com.sg/sea-freight-shipment/sea-enquiry/ | label="Area Code" name="wdform_7_element_first12" id="wdform_7_element_first12" ph="" type=text
+2026-11-25T06:10:03.916Z | https://www.chianghuat.com.sg/sea-freight-shipment/sea-enquiry/ | label="Est. Weight (Kg)" name="wdform_5_element12" id="wdform_5_element12" ph="" type=text
+2026-11-25T06:11:01.192Z | https://www.amglobal.com.sg/contact | label="Search by keywords" name="ctl00$Header1$txtSearch" id="ctl00_Header1_txtSearch" ph="Search by keywords" type=text
+2026-11-25T06:11:02.506Z | https://www.amglobal.com.sg/contact | label="Search by keywords" name="ctl00$Header1$txtSearch" id="ctl00_Header1_txtSearch" ph="Search by keywords" type=text
+2026-11-25T06:11:22.295Z | https://zhenghelogistics.com/contact | label="Route" name="" id="" ph="Singapore to Jakarta, Singapore to Malaysia, etc." type=text
+2026-11-25T06:11:22.300Z | https://zhenghelogistics.com/contact | label="Cargo summary" name="" id="" ph="Cartons, pallets, CBM, weight, commodity" type=text
