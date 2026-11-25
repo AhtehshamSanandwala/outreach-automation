@@ -12298,3 +12298,4 @@ https://www.google.com/maps/place/CyberLitmus/data=!4m7!3m6!1s0x31da196ac2186575
 https://www.google.com/maps/place/CLOUDSQUIRE+PTE.+LTD./data=!4m7!3m6!1s0x31da17639ea5f687:0xf965f0d761c7049f!8m2!3d1.3584498!4d103.8336633!16s%2Fg%2F11qsmsf3pw!19sChIJh_alnmMX2jERnwTHYdfwZfk
 https://www.google.com/maps/place/Nozomi+Networks/data=!4m7!3m6!1s0x31da19f81dc71449:0x9ec43092596ed6c4!8m2!3d1.284358!4d103.8510616!16s%2Fg%2F11fl7q350z!19sChIJSRTHHfgZ2jERxNZuWZIwxJ4
 https://www.google.com/maps/place/Singtel+Cyber+Security+Institute/data=!4m7!3m6!1s0x31da3d1212dce1f1:0xd4820124fab155e7!8m2!3d1.2760968!4d103.8452647!16s%2Fg%2F11cp7l4078!19sChIJ8eHcEhI92jER51Wx-iQBgtQ
+https://www.google.com/maps/place/Cisco+Systems+%28USA%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd77c4c2a85:0x70300307cc333195!8m2!3d1.2757959!4d103.8005384!16s%2Fg%2F1tfrd88z!19sChIJhSpMfNc82jERlTEzzAcDMHA
