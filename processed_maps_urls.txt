@@ -12650,3 +12650,5 @@ https://www.google.com/maps/place/Yokogawa+Engineering+Asia+Pte+Ltd/data=!4m7!3m
 https://www.google.com/maps/place/Gissmatic+Automatisierung+Pte+Ltd/data=!4m7!3m6!1s0x31da1a25fe2d76d7:0x996cd2de9f118199!8m2!3d1.3594885!4d103.833788!16s%2Fg%2F11cr_7bmy3!19sChIJ13Yt_iUa2jERmYERn97SbJk
 https://www.google.com/maps/place/Vendpro+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da170005772c09:0x3e58891890ae5081!8m2!3d1.3599293!4d103.83427!16s%2Fg%2F11zz4kjdjl!19sChIJCSx3BQAX2jERgVCukBiJWD4
 https://www.google.com/maps/place/Domus+Integration+Pte+Ltd/data=!4m7!3m6!1s0x31da108f7856bd61:0x80d4d8dc7588b16d!8m2!3d1.3596864!4d103.834703!16s%2Fg%2F1tkjhq19!19sChIJYb1WeI8Q2jERbbGIddzY1IA
+https://www.google.com/maps/place/Sin+Ming+Industrial+Estate/data=!4m7!3m6!1s0x31da1733f1508157:0x682902392f6e5334!8m2!3d1.358747!4d103.837157!16s%2Fg%2F11j5cbr3m8!19sChIJV4FQ8TMX2jERNFNuLzkCKWg
+https://www.google.com/maps/place/UMS+EQUIPMENT+%28S%29+P%2FL./data=!4m7!3m6!1s0x31da17e35f86ee47:0x8702470808110068!8m2!3d1.358606!4d103.833566!16s%2Fg%2F1td6k501!19sChIJR-6GX-MX2jERaAARCAhHAoc
