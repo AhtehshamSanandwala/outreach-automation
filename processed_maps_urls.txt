@@ -12225,3 +12225,4 @@ https://www.google.com/maps/place/Portcities+Singapore/data=!4m7!3m6!1s0x31da190
 https://www.google.com/maps/place/Quantum+Inventions+Pte+Ltd/data=!4m7!3m6!1s0x31da19cb0dd2bb13:0x8205f0c68ae09a56!8m2!3d1.3125822!4d103.8643046!16s%2Fg%2F11bwh58dp_!19sChIJE7vSDcsZ2jERVprgisbwBYI
 https://www.google.com/maps/place/Dynacore+Technologies+Pte.+Ltd./data=!4m7!3m6!1s0x31da19bbd7daaaab:0x27d62846f27f3112!8m2!3d1.3029333!4d103.8529661!16s%2Fg%2F11fy5bwzjb!19sChIJq6ra17sZ2jEREjF_8kYo1ic
 https://www.google.com/maps/place/SMU+School+of+Computing+and+Information+Systems+1/data=!4m7!3m6!1s0x31da19a340000001:0xdb2ba83d5e574a35!8m2!3d1.2975488!4d103.8494183!16s%2Fm%2F0sgb_6w!19sChIJAQAAQKMZ2jERNUpXXj2oK9s
+https://www.google.com/maps/place/Dynamic+Technology+Lab+Private+Limited/data=!4m7!3m6!1s0x31da1696e5f687d3:0xc316dca4cca5f3d3!8m2!3d1.2910893!4d103.8254343!16s%2Fg%2F1ptwrc6zx!19sChIJ04f25ZYW2jER0_OlzKTcFsM
