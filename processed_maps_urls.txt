@@ -12625,3 +12625,4 @@ https://www.google.com/maps/place/Singapore+Woodcraft/data=!4m7!3m6!1s0x31da1bb8
 https://www.google.com/maps/place/MacLean+International+Group/data=!4m7!3m6!1s0x31da1725f6b1f9a7:0x4aaba09de02069!8m2!3d1.3594755!4d103.8339683!16s%2Fg%2F1tdms3zy!19sChIJp_mx9iUX2jERaSDgnaCrSgA
 https://www.google.com/maps/place/Kistler+Instruments+Pte+Ltd/data=!4m7!3m6!1s0x31da17258b2e4897:0x556d6eee093489d6!8m2!3d1.3598514!4d103.834143!16s%2Fg%2F1ptw2rrlb!19sChIJl0guiyUX2jER1ok0Ce5ubVU
 https://www.google.com/maps/place/Panduit+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da05ff350e5807:0xf50688209801f219!8m2!3d1.2962426!4d103.8532723!16s%2Fg%2F1td9n0tc!19sChIJB1gONf8F2jERGfIBmCCIBvU
+https://www.google.com/maps/place/Testmax+Manufacturing+Pte+Ltd+%28Singapore%29/data=!4m7!3m6!1s0x31da177d1db87aaf:0x9dd8ef8b7fb2ae34!8m2!3d1.3882218!4d103.848673!16s%2Fg%2F1tdy6k_p!19sChIJr3q4HX0X2jERNK6yf4vv2J0
