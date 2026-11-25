@@ -12629,3 +12629,4 @@ https://www.google.com/maps/place/Testmax+Manufacturing+Pte+Ltd+%28Singapore%29/
 https://www.google.com/maps/place/Alliance+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da0f505b7387ed:0xa95d7b1e4cdcc074!8m2!3d1.335155!4d103.645963!16s%2Fg%2F11btws5380!19sChIJ7YdzW1AP2jERdMDcTB57Xak
 https://www.google.com/maps/place/Taihei+Industries+Pte+Ltd+%28Singapore%29/data=!4m7!3m6!1s0x31da1787ae9ea527:0xb4357d787abc7592!8m2!3d1.3284757!4d103.8771554!16s%2Fg%2F1tczy0hh!19sChIJJ6WerocX2jERknW8enh9NbQ
 https://www.google.com/maps/place/Semiconductor+Technologies+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1725ef011a6b:0x2a5a3a402d6e86a2!8m2!3d1.3587374!4d103.8342185!16s%2Fg%2F11b5pk5166!19sChIJaxoB7yUX2jERooZuLUA6Wio
+https://www.google.com/maps/place/Foo+Wah+Industrial+Building/data=!4m7!3m6!1s0x31da173dceeb6ec5:0xb11d49fa253d55ee!8m2!3d1.3504959!4d103.8425523!16s%2Fg%2F12hkzdp_5!19sChIJxW7rzj0X2jER7lU9JfpJHbE
