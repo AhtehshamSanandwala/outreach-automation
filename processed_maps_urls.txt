@@ -12215,3 +12215,4 @@ https://www.google.com/maps/place/Novade/data=!4m7!3m6!1s0x31da19a6c96364c7:0x98
 https://www.google.com/maps/place/Rezerv+-+Fitness+and+Wellness+Software+%28Formerly+Rezeve%29/data=!4m7!3m6!1s0x31da179b4d2b3467:0x83c8c4eb76eb9625!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F11nx2ly0bl!19sChIJZzQrTZsX2jERJZbrduvEyIM
 https://www.google.com/maps/place/Google+Singapore/data=!4m7!3m6!1s0x31da1911f12998e9:0x43e454b88753032a!8m2!3d1.2761807!4d103.8000401!16s%2Fg%2F11c1lzwprp!19sChIJ6Zgp8REZ2jERKgNTh7hU5EM
 https://www.google.com/maps/place/Rhino+Partners+Pte.+Ltd./data=!4m7!3m6!1s0x31da19ea2ada7c77:0x236dfeaa822eef2b!8m2!3d1.2810821!4d103.8498724!16s%2Fg%2F11j2xmqvw2!19sChIJd3zaKuoZ2jERK-8ugqr-bSM
+https://www.google.com/maps/place/Easyera+Pte.+Ltd./data=!4m7!3m6!1s0x31da19ce8bad8d8d:0xebe986763dd1f2cf!8m2!3d1.2929869!4d103.8322498!16s%2Fg%2F11xrn4zs41!19sChIJjY2ti84Z2jERz_LRPXaG6es
