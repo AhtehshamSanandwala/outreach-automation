@@ -12573,3 +12573,4 @@ https://www.google.com/maps/place/AAMER+Architects/data=!4m7!3m6!1s0x31da1a2c8fc
 https://www.google.com/maps/place/Gensler+Singapore+Office/data=!4m7!3m6!1s0x31da196eee85e621:0x7180ac6db6bcd693!8m2!3d1.2877673!4d103.8449185!16s%2Fg%2F1th7kf41!19sChIJIeaF7m4Z2jERk9a8tm2sgHE
 https://www.google.com/maps/place/AWP+Pte.+Ltd./data=!4m7!3m6!1s0x31da19a6cc5f8479:0xfe68a25379582775!8m2!3d1.2787957!4d103.8481161!16s%2Fg%2F1tgw2k9p!19sChIJeYRfzKYZ2jERdSdYeVOiaP4
 https://www.google.com/maps/place/LAUD+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da175c994400e9:0xd625d3a5bb81fe36!8m2!3d1.333088!4d103.8390749!16s%2Fg%2F1vl5d8z3!19sChIJ6QBEmVwX2jERNv6Bu6XTJdY
+https://www.google.com/maps/place/IX+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da19736aa57f85:0xc1e54764021aec40!8m2!3d1.3358564!4d103.885446!16s%2Fg%2F1tywvgf9!19sChIJhX-lanMZ2jERQOwaAmRH5cE
