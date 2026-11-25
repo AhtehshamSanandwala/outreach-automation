@@ -12537,3 +12537,5 @@ https://www.google.com/maps/place/City+Surveyors+Pte+Ltd/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Global+Green+Connect/data=!4m7!3m6!1s0x31da194304c6ed13:0xbfab7d242e6730e8!8m2!3d1.2827295!4d103.8508511!16s%2Fg%2F11k3487gy7!19sChIJE-3GBEMZ2jER6DBnLiR9q78
 https://www.google.com/maps/place/United+Project+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x31da1761d8baacf7:0xe84acbe532fcf3b7!8m2!3d1.3265529!4d103.8487519!16s%2Fg%2F11qnk7tzr0!19sChIJ96y62GEX2jERt_P8MuXLSug
 https://www.google.com/maps/place/Master+Safety+Consultants+Pte.+Ltd./data=!4m7!3m6!1s0x31da197affd61f41:0x214cb16250549bd0!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11tf2rjfwh!19sChIJQR_W_3oZ2jER0JtUUGKxTCE
+https://www.google.com/maps/place/Hock+Leong+Aircon+%26+Electrical+Works/data=!4m7!3m6!1s0x31da1725f6b4c95b:0x2e7c3160bf61292e!8m2!3d1.3581502!4d103.8332378!16s%2Fg%2F11dymv443c!19sChIJW8m09iUX2jERLilhv2AxfC4
+https://www.google.com/maps/place/ONG%26ONG+Pte+Ltd/data=!4m7!3m6!1s0x31da175c994400e9:0xaa1fa6f88b4ebbb5!8m2!3d1.333133!4d103.83895!16s%2Fg%2F1vc69xz4!19sChIJ6QBEmVwX2jERtbtOi_imH6o
