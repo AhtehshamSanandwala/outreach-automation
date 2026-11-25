@@ -12355,3 +12355,4 @@ https://www.google.com/maps/place/AtomIT+Networks+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Cloud+Security+Alliance+Singapore+Chapter/data=!4m7!3m6!1s0xaaab91ea0032799f:0x86f67626b1e6c614!8m2!3d1.314!4d103.84425!16s%2Fg%2F11y3lsdrbp!19sChIJn3kyAOqRq6oRFMbmsSZ29oY
 https://www.google.com/maps/place/PSB+Academy+City+Campus:+STEM+Wing/data=!4m7!3m6!1s0x31da179b133d69cd:0x558fcb419def4365!8m2!3d1.2909589!4d103.8574321!16s%2Fg%2F11gh_m6fds!19sChIJzWk9E5sX2jERZUPvnUHLj1U
 https://www.google.com/maps/place/watchTowr/data=!4m6!3m5!1s0x31da196c6693e7ad:0xb7b7f17db170b048!8m1!3d9.3741102!16s%2Fg%2F11lkhdxv6p!19sChIJreeTZmwZ2jERSLBwsX3xt7c
+https://www.google.com/maps/place/Certis+Cisco+Auxiliary+Police+Force+Pte+Ltd/data=!4m7!3m6!1s0x31da19f997f56e5d:0x934e72abc2595244!8m2!3d1.3224149!4d103.892082!16s%2Fg%2F11fs9p8x3h!19sChIJXW71l_kZ2jERRFJZwqtyTpM
