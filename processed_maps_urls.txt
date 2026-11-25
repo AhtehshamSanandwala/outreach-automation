@@ -12692,3 +12692,6 @@ https://www.google.com/maps/place/Dillic+Packaging/data=!4m7!3m6!1s0x31da3c501bf
 https://www.google.com/maps/place/The+Packaging+People/data=!4m7!3m6!1s0x8e61e900d80c47d9:0x5a2c2f767aa3ccec!8m2!3d1.3376804!4d103.9486519!16s%2Fg%2F11swzrw_lr!19sChIJ2UcM2ADpYY4R7MyjenYvLFo
 https://www.google.com/maps/place/Pacific+Packaging+Pte+Ltd/data=!4m7!3m6!1s0x31da14889743e4c7:0xf088744e651b9fbd!8m2!3d1.4424757!4d103.8340344!16s%2Fg%2F1tdpjlrj!19sChIJx-RDl4gU2jERvZ8bZU50iPA
 https://www.google.com/maps/place/Carton+Box+Singapore/data=!4m7!3m6!1s0x31da198db272de89:0x77a227f9b3abb15!8m2!3d1.2807994!4d103.8220601!16s%2Fg%2F11fct3329n!19sChIJid5yso0Z2jERFbs6m38iegc
+https://www.google.com/maps/place/HMLY+Pte+Ltd+%E2%80%93+Your+Trusted+Packaging+Service+Provider+in+Singapore/data=!4m7!3m6!1s0x31da0ff0c910a3f9:0xa035a85075bcc787!8m2!3d1.3328542!4d103.7175357!16s%2Fg%2F1v1shqj3!19sChIJ-aMQyfAP2jERh8e8dVCoNaA
+https://www.google.com/maps/place/Federal+Packaging+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da05846be67595:0x6e1552815f0c7e25!8m2!3d1.3205418!4d103.6759564!16s%2Fg%2F1tcypbnh!19sChIJlXXma4QF2jERJX4MX4FSFW4
+https://www.google.com/maps/place/KS+Packaging+Pte+Ltd/data=!4m7!3m6!1s0x31da059b7e6cbc05:0xc9ea9d79971532f7!8m2!3d1.3283216!4d103.7022177!16s%2Fg%2F1tp2xx4z!19sChIJBbxsfpsF2jER9zIVl3md6sk
