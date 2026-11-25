@@ -12354,3 +12354,4 @@ https://www.google.com/maps/place/Trident+Technologies+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/AtomIT+Networks+Pte+Ltd/data=!4m7!3m6!1s0x31da108f7856bd61:0xcad18016ca9fc6de!8m2!3d1.36001!4d103.8341669!16s%2Fg%2F1tdwy1dr!19sChIJYb1WeI8Q2jER3safyhaA0co
 https://www.google.com/maps/place/Cloud+Security+Alliance+Singapore+Chapter/data=!4m7!3m6!1s0xaaab91ea0032799f:0x86f67626b1e6c614!8m2!3d1.314!4d103.84425!16s%2Fg%2F11y3lsdrbp!19sChIJn3kyAOqRq6oRFMbmsSZ29oY
 https://www.google.com/maps/place/PSB+Academy+City+Campus:+STEM+Wing/data=!4m7!3m6!1s0x31da179b133d69cd:0x558fcb419def4365!8m2!3d1.2909589!4d103.8574321!16s%2Fg%2F11gh_m6fds!19sChIJzWk9E5sX2jERZUPvnUHLj1U
+https://www.google.com/maps/place/watchTowr/data=!4m6!3m5!1s0x31da196c6693e7ad:0xb7b7f17db170b048!8m1!3d9.3741102!16s%2Fg%2F11lkhdxv6p!19sChIJreeTZmwZ2jERSLBwsX3xt7c
