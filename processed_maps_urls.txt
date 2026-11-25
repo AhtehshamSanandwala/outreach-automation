@@ -12436,3 +12436,5 @@ https://www.google.com/maps/place/W+M+Low+%26+Partners/data=!4m7!3m6!1s0x31da197
 https://www.google.com/maps/place/High+Street+Chambers+LLC/data=!4m7!3m6!1s0x31da194629b0c993:0x7da7e56022542d4c!8m2!3d1.2923407!4d103.8508826!16s%2Fg%2F11mwkw7_fy!19sChIJk8mwKUYZ2jERTC1UImDlp30
 https://www.google.com/maps/place/Rajah+%26+Tann+Singapore+LLP/data=!4m7!3m6!1s0x31da1909394b425d:0xa5faaefc23cb8628!8m2!3d1.2772443!4d103.8523576!16s%2Fg%2F1tgwpscn!19sChIJXUJLOQkZ2jERKIbLI_yu-qU
 https://www.google.com/maps/place/Tito+Isaac+%26+Co+LLP/data=!4m7!3m6!1s0x31da190a47d645bd:0x872d871a22de952c!8m2!3d1.2900107!4d103.8490891!16s%2Fg%2F1wcx9lz0!19sChIJvUXWRwoZ2jERLJXeIhqHLYc
+https://www.google.com/maps/place/Singapore+Academy+of+Law:+Authentication+and+Stakeholding/data=!4m7!3m6!1s0x31da19046a7c83c3:0x617e09cd300238d!8m2!3d1.2913131!4d103.8512472!16s%2Fg%2F11gsbhd5wg!19sChIJw4N8agQZ2jERjSMA05zgFwY
+https://www.google.com/maps/place/Louis+Lim+%26+Partners/data=!4m7!3m6!1s0x31da19728b3cf267:0x3f5ac4ffd2bdecb2!8m2!3d1.2834085!4d103.8510328!16s%2Fg%2F1tfwgx83!19sChIJZ_I8i3IZ2jERsuy90v_EWj8
