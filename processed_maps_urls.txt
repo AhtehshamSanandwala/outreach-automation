@@ -12750,3 +12750,5 @@ https://www.google.com/maps/place/Wallem+Group/data=!4m7!3m6!1s0x31da1bc1469c9c1
 https://www.google.com/maps/place/Ray+Marine+%26+Shipstores+Pte+Ltd/data=!4m7!3m6!1s0x31da1ac5fdff9f59:0x3b680750934676ee!8m2!3d1.3037442!4d103.7408833!16s%2Fg%2F11b7xtbdq5!19sChIJWZ___cUa2jER7nZGk1AHaDs
 https://www.google.com/maps/place/PACC+Offshore+Services+Holdings+%28POSH%29/data=!4m7!3m6!1s0x31da19835f9379bb:0xec94a2226ec3a0e9!8m2!3d1.2939492!4d103.8320196!16s%2Fg%2F1v7pv_2j!19sChIJu3mTX4MZ2jER6aDDbiKilOw
 https://www.google.com/maps/place/Singapore+Maritime+Services/data=!4m7!3m6!1s0x31da19b1b119be41:0xbed3cae658cc0131!8m2!3d1.301841!4d103.8529!16s%2Fg%2F11b5pj319v!19sChIJQb4ZsbEZ2jERMQHMWObK074
+https://www.google.com/maps/place/Royal+Marine+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19d2c280108d:0x13619bfc7a92c9f0!8m2!3d1.2913131!4d103.8512472!16s%2Fg%2F11fn7s_2x2!19sChIJjRCAwtIZ2jER8MmSevybYRM
+https://www.google.com/maps/place/Mss+Marine+%26+Offshore+Pte.+Ltd./data=!4m7!3m6!1s0x31da1012b1cd8411:0x88f41532a8c88ff7!8m2!3d1.3158456!4d103.6969605!16s%2Fg%2F1v8g8js2!19sChIJEYTNsRIQ2jER94_IqDIV9Ig
