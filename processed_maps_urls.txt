@@ -12313,3 +12313,5 @@ https://www.google.com/maps/place/D%E2%80%99Crypt/data=!4m7!3m6!1s0x31da1a4e5555
 https://www.google.com/maps/place/Acronis/data=!4m7!3m6!1s0x31da1962ad501335:0x2d2732b71b2fce59!8m2!3d1.2952806!4d103.859597!16s%2Fg%2F1tk6mvn0!19sChIJNRNQrWIZ2jERWc4vG7cyJy0
 https://www.google.com/maps/place/CyberSG+TIG+Collaboration+Centre+%28formerly+ICE71%29/data=!4m7!3m6!1s0x31da1b853b263aa5:0xd311e76b8daa2e94!8m2!3d1.2923879!4d103.7756989!16s%2Fg%2F11vt4nmyh_!19sChIJpTomO4Ub2jERlC6qjWvnEdM
 https://www.google.com/maps/place/Terrabyte+Group/data=!4m7!3m6!1s0x31da165ba3ab78b5:0x8eb6cb072fe65c9a!8m2!3d1.3417116!4d103.8855366!16s%2Fg%2F1th5fzhb!19sChIJtXiro1sW2jERmlzmLwfLto4
+https://www.google.com/maps/place/Cybernatics+Pte+Ltd/data=!4m7!3m6!1s0x31da1b34adf7a841:0x2c7f4179e1cb9d45!8m2!3d1.3050131!4d103.7984498!16s%2Fg%2F11vjcmdpq0!19sChIJQaj3rTQb2jERRZ3L4XlBfyw
+https://www.google.com/maps/place/Accenture/data=!4m7!3m6!1s0x31da19a6834ab653:0x78975db42389cc93!8m2!3d1.2937015!4d103.8528073!16s%2Fg%2F1wd3sklm!19sChIJU7ZKg6YZ2jERk8yJI7Rdl3g
