@@ -12429,3 +12429,4 @@ https://www.google.com/maps/place/Lee+%26+Lee+LLP/data=!4m7!3m6!1s0x31da1913cbe6
 https://www.google.com/maps/place/Clifford+Law+LLP/data=!4m7!3m6!1s0x31da190ec8100e47:0x93ad7f6ba57ab55b!8m2!3d1.2911845!4d103.8512167!16s%2Fg%2F1tksf9q3!19sChIJRw4QyA4Z2jERW7V6pWt_rZM
 https://www.google.com/maps/place/Asia+Law+Corporation/data=!4m7!3m6!1s0x31da1766e85fedb9:0xa2693f87352342fb!8m2!3d1.3325155!4d103.8485309!16s%2Fg%2F119v7qgh3!19sChIJue1f6GYX2jER-0IjNYc_aaI
 https://www.google.com/maps/place/JS+Law+Chambers+LLP/data=!4m7!3m6!1s0x31da196d51d6ae2d:0x79f940fc77a1c62a!8m2!3d1.2835747!4d103.8468138!16s%2Fg%2F11jj_sjdvt!19sChIJLa7WUW0Z2jERKsahd_xA-Xk
+https://www.google.com/maps/place/Farallon+Law+Corporation/data=!4m7!3m6!1s0x31da190ebe178a7b:0x851ea937c1927909!8m2!3d1.2851792!4d103.8527511!16s%2Fg%2F11bw3dgw91!19sChIJe4oXvg4Z2jERCXmSwTepHoU
