@@ -12604,3 +12604,4 @@ https://www.google.com/maps/place/Sin+Cheong+Containers+Manufacturing+Co.+%28Pte
 https://www.google.com/maps/place/ROHM+Semiconductor+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da199f3c3c1747:0xcc152b029d64c4dd!8m2!3d1.292809!4d103.842937!16s%2Fg%2F11b7r_pxm5!19sChIJRxc8PJ8Z2jER3cRknQIrFcw
 https://www.google.com/maps/place/Imperial+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da3d0d367198bf:0x876356b35e1539de!8m2!3d1.3373091!4d103.9435094!16s%2Fg%2F11rkcfvxkr!19sChIJv5hxNg092jER3jkVXrNWY4c
 https://www.google.com/maps/place/Singapore+Manufacturing+Federation/data=!4m7!3m6!1s0x31da1bd164eb278d:0x8d0298dd05896c0b!8m2!3d1.2778014!4d103.8007987!16s%2Fg%2F1tr799zn!19sChIJjSfrZNEb2jERC2yJBd2YAo0
+https://www.google.com/maps/place/PLC+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da1ab38a585fc1:0x1ad44105cc02a0cf!8m2!3d1.313141!4d103.7328538!16s%2Fg%2F1w6r5t33!19sChIJwV9YirMa2jERz6ACzAVB1Bo
