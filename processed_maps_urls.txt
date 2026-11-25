@@ -12295,3 +12295,5 @@ https://www.google.com/maps/place/Cyber+Force+SG+Pte.Ltd./data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Cyber+Security+World+Asia/data=!4m7!3m6!1s0x31da197667870a29:0x20e3d67201e7fac0!8m2!3d1.2739669!4d103.8444453!16s%2Fg%2F11fjxg2xp4!19sChIJKQqHZ3YZ2jERwPrnAXLW4yA
 https://www.google.com/maps/place/Cyber+Octet/data=!4m7!3m6!1s0x395e8f551f3b90e1:0x32528a139299c2c8!8m2!3d23.0142714!4d72.5312351!16s%2Fg%2F11cmh9k04s!19sChIJ4ZA7H1WPXjkRyMKZkhOKUjI
 https://www.google.com/maps/place/CyberLitmus/data=!4m7!3m6!1s0x31da196ac2186575:0x6d9e542cb43159e1!8m2!3d1.299206!4d103.8604874!16s%2Fg%2F11rq7_pqjx!19sChIJdWUYwmoZ2jER4VkxtCxUnm0
+https://www.google.com/maps/place/CLOUDSQUIRE+PTE.+LTD./data=!4m7!3m6!1s0x31da17639ea5f687:0xf965f0d761c7049f!8m2!3d1.3584498!4d103.8336633!16s%2Fg%2F11qsmsf3pw!19sChIJh_alnmMX2jERnwTHYdfwZfk
+https://www.google.com/maps/place/Nozomi+Networks/data=!4m7!3m6!1s0x31da19f81dc71449:0x9ec43092596ed6c4!8m2!3d1.284358!4d103.8510616!16s%2Fg%2F11fl7q350z!19sChIJSRTHHfgZ2jERxNZuWZIwxJ4
