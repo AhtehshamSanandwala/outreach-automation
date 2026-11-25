@@ -12599,3 +12599,5 @@ https://www.google.com/maps/place/Acme+Manufacturing+Company+Singapore+Pte+Ltd/d
 https://www.google.com/maps/place/T%26C+Manufacturing+Co.+Pte.+Ltd./data=!4m7!3m6!1s0x31da060bc615a885:0xfd0a6951fc6d92a1!8m2!3d1.3116223!4d103.6327751!16s%2Fg%2F11c59xqdfm!19sChIJhagVxgsG2jERoZJt_FFpCv0
 https://www.google.com/maps/place/Speqs+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da0586f75ecbad:0xdb03eded6a52ffce!8m2!3d1.3248136!4d103.6745212!16s%2Fg%2F1tk_lsvn!19sChIJrcte94YF2jERzv9Sau3tA9s
 https://www.google.com/maps/place/Armstrong+Industrial+Corporation+Limited+%28Singapore+Corp+HQ%29/data=!4m7!3m6!1s0x31da176c78289ca5:0x75748760224ab1f8!8m2!3d1.3426428!4d103.850053!16s%2Fg%2F11fy1w0s2q!19sChIJpZwoeGwX2jER-LFKImCHdHU
+https://www.google.com/maps/place/HG+Metal+Manufacturing+Limited/data=!4m7!3m6!1s0x31da0556a05a686b:0xb3f786c66600a51f!8m2!3d1.3130648!4d103.707138!16s%2Fg%2F1ttp_md3!19sChIJa2haoFYF2jERH6UAZsaG97M
+https://www.google.com/maps/place/Sin+Cheong+Containers+Manufacturing+Co.+%28Pte%29+Ltd./data=!4m7!3m6!1s0x31da059b3047fad1:0x18353bb1879306ae!8m2!3d1.3182023!4d103.674715!16s%2Fg%2F1wc2zrhk!19sChIJ0fpHMJsF2jERrgaTh7E7NRg
