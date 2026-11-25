@@ -12462,3 +12462,5 @@ https://www.google.com/maps/place/Vesper+Homes/data=!4m7!3m6!1s0x31da19ba604d120
 https://www.google.com/maps/place/Mandy+Ei+%E6%A2%81%E6%96%87%E6%AC%A3+%E2%80%93+Singapore+Property+Agent+%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%BB%8F%E7%BA%AA/data=!4m7!3m6!1s0x31da173bbbcb548d:0xd791f86ee6a883c!8m2!3d1.3317097!4d103.8494335!16s%2Fg%2F11q2xcz3bz!19sChIJjVTLuzsX2jERPIhq7oYfeQ0
 https://www.google.com/maps/place/PropertyBank+Pte+Ltd/data=!4m7!3m6!1s0x31da19bbc73b416d:0x1a30c69a81a15f22!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11bxg2__bh!19sChIJbUE7x7sZ2jERIl-hgZrGMBo
 https://www.google.com/maps/place/SN+Real+Estate+Pte+Ltd/data=!4m7!3m6!1s0x31da1bf14104b48b:0xe210e65a05165bd9!8m2!3d1.3068159!4d103.8581827!16s%2Fg%2F11r5_c32_c!19sChIJi7QEQfEb2jER2VsWBVrmEOI
+https://www.google.com/maps/place/93+Property/data=!4m7!3m6!1s0x31da1722de5fc6c9:0x4a0c9ab0f6f0abad!8m2!3d1.3322846!4d103.8483709!16s%2Fg%2F11sfb4pdqt!19sChIJycZf3iIX2jERravw9rCaDEo
+https://www.google.com/maps/place/Ngee+Ann+City+Office/data=!4m7!3m6!1s0x31da1991ed607fe9:0x91f3f562c2a1c4cd!8m2!3d1.3027623!4d103.8342901!16s%2Fg%2F11gf1stwdg!19sChIJ6X9g7ZEZ2jERzcShwmL185E
