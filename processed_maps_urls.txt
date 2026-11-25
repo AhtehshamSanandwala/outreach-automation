@@ -12262,3 +12262,4 @@ https://www.google.com/maps/place/SOStech+@+SG/data=!4m7!3m6!1s0x31da1913440f0e5
 https://www.google.com/maps/place/Thinkture+Pte+Ltd/data=!4m7!3m6!1s0x31da17f805226bf9:0x7449c5318c83c916!8m2!3d1.359932!4d103.8342682!16s%2Fg%2F11k3zf0sk6!19sChIJ-WsiBfgX2jERFsmDjDHFSXQ
 https://www.google.com/maps/place/Cognitiv+Pte+Ltd/data=!4m7!3m6!1s0x31da170d1cd3a2cf:0xb94964afa7bcaf32!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F11h_tb99r4!19sChIJz6LTHA0X2jERMq-8p69kSbk
 https://www.google.com/maps/place/Consilio+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da17af1d90e8f9:0x498c0dc1f031d152!8m2!3d1.3586404!4d103.8340972!16s%2Fg%2F11hdjccdn3!19sChIJ-eiQHa8X2jERUtEx8MENjEk
+https://www.google.com/maps/place/Cloud+Enabled+Pte+Ltd/data=!4m7!3m6!1s0x31da19e46077c51f:0x90986a4a0e87448f!8m2!3d1.2783916!4d103.8477644!16s%2Fg%2F11s3xsz001!19sChIJH8V3YOQZ2jERj0SHDkpqmJA
