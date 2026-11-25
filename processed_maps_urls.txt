@@ -12284,3 +12284,4 @@ https://www.google.com/maps/place/InsiderSecurity/data=!4m7!3m6!1s0x31da1a501a70
 https://www.google.com/maps/place/Trend+Micro/data=!4m7!3m6!1s0x31da1a4d18369e4d:0x9f8d7b32a9fce736!8m2!3d1.2947218!4d103.8597326!16s%2Fg%2F1tdp745v!19sChIJTZ42GE0a2jERNuf8qTJ7jZ8
 https://www.google.com/maps/place/Stone+Cybersecurity+Pte+Ltd/data=!4m7!3m6!1s0x31da19dfcdf9afa7:0x55d4f921739b4ce2!8m2!3d1.2749005!4d103.8452383!16s%2Fg%2F11tfh5hfss!19sChIJp6_5zd8Z2jER4kybcyH51FU
 https://www.google.com/maps/place/Contfinity+Pte+Ltd./data=!4m7!3m6!1s0x31da1723c28cf6fd:0x793fd2a7140b0a15!8m2!3d1.3186698!4d103.8929613!16s%2Fg%2F11tc8kzjzd!19sChIJ_faMwiMX2jERFQoLFKfSP3k
+https://www.google.com/maps/place/CyberSafe+Pte.+Ltd./data=!4m7!3m6!1s0xabaef90b25108529:0xbfac043480219d58!8m2!3d1.4199896!4d103.8636071!16s%2Fg%2F11rjv4c2t2!19sChIJKYUQJQv5rqsRWJ0hgDQErL8
