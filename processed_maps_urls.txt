@@ -12582,3 +12582,6 @@ https://www.google.com/maps/place/AGA+Architects/data=!4m7!3m6!1s0x31da196b6cac0
 https://www.google.com/maps/place/Hassell/data=!4m7!3m6!1s0x31da190d9bed12e7:0x53d062b7632728f8!8m2!3d1.282215!4d103.8476854!16s%2Fg%2F11ckvbp950!19sChIJ5xLtmw0Z2jER-CgnY7di0FM
 https://www.google.com/maps/place/Architects+61+Pte.+Ltd./data=!4m7!3m6!1s0x31da19afd5ea9a7f:0x630e90d63696ff4b!8m2!3d1.298414!4d103.858764!16s%2Fg%2F1vwllnms!19sChIJf5rq1a8Z2jERS_-WNtaQDmM
 https://www.google.com/maps/place/Former+City+Hall/data=!4m7!3m6!1s0x31da19a73c85876f:0x7aea3e37018775b1!8m2!3d1.29068!4d103.851743!16zL20vMDdtNWoy!19sChIJb4eFPKcZ2jERsXWHATc-6no
+https://www.google.com/maps/place/Gotham+Singapore/data=!4m7!3m6!1s0x31da196f339aca99:0xd6791d0311c91f8f!8m2!3d1.300164!4d103.8577305!16s%2Fg%2F11lq2spyhl!19sChIJmcqaM28Z2jERjx_JEQMdedY
+https://www.google.com/maps/place/LOOK+Architects/data=!4m7!3m6!1s0x31da107567e322fb:0x2794a35c53d69ff5!8m2!3d1.328382!4d103.752966!16s%2Fg%2F1tct66w6!19sChIJ-yLjZ3UQ2jER9Z_WU1yjlCc
+https://www.google.com/maps/place/City+Architectural+Models+Studio/data=!4m7!3m6!1s0x31da1488bb9ae721:0xfb258b5121d1a0ce!8m2!3d1.4430729!4d103.833904!16s%2Fg%2F1pv0x344y!19sChIJIeeau4gU2jERzqDRIVGLJfs
