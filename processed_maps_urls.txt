@@ -12802,3 +12802,5 @@ https://www.google.com/maps/place/Cape+Engineering+Construction+Pte.+Ltd./data=!
 https://www.google.com/maps/place/ACL+Construction+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da05f30cfea6ef:0xf13f415a4b5850bd!8m2!3d1.3222794!4d103.6566633!16s%2Fg%2F1tcwchhd!19sChIJ76b-DPMF2jERvVBYS1pBP_E
 https://www.google.com/maps/place/Building+Construction+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da05fd1dc49d01:0x3c29ab3fc5d2f31a!8m2!3d1.3250952!4d103.7634955!16s%2Fg%2F1vxvfchj!19sChIJAZ3EHf0F2jERGvPSxT-rKTw
 https://www.google.com/maps/place/Kwan+Yong+Construction+Pte+Ltd/data=!4m7!3m6!1s0x31da0f7d06419a71:0xf7f279a221b7ecba!8m2!3d1.3294774!4d103.6735721!16s%2Fg%2F11b7_0hv99!19sChIJcZpBBn0P2jERuuy3IaJ58vc
+https://www.google.com/maps/place/Civic+Distric/data=!4m7!3m6!1s0x31da190016ff263b:0xda88608803749118!8m2!3d1.292616!4d103.850828!16s%2Fg%2F11ym3t18s7!19sChIJOyb_FgAZ2jERGJF0A4hgiNo
+https://www.google.com/maps/place/Siong+Construction+%26+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da178cb97c76c5:0x30b7cfc4851d7434!8m2!3d1.3318574!4d103.8902635!16s%2Fg%2F11fnwhppnw!19sChIJxXZ8uYwX2jERNHQdhcTPtzA
