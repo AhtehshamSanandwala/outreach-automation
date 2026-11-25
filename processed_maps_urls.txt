@@ -12243,3 +12243,4 @@ https://www.google.com/maps/place/Thatz+International+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Infinito+Solutions/data=!4m7!3m6!1s0x31da17feb3819137:0xf7de79b646a0b9f5!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11rpmd5y7r!19sChIJN5GBs_4X2jER9bmgRrZ53vc
 https://www.google.com/maps/place/TECH+GRID+ASIA/data=!4m7!3m6!1s0x31da196d5f955555:0x70be7f39b3075aa3!8m2!3d1.3019624!4d103.8397343!16s%2Fg%2F11h4djj9mz!19sChIJVVWVX20Z2jERo1oHszl_vnA
 https://www.google.com/maps/place/Sysveda+Information+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da19a0bb90a4f7:0x2343144c1093c8c1!8m2!3d1.289827!4d103.849588!16s%2Fg%2F1pty_sr77!19sChIJ96SQu6AZ2jERwciTEEwUQyM
+https://www.google.com/maps/place/Microbit+Information+Systems+Pte+Ltd/data=!4m7!3m6!1s0x31da1725f6b4c95b:0x2b31196c54c784c4!8m2!3d1.3589937!4d103.8334875!16s%2Fg%2F1pty_gnz1!19sChIJW8m09iUX2jERxITHVGwZMSs
