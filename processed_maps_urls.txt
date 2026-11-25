@@ -12302,3 +12302,4 @@ https://www.google.com/maps/place/Cisco+Systems+%28USA%29+Pte+Ltd/data=!4m7!3m6!
 https://www.google.com/maps/place/BitCyber+Pte+Ltd/data=!4m7!3m6!1s0x31da1b2885f6bffb:0x338d36fe22a6d98d!8m2!3d1.2833298!4d103.814476!16s%2Fg%2F11mxxwx0r1!19sChIJ-7_2hSgb2jERjdmmIv42jTM
 https://www.google.com/maps/place/Conversant+Solutions/data=!4m7!3m6!1s0x31da19aee30d1c09:0xd2e9489bec7336b7!8m2!3d1.2937868!4d103.8527761!16s%2Fg%2F11b6d3jqph!19sChIJCRwN464Z2jERtzZz7JtI6dI
 https://www.google.com/maps/place/Smart+Nation+and+Digital+Government+Office+%28SNDGO%29/data=!4m7!3m6!1s0x31da194fce96d93d:0x76f02b2ff35495bf!8m2!3d1.2915157!4d103.8501338!16s%2Fg%2F11hm_5pdcj!19sChIJPdmWzk8Z2jERv5VU8y8r8HY
+https://www.google.com/maps/place/Certis+Commonwealth/data=!4m7!3m6!1s0x31da16597c5a51e7:0xd18f1b30ada5d740!8m2!3d1.3049332!4d103.7969628!16s%2Fg%2F1tg5x448!19sChIJ51FafFkW2jERQNelrTAbj9E
