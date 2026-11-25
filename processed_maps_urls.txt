@@ -12654,3 +12654,4 @@ https://www.google.com/maps/place/Sin+Ming+Industrial+Estate/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/UMS+EQUIPMENT+%28S%29+P%2FL./data=!4m7!3m6!1s0x31da17e35f86ee47:0x8702470808110068!8m2!3d1.358606!4d103.833566!16s%2Fg%2F1td6k501!19sChIJR-6GX-MX2jERaAARCAhHAoc
 https://www.google.com/maps/place/Mesh+Bio/data=!4m7!3m6!1s0x31da1b39ba954555:0x67ddbc971a6701bc!8m2!3d1.3584494!4d103.8336654!16s%2Fg%2F11sgz1ncl3!19sChIJVUWVujkb2jERvAFnGpe83Wc
 https://www.google.com/maps/place/Merdeka+Construction+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da171b2474df9d:0xe8482a16ad78af1f!8m2!3d1.4429351!4d103.8345271!16s%2Fg%2F1tdnyzt0!19sChIJnd90JBsX2jERH694rRYqSOg
+https://www.google.com/maps/place/Busways+Pte+Ltd/data=!4m7!3m6!1s0x31da13e1dd996b05:0x2c12dcafaf4f4421!8m2!3d1.453724!4d103.796331!16s%2Fg%2F11j242xlxl!19sChIJBWuZ3eET2jERIURPr6_cEiw
