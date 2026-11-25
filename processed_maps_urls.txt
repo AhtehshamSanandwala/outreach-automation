@@ -12222,3 +12222,4 @@ https://www.google.com/maps/place/NiTM+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Appsmakerstore+Southeast+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da19f7f8c144fd:0xe0559876672bd422!8m2!3d1.3168043!4d103.8618795!16s%2Fg%2F11j4fjd156!19sChIJ_UTB-PcZ2jERItQrZ3aYVeA
 https://www.google.com/maps/place/ITify+LLP/data=!4m7!3m6!1s0x31da1719cf3bc6f9:0xfbdd67a3c64d68d9!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F11ghdr6tgs!19sChIJ-cY7zxkX2jER2WhNxqNn3fs
 https://www.google.com/maps/place/Portcities+Singapore/data=!4m7!3m6!1s0x31da1906b109a481:0x4af444f5dbbbb9a5!8m2!3d1.288031!4d103.8477936!16s%2Fg%2F11mvsg86lz!19sChIJgaQJsQYZ2jERpbm72_VE9Eo
+https://www.google.com/maps/place/Quantum+Inventions+Pte+Ltd/data=!4m7!3m6!1s0x31da19cb0dd2bb13:0x8205f0c68ae09a56!8m2!3d1.3125822!4d103.8643046!16s%2Fg%2F11bwh58dp_!19sChIJE7vSDcsZ2jERVprgisbwBYI
