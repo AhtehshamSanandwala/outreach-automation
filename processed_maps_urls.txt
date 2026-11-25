@@ -12363,3 +12363,4 @@ https://www.google.com/maps/place/i-schoolapp/data=!4m7!3m6!1s0x31da17c4dc4a715d
 https://www.google.com/maps/place/ACSOLV+CONSULT+PTE.+LTD./data=!4m7!3m6!1s0x31da17fac5e2b881:0x8c7b005dae9f5f00!8m2!3d1.3335818!4d103.8920859!16s%2Fg%2F11bbrl2y48!19sChIJgbjixfoX2jERAF-frl0Ae4w
 https://www.google.com/maps/place/OrangeKloud,+INC./data=!4m7!3m6!1s0x31da159b270798b9:0xdf54f40c83f594bc!8m2!3d1.316296!4d103.8628014!16s%2Fg%2F11f6y1hbkd!19sChIJuZgHJ5sV2jERvJT1gwz0VN8
 https://www.google.com/maps/place/Applivon+Pte+Ltd/data=!4m7!3m6!1s0x31da3dfc71ae70df:0x271cdd7a0aa748ba!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11h8ftxs2c!19sChIJ33Cucfw92jERukinCnrdHCc
+https://www.google.com/maps/place/CRM+Property+Consultant/data=!4m7!3m6!1s0x31da17d99b1c8657:0x7551e9526d978e03!8m2!3d1.314!4d103.84425!16s%2Fg%2F11jgt7h827!19sChIJV4Ycm9kX2jERA46XbVLpUXU
