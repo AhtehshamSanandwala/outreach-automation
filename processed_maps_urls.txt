@@ -12150,3 +12150,5 @@ https://www.google.com/maps/place/Allied+Foodservice+Equipment+%28S%29+Pte.Ltd/d
 https://www.google.com/maps/place/Sany+South+East+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da196d21090a41:0x9f0f7b214ccdfa42!8m2!3d1.318096!4d103.6558728!16s%2Fg%2F1ptx0qxy3!19sChIJQQoJIW0Z2jERQvrNTCF7D58
 https://www.google.com/maps/place/Hana+Film+-+City+Hall/data=!4m7!3m6!1s0x31da19f7fb8f393f:0xd6f958060f6b68e3!8m2!3d1.2913003!4d103.8551945!16s%2Fg%2F11sk507w__!19sChIJPzmP-_cZ2jER42hrDwZY-dY
 https://www.google.com/maps/place/Traffic+Bees/data=!4m7!3m6!1s0x31da1b5a23babeef:0xeebc63cd22a81fc0!8m2!3d1.434783!4d103.7859704!16s%2Fg%2F11gtd8_0rw!19sChIJ7766I1ob2jERwB-oIs1jvO4
+https://www.google.com/maps/place/Digital+Monk/data=!4m7!3m6!1s0x31da19a127c066f7:0x6c74c9bbb714a37a!8m2!3d1.2914767!4d103.8498003!16s%2Fg%2F11y3zxz7q1!19sChIJ92bAJ6EZ2jEReqMUt7vJdGw
+https://www.google.com/maps/place/The+DIgital+Surgeons/data=!4m7!3m6!1s0x4d370236ed5898e3:0xe61d5db977d14510!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11tc_16n75!19sChIJ45hY7TYCN00REEXRd7ldHeY
