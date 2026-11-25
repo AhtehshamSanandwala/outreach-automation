@@ -12315,3 +12315,5 @@ https://www.google.com/maps/place/CyberSG+TIG+Collaboration+Centre+%28formerly+I
 https://www.google.com/maps/place/Terrabyte+Group/data=!4m7!3m6!1s0x31da165ba3ab78b5:0x8eb6cb072fe65c9a!8m2!3d1.3417116!4d103.8855366!16s%2Fg%2F1th5fzhb!19sChIJtXiro1sW2jERmlzmLwfLto4
 https://www.google.com/maps/place/Cybernatics+Pte+Ltd/data=!4m7!3m6!1s0x31da1b34adf7a841:0x2c7f4179e1cb9d45!8m2!3d1.3050131!4d103.7984498!16s%2Fg%2F11vjcmdpq0!19sChIJQaj3rTQb2jERRZ3L4XlBfyw
 https://www.google.com/maps/place/Accenture/data=!4m7!3m6!1s0x31da19a6834ab653:0x78975db42389cc93!8m2!3d1.2937015!4d103.8528073!16s%2Fg%2F1wd3sklm!19sChIJU7ZKg6YZ2jERk8yJI7Rdl3g
+https://www.google.com/maps/place/Cisstac+Pte.+Ltd./data=!4m7!3m6!1s0x31da19b03cfb42d3:0x608f4605d1ba079a!8m2!3d1.2990692!4d103.8580647!16s%2Fg%2F11m__k2rzy!19sChIJ00L7PLAZ2jERmge60QVGj2A
+https://www.google.com/maps/place/CSIntelligence+Pte+Ltd+-+24%2F7+Cyber+Defenders+Singapore/data=!4m7!3m6!1s0x31da1957cded1b25:0x50cf5e2251634c67!8m2!3d1.2864244!4d103.827346!16s%2Fg%2F11fgm64_05!19sChIJJRvtzVcZ2jERZ0xjUSJez1A
