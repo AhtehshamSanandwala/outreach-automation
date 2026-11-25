@@ -12772,3 +12772,4 @@ https://www.google.com/maps/place/MS+Marine+Pte+Ltd/data=!4m7!3m6!1s0x31da1071f5
 https://www.google.com/maps/place/Amsbach+Offshore+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da19f2ac913751:0x446b197798cf7242!8m2!3d1.3077646!4d103.8328117!16s%2Fg%2F1v75pdx9!19sChIJUTeRrPIZ2jERQnLPmHcZa0Q
 https://www.google.com/maps/place/Sgmarine/data=!4m7!3m6!1s0x31da19248427f69f:0xafe3b180a2463ece!8m2!3d1.2955917!4d103.8588262!16s%2Fg%2F11rvdgzlvl!19sChIJn_YnhCQZ2jERzj5GooCx468
 https://www.google.com/maps/place/Amsbach+Offshore+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da3c37a4312b63:0xd50d9580976c0055!8m2!3d1.38403!4d103.970452!16s%2Fg%2F1pty7rd5_!19sChIJYysxpDc82jERVQBsl4CVDdU
+https://www.google.com/maps/place/Singapore+Shipping+Association/data=!4m7!3m6!1s0x31da196d2dd62551:0xa4bf8ce3fabc450a!8m2!3d1.2856141!4d103.8519726!16s%2Fg%2F11bv30n0j6!19sChIJUSXWLW0Z2jERCkW8-uOMv6Q
