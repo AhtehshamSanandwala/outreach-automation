@@ -12250,3 +12250,4 @@ https://www.google.com/maps/place/Moaah/data=!4m7!3m6!1s0x31da19bfdc79699f:0xf06
 https://www.google.com/maps/place/Straive/data=!4m7!3m6!1s0x31da19270dcf919b:0x99bbb2400ede2d0e!8m2!3d1.3078572!4d103.8328399!16s%2Fg%2F11n0pndcbg!19sChIJm5HPDScZ2jERDi3eDkCyu5k
 https://www.google.com/maps/place/Awiz+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da1725e5ca4723:0x3a08b23c46bbea2a!8m2!3d1.358888!4d103.8342156!16s%2Fg%2F1ptx6t9l7!19sChIJI0fK5SUX2jERKuq7RjyyCDo
 https://www.google.com/maps/place/Whizz+Woods+Singapore+-+CAD+%26+ZWCAD+Design+Software+Reseller/data=!4m7!3m6!1s0x31da1721787ec15b:0x1f8be1b349287ca6!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11rq3t9w2c!19sChIJW8F-eCEX2jERpnwoSbPhix8
+https://www.google.com/maps/place/Cloud+Tech+Ventures+Pte+Ltd/data=!4m7!3m6!1s0x31da17d8fcfbaefb:0x17b579fe14d36c6f!8m2!3d1.3580295!4d103.8334895!16s%2Fg%2F11gk3bdvvt!19sChIJ-677_NgX2jERb2zTFP55tRc
