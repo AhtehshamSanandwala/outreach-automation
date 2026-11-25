@@ -12260,3 +12260,4 @@ https://www.google.com/maps/place/igloohome+Singapore/data=!4m7!3m6!1s0x31da1a50
 https://www.google.com/maps/place/Advinno+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da1725f715d7a5:0xa8045049d4bc3af4!8m2!3d1.3586861!4d103.8334585!16s%2Fg%2F1ptyt6sdz!19sChIJpdcV9yUX2jER9Dq81ElQBKg
 https://www.google.com/maps/place/SOStech+@+SG/data=!4m7!3m6!1s0x31da1913440f0e5b:0xc409fb96f065d8dd!8m2!3d1.358606!4d103.833566!16s%2Fg%2F1tdl8705!19sChIJWw4PRBMZ2jER3dhl8Jb7CcQ
 https://www.google.com/maps/place/Thinkture+Pte+Ltd/data=!4m7!3m6!1s0x31da17f805226bf9:0x7449c5318c83c916!8m2!3d1.359932!4d103.8342682!16s%2Fg%2F11k3zf0sk6!19sChIJ-WsiBfgX2jERFsmDjDHFSXQ
+https://www.google.com/maps/place/Cognitiv+Pte+Ltd/data=!4m7!3m6!1s0x31da170d1cd3a2cf:0xb94964afa7bcaf32!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F11h_tb99r4!19sChIJz6LTHA0X2jERMq-8p69kSbk
