@@ -12499,3 +12499,4 @@ https://www.google.com/maps/place/Office+Hub/data=!4m7!3m6!1s0x31da196b5f78c089:
 https://www.google.com/maps/place/iProperty/data=!4m7!3m6!1s0x31da19e7de1bd793:0xa0937cb776e0bf6b!8m2!3d1.306173!4d103.8309455!16s%2Fg%2F1pp2twnfl!19sChIJk9cb3ucZ2jERa7_gdrd8k6A
 https://www.google.com/maps/place/CITIPROP+PROPERTY+MANAGEMENT+PTE+LTD/data=!4m7!3m6!1s0x31da1a3cb9baec87:0xa5616b18e87db62d!8m2!3d1.2815432!4d103.8212904!16s%2Fg%2F1vp7194k!19sChIJh-y6uTwa2jERLbZ96BhrYaU
 https://www.google.com/maps/place/Whissh+Singapore+-+Luxury+Home%2FOffice%2FBuilding+Services/data=!4m7!3m6!1s0x31da190a9bbec0d7:0xffd15c79c62e3262!8m2!3d1.3369292!4d103.8897954!16s%2Fg%2F1ptxbb6yv!19sChIJ18C-mwoZ2jERYjIuxnlc0f8
+https://www.google.com/maps/place/CommercialGuru/data=!4m7!3m6!1s0x31da19e7db5e5feb:0x38c82ceea3158d9d!8m2!3d1.316659!4d103.892695!16s%2Fg%2F11cs5s4nb1!19sChIJ619e2-cZ2jERnY0Vo-4syDg
