@@ -12409,3 +12409,4 @@ https://www.google.com/maps/place/EDB+Investments+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Avrio+Wealth/data=!4m7!3m6!1s0x31da197dca23886d:0xc239c3f9ef300b91!8m2!3d1.2832446!4d103.8496597!16s%2Fg%2F11k_nbt6jl!19sChIJbYgjyn0Z2jERkQsw7_nDOcI
 https://www.google.com/maps/place/Zetland+Fiduciary+Group+Limited/data=!4m7!3m6!1s0x31da19af03edc393:0xd6ba37c37e1319ff!8m2!3d1.2956745!4d103.8589973!16s%2Fg%2F11hcj0_zkm!19sChIJk8PtA68Z2jER_xkTfsM3utY
 https://www.google.com/maps/place/Tembusu+Law+LLC/data=!4m7!3m6!1s0x31da1903b85c1e17:0x74600a76edb490d6!8m2!3d1.2887086!4d103.8439307!16s%2Fg%2F11h10cz6qt!19sChIJFx5cuAMZ2jER1pC07XYKYHQ
+https://www.google.com/maps/place/East+Asia+Law+Corporation/data=!4m7!3m6!1s0x31da19a07e91f593:0xf70b440b950b2c29!8m2!3d1.2853378!4d103.8450615!16s%2Fg%2F1tdbt8j2!19sChIJk_WRfqAZ2jERKSwLlQtEC_c
