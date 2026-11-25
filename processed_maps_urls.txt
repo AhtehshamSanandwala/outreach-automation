@@ -12297,3 +12297,4 @@ https://www.google.com/maps/place/Cyber+Octet/data=!4m7!3m6!1s0x395e8f551f3b90e1
 https://www.google.com/maps/place/CyberLitmus/data=!4m7!3m6!1s0x31da196ac2186575:0x6d9e542cb43159e1!8m2!3d1.299206!4d103.8604874!16s%2Fg%2F11rq7_pqjx!19sChIJdWUYwmoZ2jER4VkxtCxUnm0
 https://www.google.com/maps/place/CLOUDSQUIRE+PTE.+LTD./data=!4m7!3m6!1s0x31da17639ea5f687:0xf965f0d761c7049f!8m2!3d1.3584498!4d103.8336633!16s%2Fg%2F11qsmsf3pw!19sChIJh_alnmMX2jERnwTHYdfwZfk
 https://www.google.com/maps/place/Nozomi+Networks/data=!4m7!3m6!1s0x31da19f81dc71449:0x9ec43092596ed6c4!8m2!3d1.284358!4d103.8510616!16s%2Fg%2F11fl7q350z!19sChIJSRTHHfgZ2jERxNZuWZIwxJ4
+https://www.google.com/maps/place/Singtel+Cyber+Security+Institute/data=!4m7!3m6!1s0x31da3d1212dce1f1:0xd4820124fab155e7!8m2!3d1.2760968!4d103.8452647!16s%2Fg%2F11cp7l4078!19sChIJ8eHcEhI92jER51Wx-iQBgtQ
