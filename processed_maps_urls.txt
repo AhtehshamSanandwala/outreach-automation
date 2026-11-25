@@ -12743,3 +12743,4 @@ https://www.google.com/maps/place/PaxOcean+Engineering+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Singapore+Maritime+Gallery/data=!4m7!3m6!1s0x31da191f43e3f6c9:0xe9030beb89091c07!8m2!3d1.2710567!4d103.8632231!16s%2Fg%2F11cn8wppyd!19sChIJyfbjQx8Z2jERBxwJiesLA-k
 https://www.google.com/maps/place/Global+Maritime+And+Port+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da1780d07f7c35:0x9b36dd00f106795a!8m2!3d1.3296947!4d103.8756214!16s%2Fg%2F1w2yrcvl!19sChIJNXx_0IAX2jERWnkG8QDdNps
 https://www.google.com/maps/place/GSM+Building/data=!4m7!3m6!1s0x31da19bb3d92a31b:0xd725e0a4a17bb90a!8m2!3d1.2994702!4d103.8523947!16s%2Fg%2F1xgz89mc!19sChIJG6OSPbsZ2jERCrl7oaTgJdc
+https://www.google.com/maps/place/Republic+of+Singapore+Yacht+Club/data=!4m7!3m6!1s0x31da1ae340a442e5:0xa6ac046e290d35b4!8m2!3d1.2927365!4d103.7628087!16s%2Fg%2F1tmpbgls!19sChIJ5UKkQOMa2jERtDUNKW4ErKY
