@@ -12621,3 +12621,5 @@ https://www.google.com/maps/place/Singapore+Automotive+Industries+Pte+Ltd/data=!
 https://www.google.com/maps/place/Miltec+Industrial+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da17878599fd63:0xf26ac38fd06f4a7d!8m2!3d1.3288666!4d103.8792857!16s%2Fg%2F1ptw4gpdh!19sChIJY_2ZhYcX2jERfUpv0I_DavI
 https://www.google.com/maps/place/Pyramid+Manufacturing+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da0f590b5e4143:0x871d25c0c2652387!8m2!3d1.3306899!4d103.6510161!16s%2Fg%2F1ptxm7wfq!19sChIJQ0FeC1kP2jERhyNlwsAlHYc
 https://www.google.com/maps/place/Wellmic+Industries+%28S%29+Pte+Ltd+-+Horizontal+Bead+Mills+%2F+Mixer/data=!4m7!3m6!1s0x31da170991298f2f:0x85fc4b5dc81a5342!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11vk5y15kw!19sChIJL48pkQkX2jERQlMayF1L_IU
+https://www.google.com/maps/place/Singapore+Woodcraft/data=!4m7!3m6!1s0x31da1bb8b5a6ba77:0x1d3492e3b12d710f!8m2!3d1.2754868!4d103.7970762!16s%2Fg%2F1v_s3f5k!19sChIJd7qmtbgb2jERD3EtseOSNB0
+https://www.google.com/maps/place/MacLean+International+Group/data=!4m7!3m6!1s0x31da1725f6b1f9a7:0x4aaba09de02069!8m2!3d1.3594755!4d103.8339683!16s%2Fg%2F1tdms3zy!19sChIJp_mx9iUX2jERaSDgnaCrSgA
