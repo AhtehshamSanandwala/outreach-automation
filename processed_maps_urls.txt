@@ -12658,3 +12658,4 @@ https://www.google.com/maps/place/Busways+Pte+Ltd/data=!4m7!3m6!1s0x31da13e1dd99
 https://www.google.com/maps/place/Tarius+Technology/data=!4m7!3m6!1s0x31da190ec6d00001:0x177800346faf7460!8m2!3d1.3580997!4d103.8335532!16s%2Fg%2F11h4dhnz9g!19sChIJAQDQxg4Z2jERYHSvbzQAeBc
 https://www.google.com/maps/place/Nico-nico+Foods+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da135005a1bb09:0xf65e5fc1c2b48219!8m2!3d1.4598722!4d103.7984505!16s%2Fg%2F1td15blp!19sChIJCbuhBVAT2jERGYK0wsFfXvY
 https://www.google.com/maps/place/Nikko+Industrial+%26+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da1725f6b1f9a7:0xdaaf7cad71ea5d38!8m2!3d1.3580295!4d103.8334895!16s%2Fg%2F1tfyympv!19sChIJp_mx9iUX2jEROF3qca18r9o
+https://www.google.com/maps/place/FlaktGroup+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1998721d154b:0xeb5f0235db2960e9!8m2!3d1.3586404!4d103.8340972!16s%2Fg%2F1td9b8jp!19sChIJSxUdcpgZ2jER6WAp2zUCX-s
