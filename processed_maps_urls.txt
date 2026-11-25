@@ -12177,3 +12177,4 @@ https://www.google.com/maps/place/Fluxx/data=!4m7!3m6!1s0x31da1725f3ea2bf9:0x469
 https://www.google.com/maps/place/Ark+Industries/data=!4m7!3m6!1s0x31da177a678e7dd9:0x15a960dde268d255!8m2!3d1.3585108!4d103.8340317!16s%2Fg%2F1tfhx2t3!19sChIJ2X2OZ3oX2jERVdJo4t1gqRU
 https://www.google.com/maps/place/SproutGiant+Pte+Ltd/data=!4m7!3m6!1s0x31da19af0392f9dd:0xf685db285800cea5!8m2!3d1.3580295!4d103.8334895!16s%2Fg%2F11g9nqycfm!19sChIJ3fmSA68Z2jERpc4AWCjbhfY
 https://www.google.com/maps/place/KD+Rooban/data=!4m7!3m6!1s0x31da173928e25adb:0x7605a032c790f17a!8m2!3d1.3580295!4d103.8334895!16s%2Fg%2F11kk44sbht!19sChIJ21riKDkX2jERevGQxzKgBXY
+https://www.google.com/maps/place/Pulse+Innovates+Pte+Ltd/data=!4m7!3m6!1s0x31da17628d252db7:0x484255755ee9969c!8m2!3d1.3591644!4d103.8343634!16s%2Fg%2F11kqwj5dcm!19sChIJty0ljWIX2jERnJbpXnVVQkg
