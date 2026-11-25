@@ -12774,3 +12774,4 @@ https://www.google.com/maps/place/Sgmarine/data=!4m7!3m6!1s0x31da19248427f69f:0x
 https://www.google.com/maps/place/Amsbach+Offshore+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da3c37a4312b63:0xd50d9580976c0055!8m2!3d1.38403!4d103.970452!16s%2Fg%2F1pty7rd5_!19sChIJYysxpDc82jERVQBsl4CVDdU
 https://www.google.com/maps/place/Singapore+Shipping+Association/data=!4m7!3m6!1s0x31da196d2dd62551:0xa4bf8ce3fabc450a!8m2!3d1.2856141!4d103.8519726!16s%2Fg%2F11bv30n0j6!19sChIJUSXWLW0Z2jERCkW8-uOMv6Q
 https://www.google.com/maps/place/TCA+Design+%26+Build/data=!4m7!3m6!1s0x31da1bdf2a8898ab:0x29e071fa33c37dbf!8m2!3d1.2858597!4d103.8481284!16s%2Fg%2F11rgc594m9!19sChIJq5iIKt8b2jERv33DM_px4Ck
+https://www.google.com/maps/place/Hyundai+Engineering+%26+Construction+Co.,+Ltd./data=!4m7!3m6!1s0x31da19532d11ca09:0x81be84794e004582!8m2!3d1.2956122!4d103.8590743!16s%2Fg%2F11fd453gkd!19sChIJCcoRLVMZ2jERgkUATnmEvoE
