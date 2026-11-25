@@ -12591,3 +12591,4 @@ https://www.google.com/maps/place/Ipli+Architects/data=!4m7!3m6!1s0x31da1b2f99a3
 https://www.google.com/maps/place/Timur+Designs+LLP/data=!4m7!3m6!1s0x31da17258ae1977d:0x24b41ba2f8d24770!8m2!3d1.3581502!4d103.8332378!16s%2Fg%2F1ptyjpbdt!19sChIJfZfhiiUX2jERcEfS-KIbtCQ
 https://www.google.com/maps/place/AKN+Architects/data=!4m7!3m6!1s0x31da181e37227781:0x3aeefa21a3581ee0!8m2!3d1.3248019!4d103.8946879!16s%2Fg%2F11c1wsj28p!19sChIJgXciNx4Y2jER4B5YoyH67jo
 https://www.google.com/maps/place/DesignSingapore+Council/data=!4m7!3m6!1s0x31da19a0e59d78f7:0xb3100638cc7fdb1c!8m2!3d1.2986691!4d103.8533635!16s%2Fg%2F1pzpt31lk!19sChIJ93id5aAZ2jERHNt_zDgGELM
+https://www.google.com/maps/place/Society+Of+Interior+Designers+%28Singapore%29/data=!4m7!3m6!1s0x31da19ab88054b01:0x9219f8e24f7b0ab!8m2!3d1.360392!4d103.833808!16s%2Fg%2F11hdrr6j7r!19sChIJAUsFiKsZ2jERq7D3JI6fIQk
