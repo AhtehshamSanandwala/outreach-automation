@@ -12630,3 +12630,4 @@ https://www.google.com/maps/place/Alliance+Manufacturing+Pte+Ltd/data=!4m7!3m6!1
 https://www.google.com/maps/place/Taihei+Industries+Pte+Ltd+%28Singapore%29/data=!4m7!3m6!1s0x31da1787ae9ea527:0xb4357d787abc7592!8m2!3d1.3284757!4d103.8771554!16s%2Fg%2F1tczy0hh!19sChIJJ6WerocX2jERknW8enh9NbQ
 https://www.google.com/maps/place/Semiconductor+Technologies+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1725ef011a6b:0x2a5a3a402d6e86a2!8m2!3d1.3587374!4d103.8342185!16s%2Fg%2F11b5pk5166!19sChIJaxoB7yUX2jERooZuLUA6Wio
 https://www.google.com/maps/place/Foo+Wah+Industrial+Building/data=!4m7!3m6!1s0x31da173dceeb6ec5:0xb11d49fa253d55ee!8m2!3d1.3504959!4d103.8425523!16s%2Fg%2F12hkzdp_5!19sChIJxW7rzj0X2jER7lU9JfpJHbE
+https://www.google.com/maps/place/Asia+Technic+Private+Limited/data=!4m7!3m6!1s0x31da171c9e1d81a9:0x1d24f422d0c9ec32!8m2!3d1.3590116!4d103.83367!16s%2Fg%2F1ptw5vmk3!19sChIJqYEdnhwX2jERMuzJ0CL0JB0
