@@ -12205,3 +12205,4 @@ https://www.google.com/maps/place/Delitier+%26+Co/data=!4m7!3m6!1s0x31da17992377
 https://www.google.com/maps/place/LABBRAND+-+A+Global+Branding+Agency+%28Singapore%29/data=!4m7!3m6!1s0x31da190e811a086d:0x40ddae029438a77f!8m2!3d1.3176923!4d103.8942719!16s%2Fg%2F11cs5p69hm!19sChIJbQgagQ4Z2jERf6c4lAKu3UA
 https://www.google.com/maps/place/EnoviQ+Technologies/data=!4m7!3m6!1s0x31da1be03c4ec3f3:0x5fc13eb7348a54f3!8m2!3d1.2810821!4d103.8498724!16s%2Fg%2F11p5tg7q2d!19sChIJ88NOPOAb2jER81SKNLc-wV8
 https://www.google.com/maps/place/Software+AG+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da190e458ed0ef:0xb033ab533e43cecd!8m2!3d1.2953989!4d103.8596556!16s%2Fg%2F1hm42sy3h!19sChIJ79CORQ4Z2jERzc5DPlOrM7A
+https://www.google.com/maps/place/Kyanon+Digital+-+Singapore+Office/data=!4m7!3m6!1s0x31da190e361ec45b:0xc515b3b30de308d3!8m2!3d1.277751!4d103.8529747!16s%2Fg%2F11flpv6jqj!19sChIJW8QeNg4Z2jER0wjjDbOzFcU
