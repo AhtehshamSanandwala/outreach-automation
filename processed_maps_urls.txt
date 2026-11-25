@@ -12324,3 +12324,4 @@ https://www.google.com/maps/place/Metropolis+Training+Academy/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Cybint+Solutions/data=!4m7!3m6!1s0x31da1975dde75ec5:0x3c3187ab0af2fb41!8m2!3d1.2868797!4d103.8401485!16s%2Fg%2F11jx2chq0b!19sChIJxV7n3XUZ2jERQfvyCquHMTw
 https://www.google.com/maps/place/ICE71/data=!4m7!3m6!1s0x31da1b0b6ebebeb9:0xe894f24782a60262!8m2!3d1.2967926!4d103.786762!16s%2Fg%2F11g10g00yx!19sChIJub6-bgsb2jERYgKmgkfylOg
 https://www.google.com/maps/place/Association+of+Information+Security+Professionals/data=!4m7!3m6!1s0x31da196cffffffff:0x5e8e1cdb83aebad6!8m2!3d1.4145988!4d103.9086421!16s%2Fg%2F11cs2kqknd!19sChIJ_____2wZ2jER1rqug9scjl4
+https://www.google.com/maps/place/Smart+City+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da17ceee4bc1b9:0x5aba95105b20826a!8m2!3d1.3589935!4d103.8334875!16s%2Fg%2F11srtt2mf0!19sChIJucFL7s4X2jERaoIgWxCVulo
