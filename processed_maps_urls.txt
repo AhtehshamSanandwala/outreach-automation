@@ -12478,3 +12478,4 @@ https://www.google.com/maps/place/Savills/data=!4m7!3m6!1s0x31da195afc02ccfb:0xc
 https://www.google.com/maps/place/ERA+Realty+Network+Pte+Ltd/data=!4m7!3m6!1s0x31da172fcaaed10f:0x2ec370eb7c98c633!8m2!3d1.3316832!4d103.8494516!16s%2Fg%2F1pp2vd_jc!19sChIJD9Guyi8X2jERM8aYfOtwwy4
 https://www.google.com/maps/place/Office+Spaces+-+Republic+Plaza/data=!4m7!3m6!1s0x31da190ea1cf8ca9:0xb79fef644b7c3c6c!8m2!3d1.2831915!4d103.8508126!16s%2Fg%2F11c59_crqq!19sChIJqYzPoQ4Z2jERbDx8S2Tvn7c
 https://www.google.com/maps/place/Tenant+City+-+Rent+a+Private+Office+or+Coworking+Space+in+Singapore/data=!4m7!3m6!1s0x4bcf7c959993a1ab:0x46e75e0946a94245!8m2!3d1.2951755!4d103.7898594!16s%2Fg%2F11mckywg99!19sChIJq6GTmZV8z0sRRUKpRgle50Y
+https://www.google.com/maps/place/Knight+Frank+Pte+Ltd/data=!4m7!3m6!1s0x31da190e77486d4d:0x28b24d81bf3fa696!8m2!3d1.2830496!4d103.8518791!16s%2Fg%2F1tczg_kn!19sChIJTW1Idw4Z2jERlqY_v4FNsig
