@@ -12673,3 +12673,4 @@ https://www.google.com/maps/place/Meiden+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/ingdesigners/data=!4m7!3m6!1s0x31da1725f6ca4f35:0x7ff1fd1b9c84ac7e!8m2!3d1.3596635!4d103.8344629!16s%2Fg%2F12hq9r9p_!19sChIJNU_K9iUX2jERfqyEnBv98X8
 https://www.google.com/maps/place/Barrier+Master/data=!4m7!3m6!1s0x31da1725f9447907:0xb3facb957fe3adac!8m2!3d1.3590576!4d103.8335229!16s%2Fg%2F11q31fl928!19sChIJB3lE-SUX2jERrK3jf5XL-rM
 https://www.google.com/maps/place/Exosens+Imaging+Singapore/data=!4m7!3m6!1s0x31da172611d097d7:0x4b8b0030c35a744a!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F1ptwcc02h!19sChIJ15fQESYX2jERSnRawzAAi0s
+https://www.google.com/maps/place/Hicharge+Technology/data=!4m7!3m6!1s0x31da161aaeb5b18d:0x5c79e953d5181e0!8m2!3d1.358606!4d103.833566!16s%2Fg%2F1ptx5fcb3!19sChIJjbG1rhoW2jER4IFRPZWexwU
