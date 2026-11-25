@@ -12335,3 +12335,4 @@ https://www.google.com/maps/place/Argentra+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/EyeD+Infocomm+Security+%26+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1725f2422537:0x4928984a97eace75!8m2!3d1.3584302!4d103.8338452!16s%2Fg%2F11f03cy4kw!19sChIJNyVC8iUX2jERdc7ql0qYKEk
 https://www.google.com/maps/place/Just+Analytics/data=!4m7!3m6!1s0x31da3cd9f811a89d:0x91b55758d3f976a4!8m2!3d1.284479!4d103.851082!16s%2Fg%2F11c2mcq7hj!19sChIJnagR-Nk82jERpHb501hXtZE
 https://www.google.com/maps/place/Vectra+AI/data=!4m7!3m6!1s0x31da19ceb37978cd:0x14a07a6ec15fffac!8m2!3d1.3027623!4d103.8342901!16s%2Fg%2F11tx1mx180!19sChIJzXh5s84Z2jERrP9fwW56oBQ
+https://www.google.com/maps/place/MSC+Cyberport+Sdn+Bhd/data=!4m7!3m6!1s0x31da12ded195b3f5:0xac7a79899fa38bc1!8m2!3d1.4629805!4d103.7719136!16s%2Fg%2F1hc17dwcj!19sChIJ9bOV0d4S2jERwYujn4l5eqw
