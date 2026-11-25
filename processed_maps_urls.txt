@@ -12741,3 +12741,5 @@ https://www.google.com/maps/place/Maritime+Energy+%26+Sustainable+Development+Ce
 https://www.google.com/maps/place/NUS+College+of+Design+and+Engineering/data=!4m7!3m6!1s0x31da1af73e43dd43:0x28ecbb583b491801!8m2!3d1.3002136!4d103.7708027!16s%2Fg%2F1thn30nj!19sChIJQ91DPvca2jERARhJO1i77Cg
 https://www.google.com/maps/place/PaxOcean+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da19835f9379bb:0xcdf768d9c61ed054!8m2!3d1.294039!4d103.8321309!16s%2Fg%2F1tk6x_wz!19sChIJu3mTX4MZ2jERVNAextlo980
 https://www.google.com/maps/place/Singapore+Maritime+Gallery/data=!4m7!3m6!1s0x31da191f43e3f6c9:0xe9030beb89091c07!8m2!3d1.2710567!4d103.8632231!16s%2Fg%2F11cn8wppyd!19sChIJyfbjQx8Z2jERBxwJiesLA-k
+https://www.google.com/maps/place/Global+Maritime+And+Port+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da1780d07f7c35:0x9b36dd00f106795a!8m2!3d1.3296947!4d103.8756214!16s%2Fg%2F1w2yrcvl!19sChIJNXx_0IAX2jERWnkG8QDdNps
+https://www.google.com/maps/place/GSM+Building/data=!4m7!3m6!1s0x31da19bb3d92a31b:0xd725e0a4a17bb90a!8m2!3d1.2994702!4d103.8523947!16s%2Fg%2F1xgz89mc!19sChIJG6OSPbsZ2jERCrl7oaTgJdc
