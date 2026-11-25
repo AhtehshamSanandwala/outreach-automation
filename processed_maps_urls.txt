@@ -12317,3 +12317,4 @@ https://www.google.com/maps/place/Cybernatics+Pte+Ltd/data=!4m7!3m6!1s0x31da1b34
 https://www.google.com/maps/place/Accenture/data=!4m7!3m6!1s0x31da19a6834ab653:0x78975db42389cc93!8m2!3d1.2937015!4d103.8528073!16s%2Fg%2F1wd3sklm!19sChIJU7ZKg6YZ2jERk8yJI7Rdl3g
 https://www.google.com/maps/place/Cisstac+Pte.+Ltd./data=!4m7!3m6!1s0x31da19b03cfb42d3:0x608f4605d1ba079a!8m2!3d1.2990692!4d103.8580647!16s%2Fg%2F11m__k2rzy!19sChIJ00L7PLAZ2jERmge60QVGj2A
 https://www.google.com/maps/place/CSIntelligence+Pte+Ltd+-+24%2F7+Cyber+Defenders+Singapore/data=!4m7!3m6!1s0x31da1957cded1b25:0x50cf5e2251634c67!8m2!3d1.2864244!4d103.827346!16s%2Fg%2F11fgm64_05!19sChIJJRvtzVcZ2jERZ0xjUSJez1A
+https://www.google.com/maps/place/Thales+DIS+Singapore/data=!4m7!3m6!1s0x31da1a4e2d387cc9:0x2817d357fc7cf921!8m2!3d1.2965883!4d103.7879173!16s%2Fg%2F1tcvwyt5!19sChIJyXw4LU4a2jERIfl8_FfTFyg
