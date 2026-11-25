@@ -12616,3 +12616,4 @@ https://www.google.com/maps/place/All+Industrial+Manufacturing+Pte.+Ltd./data=!4
 https://www.google.com/maps/place/MNC+Singapore/data=!4m7!3m6!1s0x31da191343eb5b27:0xd4ed96917e5cc9c7!8m2!3d1.2756516!4d103.8456811!16s%2Fg%2F1pv5_1_4s!19sChIJJ1vrQxMZ2jERx8lcfpGW7dQ
 https://www.google.com/maps/place/Singapore+Manufacturing+Industry+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d0022a8330b:0x54779a738467ea0d!8m2!3d1.3753869!4d103.930532!16s%2Fg%2F11vzk5zdq8!19sChIJCzOoIgA92jERDepnhHOad1Q
 https://www.google.com/maps/place/Pfizer+Asia+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da05723c9dacb9:0xa96381edaf3de14e!8m2!3d1.3028495!4d103.6384602!16s%2Fg%2F11nn2_33q6!19sChIJuaydPHIF2jERTuE9r-2BY6k
+https://www.google.com/maps/place/Murata+Electronics+Singapore+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da14899ba24a7d:0xfd14bab94dbe5ce5!8m2!3d1.441121!4d103.838082!16s%2Fg%2F1pty_t0wh!19sChIJfUqim4kU2jER5Vy-Tbm6FP0
