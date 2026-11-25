@@ -12675,3 +12675,4 @@ https://www.google.com/maps/place/Barrier+Master/data=!4m7!3m6!1s0x31da1725f9447
 https://www.google.com/maps/place/Exosens+Imaging+Singapore/data=!4m7!3m6!1s0x31da172611d097d7:0x4b8b0030c35a744a!8m2!3d1.3584677!4d103.8336641!16s%2Fg%2F1ptwcc02h!19sChIJ15fQESYX2jERSnRawzAAi0s
 https://www.google.com/maps/place/Hicharge+Technology/data=!4m7!3m6!1s0x31da161aaeb5b18d:0x5c79e953d5181e0!8m2!3d1.358606!4d103.833566!16s%2Fg%2F1ptx5fcb3!19sChIJjbG1rhoW2jER4IFRPZWexwU
 https://www.google.com/maps/place/Source+EC/data=!4m7!3m6!1s0x31da196d52ba38d5:0x590a52d682bf476b!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11bxf449xh!19sChIJ1Ti6Um0Z2jERa0e_gtZSClk
+https://www.google.com/maps/place/Vale+Enterprise+LLP/data=!4m7!3m6!1s0x31da17866d719041:0xc307a742b7bf2aff!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11s0kk389x!19sChIJQZBxbYYX2jER_yq_t0KnB8M
