@@ -12662,3 +12662,4 @@ https://www.google.com/maps/place/FlaktGroup+Singapore+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/UNIKEY+ELECTRONICS+PTE.+LTD./data=!4m7!3m6!1s0x31da1715466c2dd9:0xd15a73748e72eef!8m2!3d1.358146!4d103.833392!16s%2Fg%2F11sdxbw4nr!19sChIJ2S1sRhUX2jER7y7nSDenFQ0
 https://www.google.com/maps/place/Zenith+Window+Films/data=!4m7!3m6!1s0x31da1725f3ea2bf9:0x25b76a794bc3ef2e!8m2!3d1.3584498!4d103.8336633!16s%2Fg%2F11dxb341r0!19sChIJ-Svq8yUX2jERLu_DS3lqtyU
 https://www.google.com/maps/place/Nakano+Singapore+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da19a72ee0a675:0xfc42dd092dfa930f!8m2!3d1.2913131!4d103.8512472!16s%2Fg%2F1tmkhh3g!19sChIJdabgLqcZ2jERD5P6LQndQvw
+https://www.google.com/maps/place/Appliance+Innovation+Pte+Ltd/data=!4m7!3m6!1s0x31da17bcc3928b4b:0x7a68ac6cfe2d3b48!8m2!3d1.3586404!4d103.8340972!16s%2Fg%2F1tdvb2q2!19sChIJS4uSw7wX2jERSDst_mysaHo
