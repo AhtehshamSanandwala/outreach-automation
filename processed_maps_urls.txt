@@ -12644,3 +12644,4 @@ https://www.google.com/maps/place/Ashitagaaru%2F%E6%98%8E%E6%97%A5%E3%81%8C%E3%8
 https://www.google.com/maps/place/NIKUSYSTEC+PTE.+LTD./data=!4m7!3m6!1s0x31da171210a3b927:0x459276233fa15cd6!8m2!3d1.3593878!4d103.8341446!16s%2Fg%2F11gsz22lb8!19sChIJJ7mjEBIX2jER1lyhPyN2kkU
 https://www.google.com/maps/place/Sinetic+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da1bd7c6dbfa85:0x8225f693bf4a0912!8m2!3d1.3586318!4d103.8335316!16s%2Fg%2F1tfbkv1r!19sChIJhfrbxtcb2jEREglKv5P2JYI
 https://www.google.com/maps/place/Opulent+Techno+Pte+Ltd/data=!4m7!3m6!1s0x31da1725f6cb12f9:0x8c4ea228b85b0c75!8m2!3d1.3590398!4d103.8336713!16s%2Fg%2F11c59xk0pn!19sChIJ-RLL9iUX2jERdQxbuCiiTow
+https://www.google.com/maps/place/cozy+hub+pte+ltd/data=!4m7!3m6!1s0x31da190790ad817f:0xc127294954e60224!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11khkf5jhm!19sChIJf4GtkAcZ2jERJALmVEkpJ8E
