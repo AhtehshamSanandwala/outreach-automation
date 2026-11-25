@@ -12613,3 +12613,6 @@ https://www.google.com/maps/place/Advanced+Integrated+Manufacturing+Corporation.
 https://www.google.com/maps/place/Hexagon+Manufacturing+Intelligence+%7C+Singapore/data=!4m7!3m6!1s0x31da136896c753ed:0x988d2cd6f0ccf52c!8m2!3d1.4621264!4d103.8144714!16s%2Fg%2F11bbrgbbgs!19sChIJ7VPHlmgT2jERLPXM8NYsjZg
 https://www.google.com/maps/place/West+View+Food+Factory/data=!4m7!3m6!1s0x31da060bb5b22505:0x58dc3c8caed4fe87!8m2!3d1.3124333!4d103.6328917!16s%2Fg%2F11c1rfk72l!19sChIJBSWytQsG2jERh_7Urow83Fg
 https://www.google.com/maps/place/All+Industrial+Manufacturing+Pte.+Ltd./data=!4m7!3m6!1s0x31da182948b92b21:0xc6b3c01056b5039e!8m2!3d1.3326598!4d103.9038433!16s%2Fg%2F119tqv59_!19sChIJISu5SCkY2jERngO1VhDAs8Y
+https://www.google.com/maps/place/MNC+Singapore/data=!4m7!3m6!1s0x31da191343eb5b27:0xd4ed96917e5cc9c7!8m2!3d1.2756516!4d103.8456811!16s%2Fg%2F1pv5_1_4s!19sChIJJ1vrQxMZ2jERx8lcfpGW7dQ
+https://www.google.com/maps/place/Singapore+Manufacturing+Industry+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d0022a8330b:0x54779a738467ea0d!8m2!3d1.3753869!4d103.930532!16s%2Fg%2F11vzk5zdq8!19sChIJCzOoIgA92jERDepnhHOad1Q
+https://www.google.com/maps/place/Pfizer+Asia+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da05723c9dacb9:0xa96381edaf3de14e!8m2!3d1.3028495!4d103.6384602!16s%2Fg%2F11nn2_33q6!19sChIJuaydPHIF2jERTuE9r-2BY6k
