@@ -12786,3 +12786,4 @@ https://www.google.com/maps/place/SCAL+Construction+Hub/data=!4m7!3m6!1s0x31da1b
 https://www.google.com/maps/place/Gammon+Pte.+Limited/data=!4m7!3m6!1s0x31da1aa0aab6a4bf:0xca4d26a00af56bc!8m2!3d1.3289885!4d103.7486486!16s%2Fg%2F1tdznnjk!19sChIJv6S2qqAa2jERvFavAGrSpAw
 https://www.google.com/maps/place/Sim+Lian+Construction+Co.+%28Pte.%29+Ltd./data=!4m7!3m6!1s0x1004054442604fe9:0x88552fda1aab3adc!8m2!3d1.344467!4d103.7743314!16s%2Fg%2F1q6h_yz5q!19sChIJ6U9gQkQFBBAR3DqrGtovVYg
 https://www.google.com/maps/place/Straits+Construction+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1bcd933f5b7b:0x50d9b22dfd02f43a!8m2!3d1.2857164!4d103.8091122!16s%2Fg%2F1tgjhtjz!19sChIJe1s_k80b2jEROvQC_S2y2VA
+https://www.google.com/maps/place/Yau+Lee+Construction+%28Singapre%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da19689c4cdfd5:0x9923f79e30b01bc3!8m2!3d1.273548!4d103.833406!16s%2Fg%2F1tdmy0dp!19sChIJ1d9MnGgZ2jERwxuwMJ73I5k
