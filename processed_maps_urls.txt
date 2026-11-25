@@ -12588,3 +12588,5 @@ https://www.google.com/maps/place/City+Architectural+Models+Studio/data=!4m7!3m6
 https://www.google.com/maps/place/Singapore+Institute+of+Landscape+Architects/data=!4m7!3m6!1s0x31da1bd13f2aed35:0x23da4f326f0c9b72!8m2!3d1.2986691!4d103.8533635!16s%2Fg%2F1ptwc0n6r!19sChIJNe0qP9Eb2jERcpsMbzJP2iM
 https://www.google.com/maps/place/P+%26+T+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x31da190ec8100e47:0x622d386c25bc230a!8m2!3d1.2984708!4d103.8588833!16s%2Fg%2F1tsjb5g8!19sChIJRw4QyA4Z2jERCiO8JWw4LWI
 https://www.google.com/maps/place/Ipli+Architects/data=!4m7!3m6!1s0x31da1b2f99a3ccd3:0x953e7ea7352c6981!8m2!3d1.2754557!4d103.7958446!16s%2Fg%2F11ksl5vsql!19sChIJ08yjmS8b2jERgWksNad-PpU
+https://www.google.com/maps/place/Timur+Designs+LLP/data=!4m7!3m6!1s0x31da17258ae1977d:0x24b41ba2f8d24770!8m2!3d1.3581502!4d103.8332378!16s%2Fg%2F1ptyjpbdt!19sChIJfZfhiiUX2jERcEfS-KIbtCQ
+https://www.google.com/maps/place/AKN+Architects/data=!4m7!3m6!1s0x31da181e37227781:0x3aeefa21a3581ee0!8m2!3d1.3248019!4d103.8946879!16s%2Fg%2F11c1wsj28p!19sChIJgXciNx4Y2jER4B5YoyH67jo
