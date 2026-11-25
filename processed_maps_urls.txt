@@ -12333,3 +12333,4 @@ https://www.google.com/maps/place/GovWare/data=!4m7!3m6!1s0x31da1926d2c925c7:0xd
 https://www.google.com/maps/place/Certis+Group+HQ+@+Paya+Lebar+Green/data=!4m7!3m6!1s0x31da181f48b45e07:0x57d6d22891b3ff9f!8m2!3d1.3212314!4d103.8921776!16s%2Fg%2F11j07wn4rf!19sChIJB160SB8Y2jERn_-zkSjS1lc
 https://www.google.com/maps/place/Argentra+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1786ff21faef:0xc22a623c79c9a42d!8m2!3d1.3288982!4d103.8733106!16s%2Fg%2F1tjs2f_w!19sChIJ7_oh_4YX2jERLaTJeTxiKsI
 https://www.google.com/maps/place/EyeD+Infocomm+Security+%26+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1725f2422537:0x4928984a97eace75!8m2!3d1.3584302!4d103.8338452!16s%2Fg%2F11f03cy4kw!19sChIJNyVC8iUX2jERdc7ql0qYKEk
+https://www.google.com/maps/place/Just+Analytics/data=!4m7!3m6!1s0x31da3cd9f811a89d:0x91b55758d3f976a4!8m2!3d1.284479!4d103.851082!16s%2Fg%2F11c2mcq7hj!19sChIJnagR-Nk82jERpHb501hXtZE
