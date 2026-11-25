@@ -12241,3 +12241,4 @@ https://www.google.com/maps/place/AFTERSHOCK+PC/data=!4m7!3m6!1s0x31da19cfa13b9e
 https://www.google.com/maps/place/Sharker+Technology/data=!4m7!3m6!1s0x31da19997cf5655d:0x3904cef5a39e9a50!8m2!3d1.3107863!4d103.8548232!16s%2Fg%2F11h4dhspw9!19sChIJXWX1fJkZ2jERUJqeo_XOBDk
 https://www.google.com/maps/place/Thatz+International+Pte+Ltd/data=!4m7!3m6!1s0x31da19a7290e289f:0x2aa1c10c092ae7f4!8m2!3d1.291236!4d103.851029!16s%2Fg%2F1pp2vdy6b!19sChIJnygOKacZ2jER9OcqCQzBoSo
 https://www.google.com/maps/place/Infinito+Solutions/data=!4m7!3m6!1s0x31da17feb3819137:0xf7de79b646a0b9f5!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11rpmd5y7r!19sChIJN5GBs_4X2jER9bmgRrZ53vc
+https://www.google.com/maps/place/TECH+GRID+ASIA/data=!4m7!3m6!1s0x31da196d5f955555:0x70be7f39b3075aa3!8m2!3d1.3019624!4d103.8397343!16s%2Fg%2F11h4djj9mz!19sChIJVVWVX20Z2jERo1oHszl_vnA
