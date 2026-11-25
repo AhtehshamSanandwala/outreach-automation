@@ -12228,3 +12228,4 @@ https://www.google.com/maps/place/SMU+School+of+Computing+and+Information+System
 https://www.google.com/maps/place/Dynamic+Technology+Lab+Private+Limited/data=!4m7!3m6!1s0x31da1696e5f687d3:0xc316dca4cca5f3d3!8m2!3d1.2910893!4d103.8254343!16s%2Fg%2F1ptwrc6zx!19sChIJ04f25ZYW2jER0_OlzKTcFsM
 https://www.google.com/maps/place/Novacitynets+Pte+Ltd/data=!4m7!3m6!1s0x31da1780607c039f:0x9d438a8d44c2d149!8m2!3d1.3275222!4d103.8707508!16s%2Fg%2F1tdvgpft!19sChIJnwN8YIAX2jERSdHCRI2KQ50
 https://www.google.com/maps/place/Entropica+Labs/data=!4m7!3m6!1s0x31da19faa34680fb:0x5fcfc5ec01aebffb!8m2!3d1.2804726!4d103.847344!16s%2Fg%2F11p43ryvs9!19sChIJ-4BGo_oZ2jER-7-uAezFz18
+https://www.google.com/maps/place/AgileGrizzly+%7C+Healthcare+%26+Medical+Automation,+Whatsapp,+Marketing/data=!4m7!3m6!1s0x42acfaa7679977d9:0xe61e3671b17359c7!8m2!3d1.293187!4d103.831959!16s%2Fg%2F11sf2_fvxd!19sChIJ2XeZZ6f6rEIRx1lzsXE2HuY
