@@ -12321,3 +12321,6 @@ https://www.google.com/maps/place/Thales+DIS+Singapore/data=!4m7!3m6!1s0x31da1a4
 https://www.google.com/maps/place/cyber+security+course+singapore/data=!4m7!3m6!1s0x31da174ad24e55d5:0xe8412b13255acd36!8m2!3d1.32852!4d103.8757511!16s%2Fg%2F11vb_xmd7n!19sChIJ1VVO0koX2jERNs1aJRMrQeg
 https://www.google.com/maps/place/syscyber+security+and+solutions+pte+ltd/data=!4m7!3m6!1s0x31da1b018a46e071:0x1a652022bcbeb0b0!8m2!3d1.3132336!4d103.7514544!16s%2Fg%2F11ty3_x_sk!19sChIJceBGigEb2jERsLC-vCIgZRo
 https://www.google.com/maps/place/Metropolis+Training+Academy/data=!4m7!3m6!1s0x31da17548c61cb1d:0x51389f00364d7aab!8m2!3d1.358008!4d103.8335324!16s%2Fg%2F11jgj2g_6z!19sChIJHcthjFQX2jERq3pNNgCfOFE
+https://www.google.com/maps/place/Cybint+Solutions/data=!4m7!3m6!1s0x31da1975dde75ec5:0x3c3187ab0af2fb41!8m2!3d1.2868797!4d103.8401485!16s%2Fg%2F11jx2chq0b!19sChIJxV7n3XUZ2jERQfvyCquHMTw
+https://www.google.com/maps/place/ICE71/data=!4m7!3m6!1s0x31da1b0b6ebebeb9:0xe894f24782a60262!8m2!3d1.2967926!4d103.786762!16s%2Fg%2F11g10g00yx!19sChIJub6-bgsb2jERYgKmgkfylOg
+https://www.google.com/maps/place/Association+of+Information+Security+Professionals/data=!4m7!3m6!1s0x31da196cffffffff:0x5e8e1cdb83aebad6!8m2!3d1.4145988!4d103.9086421!16s%2Fg%2F11cs2kqknd!19sChIJ_____2wZ2jER1rqug9scjl4
