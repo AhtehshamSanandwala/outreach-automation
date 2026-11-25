@@ -12343,3 +12343,4 @@ https://www.google.com/maps/place/City+Software+And+It+Services/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Suntec+Tower+1/data=!4m7!3m6!1s0x31da1974c7afb233:0x5579dad594aa077f!8m2!3d1.295285!4d103.85852!16s%2Fg%2F1261bgdb0!19sChIJM7Kvx3QZ2jERfweqlNXaeVU
 https://www.google.com/maps/place/ITree+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1731c3a245b7:0xb4d7e13b7bbb0dc6!8m2!3d1.3584691!4d103.8336621!16s%2Fg%2F11ghsgtdkd!19sChIJt0WiwzEX2jERxg27ezvh17Q
 https://www.google.com/maps/place/Y3+Technologies/data=!4m7!3m6!1s0x31da0fc883438591:0xc0417867e7822749!8m2!3d1.3522097!4d103.7084132!16s%2Fg%2F11c30x_6lw!19sChIJkYVDg8gP2jERSSeC52d4QcA
+https://www.google.com/maps/place/Artan+Consulting+Pte.+Ltd.,+Singapore/data=!4m7!3m6!1s0x31da193f37501905:0xb7e056672fccb104!8m2!3d1.3713683!4d103.9561549!16s%2Fg%2F11kppvxxp9!19sChIJBRlQNz8Z2jERBLHML2dW4Lc
