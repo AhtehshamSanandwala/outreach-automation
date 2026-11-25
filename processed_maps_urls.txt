@@ -12681,3 +12681,4 @@ https://www.google.com/maps/place/RFCOM+Technologies+Pte.+Ltd./data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Awfully+Chocolate+Raffles+City+%E2%80%93+Cake+Shop,+Bakery+%26+Chocolate+Cakes/data=!4m7!3m6!1s0x31da19a67fe6ff5b:0xad205325460ac165!8m2!3d1.2936563!4d103.8535422!16s%2Fg%2F12nq92wdg!19sChIJW__mf6YZ2jERZcEKRiVTIK0
 https://www.google.com/maps/place/Printmaster+LLP+%28Midview+City%29/data=!4m7!3m6!1s0x31da173b0ebd7595:0x62312a7065f51a8b!8m2!3d1.3589935!4d103.8334875!16s%2Fg%2F11mtfgsd47!19sChIJlXW9DjsX2jERixr1ZXAqMWI
 https://www.google.com/maps/place/Balluff+Asia+Pte+Ltd/data=!4m7!3m6!1s0x31da1725ef011a6b:0x21f69c7630c8d736!8m2!3d1.3586404!4d103.8340972!16s%2Fg%2F1ptwf8b_0!19sChIJaxoB7yUX2jERNtfIMHac9iE
+https://www.google.com/maps/place/Yen+Food+Solutions+%28Singapore%29/data=!4m7!3m6!1s0x31da17f8dfd196c1:0x4beb9de102969582!8m2!3d1.3590576!4d103.8335229!16s%2Fg%2F11s57_m04q!19sChIJwZbR3_gX2jERgpWWAuGd60s
