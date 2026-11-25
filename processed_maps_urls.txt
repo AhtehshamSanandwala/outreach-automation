@@ -12634,3 +12634,5 @@ https://www.google.com/maps/place/Asia+Technic+Private+Limited/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da19d35567dba1:0x39f23f41d8f2a534!8m2!3d1.2930918!4d103.8520663!16s%2Fg%2F11nbgwty1t!19sChIJodtnVdMZ2jERNKXy2EE_8jk
 https://www.google.com/maps/place/Sugino+Machine+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1725f44447fb:0x5482fafb2a5d1075!8m2!3d1.3585277!4d103.8335552!16s%2Fg%2F1pty4jk0_!19sChIJ-0dE9CUX2jERdRBdKvv6glQ
 https://www.google.com/maps/place/3D+Print+Singapore/data=!4m7!3m6!1s0x31da1788f80a8ebb:0x36a164a6415d33f9!8m2!3d1.3428789!4d103.8514038!16s%2Fg%2F11h1ywv3gv!19sChIJu44K-IgX2jER-TNdQaZkoTY
+https://www.google.com/maps/place/Aalborg+Engineering+Singapore/data=!4m7!3m6!1s0x31da1768ed1c03f1:0x770010c958256fb2!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11vyhgsf7y!19sChIJ8QMc7WgX2jERsm8lWMkQAHc
+https://www.google.com/maps/place/Telasia+Symtonic+Pte+Ltd/data=!4m7!3m6!1s0x31da1725f6ca5b59:0xb8d080c3acb48cdd!8m2!3d1.3586046!4d103.8335676!16s%2Fg%2F11c59xhscp!19sChIJWVvK9iUX2jER3Yy0rMOA0Lg
