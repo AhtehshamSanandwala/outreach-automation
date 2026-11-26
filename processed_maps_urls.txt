@@ -13035,3 +13035,4 @@ https://www.google.com/maps/place/Raffles+Medical+Jurong+East/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Advantage+Medical+Clinic,+Bukit+Timah+%28Guthrie+House%29/data=!4m7!3m6!1s0x31da11ee3bb54319:0xb15028a8099ee3e8!8m2!3d1.3308435!4d103.7956369!16s%2Fg%2F11q86fx5bf!19sChIJGUO1O-4R2jER6OOeCagoULE
 https://www.google.com/maps/place/Sire+Singapore/data=!4m7!3m6!1s0x31da19ff5d0133ed:0xe1d6bbeb488b52cd!8m2!3d1.3580366!4d103.8334884!16s%2Fg%2F11lfbhw47j!19sChIJ7TMBXf8Z2jERzVKLSOu71uE
 https://www.google.com/maps/place/The+Longevity+Science+Centrum/data=!4m7!3m6!1s0x31da11f6470b4d41:0xdbe0bfbc062c631c!8m2!3d1.330842!4d103.7956359!16s%2Fg%2F11vdvhrv7x!19sChIJQU0LR_YR2jERHGMsBry_4Ns
+https://www.google.com/maps/place/Paragon+Medical/data=!4m7!3m6!1s0x31da19924a1bad57:0x7ee147bd23438b11!8m2!3d1.3044521!4d103.8360974!16s%2Fg%2F11j535sv4h!19sChIJV60bSpIZ2jEREYtDI71H4X4
