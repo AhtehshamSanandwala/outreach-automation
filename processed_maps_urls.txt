@@ -13210,3 +13210,5 @@ https://www.google.com/maps/place/Redshift+Consultants+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Geo+Rumbia+Pte.+Ltd./data=!4m7!3m6!1s0x31da19caf531a0d5:0x307a8c7331692606!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11qh953qm6!19sChIJ1aAx9coZ2jERBiZpMXOMejA
 https://www.google.com/maps/place/Attorneys+Inc.+LLC+%28Suntec+Office%29/data=!4m7!3m6!1s0x31da19a8d3db354b:0x1ee7c0a1996d8f2e!8m2!3d1.2957308!4d103.8591712!16s%2Fg%2F11cs5r_r8r!19sChIJSzXb06gZ2jERLo9tmaHA5x4
 https://www.google.com/maps/place/Maybank+Asset+Management+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da19af1c0d5427:0x83b2bedce4eb2cd9!8m2!3d1.2955563!4d103.8590205!16s%2Fg%2F11c59w0frj!19sChIJJ1QNHK8Z2jER2Szr5Ny-soM
+https://www.google.com/maps/place/Sequoia+Consulting/data=!4m7!3m6!1s0x31da19af38f93035:0xc9666f0b67f8d1fd!8m2!3d1.2944655!4d103.8580251!16s%2Fg%2F11h7d93862!19sChIJNTD5OK8Z2jER_dH4ZwtvZsk
+https://www.google.com/maps/place/YWL+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da199147f75b3b:0x425be7d271d5f7af!8m2!3d1.2953892!4d103.8584255!16s%2Fg%2F1tg8452x!19sChIJO1v3R5EZ2jERr_fVcdLnW0I
