@@ -12986,3 +12986,4 @@ https://www.google.com/maps/place/Seido+Precision/data=!4m7!3m6!1s0x31da17f6c4c2
 https://www.google.com/maps/place/LTC+Precision+Industry/data=!4m7!3m6!1s0x31da16f5ffc3d079:0x41a5c8cfd0681744!8m2!3d1.3779091!4d103.8679609!16s%2Fg%2F1wh4ccqr!19sChIJedDD__UW2jERRBdo0M_IpUE
 https://www.google.com/maps/place/Certact+Engineering+Pte.+Ltd./data=!4m7!3m6!1s0x31da0564d68ddf71:0xcbccf7ebd3f3393b!8m2!3d1.3304594!4d103.6918692!16s%2Fg%2F11c1wt0q_c!19sChIJcd-N1mQF2jEROznz0-v3zMs
 https://www.google.com/maps/place/City+Technical+Service/data=!4m7!3m6!1s0x31da19f0305291db:0xf702bf8e52b94fcb!8m2!3d1.2736152!4d103.8447006!16s%2Fg%2F11h88r0zbz!19sChIJ25FSMPAZ2jERy0-5Uo6_Avc
+https://www.google.com/maps/place/Precision+engineering/data=!4m7!3m6!1s0x395e87de1e02a36d:0xfc9b542cf6428f4e!8m2!3d23.0186!4d72.676514!16s%2Fg%2F11tk6xyx6c!19sChIJbaMCHt6HXjkRTo9C9ixUm_w
