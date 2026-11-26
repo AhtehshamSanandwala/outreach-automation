@@ -795,3 +795,4 @@ https://singaporeairfreight.com/,Failed,No contact form detected,Loaded,1.7,Open
 https://www.leehoe.com.sg/about-us/,Failed,Submitted but no confirmation detected,Loaded,4.7,Opened,Found,7,"full_name,phone,email,company,select:service-type,subject,message","first_name,last_name,website,job_title,budget,address",,Not present,Clicked: 'Submit' (score=120),No confirmation
 https://s2mfreight.com/,Failed,No contact form detected,Loaded,7.9,Opened,Not found,,,,,,,
 https://www.oal.com.my/,Failed,No contact form detected,Loaded,2.5,Opened,Not found,,,,,,,
+https://abeam.com/,Skipped,Page load timeout,Timeout,,,,,,,,,,
