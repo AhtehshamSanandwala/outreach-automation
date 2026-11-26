@@ -13155,3 +13155,4 @@ https://www.google.com/maps/place/Fortinet+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/DACTA+Global/data=!4m7!3m6!1s0x31da190632853ca9:0xbc5add9fffcdcf5a!8m2!3d1.2936054!4d103.8415679!16s%2Fg%2F11vzrwnm22!19sChIJqTyFMgYZ2jERWs_N_5_dWrw
 https://www.google.com/maps/place/Root+Security+Pte+Ltd/data=!4m7!3m6!1s0x31da1829cb2fc67b:0xbd8fd0edc57bab8!8m2!3d1.2954758!4d103.8596758!16s%2Fg%2F11g6pg4l16!19sChIJe8YvyykY2jERuLpX3A792As
 https://www.google.com/maps/place/StrongKeep+Cybersecurity/data=!4m7!3m6!1s0x31da1b0059b5f977:0x74b3bd1d8306134e!8m2!3d1.2967497!4d103.786548!16s%2Fg%2F11xnp7vv9j!19sChIJd_m1WQAb2jERThMGgx29s3Q
+https://www.google.com/maps/place/Horangi+Cyber+Security/data=!4m7!3m6!1s0x31da190ba0c6572d:0x4f68e7b77ac82312!8m2!3d1.2914767!4d103.8498003!16s%2Fg%2F11fxvt48lg!19sChIJLVfGoAsZ2jEREiPIerfnaE8
