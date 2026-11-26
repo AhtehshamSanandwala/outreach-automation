@@ -13131,3 +13131,4 @@ https://www.google.com/maps/place/Straits+Virtual+Office+Singapore/data=!4m7!3m6
 https://www.google.com/maps/place/Suntec+Tower+3/data=!4m7!3m6!1s0x31da196216787ba9:0xa2dc457822261d15!8m2!3d1.2953245!4d103.8595507!16s%2Fg%2F11rstlsr_s!19sChIJqXt4FmIZ2jERFR0mInhF3KI
 https://www.google.com/maps/place/Infospace+Pte+Ltd/data=!4m7!3m6!1s0x31da17f33eb92695:0xd0057cf531a8bb4b!8m2!3d1.2954256!4d103.858413!16s%2Fg%2F11b88vf_v4!19sChIJlSa5PvMX2jERS7uoMfV8BdA
 https://www.google.com/maps/place/One+X+Group+-+Custom+Software+Development+Company+in+Singapore/data=!4m7!3m6!1s0x31da19af7b1e4ff9:0x447c07a51c3d01c1!8m2!3d1.2785488!4d103.8488543!16s%2Fg%2F11ltnfz3s9!19sChIJ-U8ee68Z2jERwQE9HKUHfEQ
+https://www.google.com/maps/place/Tech+Data+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1960351dcac5:0x414117183f82f52f!8m2!3d1.2946859!4d103.859777!16s%2Fg%2F11khdz370v!19sChIJxcodNWAZ2jERL_WCPxgXQUE
