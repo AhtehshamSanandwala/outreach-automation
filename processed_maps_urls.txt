@@ -13028,3 +13028,4 @@ https://www.google.com/maps/place/National+Skin+Centre/data=!4m7!3m6!1s0x31da19d
 https://www.google.com/maps/place/Elissa+Medical+Clinic/data=!4m7!3m6!1s0x31da178ee3f897f9:0xc87b701ef8397244!8m2!3d1.3758021!4d103.8794307!16s%2Fg%2F11gsn2lkxx!19sChIJ-Zf4444X2jERRHI5-B5we8g
 https://www.google.com/maps/place/Raffles+Hospital/data=!4m7!3m6!1s0x31da19b085f197c5:0xb27dc4acbd7f1d7!8m2!3d1.3011534!4d103.8570811!16s%2Fm%2F02z3mn3!19sChIJxZfxhbAZ2jER1_HXy0rcJws
 https://www.google.com/maps/place/Royal+Healthcare+@+Royal+Square+Medical+Centre/data=!4m7!3m6!1s0x31da197792cbee99:0xfdb79bea2d43a14e!8m2!3d1.3206053!4d103.8432372!16s%2Fg%2F11j11g4ksg!19sChIJme7LkncZ2jERTqFDLeqbt_0
+https://www.google.com/maps/place/IDS+Clinic+%28Novena%29/data=!4m7!3m6!1s0x31da19dac7e6861d:0xe2814fbce1ed12e3!8m2!3d1.3198962!4d103.8448181!16s%2Fg%2F11ql21qx78!19sChIJHYbmx9oZ2jER4xLt4bxPgeI
