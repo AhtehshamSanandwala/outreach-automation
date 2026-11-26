@@ -12862,3 +12862,4 @@ https://www.google.com/maps/place/Leong+Yik+Engineering+%26+Contractor+%E2%80%93
 https://www.google.com/maps/place/M+%26+R+Building+Maintenance+Services/data=!4m7!3m6!1s0x31da19c86f77b6fd:0x73cbbf56dfbe7994!8m2!3d1.3095228!4d103.8574702!16s%2Fg%2F1tddv8p_!19sChIJ_bZ3b8gZ2jERlHm-31a_y3M
 https://www.google.com/maps/place/SOE+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da1bb923672c0d:0xd76b312ae9e0bb5a!8m2!3d1.276217!4d103.794921!16s%2Fg%2F11b5pkbl54!19sChIJDSxnI7kb2jERWrvg6Soxa9c
 https://www.google.com/maps/place/Ample+Building+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da3dbb74a2a9d5:0x4bf23dd8fb4b221b!8m2!3d1.3496004!4d103.9707388!16s%2Fg%2F11y3mxg2q4!19sChIJ1amidLs92jERGyJL-9g98ks
+https://www.google.com/maps/place/Space+Atelier+Pte+Ltd/data=!4m7!3m6!1s0x31da19c5ae4c10f9:0x13bf6e60d9dbe1e5!8m2!3d1.3351925!4d103.8876045!16s%2Fg%2F1q64py7cf!19sChIJ-RBMrsUZ2jER5eHb2WBuvxM
