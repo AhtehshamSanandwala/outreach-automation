@@ -13288,3 +13288,4 @@ https://www.google.com/maps/place/ArialabRX/data=!4m7!3m6!1s0xd5ef97e6af2597f:0x
 https://www.google.com/maps/place/Motherhouse+Suntec+city/data=!4m7!3m6!1s0x31da191bcc49bf05:0xb4aa034f717bb3a4!8m2!3d1.2935544!4d103.8573746!16s%2Fg%2F11frsy9yj5!19sChIJBb9JzBsZ2jERpLN7cU8DqrQ
 https://www.google.com/maps/place/Sikitech+International/data=!4m7!3m6!1s0x31da19af071ce47f:0xf0d208276a35d5f7!8m2!3d1.29589!4d103.858817!16s%2Fg%2F1ptwj1gpm!19sChIJf-QcB68Z2jER99U1aicI0vA
 https://www.google.com/maps/place/Happy+Cake/data=!4m7!3m6!1s0x4206337eac3194c1:0xe59e52a4457b4ca5!8m2!3d1.2955249!4d103.8584952!16s%2Fg%2F11tjby5hqh!19sChIJwZQxrH4zBkIRpUx7RaRSnuU
+https://www.google.com/maps/place/PAUL+Suntec/data=!4m7!3m6!1s0x31da19594031b3db:0x4fd28b2aac375640!8m2!3d1.293426!4d103.8565727!16s%2Fg%2F11wp0561fy!19sChIJ27MxQFkZ2jERQFY3rCqL0k8
