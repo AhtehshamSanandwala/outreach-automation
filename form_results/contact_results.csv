@@ -945,3 +945,4 @@ https://choonhuat.com.sg/about-us/,Success,Verified thank-you / redirect,Loaded,
 https://avsengineering.sg/contact-us/,Failed,Submitted but no confirmation detected,Loaded,2.4,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Not present,Clicked: 'Submit' (score=115),No confirmation
 https://ecom.lauchoyseng.com/,Failed,No contact form detected,Loaded,0.4,Opened,Not found,,,,,,,
 https://eis-sg.com.sg/about-us/,Success,Verified thank-you / redirect,Loaded,8.6,Opened,Found,4,"full_name,phone,email,message","first_name,last_name,company,website,job_title,subject,budget,address",,Auto-solved at pre-submit: reCAPTCHA v2,Clicked: 'SUBMIT' (score=115),Success detected
+http://www.land-equipment.com.sg/,Failed,No contact form detected,Loaded,2.2,Opened,Not found,,,,,,,
