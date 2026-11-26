@@ -13266,3 +13266,4 @@ https://www.google.com/maps/place/Citi+Commercial/data=!4m7!3m6!1s0x31da190e80e8
 https://www.google.com/maps/place/Druce+%26+Co+Pte.+Ltd./data=!4m7!3m6!1s0x31da19e309bd71a1:0x22c48afa3f9faa3b!8m2!3d1.2953449!4d103.8596708!16s%2Fg%2F11s4yn8h1n!19sChIJoXG9CeMZ2jERO6qfP_qKxCI
 https://www.google.com/maps/place/hejcake+%28Suntec+City%29/data=!4m7!3m6!1s0x31da19003ce185cd:0xfa0c92a4a027deb4!8m2!3d1.2950387!4d103.8583021!16s%2Fg%2F11zxv21t7z!19sChIJzYXhPAAZ2jERtN4noKSSDPo
 https://www.google.com/maps/place/Tech+House+@+Suntec+City/data=!4m7!3m6!1s0x31da191a4d75190f:0x933ad0af1fc89396!8m2!3d1.2952686!4d103.8581036!16s%2Fg%2F11j_1z0b2d!19sChIJDxl1TRoZ2jERlpPIH6_QOpM
+https://www.google.com/maps/place/SMC+Manufacturing+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da0f5086aee6f5:0x2a47cc31a738f160!8m2!3d1.3334404!4d103.6469218!16s%2Fg%2F1tsjb55l!19sChIJ9eauhlAP2jERYPE4pzHMRyo
