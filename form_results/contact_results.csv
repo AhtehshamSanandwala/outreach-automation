@@ -877,3 +877,4 @@ https://www.pilotoasia.com/contact-us,Success,Verified thank-you / redirect,Load
 (required),phone,message,select:How did you hear about Piloto Asia?","full_name,company,website,job_title,subject,budget,address",,Not present,form.submit(): form[0],Success detected
 https://fastcorp.sg/category/incorporation/offices/,Skipped,Page load timeout,Timeout,,,,,,,,,,
 https://ceekayline.com/about-ceekay/,Failed,Submitted but no confirmation detected,Loaded,4.5,Opened,Found,4,"first_name,email,phone,message","last_name,full_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=115),No confirmation
+https://www.entrustfreight.com.sg/contact-us/,Failed,Submitted but no confirmation detected,Loaded,2.2,Opened,Found,5,"full_name,email,phone,subject,message","first_name,last_name,company,website,job_title,budget,address",,Not present,Clicked: 'Submit' (score=120),No confirmation
