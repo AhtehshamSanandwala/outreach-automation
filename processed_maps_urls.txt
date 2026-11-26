@@ -13198,3 +13198,5 @@ https://www.google.com/maps/place/Growth.sg+%2F+Growth+Innovations+Pte+Ltd/data=
 https://www.google.com/maps/place/Hadron+GBS+Singapore/data=!4m7!3m6!1s0x6ee0bbb63691f563:0x49e26296b04806a8!8m2!3d1.295285!4d103.85852!16s%2Fg%2F11kpgv8kzl!19sChIJY_WRNra74G4RqAZIsJZi4kk
 https://www.google.com/maps/place/Optimal+Zone+Performance+Pte+Ltd/data=!4m7!3m6!1s0x31da191251d00001:0x7133c7f2a39f0fc!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11gbfcwvzq!19sChIJAQDQURIZ2jER_PA5Kn88Ewc
 https://www.google.com/maps/place/Oaktree+Cloud+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da19b3d141c2af:0x2d27978e92eb8aad!8m2!3d1.2953522!4d103.8584051!16s%2Fg%2F11fnrd_9hy!19sChIJr8JB0bMZ2jERrYrrko6XJy0
+https://www.google.com/maps/place/The+Talent+Craftsmen/data=!4m7!3m6!1s0xa4094eb123cc4a19:0x1a1f83fa6bc15f9b!8m2!3d1.2953522!4d103.8584266!16s%2Fg%2F11xcnsd2pw!19sChIJGUrMI7FOCaQRm1_Ba_qDHxo
+https://www.google.com/maps/place/Newgen/data=!4m7!3m6!1s0x31da19af1023b833:0x3c702c4a8f960335!8m2!3d1.295285!4d103.85852!16s%2Fg%2F11ry61bbmg!19sChIJM7gjEK8Z2jERNQOWj0oscDw
