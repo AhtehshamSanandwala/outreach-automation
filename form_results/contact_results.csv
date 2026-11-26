@@ -850,3 +850,4 @@ https://www.searce.com/who-we-are,Failed,No contact form detected,Loaded,0.9,Ope
 https://www.amnet.com.sg/about-us,Failed,No contact form detected,Loaded,1.3,Opened,Not found,,,,,,,
 https://www.itdesktopsupportservices.com/contact-us/,Failed,No contact form detected,Loaded,1.2,Opened,Not found,,,,,,,
 https://www.dalstech.com/about-us,Failed,No contact form detected,Loaded,1.1,Opened,Not found,,,,,,,
+https://www.capitaland.com/en/about-capitaland/newsroom.html,Success,Verified thank-you / redirect,Loaded,2.0,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Auto-solved at post-submit: reCAPTCHA v2,Clicked: 'Submit' (score=100),Success detected
