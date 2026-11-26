@@ -36,3 +36,13 @@ https://www.oneibc.com/business/serviced-office,Failed,,Loaded,2.5,Opened,Found,
 https://ebcstorage.com.sg/serviced-office/,Failed,Turnstile widget not solved at pre-submit,Loaded,7.0,Opened,Found,5,"full_name,phone,email,select:I Am Interested In *,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not solved at pre-submit: Turnstile widget,,
 https://jti.sg/,Failed,Turnstile widget not solved at pre-submit,Loaded,1.6,Opened,Found,4,"full_name,email,phone,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not solved at pre-submit: Turnstile widget,,
 https://metroboxservices.com/about,Failed,,Loaded,2.9,Opened,Found,5,"full_name,email,phone,subject,message","first_name,last_name,company,website,job_title,budget,address",,Image OCR failed at pre-submit,,
+https://www.itcinfotech.com/what-we-do/cloud-services/,Failed,,Loaded,7.5,Opened,Found,7,"full_name,email,phone,company,select:Select An Option
+Sales Enquiry
+Partnership Enquiry
+Job Enquiry
+Other Enquiries,select:Select Region
+Americas
+Asia Pacific
+Europe
+India
+Middle East & Africa,message","first_name,last_name,website,job_title,subject,budget,address",,Image OCR failed at pre-submit,,

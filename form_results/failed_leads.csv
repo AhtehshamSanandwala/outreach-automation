@@ -840,3 +840,13 @@ https://mfcl2000.com/,Failed,No contact form detected,Loaded,5.5,Opened,Not foun
 https://www.sg.issworld.com/services/commercial-cleaning/pure-space-office,Failed,No contact form detected,Loaded,3.8,Opened,Not found,,,,,,,
 https://www.smartproperty.sg/aboutus/,Failed,Submitted but no confirmation detected,Loaded,3.9,Opened,Found,5,"full_name,email,phone,message,select:Subject *","first_name,last_name,company,website,job_title,subject,budget,address",,Auto-solved at post-submit: reCAPTCHA v2,form.submit(): form[0],No confirmation
 https://www.cushmanwakefield.com/en/industries/office,Failed,No contact form detected,Loaded,7.1,Opened,Not found,,,,,,,
+https://www.itcinfotech.com/what-we-do/cloud-services/,Failed,,Loaded,7.5,Opened,Found,7,"full_name,email,phone,company,select:Select An Option
+Sales Enquiry
+Partnership Enquiry
+Job Enquiry
+Other Enquiries,select:Select Region
+Americas
+Asia Pacific
+Europe
+India
+Middle East & Africa,message","first_name,last_name,website,job_title,subject,budget,address",,Image OCR failed at pre-submit,,
