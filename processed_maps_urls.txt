@@ -12891,3 +12891,4 @@ https://www.google.com/maps/place/D5+Studio+Image/data=!4m7!3m6!1s0x31da183d4f1e
 https://www.google.com/maps/place/Artdecor+Design+Studio+Pte+Ltd/data=!4m7!3m6!1s0x31da181c8ac4f649:0x1400b926ddb69169!8m2!3d1.3450182!4d103.8977964!16s%2Fg%2F1thmbxyb!19sChIJSfbEihwY2jERaZG23Sa5ABQ
 https://www.google.com/maps/place/IdeasXchange/data=!4m7!3m6!1s0x31da178cc5762961:0x1d1737052790d776!8m2!3d1.3595238!4d103.8338917!16s%2Fg%2F11clvysr92!19sChIJYSl2xYwX2jERdteQJwU3Fx0
 https://www.google.com/maps/place/Brick+%26+Decor+%28Central%29/data=!4m7!3m6!1s0x31da17c34f382caf:0x223ada69a81c685e!8m2!3d1.3594885!4d103.833788!16s%2Fg%2F11kjy5wgfq!19sChIJryw4T8MX2jERXmgcqGnaOiI
+https://www.google.com/maps/place/Build+Built+Pte+Ltd/data=!4m7!3m6!1s0x31da173c2614632f:0xbd7e6e04aab7b97d!8m2!3d1.3501345!4d103.8412229!16s%2Fg%2F11fx8ywj0l!19sChIJL2MUJjwX2jERfbm3qgRufr0
