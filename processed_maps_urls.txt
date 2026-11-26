@@ -13140,3 +13140,4 @@ https://www.google.com/maps/place/Telennovatiq+Pte+Ltd/data=!4m7!3m6!1s0x31da19a
 https://www.google.com/maps/place/SyncroTech/data=!4m7!3m6!1s0x31da17cdbb86d12f:0x4f42e14a322d9205!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11jclwnsy8!19sChIJL9GGu80X2jERBZItMkrhQk8
 https://www.google.com/maps/place/Massive+Infinity+Pte+Ltd/data=!4m7!3m6!1s0x31da1be73c120325:0xa3da6adb3b36eb60!8m2!3d1.272869!4d103.841151!16s%2Fg%2F12hlm5_05!19sChIJJQMSPOcb2jERYOs2O9tq2qM
 https://www.google.com/maps/place/Tecso+Solutions+%28SG%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1906a8e8ab17:0xa4443e2a2eada8b2!8m2!3d1.2955914!4d103.8590532!16s%2Fg%2F11h5s2yl42!19sChIJF6voqAYZ2jERsqitLio-RKQ
+https://www.google.com/maps/place/SimplyLinked+Pte.+Ltd./data=!4m7!3m6!1s0x31da1a55cff20ff9:0x5c1ebdfbddf1b78a!8m2!3d1.2955061!4d103.8585395!16s%2Fg%2F1pp2tk4r5!19sChIJ-Q_yz1Ua2jERirfx3fu9Hlw
