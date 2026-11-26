@@ -13295,3 +13295,6 @@ https://www.google.com/maps/place/MBT+Singapore+Head+Office+-+Visit+our+stores+a
 https://www.google.com/maps/place/FLEX+Singapore/data=!4m7!3m6!1s0x31da197ed6800e43:0x52a7b0bb13d7dd4e!8m2!3d1.2960707!4d103.8589791!16s%2Fg%2F11lf1989bj!19sChIJQw6A1n4Z2jERTt3XE7uwp1I
 https://www.google.com/maps/place/Suntec+Construction+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da179079b317c3:0xb49a03bb73654a4f!8m2!3d1.3374623!4d103.9127549!16s%2Fg%2F11vrfb855b!19sChIJwxezeZAX2jERT0plc7sDmrQ
 https://www.google.com/maps/place/UNIQLO+Suntec+City/data=!4m7!3m6!1s0x31da19a8ba931959:0x559eeeb12a8ef7cc!8m2!3d1.2932528!4d103.8573037!16s%2Fg%2F1pv0zvf8y!19sChIJWRmTuqgZ2jERzPeOKrHunlU
+https://www.google.com/maps/place/Enigma+Energy/data=!4m7!3m6!1s0x31da1947e7216983:0x5790c6ed703dd8cd!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11tsxr_xtz!19sChIJg2kh50cZ2jERzdg9cO3GkFc
+https://www.google.com/maps/place/KOMEHYO+SUNTEC+CITY+MALL/data=!4m7!3m6!1s0x31da19cd1e2c1b29:0x64f9aa5adf8b4605!8m2!3d1.2950324!4d103.8583015!16s%2Fg%2F11y409gx7p!19sChIJKRssHs0Z2jERBUaL31qq-WQ
+https://www.google.com/maps/place/HarriAnns+Nonya+Table/data=!4m7!3m6!1s0x31da19fc9a35ca59:0xdc0711691a91168b!8m2!3d1.2945851!4d103.8578863!16s%2Fg%2F11gxwqkjqf!19sChIJWco1mvwZ2jERixaRGmkRB9w
