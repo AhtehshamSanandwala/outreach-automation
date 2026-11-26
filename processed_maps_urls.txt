@@ -12864,3 +12864,4 @@ https://www.google.com/maps/place/SOE+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Ample+Building+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da3dbb74a2a9d5:0x4bf23dd8fb4b221b!8m2!3d1.3496004!4d103.9707388!16s%2Fg%2F11y3mxg2q4!19sChIJ1amidLs92jERGyJL-9g98ks
 https://www.google.com/maps/place/Space+Atelier+Pte+Ltd/data=!4m7!3m6!1s0x31da19c5ae4c10f9:0x13bf6e60d9dbe1e5!8m2!3d1.3351925!4d103.8876045!16s%2Fg%2F1q64py7cf!19sChIJ-RBMrsUZ2jER5eHb2WBuvxM
 https://www.google.com/maps/place/Omni+Interior+Design/data=!4m7!3m6!1s0x31da1725f6b4c95b:0x7ee326158c014504!8m2!3d1.3589732!4d103.8335419!16s%2Fg%2F11c4bh6fdc!19sChIJW8m09iUX2jERBEUBjBUm434
+https://www.google.com/maps/place/DC+Vision+Design/data=!4m7!3m6!1s0x31da3d876bc8e98b:0xb40ce4df78aae0ea!8m2!3d1.3154535!4d103.8978616!16s%2Fg%2F11h4vmn3wh!19sChIJi-nIa4c92jER6uCqeN_kDLQ
