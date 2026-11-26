@@ -12822,3 +12822,5 @@ https://www.google.com/maps/place/Towner+Construction+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Danlin+Construction+Pte+Ltd/data=!4m7!3m6!1s0x31da06089ee3ed59:0x51f27241f84bfa6d!8m2!3d1.318194!4d103.632152!16s%2Fg%2F1vpq4chw!19sChIJWe3jnggG2jERbfpL-EFy8lE
 https://www.google.com/maps/place/Full+House+Building+Construction+Pte.+Ltd./data=!4m7!3m6!1s0x31da16f9f740da71:0xbeda920573986678!8m2!3d1.3727777!4d103.8624883!16s%2Fg%2F1vcl18s5!19sChIJcdpA9_kW2jEReGaYcwWS2r4
 https://www.google.com/maps/place/PRECISE+Development/data=!4m7!3m6!1s0x31da05902f627891:0x88d125c709e86243!8m2!3d1.3398893!4d103.8919671!16s%2Fg%2F1td_2pfy!19sChIJkXhiL5AF2jERQ2LoCccl0Yg
+https://www.google.com/maps/place/Hua+Ting+Construction+Pte+Ltd/data=!4m7!3m6!1s0x31da3dbcaa407fbd:0x2fa7a9be5260d8d2!8m2!3d1.3591644!4d103.8343634!16s%2Fg%2F11cs5s33z7!19sChIJvX9Aqrw92jER0thgUr6ppy8
+https://www.google.com/maps/place/Steadfast+Engineering+%26+Construction+Pte+Ltd+%28SFEC%29/data=!4m7!3m6!1s0x31da1a94b2b97a85:0x2a441c18d522b58c!8m2!3d1.3057384!4d103.7306363!16s%2Fg%2F11hd6z7s8v!19sChIJhXq5spQa2jERjLUi1RgcRCo
