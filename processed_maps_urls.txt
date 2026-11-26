@@ -12975,3 +12975,6 @@ https://www.google.com/maps/place/Bishan-Toa+Payoh+Town+Council+%28Main+Office%2
 https://www.google.com/maps/place/Water+Terrace/data=!4m7!3m6!1s0x31da17bb6b41654d:0x286e1d536b6c719d!8m2!3d1.3506362!4d103.8816338!16s%2Fg%2F1ptx9bs_v!19sChIJTWVBa7sX2jERnXFsa1Mdbig
 https://www.google.com/maps/place/The+Shelford/data=!4m7!3m6!1s0x31da1a07b93a6ed7:0x7c3da7ea5458d824!8m2!3d1.3254786!4d103.8112286!16s%2Fg%2F11c4bg_shr!19sChIJ1246uQca2jERJNhYVOqnPXw
 https://www.google.com/maps/place/Realty+International+Associates+Pte+Ltd/data=!4m7!3m6!1s0x31da198da089053f:0xb4ae76cf35cfab8b!8m2!3d1.3317097!4d103.8494335!16s%2Fg%2F11cs5n1z2w!19sChIJPwWJoI0Z2jERi6vPNc92rrQ
+https://www.google.com/maps/place/TQC+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da17ed615d2b29:0x430446eb74b45c38!8m2!3d1.3272728!4d103.6771509!16s%2Fg%2F1td50z11!19sChIJKStdYe0X2jEROFy0dOtGBEM
+https://www.google.com/maps/place/JEP+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da14262be1dd87:0x78a3a17014ad0ec8!8m2!3d1.4044219!4d103.85582!16s%2Fg%2F11c60c3m_5!19sChIJh93hKyYU2jERyA6tFHCho3g
+https://www.google.com/maps/place/Hi+Precison+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da177b924bb3bb:0xdd2856d3dbdf7065!8m2!3d1.3779736!4d103.8689059!16s%2Fg%2F11tf1mz24f!19sChIJu7NLknsX2jERZXDf29NWKN0
