@@ -13213,3 +13213,5 @@ https://www.google.com/maps/place/Maybank+Asset+Management+Singapore+Pte.+Ltd./d
 https://www.google.com/maps/place/Sequoia+Consulting/data=!4m7!3m6!1s0x31da19af38f93035:0xc9666f0b67f8d1fd!8m2!3d1.2944655!4d103.8580251!16s%2Fg%2F11h7d93862!19sChIJNTD5OK8Z2jER_dH4ZwtvZsk
 https://www.google.com/maps/place/YWL+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da199147f75b3b:0x425be7d271d5f7af!8m2!3d1.2953892!4d103.8584255!16s%2Fg%2F1tg8452x!19sChIJO1v3R5EZ2jERr_fVcdLnW0I
 https://www.google.com/maps/place/Erideon+Private+Limited/data=!4m7!3m6!1s0x31da19aee7312125:0xf6f355138df19100!8m2!3d1.2955374!4d103.8584736!16s%2Fg%2F1tj558_n!19sChIJJSEx564Z2jERAJHxjRNV8_Y
+https://www.google.com/maps/place/Eight-BA/data=!4m7!3m6!1s0x31da194530520db7:0x5141e99b972a879a!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11rsh0tzj_!19sChIJtw1SMEUZ2jERmocql5vpQVE
+https://www.google.com/maps/place/Mint+eSolutions/data=!4m7!3m6!1s0x31da19af0fc91fad:0x3a163f13889369d8!8m2!3d1.2954065!4d103.8584672!16s%2Fg%2F11gdkkdkr9!19sChIJrR_JD68Z2jER2GmTiBM_Fjo
