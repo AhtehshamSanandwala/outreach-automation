@@ -13220,3 +13220,5 @@ https://www.google.com/maps/place/Pogen+V+Pte+Ltd/data=!4m7!3m6!1s0x31da19b1b4c8
 https://www.google.com/maps/place/Kantar+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da175c62c92333:0xefcafdf781bba825!8m2!3d1.2943816!4d103.858071!16s%2Fg%2F1tg4yy9r!19sChIJMyPJYlwX2jERJai7gff9yu8
 https://www.google.com/maps/place/Capricorn+Consulting/data=!4m7!3m6!1s0x31da1bd1f4fbd11f:0x5d1816f7a1352404!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F1pv18rhn9!19sChIJH9H79NEb2jERBCQ1ofcWGF0
 https://www.google.com/maps/place/Stone+Prime+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da19e04f588ae3:0x4ca18c83f78bad99!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11fkcl0525!19sChIJ44pYT-AZ2jERma2L94OMoUw
+https://www.google.com/maps/place/Oktos+Pte+Ltd/data=!4m7!3m6!1s0x31da138c0ac1c083:0x2d21c0de01fffb4!8m2!3d1.2953522!4d103.858448!16s%2Fg%2F11fnqjv0_w!19sChIJg8DBCowT2jERtP8f4A0c0gI
+https://www.google.com/maps/place/The+Talent+Craftsmen/data=!4m7!3m6!1s0x31da199df9046d57:0xa44001ef4ba4bfc6!8m2!3d1.2953522!4d103.8584266!16s%2Fg%2F11xct_tbjw!19sChIJV20E-Z0Z2jERxr-kS-8BQKQ
