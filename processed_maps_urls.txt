@@ -12985,3 +12985,4 @@ https://www.google.com/maps/place/City+Hall/data=!4m7!3m6!1s0x31da19a6984dd7cf:0
 https://www.google.com/maps/place/Seido+Precision/data=!4m7!3m6!1s0x31da17f6c4c2570b:0xce588a7fe4c340bd!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11t194ry6n!19sChIJC1fCxPYX2jERvUDD5H-KWM4
 https://www.google.com/maps/place/LTC+Precision+Industry/data=!4m7!3m6!1s0x31da16f5ffc3d079:0x41a5c8cfd0681744!8m2!3d1.3779091!4d103.8679609!16s%2Fg%2F1wh4ccqr!19sChIJedDD__UW2jERRBdo0M_IpUE
 https://www.google.com/maps/place/Certact+Engineering+Pte.+Ltd./data=!4m7!3m6!1s0x31da0564d68ddf71:0xcbccf7ebd3f3393b!8m2!3d1.3304594!4d103.6918692!16s%2Fg%2F11c1wt0q_c!19sChIJcd-N1mQF2jEROznz0-v3zMs
+https://www.google.com/maps/place/City+Technical+Service/data=!4m7!3m6!1s0x31da19f0305291db:0xf702bf8e52b94fcb!8m2!3d1.2736152!4d103.8447006!16s%2Fg%2F11h88r0zbz!19sChIJ25FSMPAZ2jERy0-5Uo6_Avc
