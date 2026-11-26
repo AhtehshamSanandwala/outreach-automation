@@ -13045,3 +13045,4 @@ https://www.google.com/maps/place/MW+Medical/data=!4m7!3m6!1s0x31da173b05b0cb1d:
 https://www.google.com/maps/place/Auria+Dermatology/data=!4m7!3m6!1s0x31da19250f68be91:0x5fb25741d47b6448!8m2!3d1.3039053!4d103.8355763!16s%2Fg%2F11z49b4lj3!19sChIJkb5oDyUZ2jERSGR71EFXsl8
 https://www.google.com/maps/place/Dr+Chook+Sports+%26+Lifestyle+Medical+Centre/data=!4m7!3m6!1s0x31da199117999e31:0x13e3bd290dc5a25!8m2!3d1.3014488!4d103.8372499!16s%2Fg%2F1tdkd4j8!19sChIJMZ6ZF5EZ2jERJVrckNI7PgE
 https://www.google.com/maps/place/Toa+Payoh+North+Clinic+%26+Surgery/data=!4m7!3m6!1s0x31da176bbe06b1c1:0x5e0dbab33d1e5170!8m2!3d1.342089!4d103.84913!16s%2Fg%2F1thx63bc!19sChIJwbEGvmsX2jERcFEePbO6DV4
+https://www.google.com/maps/place/Orchard+Heart+Specialist+Clinic/data=!4m7!3m6!1s0x31da1971acf75601:0x4784c7184ff462b!8m2!3d1.3047407!4d103.8356086!16s%2Fg%2F11fj6jsbk5!19sChIJAVb3rHEZ2jERK0b_hHFMeAQ
