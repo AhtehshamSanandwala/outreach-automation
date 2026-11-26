@@ -1,11 +1,10 @@
 {
   "state": "running",
   "pid": 4576,
-  "singapore_time": "08:00:03 SGT",
+  "singapore_time": "08:22:41 SGT",
   "date": "2026-11-26",
   "today_batches_completed": 0,
   "max_daily_batches": 3,
-  "last_updated": "2026-11-26T00:00:03.480Z",
-  "message": "Batch in progress (Attempt #1)",
-  "inhibiting_shutdown": true
+  "last_updated": "2026-11-26T00:22:41.430Z",
+  "inhibiting_shutdown": false
 }
