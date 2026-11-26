@@ -12959,3 +12959,4 @@ https://www.google.com/maps/place/Turf+City/data=!4m7!3m6!1s0x31da110071ac2413:0
 https://www.google.com/maps/place/Sunshine+Plaza+Residences/data=!4m7!3m6!1s0x31da19bb7e3d598b:0xc159ed0b3a7abf81!8m2!3d1.3004264!4d103.8507742!16s%2Fg%2F11gbfs4qhy!19sChIJi1k9frsZ2jERgb96OgvtWcE
 https://www.google.com/maps/place/Braddell+View/data=!4m7!3m6!1s0x31da17530f691869:0x713496d5b8777c8a!8m2!3d1.3411156!4d103.8410511!16s%2Fg%2F11flgftbkq!19sChIJaRhpD1MX2jERinx3uNWWNHE
 https://www.google.com/maps/place/Midview+City/data=!4m7!3m6!1s0x31da1700686e7fa3:0xa4a1f4139bf92b15!8m2!3d1.358992!4d103.8339514!16s%2Fg%2F11vrrx6dlk!19sChIJo39uaAAX2jERFSv5mxP0oaQ
+https://www.google.com/maps/place/Grange+Heights/data=!4m7!3m6!1s0x31da199a97dc6483:0xccaedea3b5e8134c!8m2!3d1.2979762!4d103.8349783!16s%2Fg%2F1ptx7jtjz!19sChIJg2Tcl5oZ2jERTBPotaPersw
