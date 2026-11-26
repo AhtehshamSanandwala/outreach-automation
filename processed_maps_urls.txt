@@ -13050,3 +13050,4 @@ https://www.google.com/maps/place/Raffles+Medical+Causeway+Point/data=!4m7!3m6!1
 https://www.google.com/maps/place/T+P+Sim+Family+Clinic+%26+Surgery/data=!4m7!3m6!1s0x31da17146a36c53f:0xa4477971ab271d05!8m2!3d1.3483896!4d103.8495655!16s%2Fg%2F1th6bbs5!19sChIJP8U2ahQX2jERBR0nq3F5R6Q
 https://www.google.com/maps/place/Scinn+Medical+Centre/data=!4m7!3m6!1s0x31da19de27596deb:0xcce3e5e1561afc99!8m2!3d1.3032578!4d103.8338832!16s%2Fg%2F11f6yyd_ss!19sChIJ621ZJ94Z2jERmfwaVuHl48w
 https://www.google.com/maps/place/Bridgepoint+Health+%28Everton+Park+Clinic%29/data=!4m7!3m6!1s0x31da192d60411f87:0xacf7d1551f91fe19!8m2!3d1.2774397!4d103.8400926!16s%2Fg%2F11hzqgk0g7!19sChIJhx9BYC0Z2jERGf6RH1XR96w
+https://www.google.com/maps/place/Healthcare+Family+Clinic+%26+Surgery/data=!4m7!3m6!1s0x31da172934c3557d:0x3e569b28714aa27a!8m2!3d1.3628575!4d103.8332014!16s%2Fg%2F1tdk7l6x!19sChIJfVXDNCkX2jEReqJKcSibVj4
