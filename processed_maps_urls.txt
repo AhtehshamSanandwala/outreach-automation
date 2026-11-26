@@ -13316,3 +13316,5 @@ https://www.google.com/maps/place/Boarding+Gate+Marina+Square/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/QQ+GLOBAL+STUDIO+PTE+LTD/data=!4m7!3m6!1s0x31da170b750edbe9:0xa203a3cf96a6ba53!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11f7111c5l!19sChIJ6dsOdQsX2jERU7qmls-jA6I
 https://www.google.com/maps/place/Gifts+Greetings/data=!4m7!3m6!1s0x31da19c551fa3847:0xb2efa4617176200d!8m2!3d1.2952379!4d103.8600701!16s%2Fg%2F11sgcr86sx!19sChIJRzj6UcUZ2jERDSB2cWGk77I
 https://www.google.com/maps/place/Teo+Heng+KTV+Studio+%28Suntec+City%29/data=!4m7!3m6!1s0x31da19aee411bbd3:0x17e047add3c88195!8m2!3d1.2951909!4d103.8597203!16s%2Fg%2F11bzyq60gq!19sChIJ07sR5K4Z2jERlYHI061H4Bc
+https://www.google.com/maps/place/Toast+Box+%28Suntec+City%29/data=!4m7!3m6!1s0x31da19af230b4031:0x79d57566a7d42aeb!8m2!3d1.2946462!4d103.8587482!16s%2Fg%2F1ptx3y4cg!19sChIJMUALI68Z2jER6yrUp2Z11Xk
+https://www.google.com/maps/place/The+Cocoa+Trees+-+Suntec+City/data=!4m7!3m6!1s0x31da19a8afff44a5:0x59ce2ca40cfb2b4e!8m2!3d1.2951643!4d103.8579621!16s%2Fg%2F1tlzxpqj!19sChIJpUT_r6gZ2jERTiv7DKQszlk
