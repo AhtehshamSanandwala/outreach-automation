@@ -13250,3 +13250,5 @@ https://www.google.com/maps/place/T.S.D.+Consulting+LLP/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Phi+Space+Technologies/data=!4m7!3m6!1s0x31da19044c54de3b:0x337ac1aee12c7d70!8m2!3d1.295285!4d103.85852!16s%2Fg%2F11fn6cbdzh!19sChIJO95UTAQZ2jERcH0s4a7BejM
 https://www.google.com/maps/place/Graduate+Advisory+Group/data=!4m7!3m6!1s0x31da1916dd17c511:0x7ce79541fc32030a!8m2!3d1.295272!4d103.8596019!16s%2Fg%2F11t41s0m5m!19sChIJEcUX3RYZ2jERCgMy_EGV53w
 https://www.google.com/maps/place/Eternity+Law+International/data=!4m7!3m6!1s0x31da1918cd73aef7:0x95c77be8f55f68d9!8m2!3d1.2953449!4d103.8596708!16s%2Fg%2F11stdrpccz!19sChIJ965zzRgZ2jER2Whf9eh7x5U
+https://www.google.com/maps/place/Amicus+Law+Corporation/data=!4m7!3m6!1s0x31da190f37ad7dab:0x6f994e44ec4323b6!8m2!3d1.2954409!4d103.8584778!16s%2Fg%2F11qpq8t2lp!19sChIJq32tNw8Z2jERtiND7EROmW8
+https://www.google.com/maps/place/JCP+Law+LLC/data=!4m7!3m6!1s0x31da19463085f96d:0xe8a91f0b0cafa713!8m2!3d1.2856141!4d103.8519726!16s%2Fg%2F11nfv6z6b8!19sChIJbfmFMEYZ2jERE6evDAsfqeg
