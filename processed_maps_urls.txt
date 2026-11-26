@@ -13228,3 +13228,6 @@ https://www.google.com/maps/place/TEKsystems/data=!4m7!3m6!1s0x31da19af11d9bfcf:
 https://www.google.com/maps/place/Zuper+Global+Pte+Ltd/data=!4m7!3m6!1s0x31da19832aad716d:0x44312b53f1248b22!8m2!3d1.2953522!4d103.8584266!16s%2Fg%2F11xyfk9y7y!19sChIJbXGtKoMZ2jERIosk8VMrMUQ
 https://www.google.com/maps/place/JA+Signature+%28Pte.+Ltd.%29/data=!4m7!3m6!1s0x31da17991d77fd0d:0x9125eb5071f7b333!8m2!3d1.2953522!4d103.8584266!16s%2Fg%2F11flqwn2hs!19sChIJDf13HZkX2jERM7P3cVDrJZE
 https://www.google.com/maps/place/Visionary+Agility+Pte.+Ltd./data=!4m7!3m6!1s0x31da196b361f50d5:0x326dff666340c75c!8m2!3d1.2953522!4d103.8584266!16s%2Fg%2F11vz8wv4fr!19sChIJ1VAfNmsZ2jERXMdAY2b_bTI
+https://www.google.com/maps/place/Permal+Investment+Management+Services+Ltd/data=!4m7!3m6!1s0x31da19af1023b833:0xad3b3ddd41d0d71d!8m2!3d1.2954409!4d103.8584563!16s%2Fg%2F11j8w0lphs!19sChIJM7gjEK8Z2jERHdfQQd09O60
+https://www.google.com/maps/place/Trust+Tech+Pte+Ltd/data=!4m7!3m6!1s0x31da19dcb7c26ce3:0x59b54180bd9a0494!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11f9ywy3__!19sChIJ42zCt9wZ2jERlASavYBBtVk
+https://www.google.com/maps/place/Tmp+Worldwide+Eresourcing+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19afaa858129:0x5256193104d12506!8m2!3d1.2956202!4d103.8591161!16s%2Fg%2F11b6dp1fjl!19sChIJKYGFqq8Z2jERBiXRBDEZVlI
