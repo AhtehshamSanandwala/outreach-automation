@@ -1,10 +1,11 @@
 {
-  "state": "running",
+  "state": "cooldown",
   "pid": 4576,
-  "singapore_time": "08:22:41 SGT",
+  "singapore_time": "08:22:45 SGT",
   "date": "2026-11-26",
-  "today_batches_completed": 0,
+  "today_batches_completed": 1,
   "max_daily_batches": 3,
-  "last_updated": "2026-11-26T00:22:41.430Z",
-  "inhibiting_shutdown": false
+  "last_updated": "2026-11-26T00:22:45.590Z",
+  "message": "Resting between batches (78m remaining)",
+  "next_wake_sgt": "9:40:45 AM"
 }
