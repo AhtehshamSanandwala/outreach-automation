@@ -941,3 +941,4 @@ https://ronghe.com.sg/,Failed,No contact form detected,Loaded,2.3,Opened,Not fou
 https://alpadis-group.com/,Skipped,"unknown error: net::ERR_CONNECTION_REFUSED
   (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
 https://tcbgroup.com/request-a-quotation/,Success,Verified thank-you / redirect,Loaded,1.5,Opened,Found,6,"first_name,last_name,email,phone,company,message","full_name,website,job_title,subject,budget,address",,Rate-limited at post-submit: reCAPTCHA v2,Clicked: 'Submit' (score=115),Success detected
+https://choonhuat.com.sg/about-us/,Success,Verified thank-you / redirect,Loaded,1.8,Opened,Found,8,"select:Type of Enquiry,company,full_name,last_name,phone,email,message,select:How did you hear about us?","first_name,website,job_title,subject,budget,address",,Auto-solved at post-submit: reCAPTCHA v2,form.submit(): form[0],Success detected
