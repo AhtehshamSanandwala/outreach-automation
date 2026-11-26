@@ -13149,3 +13149,4 @@ https://www.google.com/maps/place/Intervines+Technology/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Source+Code+-+Software+Development+Company+In+Singapore/data=!4m7!3m6!1s0x31da195cdb497f03:0x9762e0359c1fc154!8m2!3d1.2953979!4d103.8584671!16s%2Fg%2F11swps8_wg!19sChIJA39J21wZ2jERVMEfnDXgYpc
 https://www.google.com/maps/place/Cloud+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da190d270afdbd:0x9e2be16683a91d14!8m2!3d1.2828136!4d103.8426668!16s%2Fg%2F11b8b3jxvw!19sChIJvf0KJw0Z2jERFB2pg2bhK54
 https://www.google.com/maps/place/CloudPoints+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da1928cd33f947:0xb4d6d6d48b7f6303!8m2!3d1.3192491!4d103.8927959!16s%2Fg%2F11zz9wj2lf!19sChIJR_kzzSgZ2jERA2N_i9TW1rQ
+https://www.google.com/maps/place/GStack+Pte+Ltd./data=!4m7!3m6!1s0x31da194a1dc59b63:0xc03df2a7f8fa0e92!8m2!3d1.2956664!4d103.8590854!16s%2Fg%2F11gvcrt153!19sChIJY5vFHUoZ2jERkg76-KfyPcA
