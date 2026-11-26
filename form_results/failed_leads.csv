@@ -799,3 +799,4 @@ https://abeam.com/,Skipped,Page load timeout,Timeout,,,,,,,,,,
 https://itlink.com.sg/how-we-help,Failed,Submitted but no confirmation detected,Loaded,1.2,Opened,Found,5,"full_name,email,company,select:What can we help you with?,message","first_name,last_name,phone,website,job_title,subject,budget,address",,Not present,form.submit(): form[0],No confirmation
 https://nanyangtechnology.com/about-nanyang-tech/,Failed,No contact form detected,Loaded,0.6,Opened,Not found,,,,,,,
 https://www2.kingsforce.com.sg/,Failed,No contact form detected,Loaded,8.3,Opened,Not found,,,,,,,
+https://itcs.sg/,Failed,No contact form detected,Loaded,1.1,Opened,Not found,,,,,,,
