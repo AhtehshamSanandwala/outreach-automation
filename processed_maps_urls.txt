@@ -13321,3 +13321,4 @@ https://www.google.com/maps/place/The+Cocoa+Trees+-+Suntec+City/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Dyson+Store+%26+Service+Centre+Suntec+City/data=!4m7!3m6!1s0x31da1967d5ee6669:0xb9b66170fc66db11!8m2!3d1.2944787!4d103.8576089!16s%2Fg%2F11zgr8c3qm!19sChIJaWbu1WcZ2jEREdtm_HBhtrk
 https://www.google.com/maps/place/The+Green+Party/data=!4m7!3m6!1s0x31da19af32e10249:0xfa6287e02451f7ab!8m2!3d1.295673!4d103.8591744!16s%2Fg%2F11h7s47d8y!19sChIJSQLhMq8Z2jERq_dRJOCHYvo
 https://www.google.com/maps/place/AB+Pac+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da05915c49009b:0x4e5578a677bd4c4e!8m2!3d1.313637!4d103.627202!16s%2Fg%2F1tj98hw4!19sChIJmwBJXJEF2jERTky9d6Z4VU4
+https://www.google.com/maps/place/FUJIFILM+X+Space/data=!4m7!3m6!1s0x31da19a0d41eaeff:0xfd26a7ddcb9e74fd!8m2!3d1.2957877!4d103.8589225!16s%2Fg%2F11c1s0zg_g!19sChIJ_64e1KAZ2jER_XSey92nJv0
