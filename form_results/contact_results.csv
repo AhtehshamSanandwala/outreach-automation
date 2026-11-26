@@ -892,3 +892,4 @@ https://clarionshipping.com/,Failed,Submitted but no confirmation detected,Loade
 https://jti.sg/,Failed,Turnstile widget not solved at pre-submit,Loaded,1.6,Opened,Found,4,"full_name,email,phone,message","first_name,last_name,company,website,job_title,subject,budget,address",,Not solved at pre-submit: Turnstile widget,,
 http://www.aspac-aircargo.com.sg/,Failed,No contact form detected,Loaded,5.0,Opened,Not found,,,,,,,
 https://metroboxservices.com/about,Failed,,Loaded,2.9,Opened,Found,5,"full_name,email,phone,subject,message","first_name,last_name,company,website,job_title,budget,address",,Image OCR failed at pre-submit,,
+https://maklogistic.com/about-us/,Success,Verified thank-you / redirect,Loaded,5.1,Opened,Found,5,"full_name,email,phone,subject,message","first_name,last_name,company,website,job_title,budget,address",,Not present,Clicked: 'Get in Touch' (score=115),Success detected
