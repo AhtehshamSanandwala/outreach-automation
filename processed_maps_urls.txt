@@ -13085,3 +13085,4 @@ https://www.google.com/maps/place/Tazapay/data=!4m7!3m6!1s0x31da19e659ee2073:0x4
 https://www.google.com/maps/place/One+Key+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da19d1ccddf967:0x9017fb570e64f980!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11r7xf4nts!19sChIJZ_ndzNEZ2jERgPlkDlf7F5A
 https://www.google.com/maps/place/Hooked+Advertising+Pte+Ltd/data=!4m7!3m6!1s0x31da198a0154bb09:0x2b176ce8f8adf90!8m2!3d1.2955881!4d103.8589415!16s%2Fg%2F11n_xr8lw8!19sChIJCbtUAYoZ2jERkN-Kj852sQI
 https://www.google.com/maps/place/Fuel/data=!4m7!3m6!1s0x2c686337227c9a45:0x588d30077e91bd1b!8m2!3d1.2953522!4d103.8584051!16s%2Fg%2F11ss0xm8_j!19sChIJRZp8IjdjaCwRG72RfgcwjVg
+https://www.google.com/maps/place/SuperSeed+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da11b6201fc333:0x3454c018636c49fa!8m2!3d1.2945626!4d103.8580194!16s%2Fg%2F11hyr8kf31!19sChIJM8MfILYR2jER-klsYxjAVDQ
