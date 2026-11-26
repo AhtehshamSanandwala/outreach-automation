@@ -13144,3 +13144,4 @@ https://www.google.com/maps/place/SimplyLinked+Pte.+Ltd./data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Alien+Technology/data=!4m7!3m6!1s0x31da19aee30f7011:0xdfdd02b9cc5d3c4b!8m2!3d1.2953053!4d103.859537!16s%2Fg%2F1ptxn6_r5!19sChIJEXAP464Z2jERSzxdzLkC3d8
 https://www.google.com/maps/place/Dreamcore+Private+Limited/data=!4m7!3m6!1s0x31da178cd0a44cdd:0xab0db1bd958a5de9!8m2!3d1.3398892!4d103.8918945!16s%2Fg%2F11dz58t32r!19sChIJ3Uyk0IwX2jER6V2Klb2xDas
 https://www.google.com/maps/place/Manifera+Software+Development+Pte.+Ltd/data=!4m7!3m6!1s0x31da196b5e8d244b:0x13aaf162ad755e22!8m2!3d1.274931!4d103.843546!16s%2Fg%2F11c3k9fbm3!19sChIJSySNXmsZ2jERIl51rWLxqhM
+https://www.google.com/maps/place/Icanio+Technologies+Pte.+Ltd/data=!4m7!3m6!1s0x31da19c34039e1cd:0x1e4a3b793d40204b!8m2!3d1.2811803!4d103.8495012!16s%2Fg%2F11ntff9wwm!19sChIJzeE5QMMZ2jERSyBAPXk7Sh4
