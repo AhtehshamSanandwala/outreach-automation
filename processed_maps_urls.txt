@@ -13078,3 +13078,4 @@ https://www.google.com/maps/place/Nex+Print+@+Suntec+City/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Suntec+City/data=!4m7!3m6!1s0x31da19aefcff45db:0x71f09dcf46064f44!8m2!3d1.2950324!4d103.8583015!16s%2Fm%2F0cc6gzh!19sChIJ20X__K4Z2jERRE8GRs-d8HE
 https://www.google.com/maps/place/Titan+Tech+Academy/data=!4m7!3m6!1s0x31da19e11ab816ed:0xe37a6238969af41e!8m2!3d1.2951944!4d103.8597142!16s%2Fg%2F11kqkjh0q0!19sChIJ7Ra4GuEZ2jERHvSaljhieuM
 https://www.google.com/maps/place/LIFE4CUTS/data=!4m7!3m6!1s0x31da19b098004133:0x1fa0a1145e09c300!8m2!3d1.2949564!4d103.8601882!16s%2Fg%2F11swytm08g!19sChIJM0EAmLAZ2jERAMMJXhShoB8
+https://www.google.com/maps/place/StarHub+Suntec+City/data=!4m7!3m6!1s0x31da19e33c960851:0x6cbe30b19d4a6eca!8m2!3d1.2950284!4d103.8590244!16s%2Fg%2F11ysgz80r6!19sChIJUQiWPOMZ2jERym5KnbEwvmw
