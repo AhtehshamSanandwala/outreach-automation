@@ -13324,3 +13324,4 @@ https://www.google.com/maps/place/AB+Pac+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/FUJIFILM+X+Space/data=!4m7!3m6!1s0x31da19a0d41eaeff:0xfd26a7ddcb9e74fd!8m2!3d1.2957877!4d103.8589225!16s%2Fg%2F11c1s0zg_g!19sChIJ_64e1KAZ2jER_XSey92nJv0
 https://www.google.com/maps/place/LEGO%C2%AE+Certified+Store+%28Bricks+World%29+-+Suntec+City/data=!4m7!3m6!1s0x31da19aee8afe659:0x18adcef7fcc36c8!8m2!3d1.2936812!4d103.856877!16s%2Fg%2F11by_f3vs9!19sChIJWeav6K4Z2jERyDbMf-_cigE
 https://www.google.com/maps/place/HOOGA+@+Suntec+City/data=!4m7!3m6!1s0x31da19155b92aea1:0xb24f02d4a26401d1!8m2!3d1.2953737!4d103.8579185!16s%2Fg%2F11g2vtsp8j!19sChIJoa6SWxUZ2jER0QFkotQCT7I
+https://www.google.com/maps/place/Royce+Health+Pte+Ltd/data=!4m7!3m6!1s0x31da19c0715d927f:0x6bd49070cc96a3d2!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11h3m7mx5l!19sChIJf5JdccAZ2jER0qOWzHCQ1Gs
