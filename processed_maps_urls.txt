@@ -13126,3 +13126,4 @@ https://www.google.com/maps/place/Cosmo+System+Pte+Ltd/data=!4m7!3m6!1s0x31da19a
 https://www.google.com/maps/place/MS+Web+Developers+Pte+Ltd/data=!4m7!3m6!1s0x31da195fdf9be80d:0x2fbda3b555a01868!8m2!3d1.2953522!4d103.8584266!16s%2Fg%2F11fm4yplyd!19sChIJDeib318Z2jERaBigVbWjvS8
 https://www.google.com/maps/place/SunTec+Business+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da19aee24ce757:0xea84928d0929d96!8m2!3d1.2953727!4d103.859601!16s%2Fg%2F1ptzkc58n!19sChIJV-dM4q4Z2jERlp2S0ChJqA4
 https://www.google.com/maps/place/Multi-System+Technologies+Pte.+Ltd./data=!4m7!3m6!1s0x31da191344c00001:0xca4f63e284a90338!8m2!3d1.2955766!4d103.8589915!16s%2Fg%2F11f2b6_k62!19sChIJAQDARBMZ2jEROAOphOJjT8o
+https://www.google.com/maps/place/Suntec+City+Development+Pte+Ltd/data=!4m7!3m6!1s0x31da19af39a70793:0xc047bd63f5c1adf6!8m2!3d1.2947358!4d103.8596946!16s%2Fg%2F1ptwj1gpn!19sChIJkwenOa8Z2jER9q3B9WO9R8A
