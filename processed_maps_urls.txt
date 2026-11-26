@@ -13100,3 +13100,4 @@ https://www.google.com/maps/place/DMB.SG/data=!4m7!3m6!1s0x31da177e818c3285:0x54
 https://www.google.com/maps/place/3D+Brand+Agency/data=!4m7!3m6!1s0x31da195ddff520a5:0x722362bb2642587f!8m2!3d1.2891117!4d103.8463986!16s%2Fg%2F11q_20yljr!19sChIJpSD1310Z2jERf1hCJrtiI3I
 https://www.google.com/maps/place/Bid4Agency/data=!4m7!3m6!1s0x31da1baacad44349:0xe15cecd1365ac180!8m2!3d1.295441!4d103.8584931!16s%2Fg%2F11gnp6d8z8!19sChIJSUPUyqob2jERgMFaNtHsXOE
 https://www.google.com/maps/place/Oak+DigitalMarket.SG/data=!4m7!3m6!1s0x31da1912023aa1fb:0x185d436fc0dfaf59!8m2!3d1.3192491!4d103.8927959!16s%2Fg%2F11tbz2mtqc!19sChIJ-6E6AhIZ2jERWa_fwG9DXRg
+https://www.google.com/maps/place/Suntec+Integrated+Media/data=!4m7!3m6!1s0x31da19a8a5257b2d:0xaef32e63ca080e59!8m2!3d1.2930852!4d103.856944!16s%2Fg%2F1ptwd6svn!19sChIJLXslpagZ2jERWQ4IymMu864
