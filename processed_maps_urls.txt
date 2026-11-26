@@ -12957,3 +12957,5 @@ https://www.google.com/maps/place/Hmlet+Portofino+%28previously+Habyt%29/data=!4
 https://www.google.com/maps/place/Sarvottam+property/data=!4m7!3m6!1s0x31da11003067be2f:0x3d7e8f887834f8ad!8m2!3d1.352083!4d103.819836!16s%2Fg%2F11mlxc6twv!19sChIJL75nMAAR2jERrfg0eIiPfj0
 https://www.google.com/maps/place/Turf+City/data=!4m7!3m6!1s0x31da110071ac2413:0x3104486570a6312c!8m2!3d1.3395869!4d103.7959887!16s%2Fg%2F11nqpz_m76!19sChIJEySscQAR2jERLDGmcGVIBDE
 https://www.google.com/maps/place/Sunshine+Plaza+Residences/data=!4m7!3m6!1s0x31da19bb7e3d598b:0xc159ed0b3a7abf81!8m2!3d1.3004264!4d103.8507742!16s%2Fg%2F11gbfs4qhy!19sChIJi1k9frsZ2jERgb96OgvtWcE
+https://www.google.com/maps/place/Braddell+View/data=!4m7!3m6!1s0x31da17530f691869:0x713496d5b8777c8a!8m2!3d1.3411156!4d103.8410511!16s%2Fg%2F11flgftbkq!19sChIJaRhpD1MX2jERinx3uNWWNHE
+https://www.google.com/maps/place/Midview+City/data=!4m7!3m6!1s0x31da1700686e7fa3:0xa4a1f4139bf92b15!8m2!3d1.358992!4d103.8339514!16s%2Fg%2F11vrrx6dlk!19sChIJo39uaAAX2jERFSv5mxP0oaQ
