@@ -12914,3 +12914,5 @@ https://www.google.com/maps/place/Thinkz+Design+International/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/First+Sight+International+Pte+Ltd/data=!4m7!3m6!1s0x31da176b7904bf61:0x67c45ae42c85ec85!8m2!3d1.343241!4d103.8506681!16s%2Fg%2F1wc45hr_!19sChIJYb8EeWsX2jERheyFLORaxGc
 https://www.google.com/maps/place/Architecture+and+Interior+Design+-+Quod+Architects/data=!4m7!3m6!1s0x31da190cee2bebdd:0x3d6c5f72fd080f0e!8m2!3d1.2729624!4d103.8423879!16s%2Fg%2F11gtg5vnf3!19sChIJ3esr7gwZ2jERDg8I_XJfbD0
 https://www.google.com/maps/place/MAT@Space/data=!4m7!3m6!1s0x31da173e2fdbaa19:0xfbd2f3b4aa3e7c56!8m2!3d1.3586404!4d103.8340972!16s%2Fg%2F11xrqzg2b6!19sChIJGarbLz4X2jERVnw-qrTz0vs
+https://www.google.com/maps/place/KSTR+by+Konstructsg/data=!4m7!3m6!1s0x31da173860792585:0x5040202f7ffa05cf!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11zb3bx625!19sChIJhSV5YDgX2jERzwX6fy8gQFA
+https://www.google.com/maps/place/Zen+Interior+Design+Pte+Ltd/data=!4m7!3m6!1s0x31da17a58774b07b:0x6ef0fa50570acd12!8m2!3d1.360392!4d103.833808!16s%2Fg%2F11kqcj5rb3!19sChIJe7B0h6UX2jEREs0KV1D68G4
