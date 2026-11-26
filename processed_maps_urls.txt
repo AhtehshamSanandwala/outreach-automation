@@ -12910,3 +12910,5 @@ https://www.google.com/maps/place/Pure+Space+Pte+Ltd/data=!4m7!3m6!1s0x31da17033
 https://www.google.com/maps/place/The+Interior+Lab+%28Showroom%29/data=!4m7!3m6!1s0x31da197d5969d75f:0x6b551e3044cc4457!8m2!3d1.3115151!4d103.8630373!16s%2Fg%2F11hzxsk1y4!19sChIJX9dpWX0Z2jERV0TMRDAeVWs
 https://www.google.com/maps/place/THE+DESIGN+FACTORY+PTE.+LTD./data=!4m7!3m6!1s0x31da19564c12d6d9:0x6cd3572bd915c1e2!8m2!3d1.338771!4d103.9065335!16s%2Fg%2F11p5tj_dg9!19sChIJ2dYSTFYZ2jER4sEV2StX02w
 https://www.google.com/maps/place/Thirty+Three+Interior/data=!4m7!3m6!1s0x31da171f605fdb2f:0x7bf131928a739a90!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11tjs391sd!19sChIJL9tfYB8X2jERkJpzipIx8Xs
+https://www.google.com/maps/place/Thinkz+Design+International/data=!4m7!3m6!1s0x31da19c8122a0d19:0x1ab631fb3985a552!8m2!3d1.3280189!4d103.8766642!16s%2Fg%2F1td35rlv!19sChIJGQ0qEsgZ2jERUqWFOfsxtho
+https://www.google.com/maps/place/First+Sight+International+Pte+Ltd/data=!4m7!3m6!1s0x31da176b7904bf61:0x67c45ae42c85ec85!8m2!3d1.343241!4d103.8506681!16s%2Fg%2F1wc45hr_!19sChIJYb8EeWsX2jERheyFLORaxGc
