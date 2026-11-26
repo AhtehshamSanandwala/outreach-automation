@@ -13043,3 +13043,5 @@ https://www.google.com/maps/place/Bukit+Timah+Family+Clinic+%26+Surgery/data=!4m
 https://www.google.com/maps/place/Marsiling+Clinic+%26+Surgery/data=!4m7!3m6!1s0x31da13aa66d7f543:0x8d4650f6f6b506b1!8m2!3d1.4384759!4d103.7785906!16s%2Fg%2F1tnbhn7z!19sChIJQ_XXZqoT2jERsQa19vZQRo0
 https://www.google.com/maps/place/MW+Medical/data=!4m7!3m6!1s0x31da173b05b0cb1d:0x2d4d828d139740fe!8m2!3d1.2848375!4d103.8476894!16s%2Fg%2F1tfq6rbv!19sChIJHcuwBTsX2jER_kCXE42CTS0
 https://www.google.com/maps/place/Auria+Dermatology/data=!4m7!3m6!1s0x31da19250f68be91:0x5fb25741d47b6448!8m2!3d1.3039053!4d103.8355763!16s%2Fg%2F11z49b4lj3!19sChIJkb5oDyUZ2jERSGR71EFXsl8
+https://www.google.com/maps/place/Dr+Chook+Sports+%26+Lifestyle+Medical+Centre/data=!4m7!3m6!1s0x31da199117999e31:0x13e3bd290dc5a25!8m2!3d1.3014488!4d103.8372499!16s%2Fg%2F1tdkd4j8!19sChIJMZ6ZF5EZ2jERJVrckNI7PgE
+https://www.google.com/maps/place/Toa+Payoh+North+Clinic+%26+Surgery/data=!4m7!3m6!1s0x31da176bbe06b1c1:0x5e0dbab33d1e5170!8m2!3d1.342089!4d103.84913!16s%2Fg%2F1thx63bc!19sChIJwbEGvmsX2jERcFEePbO6DV4
