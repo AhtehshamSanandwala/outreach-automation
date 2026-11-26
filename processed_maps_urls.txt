@@ -13013,3 +13013,4 @@ https://www.google.com/maps/place/Twin+City+Medical+Centre+%28Great+World+City%2
 https://www.google.com/maps/place/The+Clifford+Clinic/data=!4m7!3m6!1s0x31da190ecf5df01d:0xad7924a3855f027c!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11bwf7hby5!19sChIJHfBdzw4Z2jERfAJfhaMkea0
 https://www.google.com/maps/place/Funan+Clinic/data=!4m7!3m6!1s0x31da19a1254eae5f:0x2e24053a82579a1a!8m2!3d1.291937!4d103.8496394!16s%2Fg%2F1tj43f0f!19sChIJX65OJaEZ2jERGppXgjoFJC4
 https://www.google.com/maps/place/Singapore+Aesthetic+Centre/data=!4m7!3m6!1s0x31da19e75d3febbf:0x6bc9a197627869f9!8m2!3d1.320596!4d103.844519!16s%2Fg%2F1th6bbx6!19sChIJv-s_XecZ2jER-Wl4YpehyWs
+https://www.google.com/maps/place/Self+Aesthetics+Medical+Clinic/data=!4m7!3m6!1s0x31da194810c80b0d:0xcbf7971d506b4e2b!8m2!3d1.3066492!4d103.8295057!16s%2Fg%2F11fnwfmrgv!19sChIJDQvIEEgZ2jERK05rUB2X98s
