@@ -58,3 +58,10 @@
 2026-11-26T01:41:02.235Z | https://www.aristou.com.sg/contact-us/ | label="Please leave this field empty." name="eahe9bqs4qkh" id="wpcf7-6b07549db800d-field" ph="" type=text
 2026-11-26T01:45:50.432Z | https://www.digitalrealty.com/contact | label="react-select-2-input" name="" id="react-select-2-input" ph="" type=text
 2026-11-26T01:45:50.437Z | https://www.digitalrealty.com/contact | label="react-select-3-input" name="" id="react-select-3-input" ph="" type=text
+2026-11-26T04:00:38.232Z | https://www.germancentre.com/contact | label="Vorname" name="wpforms[fields][1]" id="wpforms-390-field_1" ph="Vorname" type=text
+2026-11-26T04:00:38.236Z | https://www.germancentre.com/contact | label="Nachname" name="wpforms[fields][3]" id="wpforms-390-field_3" ph="Nachname" type=text
+2026-11-26T04:00:38.281Z | https://www.germancentre.com/contact | label="Rechenaufgabe" name="wpforms[fields][20][a]" id="wpforms-390-field_20" ph="" type=text
+2026-11-26T04:07:48.563Z | https://www.ycsaccounting.com.sg/contact-us | label="Others. Please specify:" name="form[Specify how you know us]" id="Specify how you know us" ph="" type=text
+2026-11-26T04:12:08.203Z | https://singapore-accountingservices.com/contact-us/ | label="Preferred Consultation Date" name="form_fields[c_preferred_date]" id="form-field-c_preferred_date" ph="" type=text
+2026-11-26T04:12:08.207Z | https://singapore-accountingservices.com/contact-us/ | label="Preferred Consultation Time" name="form_fields[c_preferred_time]" id="form-field-c_preferred_time" ph="" type=text
+2026-11-26T04:20:01.243Z | https://www.songcho.com.sg/Enquiry | label="Search" name="ctl00$SearchBox1$txtSearch" id="ctl00_SearchBox1_txtSearch" ph="Search in Song-Cho..." type=text
