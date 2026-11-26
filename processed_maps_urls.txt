@@ -13016,3 +13016,5 @@ https://www.google.com/maps/place/Singapore+Aesthetic+Centre/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Self+Aesthetics+Medical+Clinic/data=!4m7!3m6!1s0x31da194810c80b0d:0xcbf7971d506b4e2b!8m2!3d1.3066492!4d103.8295057!16s%2Fg%2F11fnwfmrgv!19sChIJDQvIEEgZ2jERK05rUB2X98s
 https://www.google.com/maps/place/AMK+Specialist+Centre/data=!4m7!3m6!1s0x31da1747ea8c768f:0xfd594fb0b09d4a98!8m2!3d1.3723173!4d103.8472292!16s%2Fg%2F11j0w4cx5n!19sChIJj3aM6kcX2jERmEqdsLBPWf0
 https://www.google.com/maps/place/Pacific+Healthcare+Specialist+Centre/data=!4m7!3m6!1s0x31da1992326a0e55:0x21463a76aacc08f!8m2!3d1.3037148!4d103.8332642!16s%2Fg%2F1tdbbyhr!19sChIJVQ5qMpIZ2jERj8CsaqdjFAI
+https://www.google.com/maps/place/Ensoul+Medical+Clinic/data=!4m7!3m6!1s0x31da19ddda21e8e5:0x7b59f840fa438c1e!8m2!3d1.3062206!4d103.8312688!16s%2Fg%2F11g08797xv!19sChIJ5egh2t0Z2jERHoxD-kD4WXs
+https://www.google.com/maps/place/Charazoi+Medical+Clinic+-+Dr+Choo+Dee+Pheng/data=!4m7!3m6!1s0x31da199960056a8f:0xeafbf40f99325575!8m2!3d1.3126668!4d103.8610785!16s%2Fg%2F11qg3zqpqd!19sChIJj2oFYJkZ2jERdVUymQ_0--o
