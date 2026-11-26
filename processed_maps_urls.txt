@@ -12933,3 +12933,5 @@ https://www.google.com/maps/place/ABACUS+PROPERTY+MANAGEMENT+PTE+LTD/data=!4m7!3
 https://www.google.com/maps/place/CWL+Facilities+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da177a1407f267:0x4b73a8693bf9fb5c!8m2!3d1.3269932!4d103.8484668!16s%2Fg%2F11h9z6_tq3!19sChIJZ_IHFHoX2jERXPv5O2moc0s
 https://www.google.com/maps/place/Property+Facility+Services/data=!4m7!3m6!1s0x31da1768c45be4d1:0x10009c3c4942f20e!8m2!3d1.3184358!4d103.8927403!16s%2Fg%2F1v_n9107!19sChIJ0eRbxGgX2jERDvJCSTycABA
 https://www.google.com/maps/place/Empire+City+Consultant+Pte+Ltd/data=!4m7!3m6!1s0x31da170f02e42c37:0xb8f73ce0fa405345!8m2!3d1.303916!4d103.9011122!16s%2Fg%2F1tgcvl2s!19sChIJNyzkAg8X2jERRVNA-uA897g
+https://www.google.com/maps/place/Knight+Frank+Property+Asset+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da196b05e4cee3:0x3269b428abb2647!8m2!3d1.3294074!4d103.8904995!16s%2Fg%2F1vxvfcsc!19sChIJ487kBWsZ2jERRya7ikKbJgM
+https://www.google.com/maps/place/Raffles+Strata+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3a64d5325:0xe20022b738fc3dd4!8m2!3d1.3105742!4d103.8760572!16s%2Fg%2F1tgkdt25!19sChIJJVNNpvMX2jER1D38OLciAOI
