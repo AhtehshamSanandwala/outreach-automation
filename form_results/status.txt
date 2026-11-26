@@ -1,1 +1,1 @@
-[10:13:13 SGT] State: COOLDOWN | Batches Today: 2/3 | Resting between batches (105m remaining)
+[10:15:13 SGT] State: COOLDOWN | Batches Today: 2/3 | Resting between batches (103m remaining)
