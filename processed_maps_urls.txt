@@ -13306,3 +13306,5 @@ https://www.google.com/maps/place/Citybaby/data=!4m7!3m6!1s0x31da100ddb72fe07:0x
 https://www.google.com/maps/place/Unipack+Pte+Ltd/data=!4m7!3m6!1s0x31da182e49f10edb:0x3f670cb00a8d9da8!8m2!3d1.4378287!4d103.8427297!16s%2Fg%2F11hbvnp1fm!19sChIJ2w7xSS4Y2jERqJ2NCrAMZz8
 https://www.google.com/maps/place/Spectrum+Store+@+Suntec+City/data=!4m7!3m6!1s0x31da19041b264469:0xdebc33d721cddec8!8m2!3d1.2952129!4d103.8579088!16s%2Fg%2F11qpvw5l1x!19sChIJaUQmGwQZ2jERyN7NIdczvN4
 https://www.google.com/maps/place/LTP+Enterprise+Pte+Ltd/data=!4m7!3m6!1s0x31da19728d158345:0x97d4cd3befbe2f70!8m2!3d1.2806558!4d103.8432147!16s%2Fg%2F1tdggs8z!19sChIJRYMVjXIZ2jERcC--7zvN1Jc
+https://www.google.com/maps/place/Card+Arena+by+MyRepublic+%28Suntec+City%29/data=!4m7!3m6!1s0x31da19004ba865e5:0xf0e6aa7ff94b3f8e!8m2!3d1.2939965!4d103.8572564!16s%2Fg%2F11ms_6wpww!19sChIJ5WWoSwAZ2jERjj9L-X-q5vA
+https://www.google.com/maps/place/HANDS+Singapore+Suntec+City/data=!4m7!3m6!1s0x31da19af4cd51181:0xbd751e498ebeb367!8m2!3d1.2936819!4d103.8573568!16s%2Fg%2F1ptx_5n5j!19sChIJgRHVTK8Z2jERZ7O-jkkedb0
