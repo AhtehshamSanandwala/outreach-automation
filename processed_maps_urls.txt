@@ -12935,3 +12935,4 @@ https://www.google.com/maps/place/Property+Facility+Services/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Empire+City+Consultant+Pte+Ltd/data=!4m7!3m6!1s0x31da170f02e42c37:0xb8f73ce0fa405345!8m2!3d1.303916!4d103.9011122!16s%2Fg%2F1tgcvl2s!19sChIJNyzkAg8X2jERRVNA-uA897g
 https://www.google.com/maps/place/Knight+Frank+Property+Asset+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da196b05e4cee3:0x3269b428abb2647!8m2!3d1.3294074!4d103.8904995!16s%2Fg%2F1vxvfcsc!19sChIJ487kBWsZ2jERRya7ikKbJgM
 https://www.google.com/maps/place/Raffles+Strata+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3a64d5325:0xe20022b738fc3dd4!8m2!3d1.3105742!4d103.8760572!16s%2Fg%2F1tgkdt25!19sChIJJVNNpvMX2jER1D38OLciAOI
+https://www.google.com/maps/place/Association+Of+Property+And+Facility+Managers+%28APFM%29/data=!4m7!3m6!1s0x31da19bad6fd80fb:0xe5f814c171a19df8!8m2!3d1.299305!4d103.8534518!16s%2Fg%2F1ptzszq82!19sChIJ-4D91roZ2jER-J2hccEU-OU
