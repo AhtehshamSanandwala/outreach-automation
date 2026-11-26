@@ -12845,3 +12845,7 @@ https://www.google.com/maps/place/Msquare+M%26E+Construction+Pte+Ltd/data=!4m7!3
 https://www.google.com/maps/place/CA+M%26E+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da17f3bf6c8571:0xcc482f1393453be3!8m2!3d1.3354952!4d103.9047212!16s%2Fg%2F1ptvywt6f!19sChIJcYVsv_MX2jER4ztFkxMvSMw
 https://www.google.com/maps/place/EXCEL+M%26E+ENGINEERING+%28S%29+PTE+LTD/data=!4m7!3m6!1s0x31da3d0884fb9527:0xcea4cb7f9b99e699!8m2!3d1.3274171!4d103.9182282!16s%2Fg%2F11mkjlygsf!19sChIJJ5X7hAg92jERmeaZm3_LpM4
 https://www.google.com/maps/place/E+%26+M+Building+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da16640998f347:0xc1652f63865487a7!8m2!3d1.3366351!4d103.8836791!16s%2Fg%2F11cs5nbn_l!19sChIJR_OYCWQW2jERp4dUhmMvZcE
+https://www.google.com/maps/place/N+%26+E+Engineering+%26+Construction+Pte.+Ltd./data=!4m7!3m6!1s0x31da0fd9a4748f1b:0x84e4aa56e4273682!8m2!3d1.3350024!4d103.7572113!16s%2Fg%2F11c1wsbvkf!19sChIJG490pNkP2jERgjYn5Faq5IQ
+https://www.google.com/maps/place/MNE+Contractor+Pte+Ltd/data=!4m7!3m6!1s0x31da19c868ab90bb:0xfe55b6de69c681e5!8m2!3d1.309318!4d103.8576914!16s%2Fg%2F1pv0_9phv!19sChIJu5CraMgZ2jER5YHGad62Vf4
+https://www.google.com/maps/place/EM+Construction+%26+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da19bad6fd80fb:0xc4b817d6a742e520!8m2!3d1.3274201!4d103.8753545!16s%2Fg%2F1ptwc0n5x!19sChIJ-4D91roZ2jERIOVCp9YXuMQ
+https://www.google.com/maps/place/ASK+M%26E+Pte.+Ltd./data=!4m7!3m6!1s0x31da106e1b471e45:0x5023dee5c99d7ec2!8m2!3d1.3359102!4d103.7525876!16s%2Fg%2F11cs5p_2q6!19sChIJRR5HG24Q2jERwn6dyeXeI1A
