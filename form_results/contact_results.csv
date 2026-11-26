@@ -912,3 +912,4 @@ Middle East & Africa,message","first_name,last_name,website,job_title,subject,bu
 https://tidycal.com/register,Failed,No contact form detected,Loaded,1.9,Opened,Not found,,,,,,,
 https://d-connect.net/about-us/,Success,Verified thank-you / redirect,Loaded,1.9,Opened,Found,6,"full_name,email,company,phone,select:Subject,message","first_name,last_name,website,job_title,subject,budget,address",,Not present,Clicked: 'SUBMIT' (score=115),Success detected
 https://www.ironmountain.com/about-us/why-iron-mountain,Failed,No contact form detected,Loaded,14.0,Opened,Not found,,,,,,,
+https://www.hubspot.com/our-story,Failed,No contact form detected,Loaded,4.2,Opened,Not found,,,,,,,
