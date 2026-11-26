@@ -874,3 +874,4 @@ https://www.drewnapier.com/Join-Us/Business-Support-Vacancies,Failed,No form fie
 https://ronghe.com.sg/,Failed,No contact form detected,Loaded,2.3,Opened,Not found,,,,,,,
 https://alpadis-group.com/,Skipped,"unknown error: net::ERR_CONNECTION_REFUSED
   (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
+https://avsengineering.sg/contact-us/,Failed,Submitted but no confirmation detected,Loaded,2.4,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Not present,Clicked: 'Submit' (score=115),No confirmation
