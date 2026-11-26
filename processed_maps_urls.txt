@@ -13291,3 +13291,4 @@ https://www.google.com/maps/place/Happy+Cake/data=!4m7!3m6!1s0x4206337eac3194c1:
 https://www.google.com/maps/place/PAUL+Suntec/data=!4m7!3m6!1s0x31da19594031b3db:0x4fd28b2aac375640!8m2!3d1.293426!4d103.8565727!16s%2Fg%2F11wp0561fy!19sChIJ27MxQFkZ2jERQFY3rCqL0k8
 https://www.google.com/maps/place/Expresspoint+Business+Services/data=!4m7!3m6!1s0x31da19aef950ba7d:0x839dd74dcbbb2ab3!8m2!3d1.2957491!4d103.8597116!16s%2Fg%2F11c1ws4n9v!19sChIJfbpQ-a4Z2jERsyq7y03XnYM
 https://www.google.com/maps/place/SkyTech+Engineering+%28s%29pte+ltd/data=!4m7!3m6!1s0x31da07bd52f32d47:0xc2f43af49a19e3b9!8m2!3d1.3143551!4d103.6271361!16s%2Fg%2F11rmrz6qn3!19sChIJRy3zUr0H2jERueMZmvQ69MI
+https://www.google.com/maps/place/MBT+Singapore+Head+Office+-+Visit+our+stores+at+Paragon+%2304-35+and+Suntec+City+%2301-473/data=!4m7!3m6!1s0x31da182842f696c9:0xdf4fe531f21253e8!8m2!3d1.3247108!4d103.8780325!16s%2Fg%2F11b8zs7qcx!19sChIJyZb2QigY2jER6FMS8jHlT98
