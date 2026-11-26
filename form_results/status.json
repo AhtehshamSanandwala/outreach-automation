@@ -1,11 +1,11 @@
 {
-  "state": "cooldown",
+  "state": "running",
   "pid": 4576,
-  "singapore_time": "09:40:20 SGT",
+  "singapore_time": "09:40:49 SGT",
   "date": "2026-11-26",
   "today_batches_completed": 1,
   "max_daily_batches": 3,
-  "last_updated": "2026-11-26T01:40:20.015Z",
-  "message": "Resting between batches (1m remaining)",
-  "next_wake_sgt": "9:40:45 AM"
+  "last_updated": "2026-11-26T01:40:49.078Z",
+  "message": "Batch in progress (Attempt #2)",
+  "inhibiting_shutdown": true
 }
