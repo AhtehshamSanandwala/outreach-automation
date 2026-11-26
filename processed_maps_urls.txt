@@ -13069,3 +13069,4 @@ https://www.google.com/maps/place/O+Medical+Clinic+City+Hall/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Priv%C3%A9+Clinic/data=!4m7!3m6!1s0x31da190953a264e1:0x53899fd8fb462069!8m2!3d1.3065951!4d103.8294335!16s%2Fg%2F1tkb2mrp!19sChIJ4WSiUwkZ2jERaSBG-9ifiVM
 https://www.google.com/maps/place/SEOCopilot/data=!4m7!3m6!1s0x62261ee66c789ad1:0x20cc7364577da376!8m2!3d1.299865!4d103.8360937!16s%2Fg%2F11vhj0tdnr!19sChIJ0Zp4bOYeJmIRdqN9V2RzzCA
 https://www.google.com/maps/place/My+Digital+Lock+%28Suntec+City%29/data=!4m7!3m6!1s0x31da1170f225dbb7:0x19484b2c24136dad!8m2!3d1.2955824!4d103.8597705!16s%2Fg%2F11g0sy2sy5!19sChIJt9sl8nAR2jERrW0TJCxLSBk
+https://www.google.com/maps/place/PRISM%2B+Experience+Centre,+Suntec+City/data=!4m7!3m6!1s0x31da191d5ce3614b:0x1a7cea0a0a9d2f5c!8m2!3d1.293861!4d103.8571364!16s%2Fg%2F11t7_cmzyz!19sChIJS2HjXB0Z2jERXC-dCgrqfBo
