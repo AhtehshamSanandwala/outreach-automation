@@ -12916,3 +12916,5 @@ https://www.google.com/maps/place/Architecture+and+Interior+Design+-+Quod+Archit
 https://www.google.com/maps/place/MAT@Space/data=!4m7!3m6!1s0x31da173e2fdbaa19:0xfbd2f3b4aa3e7c56!8m2!3d1.3586404!4d103.8340972!16s%2Fg%2F11xrqzg2b6!19sChIJGarbLz4X2jERVnw-qrTz0vs
 https://www.google.com/maps/place/KSTR+by+Konstructsg/data=!4m7!3m6!1s0x31da173860792585:0x5040202f7ffa05cf!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11zb3bx625!19sChIJhSV5YDgX2jERzwX6fy8gQFA
 https://www.google.com/maps/place/Zen+Interior+Design+Pte+Ltd/data=!4m7!3m6!1s0x31da17a58774b07b:0x6ef0fa50570acd12!8m2!3d1.360392!4d103.833808!16s%2Fg%2F11kqcj5rb3!19sChIJe7B0h6UX2jEREs0KV1D68G4
+https://www.google.com/maps/place/Proj.B+Studio/data=!4m7!3m6!1s0x31da1725f6b4c95b:0x3176e38290aff29d!8m2!3d1.3591409!4d103.8336338!16s%2Fg%2F11c59xf6_9!19sChIJW8m09iUX2jERnfKvkILjdjE
+https://www.google.com/maps/place/AND+ART+ANDERSON+DESIGN+PTE+LTD/data=!4m7!3m6!1s0x31da17004dc6f9df:0x598a7375c45c3cb8!8m2!3d1.3331259!4d103.8957307!16s%2Fg%2F11wfj8kjhb!19sChIJ3_nGTQAX2jERuDxcxHVzilk
