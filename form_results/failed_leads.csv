@@ -871,3 +871,6 @@ https://marginwheeler.com/our-team,Failed,No contact form detected,Loaded,3.2,Op
 https://www.boardroomlimited.com/,Failed,No contact form detected,Loaded,4.3,Opened,Not found,,,,,,,
 https://rdccorporate.com/about,Failed,,Loaded,0.8,Opened,Found,3,"full_name,email,message","first_name,last_name,phone,company,website,job_title,subject,budget,address",,Image OCR failed at pre-submit,,
 https://www.drewnapier.com/Join-Us/Business-Support-Vacancies,Failed,No form fields detected,Loaded,1.9,Not found,Found,0,,"first_name,last_name,full_name,email,phone,company,website,job_title,subject,message,budget,address",,,,
+https://ronghe.com.sg/,Failed,No contact form detected,Loaded,2.3,Opened,Not found,,,,,,,
+https://alpadis-group.com/,Skipped,"unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
