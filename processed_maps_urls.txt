@@ -13289,3 +13289,5 @@ https://www.google.com/maps/place/Motherhouse+Suntec+city/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Sikitech+International/data=!4m7!3m6!1s0x31da19af071ce47f:0xf0d208276a35d5f7!8m2!3d1.29589!4d103.858817!16s%2Fg%2F1ptwj1gpm!19sChIJf-QcB68Z2jER99U1aicI0vA
 https://www.google.com/maps/place/Happy+Cake/data=!4m7!3m6!1s0x4206337eac3194c1:0xe59e52a4457b4ca5!8m2!3d1.2955249!4d103.8584952!16s%2Fg%2F11tjby5hqh!19sChIJwZQxrH4zBkIRpUx7RaRSnuU
 https://www.google.com/maps/place/PAUL+Suntec/data=!4m7!3m6!1s0x31da19594031b3db:0x4fd28b2aac375640!8m2!3d1.293426!4d103.8565727!16s%2Fg%2F11wp0561fy!19sChIJ27MxQFkZ2jERQFY3rCqL0k8
+https://www.google.com/maps/place/Expresspoint+Business+Services/data=!4m7!3m6!1s0x31da19aef950ba7d:0x839dd74dcbbb2ab3!8m2!3d1.2957491!4d103.8597116!16s%2Fg%2F11c1ws4n9v!19sChIJfbpQ-a4Z2jERsyq7y03XnYM
+https://www.google.com/maps/place/SkyTech+Engineering+%28s%29pte+ltd/data=!4m7!3m6!1s0x31da07bd52f32d47:0xc2f43af49a19e3b9!8m2!3d1.3143551!4d103.6271361!16s%2Fg%2F11rmrz6qn3!19sChIJRy3zUr0H2jERueMZmvQ69MI
