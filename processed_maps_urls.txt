@@ -13310,3 +13310,4 @@ https://www.google.com/maps/place/Card+Arena+by+MyRepublic+%28Suntec+City%29/dat
 https://www.google.com/maps/place/HANDS+Singapore+Suntec+City/data=!4m7!3m6!1s0x31da19af4cd51181:0xbd751e498ebeb367!8m2!3d1.2936819!4d103.8573568!16s%2Fg%2F1ptx_5n5j!19sChIJgRHVTK8Z2jERZ7O-jkkedb0
 https://www.google.com/maps/place/Ningji+Lemon+Tea+@+Suntec+City/data=!4m7!3m6!1s0x31da19058007c86f:0x6818864232cf7e6e!8m2!3d1.2949199!4d103.8596415!16s%2Fg%2F11myvlg0z9!19sChIJb8gHgAUZ2jERbn7PMkKGGGg
 https://www.google.com/maps/place/Dongfeng+Suntec+City+Showroom/data=!4m7!3m6!1s0x31da1924a1f901f5:0x5414af28269a515f!8m2!3d1.2956136!4d103.8585983!16s%2Fg%2F11z7ps334s!19sChIJ9QH5oSQZ2jERX1GaJiivFFQ
+https://www.google.com/maps/place/CHA+MULAN+Suntec+City/data=!4m7!3m6!1s0x31da1914d95d2bd1:0x975856591ebc6f6!8m2!3d1.295069!4d103.8599416!16s%2Fg%2F11zk3pjy41!19sChIJ0Std2RQZ2jER9sbrkWWFdQk
