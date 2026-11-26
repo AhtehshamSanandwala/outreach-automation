@@ -865,3 +865,4 @@ https://www.expede.com.sg/registered-office-address/,Failed,Submitted but no con
 →→' (score=90)",No confirmation
 https://bservicesp.com/,Failed,Submitted but no confirmation detected,Loaded,2.4,Opened,Found,5,"full_name,phone,email,select:category,message","first_name,last_name,company,website,job_title,subject,budget,address",,Auto-solved at post-submit: reCAPTCHA v2,form.submit(): form[0],No confirmation
 https://fidcorp.com/about/,Failed,Submitted but no confirmation detected,Loaded,1.9,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Not present,Clicked: 'Submit' (score=115),No confirmation
+https://venturehaven.com.sg/homepage217518633309331751868658135,Failed,No form fields detected,Loaded,3.5,Not found,Found,0,,,,,,
