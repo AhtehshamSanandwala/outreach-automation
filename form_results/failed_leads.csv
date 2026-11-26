@@ -813,3 +813,4 @@ https://www.majerbiz.com.sg/,Failed,No contact form detected,Loaded,3.1,Opened,N
 https://lettcorp.com/,Skipped,"unknown error: net::ERR_NAME_NOT_RESOLVED
   (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
 https://www.karitas.com.sg/about-karitas,Failed,No contact form detected,Loaded,1.1,Opened,Not found,,,,,,,
+https://www.diademcorpsg.com/contact-us/,Failed,Submitted but no confirmation detected,Loaded,1.7,Opened,Found,3,"full_name,email,message","first_name,last_name,phone,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=120),No confirmation
