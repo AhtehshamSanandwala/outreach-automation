@@ -819,3 +819,4 @@ https://onestop-ca.com/aboutus/,Failed,Submitted but no confirmation detected,Lo
 https://sleek.com/sg/registered-address/,Failed,No contact form detected,Loaded,2.6,Opened,Not found,,,,,,,
 https://ascendacca.com/,Failed,No form fields detected,Loaded,1.0,Opened,Found,0,,,,,,
 https://fastcorp.sg/category/incorporation/offices/,Skipped,Page load timeout,Timeout,,,,,,,,,,
+https://ceekayline.com/about-ceekay/,Failed,Submitted but no confirmation detected,Loaded,4.5,Opened,Found,4,"first_name,email,phone,message","last_name,full_name,company,website,job_title,subject,budget,address",,Not present,Clicked: 'Submit' (score=115),No confirmation
