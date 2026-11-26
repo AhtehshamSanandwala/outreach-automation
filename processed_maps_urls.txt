@@ -12988,3 +12988,4 @@ https://www.google.com/maps/place/Certact+Engineering+Pte.+Ltd./data=!4m7!3m6!1s
 https://www.google.com/maps/place/City+Technical+Service/data=!4m7!3m6!1s0x31da19f0305291db:0xf702bf8e52b94fcb!8m2!3d1.2736152!4d103.8447006!16s%2Fg%2F11h88r0zbz!19sChIJ25FSMPAZ2jERy0-5Uo6_Avc
 https://www.google.com/maps/place/Precision+engineering/data=!4m7!3m6!1s0x395e87de1e02a36d:0xfc9b542cf6428f4e!8m2!3d23.0186!4d72.676514!16s%2Fg%2F11tk6xyx6c!19sChIJbaMCHt6HXjkRTo9C9ixUm_w
 https://www.google.com/maps/place/CS+Fresh+-+Raffles+City/data=!4m7!3m6!1s0x31da19a42b08e89f:0xd734af3594d48875!8m2!3d1.2938879!4d103.853569!16s%2Fg%2F11b6j4d3fs!19sChIJn-gIK6QZ2jERdYjUlDWvNNc
+https://www.google.com/maps/place/Supply+Chain+and+Logistics+Academy+%28SCALA%29/data=!4m7!3m6!1s0x31da0ff1b3dca247:0xe83db63ed43a7357!8m2!3d1.3533762!4d103.7099172!16s%2Fg%2F11j6dlppmq!19sChIJR6Lcs_EP2jERV3M61D62Peg
