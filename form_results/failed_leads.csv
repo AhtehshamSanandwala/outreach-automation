@@ -807,3 +807,4 @@ https://www.dalstech.com/about-us,Failed,No contact form detected,Loaded,1.1,Ope
 https://www.iqdynamics.com/contact-us/,Failed,Submitted but no confirmation detected,Loaded,2.4,Opened,Found,6,"full_name,email,phone,company,job_title,message","first_name,last_name,website,subject,budget,address",,Not present,Clicked: 'submit' (score=120),No confirmation
 https://joymgtservices.com/,Failed,No contact form detected,Loaded,2.7,Opened,Not found,,,,,,,
 https://itgsolutions.com.sg/support/,Failed,Submitted but no confirmation detected,Loaded,1.3,Opened,Found,5,"full_name,email,phone,select:Category,message","first_name,last_name,company,website,job_title,subject,budget,address",,Auto-solved at post-submit: reCAPTCHA v2,Clicked: 'Send Message' (score=120),No confirmation
+https://juemanhing.com/,Failed,No contact form detected,Loaded,0.9,Opened,Not found,,,,,,,
