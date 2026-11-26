@@ -796,3 +796,4 @@ https://www.leehoe.com.sg/about-us/,Failed,Submitted but no confirmation detecte
 https://s2mfreight.com/,Failed,No contact form detected,Loaded,7.9,Opened,Not found,,,,,,,
 https://www.oal.com.my/,Failed,No contact form detected,Loaded,2.5,Opened,Not found,,,,,,,
 https://abeam.com/,Skipped,Page load timeout,Timeout,,,,,,,,,,
+https://itlink.com.sg/how-we-help,Failed,Submitted but no confirmation detected,Loaded,1.2,Opened,Found,5,"full_name,email,company,select:What can we help you with?,message","first_name,last_name,phone,website,job_title,subject,budget,address",,Not present,form.submit(): form[0],No confirmation
