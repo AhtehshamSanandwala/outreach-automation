@@ -13031,3 +13031,4 @@ https://www.google.com/maps/place/Royal+Healthcare+@+Royal+Square+Medical+Centre
 https://www.google.com/maps/place/IDS+Clinic+%28Novena%29/data=!4m7!3m6!1s0x31da19dac7e6861d:0xe2814fbce1ed12e3!8m2!3d1.3198962!4d103.8448181!16s%2Fg%2F11ql21qx78!19sChIJHYbmx9oZ2jER4xLt4bxPgeI
 https://www.google.com/maps/place/ON.LY+Clinic/data=!4m7!3m6!1s0x31da198db471dfed:0x27218c8566a3ca8f!8m2!3d1.3060532!4d103.8330494!16s%2Fg%2F1q69q14ys!19sChIJ7d9xtI0Z2jERj8qjZoWMISc
 https://www.google.com/maps/place/Elissa+Aesthetics+@+Elissa+Medical+Clinic/data=!4m7!3m6!1s0x31da174595e53995:0x6dc0ca849391e6c1!8m2!3d1.3758021!4d103.8794307!16s%2Fg%2F11vwny6zw_!19sChIJlTnllUUX2jERweaRk4TKwG0
+https://www.google.com/maps/place/Raffles+Medical+Jurong+East/data=!4m7!3m6!1s0x31da100579668e07:0x3e21fbb59117b93f!8m2!3d1.3345668!4d103.7401844!16s%2Fg%2F1tg6h1hl!19sChIJB45meQUQ2jERP7kXkbX7IT4
