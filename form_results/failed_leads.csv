@@ -877,3 +877,4 @@ https://alpadis-group.com/,Skipped,"unknown error: net::ERR_CONNECTION_REFUSED
 https://avsengineering.sg/contact-us/,Failed,Submitted but no confirmation detected,Loaded,2.4,Opened,Found,4,"full_name,email,subject,message","first_name,last_name,phone,company,website,job_title,budget,address",,Not present,Clicked: 'Submit' (score=115),No confirmation
 https://ecom.lauchoyseng.com/,Failed,No contact form detected,Loaded,0.4,Opened,Not found,,,,,,,
 http://www.land-equipment.com.sg/,Failed,No contact form detected,Loaded,2.2,Opened,Not found,,,,,,,
+https://www.shis.com.sg/about-us,Failed,No contact form detected,Loaded,1.1,Opened,Not found,,,,,,,
