@@ -13294,3 +13294,4 @@ https://www.google.com/maps/place/SkyTech+Engineering+%28s%29pte+ltd/data=!4m7!3
 https://www.google.com/maps/place/MBT+Singapore+Head+Office+-+Visit+our+stores+at+Paragon+%2304-35+and+Suntec+City+%2301-473/data=!4m7!3m6!1s0x31da182842f696c9:0xdf4fe531f21253e8!8m2!3d1.3247108!4d103.8780325!16s%2Fg%2F11b8zs7qcx!19sChIJyZb2QigY2jER6FMS8jHlT98
 https://www.google.com/maps/place/FLEX+Singapore/data=!4m7!3m6!1s0x31da197ed6800e43:0x52a7b0bb13d7dd4e!8m2!3d1.2960707!4d103.8589791!16s%2Fg%2F11lf1989bj!19sChIJQw6A1n4Z2jERTt3XE7uwp1I
 https://www.google.com/maps/place/Suntec+Construction+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da179079b317c3:0xb49a03bb73654a4f!8m2!3d1.3374623!4d103.9127549!16s%2Fg%2F11vrfb855b!19sChIJwxezeZAX2jERT0plc7sDmrQ
+https://www.google.com/maps/place/UNIQLO+Suntec+City/data=!4m7!3m6!1s0x31da19a8ba931959:0x559eeeb12a8ef7cc!8m2!3d1.2932528!4d103.8573037!16s%2Fg%2F1pv0zvf8y!19sChIJWRmTuqgZ2jERzPeOKrHunlU
