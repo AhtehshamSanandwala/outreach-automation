@@ -13218,3 +13218,5 @@ https://www.google.com/maps/place/Mint+eSolutions/data=!4m7!3m6!1s0x31da19af0fc9
 https://www.google.com/maps/place/Next+Career+Consulting+Group,+Asia/data=!4m7!3m6!1s0x31da198cff58f201:0x88bdeb183fb8c021!8m2!3d1.2955519!4d103.8589448!16s%2Fg%2F1tmbsn0n!19sChIJAfJY_4wZ2jERIcC4PxjrvYg
 https://www.google.com/maps/place/Pogen+V+Pte+Ltd/data=!4m7!3m6!1s0x31da19b1b4c8696f:0x1b646a1ef2f5b77!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11k6dvf0qn!19sChIJb2nItLEZ2jERd1sv76FGtgE
 https://www.google.com/maps/place/Kantar+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da175c62c92333:0xefcafdf781bba825!8m2!3d1.2943816!4d103.858071!16s%2Fg%2F1tg4yy9r!19sChIJMyPJYlwX2jERJai7gff9yu8
+https://www.google.com/maps/place/Capricorn+Consulting/data=!4m7!3m6!1s0x31da1bd1f4fbd11f:0x5d1816f7a1352404!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F1pv18rhn9!19sChIJH9H79NEb2jERBCQ1ofcWGF0
+https://www.google.com/maps/place/Stone+Prime+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da19e04f588ae3:0x4ca18c83f78bad99!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11fkcl0525!19sChIJ44pYT-AZ2jERma2L94OMoUw
