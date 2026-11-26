@@ -12931,3 +12931,4 @@ https://www.google.com/maps/place/Touche+Design/data=!4m7!3m6!1s0x10040441175930
 https://www.google.com/maps/place/MINUTIAE+PTE+LTD/data=!4m7!3m6!1s0x31da176f76f615a1:0xedd687a337e237a9!8m2!3d1.359779!4d103.8344044!16s%2Fg%2F11gmccmlp1!19sChIJoRX2dm8X2jERqTfiN6OH1u0
 https://www.google.com/maps/place/ABACUS+PROPERTY+MANAGEMENT+PTE+LTD/data=!4m7!3m6!1s0x31da176451b1e8a7:0xa14ce2f790ab4452!8m2!3d1.319041!4d103.8923647!16s%2Fg%2F11ckqr6rh9!19sChIJp-ixUWQX2jERUkSrkPfiTKE
 https://www.google.com/maps/place/CWL+Facilities+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da177a1407f267:0x4b73a8693bf9fb5c!8m2!3d1.3269932!4d103.8484668!16s%2Fg%2F11h9z6_tq3!19sChIJZ_IHFHoX2jERXPv5O2moc0s
+https://www.google.com/maps/place/Property+Facility+Services/data=!4m7!3m6!1s0x31da1768c45be4d1:0x10009c3c4942f20e!8m2!3d1.3184358!4d103.8927403!16s%2Fg%2F1v_n9107!19sChIJ0eRbxGgX2jERDvJCSTycABA
