@@ -13137,3 +13137,5 @@ https://www.google.com/maps/place/Softvil/data=!4m7!3m6!1s0x31da198fa7fd1567:0xc
 https://www.google.com/maps/place/Sitecore+Singapore/data=!4m7!3m6!1s0x31da19aedc398481:0x48196a792c753e41!8m2!3d1.2832999!4d103.8521025!16s%2Fg%2F11dx8ktkq6!19sChIJgYQ53K4Z2jERQT51LHlqGUg
 https://www.google.com/maps/place/ABI-Tech+Solution+Pte+Ltd+-+Custom+Software+Development+%7C+Mobile+App+%7C+Enterprise+Applications+%7C+AI+%7C+IOT+%7C+AR+%7C+VR/data=!4m7!3m6!1s0x31da139ecb03f673:0xeb145b76c3b01da3!8m2!3d1.434795!4d103.802586!16s%2Fg%2F11c51_yws5!19sChIJc_YDy54T2jERox2ww3ZbFOs
 https://www.google.com/maps/place/Telennovatiq+Pte+Ltd/data=!4m7!3m6!1s0x31da19a0beeaaaab:0xc8990813d0b5b538!8m2!3d1.2900089!4d103.8494332!16s%2Fg%2F11jzhxbjry!19sChIJq6rqvqAZ2jEROLW10BMImcg
+https://www.google.com/maps/place/SyncroTech/data=!4m7!3m6!1s0x31da17cdbb86d12f:0x4f42e14a322d9205!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11jclwnsy8!19sChIJL9GGu80X2jERBZItMkrhQk8
+https://www.google.com/maps/place/Massive+Infinity+Pte+Ltd/data=!4m7!3m6!1s0x31da1be73c120325:0xa3da6adb3b36eb60!8m2!3d1.272869!4d103.841151!16s%2Fg%2F12hlm5_05!19sChIJJQMSPOcb2jERYOs2O9tq2qM
