@@ -12970,3 +12970,4 @@ https://www.google.com/maps/place/Gem+Residences/data=!4m7!3m6!1s0x31da176fe1a34
 https://www.google.com/maps/place/120+Grange+Condominium/data=!4m7!3m6!1s0x31da197caf008db5:0x1eac59332c2c7ffb!8m2!3d1.3000017!4d103.82554!16s%2Fg%2F11h597d5qb!19sChIJtY0Ar3wZ2jER-38sLDNZrB4
 https://www.google.com/maps/place/The+Estuary+Management+Office/data=!4m7!3m6!1s0x859b2e299c76a3cd:0xabf8d36eb3a97083!8m2!3d1.4191539!4d103.8349534!16s%2Fg%2F11kq75_3wv!19sChIJzaN2nCkum4URg3Cps27T-Ks
 https://www.google.com/maps/place/Rajah+Tower/data=!4m7!3m6!1s0x31da1761c0ca1645:0x8387acaa66412f67!8m2!3d1.3275613!4d103.8488808!16s%2Fg%2F11b5phmncm!19sChIJRRbKwGEX2jERZy9BZqqsh4M
+https://www.google.com/maps/place/Trellis+Towers/data=!4m7!3m6!1s0x31da17b1c9af1069:0x14791f3b10c989e4!8m2!3d1.3312647!4d103.8438926!16s%2Fg%2F11h0b929yr!19sChIJaRCvybEX2jER5InJEDsfeRQ
