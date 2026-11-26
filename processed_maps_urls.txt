@@ -13215,3 +13215,5 @@ https://www.google.com/maps/place/YWL+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Erideon+Private+Limited/data=!4m7!3m6!1s0x31da19aee7312125:0xf6f355138df19100!8m2!3d1.2955374!4d103.8584736!16s%2Fg%2F1tj558_n!19sChIJJSEx564Z2jERAJHxjRNV8_Y
 https://www.google.com/maps/place/Eight-BA/data=!4m7!3m6!1s0x31da194530520db7:0x5141e99b972a879a!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11rsh0tzj_!19sChIJtw1SMEUZ2jERmocql5vpQVE
 https://www.google.com/maps/place/Mint+eSolutions/data=!4m7!3m6!1s0x31da19af0fc91fad:0x3a163f13889369d8!8m2!3d1.2954065!4d103.8584672!16s%2Fg%2F11gdkkdkr9!19sChIJrR_JD68Z2jER2GmTiBM_Fjo
+https://www.google.com/maps/place/Next+Career+Consulting+Group,+Asia/data=!4m7!3m6!1s0x31da198cff58f201:0x88bdeb183fb8c021!8m2!3d1.2955519!4d103.8589448!16s%2Fg%2F1tmbsn0n!19sChIJAfJY_4wZ2jERIcC4PxjrvYg
+https://www.google.com/maps/place/Pogen+V+Pte+Ltd/data=!4m7!3m6!1s0x31da19b1b4c8696f:0x1b646a1ef2f5b77!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11k6dvf0qn!19sChIJb2nItLEZ2jERd1sv76FGtgE
