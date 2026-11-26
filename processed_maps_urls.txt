@@ -12960,3 +12960,4 @@ https://www.google.com/maps/place/Sunshine+Plaza+Residences/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Braddell+View/data=!4m7!3m6!1s0x31da17530f691869:0x713496d5b8777c8a!8m2!3d1.3411156!4d103.8410511!16s%2Fg%2F11flgftbkq!19sChIJaRhpD1MX2jERinx3uNWWNHE
 https://www.google.com/maps/place/Midview+City/data=!4m7!3m6!1s0x31da1700686e7fa3:0xa4a1f4139bf92b15!8m2!3d1.358992!4d103.8339514!16s%2Fg%2F11vrrx6dlk!19sChIJo39uaAAX2jERFSv5mxP0oaQ
 https://www.google.com/maps/place/Grange+Heights/data=!4m7!3m6!1s0x31da199a97dc6483:0xccaedea3b5e8134c!8m2!3d1.2979762!4d103.8349783!16s%2Fg%2F1ptx7jtjz!19sChIJg2Tcl5oZ2jERTBPotaPersw
+https://www.google.com/maps/place/One+Pemimpin/data=!4m7!3m6!1s0x31da1789c77da92d:0x720877d5f944ea99!8m2!3d1.3519089!4d103.8428151!16s%2Fg%2F11sb97z5c5!19sChIJLal9x4kX2jERmepE-dV3CHI
