@@ -13029,3 +13029,4 @@ https://www.google.com/maps/place/Elissa+Medical+Clinic/data=!4m7!3m6!1s0x31da17
 https://www.google.com/maps/place/Raffles+Hospital/data=!4m7!3m6!1s0x31da19b085f197c5:0xb27dc4acbd7f1d7!8m2!3d1.3011534!4d103.8570811!16s%2Fm%2F02z3mn3!19sChIJxZfxhbAZ2jER1_HXy0rcJws
 https://www.google.com/maps/place/Royal+Healthcare+@+Royal+Square+Medical+Centre/data=!4m7!3m6!1s0x31da197792cbee99:0xfdb79bea2d43a14e!8m2!3d1.3206053!4d103.8432372!16s%2Fg%2F11j11g4ksg!19sChIJme7LkncZ2jERTqFDLeqbt_0
 https://www.google.com/maps/place/IDS+Clinic+%28Novena%29/data=!4m7!3m6!1s0x31da19dac7e6861d:0xe2814fbce1ed12e3!8m2!3d1.3198962!4d103.8448181!16s%2Fg%2F11ql21qx78!19sChIJHYbmx9oZ2jER4xLt4bxPgeI
+https://www.google.com/maps/place/ON.LY+Clinic/data=!4m7!3m6!1s0x31da198db471dfed:0x27218c8566a3ca8f!8m2!3d1.3060532!4d103.8330494!16s%2Fg%2F1q69q14ys!19sChIJ7d9xtI0Z2jERj8qjZoWMISc
