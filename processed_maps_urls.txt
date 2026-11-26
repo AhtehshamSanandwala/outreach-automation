@@ -13154,3 +13154,4 @@ https://www.google.com/maps/place/Nestor+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Fortinet+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19390b3abc0b:0x55109c5a7c988715!8m2!3d1.2953449!4d103.8596708!16s%2Fg%2F11ssdqvftq!19sChIJC7w6CzkZ2jERFYeYfFqcEFU
 https://www.google.com/maps/place/DACTA+Global/data=!4m7!3m6!1s0x31da190632853ca9:0xbc5add9fffcdcf5a!8m2!3d1.2936054!4d103.8415679!16s%2Fg%2F11vzrwnm22!19sChIJqTyFMgYZ2jERWs_N_5_dWrw
 https://www.google.com/maps/place/Root+Security+Pte+Ltd/data=!4m7!3m6!1s0x31da1829cb2fc67b:0xbd8fd0edc57bab8!8m2!3d1.2954758!4d103.8596758!16s%2Fg%2F11g6pg4l16!19sChIJe8YvyykY2jERuLpX3A792As
+https://www.google.com/maps/place/StrongKeep+Cybersecurity/data=!4m7!3m6!1s0x31da1b0059b5f977:0x74b3bd1d8306134e!8m2!3d1.2967497!4d103.786548!16s%2Fg%2F11xnp7vv9j!19sChIJd_m1WQAb2jERThMGgx29s3Q
