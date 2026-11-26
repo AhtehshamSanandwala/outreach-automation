@@ -12982,3 +12982,4 @@ https://www.google.com/maps/place/Sunyi+Precision+Engineering+Pte+Ltd/data=!4m7!
 https://www.google.com/maps/place/SPETA/data=!4m7!3m6!1s0x31da16edf7398be7:0x12b420452779c59c!8m2!3d1.3778796!4d103.8562274!16s%2Fg%2F11g9vmy_lv!19sChIJ54s59-0W2jERnMV5J0UgtBI
 https://www.google.com/maps/place/Precision+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da1bd7b90f8a29:0x47a3c812bb365b78!8m2!3d1.2820205!4d103.8195885!16s%2Fg%2F1tg37md_!19sChIJKYoPudcb2jEReFs2uxLIo0c
 https://www.google.com/maps/place/City+Hall/data=!4m7!3m6!1s0x31da19a6984dd7cf:0x58f49cfe659cf2d5!8m2!3d1.2929379!4d103.8525761!16zL20vMDRjNnR6!19sChIJz9dNmKYZ2jER1fKcZf6c9Fg
+https://www.google.com/maps/place/Seido+Precision/data=!4m7!3m6!1s0x31da17f6c4c2570b:0xce588a7fe4c340bd!8m2!3d1.358606!4d103.833566!16s%2Fg%2F11t194ry6n!19sChIJC1fCxPYX2jERvUDD5H-KWM4
