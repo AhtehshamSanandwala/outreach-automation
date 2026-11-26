@@ -13312,3 +13312,5 @@ https://www.google.com/maps/place/Ningji+Lemon+Tea+@+Suntec+City/data=!4m7!3m6!1
 https://www.google.com/maps/place/Dongfeng+Suntec+City+Showroom/data=!4m7!3m6!1s0x31da1924a1f901f5:0x5414af28269a515f!8m2!3d1.2956136!4d103.8585983!16s%2Fg%2F11z7ps334s!19sChIJ9QH5oSQZ2jERX1GaJiivFFQ
 https://www.google.com/maps/place/CHA+MULAN+Suntec+City/data=!4m7!3m6!1s0x31da1914d95d2bd1:0x975856591ebc6f6!8m2!3d1.295069!4d103.8599416!16s%2Fg%2F11zk3pjy41!19sChIJ0Std2RQZ2jER9sbrkWWFdQk
 https://www.google.com/maps/place/Tiger+Family+Singapore/data=!4m7!3m6!1s0x31da19d0bd983db5:0x58459e014808dc8b!8m2!3d1.2957055!4d103.8597298!16s%2Fg%2F11wjd9991p!19sChIJtT2YvdAZ2jERi9wISAGeRVg
+https://www.google.com/maps/place/Boarding+Gate+Marina+Square/data=!4m7!3m6!1s0x31da191399eed5b7:0x486c79bc9602aa8f!8m2!3d1.2912061!4d103.8576768!16s%2Fg%2F11sk85_pl9!19sChIJt9XumRMZ2jERj6oClrx5bEg
+https://www.google.com/maps/place/QQ+GLOBAL+STUDIO+PTE+LTD/data=!4m7!3m6!1s0x31da170b750edbe9:0xa203a3cf96a6ba53!8m2!3d1.3264632!4d103.896365!16s%2Fg%2F11f7111c5l!19sChIJ6dsOdQsX2jERU7qmls-jA6I
