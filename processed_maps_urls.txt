@@ -12955,3 +12955,5 @@ https://www.google.com/maps/place/New+Launch+Projects/data=!4m7!3m6!1s0x31da19c2
 https://www.google.com/maps/place/Association+of+Strata+Managers/data=!4m7!3m6!1s0x31da19e57a62fcd1:0x541ec2763182fd10!8m2!3d1.305662!4d103.8317859!16s%2Fg%2F11fkkzj1v3!19sChIJ0fxieuUZ2jEREP2CMXbCHlQ
 https://www.google.com/maps/place/Hmlet+Portofino+%28previously+Habyt%29/data=!4m7!3m6!1s0x31da19eef6f15555:0xa2f5c55b0b7cc137!8m2!3d1.3140249!4d103.836322!16s%2Fg%2F11gg_zgb5r!19sChIJVVXx9u4Z2jERN8F8C1vF9aI
 https://www.google.com/maps/place/Sarvottam+property/data=!4m7!3m6!1s0x31da11003067be2f:0x3d7e8f887834f8ad!8m2!3d1.352083!4d103.819836!16s%2Fg%2F11mlxc6twv!19sChIJL75nMAAR2jERrfg0eIiPfj0
+https://www.google.com/maps/place/Turf+City/data=!4m7!3m6!1s0x31da110071ac2413:0x3104486570a6312c!8m2!3d1.3395869!4d103.7959887!16s%2Fg%2F11nqpz_m76!19sChIJEySscQAR2jERLDGmcGVIBDE
+https://www.google.com/maps/place/Sunshine+Plaza+Residences/data=!4m7!3m6!1s0x31da19bb7e3d598b:0xc159ed0b3a7abf81!8m2!3d1.3004264!4d103.8507742!16s%2Fg%2F11gbfs4qhy!19sChIJi1k9frsZ2jERgb96OgvtWcE
