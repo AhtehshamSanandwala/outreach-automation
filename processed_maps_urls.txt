@@ -12972,3 +12972,4 @@ https://www.google.com/maps/place/The+Estuary+Management+Office/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Rajah+Tower/data=!4m7!3m6!1s0x31da1761c0ca1645:0x8387acaa66412f67!8m2!3d1.3275613!4d103.8488808!16s%2Fg%2F11b5phmncm!19sChIJRRbKwGEX2jERZy9BZqqsh4M
 https://www.google.com/maps/place/Trellis+Towers/data=!4m7!3m6!1s0x31da17b1c9af1069:0x14791f3b10c989e4!8m2!3d1.3312647!4d103.8438926!16s%2Fg%2F11h0b929yr!19sChIJaRCvybEX2jER5InJEDsfeRQ
 https://www.google.com/maps/place/Bishan-Toa+Payoh+Town+Council+%28Main+Office%29/data=!4m7!3m6!1s0x31da17683af4e3bf:0xa629ad2b54a876e4!8m2!3d1.3374937!4d103.845727!16s%2Fg%2F1tf2pr8f!19sChIJv-P0OmgX2jER5HaoVCutKaY
+https://www.google.com/maps/place/Water+Terrace/data=!4m7!3m6!1s0x31da17bb6b41654d:0x286e1d536b6c719d!8m2!3d1.3506362!4d103.8816338!16s%2Fg%2F1ptx9bs_v!19sChIJTWVBa7sX2jERnXFsa1Mdbig
