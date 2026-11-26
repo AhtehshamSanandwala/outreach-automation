@@ -810,3 +810,5 @@ https://itgsolutions.com.sg/support/,Failed,Submitted but no confirmation detect
 https://juemanhing.com/,Failed,No contact form detected,Loaded,0.9,Opened,Not found,,,,,,,
 https://corporatevisions.sg/about-us/,Failed,No contact form detected,Loaded,2.9,Opened,Not found,,,,,,,
 https://www.majerbiz.com.sg/,Failed,No contact form detected,Loaded,3.1,Opened,Not found,,,,,,,
+https://lettcorp.com/,Skipped,"unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=157.0.8103.50)",NetworkError,,,,,,,,,,
