@@ -13037,3 +13037,4 @@ https://www.google.com/maps/place/Sire+Singapore/data=!4m7!3m6!1s0x31da19ff5d013
 https://www.google.com/maps/place/The+Longevity+Science+Centrum/data=!4m7!3m6!1s0x31da11f6470b4d41:0xdbe0bfbc062c631c!8m2!3d1.330842!4d103.7956359!16s%2Fg%2F11vdvhrv7x!19sChIJQU0LR_YR2jERHGMsBry_4Ns
 https://www.google.com/maps/place/Paragon+Medical/data=!4m7!3m6!1s0x31da19924a1bad57:0x7ee147bd23438b11!8m2!3d1.3044521!4d103.8360974!16s%2Fg%2F11j535sv4h!19sChIJV60bSpIZ2jEREYtDI71H4X4
 https://www.google.com/maps/place/Raffles+Medical+Ang+Mo+Kio/data=!4m7!3m6!1s0x31da16e7ca7dd3d5:0xea7ffbf02fee8d63!8m2!3d1.3724302!4d103.8474576!16s%2Fg%2F1tjz0wph!19sChIJ1dN9yucW2jERY43uL_D7f-o
+https://www.google.com/maps/place/Beacon+Medical+Clinic+Tanjong+Pagar/data=!4m7!3m6!1s0x31da19b468eb9875:0x811037bbe15a5504!8m2!3d1.277063!4d103.84324!16s%2Fg%2F11q96g53sr!19sChIJdZjraLQZ2jERBFVa4bs3EIE
