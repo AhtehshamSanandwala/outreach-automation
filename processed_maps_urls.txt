@@ -12951,3 +12951,4 @@ https://www.google.com/maps/place/Reflection+Management+Office/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Citiprop/data=!4m7!3m6!1s0x31da1a2f498725c9:0xc3a2d89491394f6c!8m2!3d1.297563!4d103.815458!16s%2Fg%2F11hzvbzzyc!19sChIJySWHSS8a2jERbE85kZTYosM
 https://www.google.com/maps/place/Sophia+Residence/data=!4m7!3m6!1s0x31da19bce53f76ab:0x53845d232c9b4d42!8m2!3d1.3016462!4d103.848505!16s%2Fg%2F11b7t8c666!19sChIJq3Y_5bwZ2jERQk2bLCNdhFM
 https://www.google.com/maps/place/OfficeWise/data=!4m7!3m6!1s0x31da17668d652aa3:0x84819c9554801992!8m2!3d1.3318899!4d103.8486589!16s%2Fg%2F1vc69xz6!19sChIJoypljWYX2jERkhmAVJWcgYQ
+https://www.google.com/maps/place/New+Launch+Projects/data=!4m7!3m6!1s0x31da19c2ff3f60e3:0x1ae2bcc3ac43477b!8m2!3d1.3497916!4d103.8492158!16s%2Fg%2F11d_v2x5s0!19sChIJ42A__8IZ2jERe0dDrMO84ho
