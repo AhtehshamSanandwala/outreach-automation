@@ -920,3 +920,4 @@ https://www.servcorp.com.sg/en/about-us/,Failed,No contact form detected,Loaded,
 https://sg.jobstreet.com/,Failed,No contact form detected,Loaded,0.6,Opened,Not found,,,,,,,
 https://princetondg.com/contact/,Success,Verified thank-you / redirect,Loaded,1.4,Opened,Found,8,"first_name,last_name,email,company,address,select:Markets of Interest,select:Request,message","full_name,phone,website,job_title,subject,budget",,Not present,Clicked: 'Submit' (score=115),Success detected
 https://www.singaporetechnologyweek.com/data-centre-world,Failed,No contact form detected,Loaded,10.0,Opened,Not found,,,,,,,
+https://www.singaporeland.com/corporate-profile/,Failed,No contact form detected,Loaded,5.3,Opened,Not found,,,,,,,
