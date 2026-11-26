@@ -13263,3 +13263,4 @@ https://www.google.com/maps/place/Klein-Goddard+Associes/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Singapore+Property+House+Pte+Ltd+%28Luxe+Group%29/data=!4m7!3m6!1s0x31da19afa8f5d913:0xa0661a082e947743!8m2!3d1.2953875!4d103.8583905!16s%2Fg%2F1tgnp51d!19sChIJE9n1qK8Z2jERQ3eULggaZqA
 https://www.google.com/maps/place/WANGZ+Business+Centre/data=!4m7!3m6!1s0x31da19af0fcf0c0f:0xbd3bff7f78b11867!8m2!3d1.2954463!4d103.8584404!16s%2Fg%2F1tkb_mt2!19sChIJDwzPD68Z2jERZxixeH__O70
 https://www.google.com/maps/place/Citi+Commercial/data=!4m7!3m6!1s0x31da190e80e8a5ed:0x384485ccd2ebb5c7!8m2!3d1.2808417!4d103.8485681!16s%2Fg%2F11cjj__6k8!19sChIJ7aXogA4Z2jERx7Xr0syFRDg
+https://www.google.com/maps/place/Druce+%26+Co+Pte.+Ltd./data=!4m7!3m6!1s0x31da19e309bd71a1:0x22c48afa3f9faa3b!8m2!3d1.2953449!4d103.8596708!16s%2Fg%2F11s4yn8h1n!19sChIJoXG9CeMZ2jERO6qfP_qKxCI
