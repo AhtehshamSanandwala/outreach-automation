@@ -13170,3 +13170,4 @@ https://www.google.com/maps/place/AEC+Technical+Advisory/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/MSS+Consultancy+Pte.+Ltd./data=!4m7!3m6!1s0x31da191343eb5b27:0xd12172553133b8af!8m2!3d1.2953522!4d103.8584266!16s%2Fg%2F11c1wt12s0!19sChIJJ1vrQxMZ2jERr7gzMVVyIdE
 https://www.google.com/maps/place/KSMC+%28KS+Management+Consultants+Pte+Ltd.%29/data=!4m7!3m6!1s0x31da19a9c718e549:0x7dc16c2ecca163e1!8m2!3d1.2955294!4d103.8585003!16s%2Fg%2F11xsmw919v!19sChIJSeUYx6kZ2jER4WOhzC5swX0
 https://www.google.com/maps/place/Certvalue+-+Singapore/data=!4m7!3m6!1s0xa612ce1711c62b95:0x28e40abff728d09b!8m2!3d1.295473!4d103.8584456!16s%2Fg%2F11jt3gjq_b!19sChIJlSvGERfOEqYRm9Ao978K5Cg
+https://www.google.com/maps/place/DI2I+Pte.+Ltd./data=!4m7!3m6!1s0x31da19cff7dbbf25:0xf76e49c019533d94!8m2!3d1.2954194!4d103.8584563!16s%2Fg%2F11f62zp3x_!19sChIJJb_b988Z2jERlD1TGcBJbvc
