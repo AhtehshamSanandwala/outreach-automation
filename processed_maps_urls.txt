@@ -13301,3 +13301,4 @@ https://www.google.com/maps/place/HarriAnns+Nonya+Table/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/ONITSUKA+TIGER+SUNTEC+CITY/data=!4m7!3m6!1s0x31da19af13bc962d:0xaa84e6f0b22d510f!8m2!3d1.2951672!4d103.8589567!16s%2Fg%2F11bzzz5tbv!19sChIJLZa8E68Z2jERD1EtsvDmhKo
 https://www.google.com/maps/place/Ergoworks/data=!4m7!3m6!1s0x31da19a860b5b6b7:0x103848c7ef8fa17c!8m2!3d1.2919067!4d103.8582543!16s%2Fg%2F1tdbnd9d!19sChIJt7a1YKgZ2jERfKGP78dIOBA
 https://www.google.com/maps/place/Omnidesk+%28Funan%29/data=!4m7!3m6!1s0x31da198d59011377:0x9ed8a50feb7e252a!8m2!3d1.2911354!4d103.8501524!16s%2Fg%2F11y1rwy_8b!19sChIJdxMBWY0Z2jERKiV-6w-l2J4
+https://www.google.com/maps/place/Face+of+The+Orient+Pte+Ltd/data=!4m7!3m6!1s0x31da19af0fff3fff:0xf9fa880370c2262e!8m2!3d1.295456!4d103.858577!16s%2Fg%2F1ptz9kvv1!19sChIJ_z__D68Z2jERLibCcAOI-vk
