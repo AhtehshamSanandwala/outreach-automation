@@ -13343,3 +13343,4 @@ https://www.google.com/maps/place/The+Shirt+Bar,+Suntec+City/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/NingXia+Signature/data=!4m7!3m6!1s0x31da190060ac9f57:0xd5f5daedc18a1aab!8m2!3d1.2957055!4d103.8597298!16s%2Fg%2F11w4m9btym!19sChIJV5-sYAAZ2jERqxqKwe3a9dU
 https://www.google.com/maps/place/Kazo+-+Suntec+City/data=!4m7!3m6!1s0x31da19aff4e67f61:0x550d21430c4a3f37!8m2!3d1.2950106!4d103.8600037!16s%2Fg%2F11fqcsv6x9!19sChIJYX_m9K8Z2jERNz9KDEMhDVU
 https://www.google.com/maps/place/ECCO+Suntec+City+Mall/data=!4m7!3m6!1s0x31da19a8a51c9f51:0xa1d417316d52614!8m2!3d1.295825!4d103.8587866!16s%2Fg%2F1tdyyghz!19sChIJUZ8cpagZ2jERFCbVFnNBHQo
+https://www.google.com/maps/place/Cow+Play+Cow+Moo+Singapore/data=!4m7!3m6!1s0x31da19aeef4d3957:0x5bdf61892578aed8!8m2!3d1.2950242!4d103.8602465!16s%2Fg%2F11bzyybvvj!19sChIJVzlN764Z2jER2K54JYlh31s
