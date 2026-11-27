@@ -13623,3 +13623,5 @@ https://www.google.com/maps/place/Bali+Thai/data=!4m7!3m6!1s0x31da19a8a51c9f51:0
 https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da192ca9aa44ed:0x71abd016b98c6b74!8m2!3d1.293457!4d103.857186!16s%2Fg%2F11nbgwz582!19sChIJ7USqqSwZ2jERdGuMuRbQq3E
 https://www.google.com/maps/place/Guzman+y+Gomez-+Suntec+City/data=!4m7!3m6!1s0x31da190031164b1b:0x64fd5a9586a9c37b!8m2!3d1.2958893!4d103.8586122!16s%2Fg%2F11xspwggvn!19sChIJG0sWMQAZ2jERe8OphpVa_WQ
 https://www.google.com/maps/place/Burger+King+Suntec+City/data=!4m7!3m6!1s0x31da19af0c1ae8e7:0x888fd1075cfdd894!8m2!3d1.2952455!4d103.8600613!16s%2Fg%2F1tdjtjvs!19sChIJ5-gaDK8Z2jERlNj9XAfRj4g
+https://www.google.com/maps/place/Soup+Restaurant+@+Suntec+City/data=!4m7!3m6!1s0x31da19af0c1ae8e7:0xaf74eb812f3d4c49!8m2!3d1.2946756!4d103.8582806!16s%2Fg%2F12h_qg3f4!19sChIJ5-gaDK8Z2jERSUw9L4HrdK8
+https://www.google.com/maps/place/Fish+%26+Co.+Suntec+City/data=!4m7!3m6!1s0x31da19a8a51c9f51:0x82596dd5e5701ae6!8m2!3d1.2950324!4d103.8583015!16s%2Fg%2F1tdnbs2z!19sChIJUZ8cpagZ2jER5hpw5dVtWYI
