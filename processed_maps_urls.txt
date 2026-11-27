@@ -13393,3 +13393,4 @@ https://www.google.com/maps/place/Paradise+Dynasty+at+Suntec+City/data=!4m7!3m6!
 https://www.google.com/maps/place/TP-Link+Corporation+Pte.+Ltd./data=!4m7!3m6!1s0x31da178fdf1deecf:0xe1c88150cf78e7ad!8m2!3d1.2955159!4d103.8584922!16s%2Fg%2F1ptybmv_r!19sChIJz-4d348X2jERred4z1CByOE
 https://www.google.com/maps/place/ActionCity+Bugis+Junction/data=!4m7!3m6!1s0x31da19ba85b1b21d:0x8124d8f9fdff9164!8m2!3d1.2991939!4d103.8554708!16s%2Fg%2F1tj7sxp_!19sChIJHbKxhboZ2jERZJH__fnYJIE
 https://www.google.com/maps/place/Maka+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da17f09b07afd7:0x94e2ea13cb7cf1b9!8m2!3d1.2953522!4d103.8584266!16s%2Fg%2F1ptwppj8m!19sChIJ168Hm_AX2jERufF8yxPq4pQ
+https://www.google.com/maps/place/The+Cookie+Museum+at+The+Gallery/data=!4m7!3m6!1s0x31da193419c24b7f:0x48c2ee73ce4babd4!8m2!3d1.2936672!4d103.8569983!16s%2Fg%2F11k41jn1qf!19sChIJf0vCGTQZ2jER1KtLznPuwkg
