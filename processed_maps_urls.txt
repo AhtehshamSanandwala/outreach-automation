@@ -13504,3 +13504,4 @@ https://www.google.com/maps/place/Kiehl%E2%80%99s+Since+1851/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Piaggio+Asia+Pacific+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da19afa8f5d913:0xdeae9dc7160bff48!8m2!3d1.295598!4d103.8589916!16s%2Fg%2F1txnlzvr!19sChIJE9n1qK8Z2jERSP8LFsedrt4
 https://www.google.com/maps/place/ISBC/data=!4m7!3m6!1s0x31da19af1023b833:0x712528dd96bc1346!8m2!3d1.2954409!4d103.8584671!16s%2Fg%2F11rqcz1kpv!19sChIJM7gjEK8Z2jERRhO8lt0oJXE
 https://www.google.com/maps/place/Calgon+Carbon+Asia+Pte.+Ltd./data=!4m7!3m6!1s0x31da19afa8e7b87d:0x3163d052aec9ae27!8m2!3d1.295475!4d103.859084!16s%2Fg%2F1td7ktyl!19sChIJfbjnqK8Z2jERJ67JrlLQYzE
+https://www.google.com/maps/place/Wrist+Ship+Supply+Singapore/data=!4m7!3m6!1s0x31da0f4d58601de3:0x81090fbd9b46c09d!8m2!3d1.3088288!4d103.6592585!16s%2Fg%2F1v6p1sm8!19sChIJ4x1gWE0P2jERncBGm70PCYE
