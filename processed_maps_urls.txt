@@ -13362,3 +13362,6 @@ https://www.google.com/maps/place/Turtle+@Marina+Square+%28Flagship+Store%29/dat
 https://www.google.com/maps/place/Boarding+Gate/data=!4m7!3m6!1s0x31da191519372b6b:0x5795733128c0bc74!8m2!3d1.2990411!4d103.8549987!16s%2Fg%2F11fr4p_z7q!19sChIJays3GRUZ2jERdLzAKDFzlVc
 https://www.google.com/maps/place/Kazo+-+Suntec+City/data=!4m7!3m6!1s0x31da19aff4e67f61:0x550d21430c4a3f37!8m2!3d1.2950106!4d103.8600037!16s%2Fg%2F11fqcsv6x9!19sChIJYX_m9K8Z2jERNz9KDEMhDVU
 https://www.google.com/maps/place/Paradise+Dynasty+at+Suntec+City/data=!4m7!3m6!1s0x31da191b92a2bc05:0x8c6694fe1a2a812e!8m2!3d1.2946424!4d103.8593028!16s%2Fg%2F11fl9gyfsf!19sChIJBbyikhsZ2jERLoEqGv6UZow
+https://www.google.com/maps/place/ECCO+Suntec+City+Mall/data=!4m7!3m6!1s0x31da19a8a51c9f51:0xa1d417316d52614!8m2!3d1.295825!4d103.8587866!16s%2Fg%2F1tdyyghz!19sChIJUZ8cpagZ2jERFCbVFnNBHQo
+https://www.google.com/maps/place/ActionCity+Bugis+Junction/data=!4m7!3m6!1s0x31da19ba85b1b21d:0x8124d8f9fdff9164!8m2!3d1.2991939!4d103.8554708!16s%2Fg%2F1tj7sxp_!19sChIJHbKxhboZ2jERZJH__fnYJIE
+https://www.google.com/maps/place/Cow+Play+Cow+Moo+Singapore/data=!4m7!3m6!1s0x31da19aeef4d3957:0x5bdf61892578aed8!8m2!3d1.2950242!4d103.8602465!16s%2Fg%2F11bzyybvvj!19sChIJVzlN764Z2jER2K54JYlh31s
