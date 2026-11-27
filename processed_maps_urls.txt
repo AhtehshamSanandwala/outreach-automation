@@ -13592,3 +13592,4 @@ https://www.google.com/maps/place/Parts+Precision+Technology%28S%29+Pte+Ltd/data
 https://www.google.com/maps/place/Sky+Fusion+Global+Supply+Chain/data=!4m7!3m6!1s0x31da191344c00001:0x8b50614348752108!8m2!3d1.295285!4d103.85852!16s%2Fg%2F11ts013tg7!19sChIJAQDARBMZ2jERCCF1SENhUIs
 https://www.google.com/maps/place/Sky+Fusion+Global+Supply+Chain/data=!4m7!3m6!1s0x31da191344c00001:0x8b50614348752108!8m2!3d1.295285!4d103.85852!16s%2Fg%2F11ts013tg7!19sChIJAQDARBMZ2jERCCF1SENhUIs
 https://www.google.com/maps/place/Supply+Chain+City/data=!4m7!3m6!1s0x31da0fc704f48273:0x66ba839bb50b936f!8m2!3d1.3529827!4d103.7097888!16s%2Fg%2F11cn066zgf!19sChIJc4L0BMcP2jERb5MLtZuDumY
+https://www.google.com/maps/place/Supply+Chain+City/data=!4m7!3m6!1s0x31da0fc704f48273:0x66ba839bb50b936f!8m2!3d1.3529827!4d103.7097888!16s%2Fg%2F11cn066zgf!19sChIJc4L0BMcP2jERb5MLtZuDumY
