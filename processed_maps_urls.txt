@@ -13590,3 +13590,4 @@ https://www.google.com/maps/place/Parts+Precision+Technology%28S%29+Pte+Ltd/data
 https://www.google.com/maps/place/Alcotec+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da17c782a3d181:0xdfa3f11045a1e6e2!8m2!3d1.3518134!4d103.8920154!16s%2Fg%2F1w_vkt5b!19sChIJgdGjgscX2jER4uahRRDxo98
 https://www.google.com/maps/place/Parts+Precision+Technology%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1367cccc26e7:0xf03a6288aa6f2ceb!8m2!3d1.4451027!4d103.8128413!16s%2Fg%2F11b6nld4cb!19sChIJ5ybMzGcT2jER6yxvqohiOvA
 https://www.google.com/maps/place/Sky+Fusion+Global+Supply+Chain/data=!4m7!3m6!1s0x31da191344c00001:0x8b50614348752108!8m2!3d1.295285!4d103.85852!16s%2Fg%2F11ts013tg7!19sChIJAQDARBMZ2jERCCF1SENhUIs
+https://www.google.com/maps/place/Sky+Fusion+Global+Supply+Chain/data=!4m7!3m6!1s0x31da191344c00001:0x8b50614348752108!8m2!3d1.295285!4d103.85852!16s%2Fg%2F11ts013tg7!19sChIJAQDARBMZ2jERCCF1SENhUIs
