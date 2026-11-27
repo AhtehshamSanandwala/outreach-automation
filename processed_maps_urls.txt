@@ -13690,3 +13690,7 @@ https://www.google.com/maps/place/Zouk+Singapore/data=!4m7!3m6!1s0x31da199d17b27
 https://www.google.com/maps/place/DIGITAL+FX+%7C+DIGITAL+MARKETING+AGENCY/data=!4m7!3m6!1s0x390cefc21b093e31:0x12d4f42a811bb647!8m2!3d28.605752!4d77.428489!16s%2Fg%2F11zxgb5ch3!19sChIJMT4JG8LvDDkRR7YbgSr01BI
 https://www.google.com/maps/place/Home+Dawn+Cafe+@+Clarke+Quay/data=!4m7!3m6!1s0x31da1903fa5f3841:0x13da4957be49016b!8m2!3d1.2900278!4d103.8448322!16s%2Fg%2F11lcj3jkmz!19sChIJQThf-gMZ2jERawFJvldJ2hM
 https://www.google.com/maps/place/Zouk+Singapore/data=!4m7!3m6!1s0x31da199d17b277c9:0x8367dbd27600252c!8m2!3d1.2907799!4d103.8460048!16zL20vMDJjNjdr!19sChIJyXeyF50Z2jERLCUAdtLbZ4M
+https://www.google.com/maps/place/Home+Dawn+Cafe+@+Clarke+Quay/data=!4m7!3m6!1s0x31da1903fa5f3841:0x13da4957be49016b!8m2!3d1.2900278!4d103.8448322!16s%2Fg%2F11lcj3jkmz!19sChIJQThf-gMZ2jERawFJvldJ2hM
+https://www.google.com/maps/place/AMSDigital/data=!4m7!3m6!1s0x390ce162e655670b:0x8a5d3aa0a104c8df!8m2!3d28.5341198!4d77.2696741!16s%2Fg%2F11ghp26x_7!19sChIJC2dV5mLhDDkR38gEoaA6XYo
+https://www.google.com/maps/place/Margo+Digitech/data=!4m7!3m6!1s0x390d03e828dafaeb:0xb09d50ba9ffab43!8m2!3d28.6515468!4d77.144917!16s%2Fg%2F11zwnrcrw2!19sChIJ6_raKOgDDTkRQ6v_qQvVCQs
+https://www.google.com/maps/place/The+Asia+Collective+Pte+Ltd/data=!4m7!3m6!1s0x31da19e92ddf4361:0xd0a372048b814bcc!8m2!3d1.2798791!4d103.8438186!16s%2Fg%2F11r7kr1fbh!19sChIJYUPfLekZ2jERzEuBiwRyo9A
