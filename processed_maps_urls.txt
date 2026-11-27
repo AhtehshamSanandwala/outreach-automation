@@ -13661,3 +13661,6 @@ https://www.google.com/maps/place/W+Communications/data=!4m7!3m6!1s0x31da190c552
 https://www.google.com/maps/place/CQ+@+Clarke+Quay/data=!4m7!3m6!1s0x31da19a038007c9d:0x20e5acd1e8ccf02!8m2!3d1.2906024!4d103.8464742!16zL20vMDcycXlf!19sChIJnXwAOKAZ2jERAs-MHs1aDgI
 https://www.google.com/maps/place/W+Communications/data=!4m7!3m6!1s0x31da190c55238fcb:0xdff51be3c2f81e0f!8m2!3d1.2777689!4d103.8483915!16s%2Fg%2F11fmw_fwh8!19sChIJy48jVQwZ2jERDx74wuMb9d8
 https://www.google.com/maps/place/MediaCom/data=!4m7!3m6!1s0x31da19b38fdaaaab:0xfa0beca07f374565!8m2!3d1.3024678!4d103.8642449!16s%2Fg%2F11hch_xswx!19sChIJq6raj7MZ2jERZUU3f6DsC_o
+https://www.google.com/maps/place/3dsense+Media+School/data=!4m7!3m6!1s0x31da19bb9c608e83:0x3b345b6fb15d22cc!8m2!3d1.2891465!4d103.8467157!16s%2Fg%2F1tc_hnfr!19sChIJg45gnLsZ2jERzCJdsW9bNDs
+https://www.google.com/maps/place/MediaCom/data=!4m7!3m6!1s0x31da19b38fdaaaab:0xfa0beca07f374565!8m2!3d1.3024678!4d103.8642449!16s%2Fg%2F11hch_xswx!19sChIJq6raj7MZ2jERZUU3f6DsC_o
+https://www.google.com/maps/place/3dsense+Media+School/data=!4m7!3m6!1s0x31da19bb9c608e83:0x3b345b6fb15d22cc!8m2!3d1.2891465!4d103.8467157!16s%2Fg%2F1tc_hnfr!19sChIJg45gnLsZ2jERzCJdsW9bNDs
