@@ -13394,3 +13394,7 @@ https://www.google.com/maps/place/TP-Link+Corporation+Pte.+Ltd./data=!4m7!3m6!1s
 https://www.google.com/maps/place/ActionCity+Bugis+Junction/data=!4m7!3m6!1s0x31da19ba85b1b21d:0x8124d8f9fdff9164!8m2!3d1.2991939!4d103.8554708!16s%2Fg%2F1tj7sxp_!19sChIJHbKxhboZ2jERZJH__fnYJIE
 https://www.google.com/maps/place/Maka+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da17f09b07afd7:0x94e2ea13cb7cf1b9!8m2!3d1.2953522!4d103.8584266!16s%2Fg%2F1ptwppj8m!19sChIJ168Hm_AX2jERufF8yxPq4pQ
 https://www.google.com/maps/place/The+Cookie+Museum+at+The+Gallery/data=!4m7!3m6!1s0x31da193419c24b7f:0x48c2ee73ce4babd4!8m2!3d1.2936672!4d103.8569983!16s%2Fg%2F11k41jn1qf!19sChIJf0vCGTQZ2jER1KtLznPuwkg
+https://www.google.com/maps/place/SiliconCore+Technology/data=!4m7!3m6!1s0x31da19af037f5a69:0x8a907d2ea78a1901!8m2!3d1.2956745!4d103.8589973!16s%2Fg%2F1ptxjtrjl!19sChIJaVp_A68Z2jERARmKpy59kIo
+https://www.google.com/maps/place/Precious+Thoughts+%28Marina+Square%29/data=!4m7!3m6!1s0x31da19038c3054f9:0xa51d1b7c24a03504!8m2!3d1.2912061!4d103.8576768!16s%2Fg%2F11sd8tw5mc!19sChIJ-VQwjAMZ2jERBDWgJHwbHaU
+https://www.google.com/maps/place/Umci+Pte+Ltd/data=!4m7!3m6!1s0x31da19aee79b2aa7:0xaa82a69a0b298d54!8m2!3d1.2955307!4d103.8589474!16s%2Fg%2F1ptwl2sj3!19sChIJpyqb564Z2jERVI0pC5qmgqo
+https://www.google.com/maps/place/MS+Venture+Pte+Ltd/data=!4m7!3m6!1s0x31da17fa121e453f:0x83583eb05795cca3!8m2!3d1.3316922!4d103.9033646!16s%2Fg%2F1tdnhn1c!19sChIJP0UeEvoX2jERo8yVV7A-WIM
