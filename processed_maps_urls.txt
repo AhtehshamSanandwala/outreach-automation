@@ -13388,3 +13388,6 @@ https://www.google.com/maps/place/Polymet+SA+Singapore+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Turtle+@Marina+Square+%28Flagship+Store%29/data=!4m7!3m6!1s0x31da19fe930e5555:0x661cbb1904d34ce4!8m2!3d1.29181!4d103.8568594!16s%2Fg%2F11qbpxr_s9!19sChIJVVUOk_4Z2jER5EzTBBm7HGY
 https://www.google.com/maps/place/MedSEA+Forte+Pte+Ltd/data=!4m7!3m6!1s0x28b2f475400ee0a1:0x3c8153458507550!8m2!3d1.2953522!4d103.8584051!16s%2Fg%2F11tg2nzl9h!19sChIJoeAOQHX0sigRUHVQWDQVyAM
 https://www.google.com/maps/place/Boarding+Gate/data=!4m7!3m6!1s0x31da191519372b6b:0x5795733128c0bc74!8m2!3d1.2990411!4d103.8549987!16s%2Fg%2F11fr4p_z7q!19sChIJays3GRUZ2jERdLzAKDFzlVc
+https://www.google.com/maps/place/Kisco+%28Asia%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da1be3c913b3bd:0x412902762cb19bb2!8m2!3d1.2957787!4d103.8583705!16s%2Fg%2F1tl1kz_q!19sChIJvbMTyeMb2jERspuxLHYCKUE
+https://www.google.com/maps/place/Paradise+Dynasty+at+Suntec+City/data=!4m7!3m6!1s0x31da191b92a2bc05:0x8c6694fe1a2a812e!8m2!3d1.2946424!4d103.8593028!16s%2Fg%2F11fl9gyfsf!19sChIJBbyikhsZ2jERLoEqGv6UZow
+https://www.google.com/maps/place/TP-Link+Corporation+Pte.+Ltd./data=!4m7!3m6!1s0x31da178fdf1deecf:0xe1c88150cf78e7ad!8m2!3d1.2955159!4d103.8584922!16s%2Fg%2F1ptybmv_r!19sChIJz-4d348X2jERred4z1CByOE
