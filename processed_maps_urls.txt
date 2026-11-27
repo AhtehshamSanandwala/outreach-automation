@@ -13538,3 +13538,7 @@ https://www.google.com/maps/place/Ft2+%28Ubi%29+Interior+Design+%28By+Appointmen
 https://www.google.com/maps/place/Interior+Design+Confederation+Singapore+%28IDCS%29/data=!4m7!3m6!1s0x31da19ec6bfa1459:0xbbb7c1b2d8173e56!8m2!3d1.2954149!4d103.8584474!16s%2Fg%2F11j1wylq_8!19sChIJWRT6a-wZ2jERVj4X2LLBt7s
 https://www.google.com/maps/place/Interior+Design+Confederation+Singapore+%28IDCS%29/data=!4m7!3m6!1s0x31da19ec6bfa1459:0xbbb7c1b2d8173e56!8m2!3d1.2954149!4d103.8584474!16s%2Fg%2F11j1wylq_8!19sChIJWRT6a-wZ2jERVj4X2LLBt7s
 https://www.google.com/maps/place/Thom+Signature+Design/data=!4m7!3m6!1s0x31da17a55cddbe83:0x5be3adac3cf27fea!8m2!3d1.3541628!4d103.8775337!16s%2Fg%2F1ydpc1s64!19sChIJg77dXKUX2jER6n_yPKyt41s
+https://www.google.com/maps/place/Thom+Signature+Design/data=!4m7!3m6!1s0x31da17a55cddbe83:0x5be3adac3cf27fea!8m2!3d1.3541628!4d103.8775337!16s%2Fg%2F1ydpc1s64!19sChIJg77dXKUX2jER6n_yPKyt41s
+https://www.google.com/maps/place/Mr+Designer+Studio/data=!4m7!3m6!1s0x31da17a7e6b0d583:0xfc1d6180a932a1b5!8m2!3d1.3322152!4d103.8903577!16s%2Fg%2F11r9w85jqv!19sChIJg9Ww5qcX2jERtaEyqYBhHfw
+https://www.google.com/maps/place/A+%26+D+Designer%E2%80%99s+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da17b4e5555555:0xe620ff5ae87e70b4!8m2!3d1.3273193!4d103.8909011!16s%2Fg%2F11b_1nd1zx!19sChIJVVVV5bQX2jERtHB-6Fr_IOY
+https://www.google.com/maps/place/Mr+Designer+Studio/data=!4m7!3m6!1s0x31da17a7e6b0d583:0xfc1d6180a932a1b5!8m2!3d1.3322152!4d103.8903577!16s%2Fg%2F11r9w85jqv!19sChIJg9Ww5qcX2jERtaEyqYBhHfw
