@@ -13619,3 +13619,6 @@ https://www.google.com/maps/place/Guzman+y+Gomez-+Suntec+City/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Dookki/data=!4m7!3m6!1s0x31da19aee60b4caf:0x803c8eba306ed6f6!8m2!3d1.2948702!4d103.8595897!16s%2Fg%2F11dyp0stkk!19sChIJr0wL5q4Z2jER9tZuMLqOPIA
 https://www.google.com/maps/place/Penang+Place+Restaurant+%26+Catering/data=!4m7!3m6!1s0x31da1a4558434881:0x5153ad05b2362e0a!8m2!3d1.2939416!4d103.8570489!16s%2Fg%2F1td___9c!19sChIJgUhDWEUa2jERCi42sgWtU1E
 https://www.google.com/maps/place/Soup+Restaurant+@+Suntec+City/data=!4m7!3m6!1s0x31da19af0c1ae8e7:0xaf74eb812f3d4c49!8m2!3d1.2946756!4d103.8582806!16s%2Fg%2F12h_qg3f4!19sChIJ5-gaDK8Z2jERSUw9L4HrdK8
+https://www.google.com/maps/place/Bali+Thai/data=!4m7!3m6!1s0x31da19a8a51c9f51:0x89a50a45338bee19!8m2!3d1.2943391!4d103.8582311!16s%2Fg%2F1tdxyf0w!19sChIJUZ8cpagZ2jERGe6LM0UKpYk
+https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da192ca9aa44ed:0x71abd016b98c6b74!8m2!3d1.293457!4d103.857186!16s%2Fg%2F11nbgwz582!19sChIJ7USqqSwZ2jERdGuMuRbQq3E
+https://www.google.com/maps/place/Guzman+y+Gomez-+Suntec+City/data=!4m7!3m6!1s0x31da190031164b1b:0x64fd5a9586a9c37b!8m2!3d1.2958893!4d103.8586122!16s%2Fg%2F11xspwggvn!19sChIJG0sWMQAZ2jERe8OphpVa_WQ
