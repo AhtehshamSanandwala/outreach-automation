@@ -13501,3 +13501,6 @@ https://www.google.com/maps/place/Revlight+Security/data=!4m7!3m6!1s0x31da19e34e
 https://www.google.com/maps/place/Oceantec+Consultants+Pte.+Ltd./data=!4m7!3m6!1s0xf0e09421d35356d:0x993b063240efb1b6!8m2!3d1.314!4d103.84425!16s%2Fg%2F11wvzz51dl!19sChIJbTU1HUIJDg8RtrHvQDIGO5k
 https://www.google.com/maps/place/Optical+Cable+Technology+Asia/data=!4m7!3m6!1s0x31da19afa8f69ee1:0xc57b2f3b8914c195!8m2!3d1.2955726!4d103.8589619!16s%2Fg%2F11b6d4_dfx!19sChIJ4Z72qK8Z2jERlcEUiTsve8U
 https://www.google.com/maps/place/Kiehl%E2%80%99s+Since+1851/data=!4m7!3m6!1s0x31da19af4d7e1c5b:0x6d890fe3cb0b7c5!8m2!3d1.2938225!4d103.857143!16s%2Fg%2F1pt_bzl1p!19sChIJWxx-Ta8Z2jERxbewPP6Q2AY
+https://www.google.com/maps/place/Piaggio+Asia+Pacific+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da19afa8f5d913:0xdeae9dc7160bff48!8m2!3d1.295598!4d103.8589916!16s%2Fg%2F1txnlzvr!19sChIJE9n1qK8Z2jERSP8LFsedrt4
+https://www.google.com/maps/place/ISBC/data=!4m7!3m6!1s0x31da19af1023b833:0x712528dd96bc1346!8m2!3d1.2954409!4d103.8584671!16s%2Fg%2F11rqcz1kpv!19sChIJM7gjEK8Z2jERRhO8lt0oJXE
+https://www.google.com/maps/place/Calgon+Carbon+Asia+Pte.+Ltd./data=!4m7!3m6!1s0x31da19afa8e7b87d:0x3163d052aec9ae27!8m2!3d1.295475!4d103.859084!16s%2Fg%2F1td7ktyl!19sChIJfbjnqK8Z2jERJ67JrlLQYzE
