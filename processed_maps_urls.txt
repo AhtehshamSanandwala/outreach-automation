@@ -13672,3 +13672,5 @@ https://www.google.com/maps/place/Blu+Jaz,+Clarke+Quay+Central/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Blu+Jaz,+Clarke+Quay+Central/data=!4m7!3m6!1s0x31da19cd16f35677:0x7809aa3f9781b9ea!8m2!3d1.2894198!4d103.8473691!16s%2Fg%2F11wvbb_cnm!19sChIJd1bzFs0Z2jER6rmBlz-qCXg
 https://www.google.com/maps/place/Bebop+Asia/data=!4m7!3m6!1s0x31da19c7d6fab371:0x6d64bca83a8cd5b!8m2!3d1.2980792!4d103.8440911!16s%2Fg%2F11h91js555!19sChIJcbP61scZ2jERW82og8pL1gY
 https://www.google.com/maps/place/Bebop+Asia/data=!4m7!3m6!1s0x31da19c7d6fab371:0x6d64bca83a8cd5b!8m2!3d1.2980792!4d103.8440911!16s%2Fg%2F11h91js555!19sChIJcbP61scZ2jERW82og8pL1gY
+https://www.google.com/maps/place/DigitalGuru.App/data=!4m7!3m6!1s0xffb43997b3a3301:0xf735ca9bd1e7421a!8m2!3d1.3703723!4d103.895341!16s%2Fg%2F11y28_5w68!19sChIJATM6e5lD-w8RGkLn0ZvKNfc
+https://www.google.com/maps/place/The+Media+Shop+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da196efcd30a5b:0x2babbec1c18af0cb!8m2!3d1.2938457!4d103.7934252!16s%2Fg%2F1tgtb_rp!19sChIJWwrT_G4Z2jERy_CKwcG-qys
