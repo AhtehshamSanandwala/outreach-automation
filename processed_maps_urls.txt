@@ -13597,3 +13597,5 @@ https://www.google.com/maps/place/CoCo+ICHIBANYA+-+Suntec+City/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Food+Arena+@+Suntec+City/data=!4m7!3m6!1s0x31da19003fa1d365:0x5e6b97cff4b62f96!8m2!3d1.2953835!4d103.8600137!16s%2Fg%2F11yjg1f8fw!19sChIJZdOhPwAZ2jERli-29M-Xa14
 https://www.google.com/maps/place/Food+Arena+@+Suntec+City/data=!4m7!3m6!1s0x31da19003fa1d365:0x5e6b97cff4b62f96!8m2!3d1.2953835!4d103.8600137!16s%2Fg%2F11yjg1f8fw!19sChIJZdOhPwAZ2jERli-29M-Xa14
 https://www.google.com/maps/place/Jollibee/data=!4m7!3m6!1s0x31da19bb4de33c3d:0x926736f0fc85b85c!8m2!3d1.2945042!4d103.8579599!16s%2Fg%2F11fp8jc9zt!19sChIJPTzjTbsZ2jERXLiF_PA2Z5I
+https://www.google.com/maps/place/Snack+Attack+%28Suntec+City%29/data=!4m7!3m6!1s0x31da19000a466a27:0xd6109b51ea3a08d8!8m2!3d1.2957055!4d103.8597298!16s%2Fg%2F11vqn87l7q!19sChIJJ2pGCgAZ2jER2Ag66lGbENY
+https://www.google.com/maps/place/CoCo+ICHIBANYA+-+Suntec+City/data=!4m7!3m6!1s0x31da190065222f93:0x14093699b5327756!8m2!3d1.2957393!4d103.8594094!16s%2Fg%2F11ywx_zvnv!19sChIJky8iZQAZ2jERVncytZk2CRQ
