@@ -13542,3 +13542,7 @@ https://www.google.com/maps/place/Thom+Signature+Design/data=!4m7!3m6!1s0x31da17
 https://www.google.com/maps/place/Mr+Designer+Studio/data=!4m7!3m6!1s0x31da17a7e6b0d583:0xfc1d6180a932a1b5!8m2!3d1.3322152!4d103.8903577!16s%2Fg%2F11r9w85jqv!19sChIJg9Ww5qcX2jERtaEyqYBhHfw
 https://www.google.com/maps/place/A+%26+D+Designer%E2%80%99s+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da17b4e5555555:0xe620ff5ae87e70b4!8m2!3d1.3273193!4d103.8909011!16s%2Fg%2F11b_1nd1zx!19sChIJVVVV5bQX2jERtHB-6Fr_IOY
 https://www.google.com/maps/place/Mr+Designer+Studio/data=!4m7!3m6!1s0x31da17a7e6b0d583:0xfc1d6180a932a1b5!8m2!3d1.3322152!4d103.8903577!16s%2Fg%2F11r9w85jqv!19sChIJg9Ww5qcX2jERtaEyqYBhHfw
+https://www.google.com/maps/place/A+%26+D+Designer%E2%80%99s+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da17b4e5555555:0xe620ff5ae87e70b4!8m2!3d1.3273193!4d103.8909011!16s%2Fg%2F11b_1nd1zx!19sChIJVVVV5bQX2jERtHB-6Fr_IOY
+https://www.google.com/maps/place/Infinite+Deemarco+Pte.+Ltd./data=!4m7!3m6!1s0x31da19aefd53a0d1:0xca2396032181dcbc!8m2!3d1.2944899!4d103.8580821!16s%2Fg%2F11h51k87sz!19sChIJ0aBT_a4Z2jERvNyBIQOWI8o
+https://www.google.com/maps/place/Greeen/data=!4m7!3m6!1s0x31da17f3bf6c8571:0x46d4c69f55b0bd36!8m2!3d1.2847598!4d103.8102377!16s%2Fg%2F1pt_f2mq9!19sChIJcYVsv_MX2jERNr2wVZ_G1EY
+https://www.google.com/maps/place/Infinite+Deemarco+Pte.+Ltd./data=!4m7!3m6!1s0x31da19aefd53a0d1:0xca2396032181dcbc!8m2!3d1.2944899!4d103.8580821!16s%2Fg%2F11h51k87sz!19sChIJ0aBT_a4Z2jERvNyBIQOWI8o
