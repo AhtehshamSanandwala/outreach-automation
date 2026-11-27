@@ -13438,3 +13438,5 @@ https://www.google.com/maps/place/TSC+Offshore+Pte+Ltd/data=!4m7!3m6!1s0x31da19c
 https://www.google.com/maps/place/Sintrachem/data=!4m7!3m6!1s0x31da19af1089729b:0x4349cd0607a92f96!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F1pty8t84s!19sChIJm3KJEK8Z2jERli-pBwbNSUM
 https://www.google.com/maps/place/PEMPL+-+Expanded+Metal+Mesh+Manufacturers,+Suppliers,+Dealers+and+Traders/data=!4m7!3m6!1s0x31da19c8501c8957:0x3f3123c7e681dc5e!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11t62vjnn2!19sChIJV4kcUMgZ2jERXtyB5scjMT8
 https://www.google.com/maps/place/Hainan+Rubber+Group+%28Singapore%29+Development+Pte+Ltd/data=!4m7!3m6!1s0x31da19af037f5a69:0x4f191d00ab72add!8m2!3d1.2956745!4d103.8589973!16s%2Fg%2F1pv5y2j0x!19sChIJaVp_A68Z2jER3Sq3CtCR8QQ
+https://www.google.com/maps/place/BILZ+Vibration+Technology+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19af037f5a69:0xcb9558d9a52d2b30!8m2!3d1.2956745!4d103.8589973!16s%2Fg%2F1ptxn79gx!19sChIJaVp_A68Z2jERMCstpdlYlcs
+https://www.google.com/maps/place/Baosteel+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19af1b2b7abd:0x526cafbf8a675610!8m2!3d1.2955277!4d103.8585576!16s%2Fg%2F1vhkh1fy!19sChIJvXorG68Z2jEREFZnir-vbFI
