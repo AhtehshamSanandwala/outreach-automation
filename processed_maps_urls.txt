@@ -13578,3 +13578,5 @@ https://www.google.com/maps/place/WeWork+-+Office+Space+%26+Coworking/data=!4m7!
 https://www.google.com/maps/place/Shine+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da057f06bfcc3d:0xefd980bddcdc43b9!8m2!3d1.324954!4d103.685109!16s%2Fg%2F1vbnlxgy!19sChIJPcy_Bn8F2jERuUPc3L2A2e8
 https://www.google.com/maps/place/Star+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da16f691d89c33:0x885c441340dce598!8m2!3d1.3773284!4d103.8647369!16s%2Fg%2F1ptw5czv4!19sChIJM5zYkfYW2jERmOXcQBNEXIg
 https://www.google.com/maps/place/Shine+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da057f06bfcc3d:0xefd980bddcdc43b9!8m2!3d1.324954!4d103.685109!16s%2Fg%2F1vbnlxgy!19sChIJPcy_Bn8F2jERuUPc3L2A2e8
+https://www.google.com/maps/place/ACOT+Precision+Engineering/data=!4m7!3m6!1s0x31da1a40990cf0e5:0x8199887c7cb2f7be!8m2!3d1.3055129!4d103.7977232!16s%2Fg%2F1tmg8yt_!19sChIJ5fAMmUAa2jERvveyfHyImYE
+https://www.google.com/maps/place/Star+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da16f691d89c33:0x885c441340dce598!8m2!3d1.3773284!4d103.8647369!16s%2Fg%2F1ptw5czv4!19sChIJM5zYkfYW2jERmOXcQBNEXIg
