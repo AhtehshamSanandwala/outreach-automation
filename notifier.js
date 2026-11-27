@@ -13,16 +13,17 @@ const { exec } = require('child_process');
  */
 function notify(summary, body, options = {}) {
   const safeApp = (options.appName || 'DigiForge Outreach').replace(/["`$\\]/g, '');
-  const desktopEntry = (options.desktopEntry || 'digiforge-outreach').replace(/["`$\\']/g, '');
+  const desktopEntry = (options.desktopEntry || 'DigiForge-Outreach').replace(/["`$\\']/g, '');
   const safeTitle = (summary || safeApp).replace(/["`$\\]/g, '');
   const safeBody = (body || '').replace(/["`$\\]/g, '');
   const urgencyByte = options.urgency === 'critical' ? 2 : (options.urgency === 'low' ? 0 : 1);
   const icon = options.icon || (options.urgency === 'critical' ? 'dialog-warning' : 'mail-send');
-  const timeoutMs = options.timeoutMs || 6000;
+  const timeoutMs = options.timeoutMs !== undefined ? options.timeoutMs : -1;
 
   // 1. Freedesktop standard notification over D-Bus via gdbus
-  // Notice: hints dictionary uses transient: <false> and urgency: <byte X>
-  // This explicitly instructs KDE Plasma / GNOME to log and retain the notification in panel history!
+  // Notice: hints dictionary uses transient: <false>, resident: <true>, and exact desktop-entry.
+  // This explicitly instructs KDE Plasma / GNOME to keep the notification in the notification area
+  // after the popup banner disappears (just like Discover / system update notifications).
   const gdbusCmd = `gdbus call --session \\
     --dest org.freedesktop.Notifications \\
     --object-path /org/freedesktop/Notifications \\
@@ -33,7 +34,7 @@ function notify(summary, body, options = {}) {
     "${safeTitle}" \\
     "${safeBody}" \\
     "[]" \\
-    "{'urgency': <byte ${urgencyByte}>, 'transient': <false>, 'desktop-entry': <'${desktopEntry}'>}" \\
+    "{'urgency': <byte ${urgencyByte}>, 'transient': <false>, 'resident': <true>, 'desktop-entry': <'${desktopEntry}'>}" \\
     ${timeoutMs} >/dev/null 2>&1`;
 
   // 2. Fallback: KDE native kdialog

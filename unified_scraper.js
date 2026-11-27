@@ -1206,7 +1206,7 @@ async function scrapeUnified() {
         console.log(`📄 Data saved to: ${CSV_FILE}`);
         notify('🎉 DigiForge: Scraper Complete', `Finished all ${searches.length} searches (${totalCompanies} businesses, ${totalEmails} emails).`, {
             appName: 'DigiForge Scraper',
-            desktopEntry: 'digiforge-scraper-start',
+            desktopEntry: 'DigiForge-Scraper-Start',
             icon: 'emblem-default'
         });
     }

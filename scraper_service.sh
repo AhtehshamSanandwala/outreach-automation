@@ -16,7 +16,7 @@ notify_desktop() {
   local body="$2"
   local icon="${3:-system-search}"
   if command -v node >/dev/null 2>&1 && [ -f "$PROJECT_DIR/notifier.js" ]; then
-    node -e "require('$PROJECT_DIR/notifier.js').notify(process.argv[1], process.argv[2], { appName: 'DigiForge Scraper', desktopEntry: 'digiforge-scraper-start', icon: process.argv[3] });" "$title" "$body" "$icon" 2>/dev/null || true
+    node -e "require('$PROJECT_DIR/notifier.js').notify(process.argv[1], process.argv[2], { appName: 'DigiForge Scraper', desktopEntry: 'DigiForge-Scraper-Start', icon: process.argv[3] });" "$title" "$body" "$icon" 2>/dev/null || true
   elif command -v notify-send >/dev/null 2>&1; then
     notify-send -i "$icon" "$title" "$body" 2>/dev/null || true
   fi
