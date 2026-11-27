@@ -13342,3 +13342,4 @@ https://www.google.com/maps/place/Food+Republic+@+Suntec+City/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/The+Shirt+Bar,+Suntec+City/data=!4m7!3m6!1s0x31da19af0ec2fb21:0xa53ce0aed56c9489!8m2!3d1.2956649!4d103.8583518!16s%2Fg%2F11bzz4qmbl!19sChIJIfvCDq8Z2jERiZRs1a7gPKU
 https://www.google.com/maps/place/NingXia+Signature/data=!4m7!3m6!1s0x31da190060ac9f57:0xd5f5daedc18a1aab!8m2!3d1.2957055!4d103.8597298!16s%2Fg%2F11w4m9btym!19sChIJV5-sYAAZ2jERqxqKwe3a9dU
 https://www.google.com/maps/place/Kazo+-+Suntec+City/data=!4m7!3m6!1s0x31da19aff4e67f61:0x550d21430c4a3f37!8m2!3d1.2950106!4d103.8600037!16s%2Fg%2F11fqcsv6x9!19sChIJYX_m9K8Z2jERNz9KDEMhDVU
+https://www.google.com/maps/place/ECCO+Suntec+City+Mall/data=!4m7!3m6!1s0x31da19a8a51c9f51:0xa1d417316d52614!8m2!3d1.295825!4d103.8587866!16s%2Fg%2F1tdyyghz!19sChIJUZ8cpagZ2jERFCbVFnNBHQo
