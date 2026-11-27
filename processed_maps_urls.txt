@@ -13430,3 +13430,5 @@ https://www.google.com/maps/place/Umci+Pte+Ltd/data=!4m7!3m6!1s0x31da19aee79b2aa
 https://www.google.com/maps/place/Quonter+Pte.+Ltd./data=!4m7!3m6!1s0x31da19530d369449:0xe011b77cc1240d3c!8m2!3d1.2954045!4d103.8583555!16s%2Fg%2F11fn0j5501!19sChIJSZQ2DVMZ2jERPA0kwXy3EeA
 https://www.google.com/maps/place/Corriculite/data=!4m7!3m6!1s0x31da19aee3024c7f:0x2124bff873c9274d!8m2!3d1.2943848!4d103.858846!16s%2Fg%2F11h4djclht!19sChIJf0wC464Z2jERTSfJc_i_JCE
 https://www.google.com/maps/place/Protech+Engineering+And+Services/data=!4m7!3m6!1s0x31da178fd7e6087d:0x6734333ca3c92ece!8m2!3d1.2954127!4d103.8584698!16s%2Fg%2F1tdqdzzx!19sChIJfQjm148X2jERzi7JozwzNGc
+https://www.google.com/maps/place/BNSG+International+Pte.+Ltd/data=!4m7!3m6!1s0x31da1948c1566793:0x7cc22dfaa952cc04!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11v3kxgtjm!19sChIJk2dWwUgZ2jERBMxSqfotwnw
+https://www.google.com/maps/place/Gemoil+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da19af1b2b7abd:0xe9ba1a34652b4c55!8m2!3d1.2954623!4d103.8584563!16s%2Fg%2F1tdq3jf0!19sChIJvXorG68Z2jERVUwrZTQauuk
