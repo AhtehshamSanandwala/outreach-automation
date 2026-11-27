@@ -13520,3 +13520,5 @@ https://www.google.com/maps/place/Sushiro+Suntec+City/data=!4m7!3m6!1s0x31da19f5
 https://www.google.com/maps/place/Oceantec+Consultants+Pte.+Ltd./data=!4m7!3m6!1s0xf0e09421d35356d:0x993b063240efb1b6!8m2!3d1.314!4d103.84425!16s%2Fg%2F11wvzz51dl!19sChIJbTU1HUIJDg8RtrHvQDIGO5k
 https://www.google.com/maps/place/Wrist+Ship+Supply+Singapore/data=!4m7!3m6!1s0x31da0f4d58601de3:0x81090fbd9b46c09d!8m2!3d1.3088288!4d103.6592585!16s%2Fg%2F1v6p1sm8!19sChIJ4x1gWE0P2jERncBGm70PCYE
 https://www.google.com/maps/place/Citi+Construction+%26+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da067ae4702a91:0x16fae3e463f73e43!8m2!3d1.2975282!4d103.6262964!16s%2Fg%2F1tqyb_sv!19sChIJkSpw5HoG2jERQz73Y-Tj-hY
+https://www.google.com/maps/place/RIC+Marine+%26+Offshore+Supplies+Pte+Ltd/data=!4m7!3m6!1s0x31da0ff12d7adb19:0x2b5b1ff5417497b9!8m2!3d1.3322041!4d103.7141005!16s%2Fg%2F11cmck498q!19sChIJGdt6LfEP2jERuZd0QfUfWys
+https://www.google.com/maps/place/Francois+Marine+%26+Offshore/data=!4m7!3m6!1s0x31da0f8608b9bf85:0xe78f5c27795d44b4!8m2!3d1.3240273!4d103.6707112!16s%2Fg%2F1vyn1ck_!19sChIJhb-5CIYP2jERtERdeSdcj-c
