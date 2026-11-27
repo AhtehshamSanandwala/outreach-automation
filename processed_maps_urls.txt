@@ -13468,3 +13468,6 @@ https://www.google.com/maps/place/Polytek+Engineering/data=!4m7!3m6!1s0x31da177a
 https://www.google.com/maps/place/Quonter+Pte.+Ltd./data=!4m7!3m6!1s0x31da19530d369449:0xe011b77cc1240d3c!8m2!3d1.2954045!4d103.8583555!16s%2Fg%2F11fn0j5501!19sChIJSZQ2DVMZ2jERPA0kwXy3EeA
 https://www.google.com/maps/place/Revlight+Security/data=!4m7!3m6!1s0x31da19e34e88bc9d:0xbc222b8aea22b122!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11gk3825kv!19sChIJnbyITuMZ2jERIrEi6oorIrw
 https://www.google.com/maps/place/Corriculite/data=!4m7!3m6!1s0x31da19aee3024c7f:0x2124bff873c9274d!8m2!3d1.2943848!4d103.858846!16s%2Fg%2F11h4djclht!19sChIJf0wC464Z2jERTSfJc_i_JCE
+https://www.google.com/maps/place/Optical+Cable+Technology+Asia/data=!4m7!3m6!1s0x31da19afa8f69ee1:0xc57b2f3b8914c195!8m2!3d1.2955726!4d103.8589619!16s%2Fg%2F11b6d4_dfx!19sChIJ4Z72qK8Z2jERlcEUiTsve8U
+https://www.google.com/maps/place/Gemoil+%28Singapore%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da19af1b2b7abd:0xe9ba1a34652b4c55!8m2!3d1.2954623!4d103.8584563!16s%2Fg%2F1tdq3jf0!19sChIJvXorG68Z2jERVUwrZTQauuk
+https://www.google.com/maps/place/Kiehl%E2%80%99s+Since+1851/data=!4m7!3m6!1s0x31da19af4d7e1c5b:0x6d890fe3cb0b7c5!8m2!3d1.2938225!4d103.857143!16s%2Fg%2F1pt_bzl1p!19sChIJWxx-Ta8Z2jERxbewPP6Q2AY
