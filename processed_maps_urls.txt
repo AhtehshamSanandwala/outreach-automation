@@ -13595,3 +13595,5 @@ https://www.google.com/maps/place/Supply+Chain+City/data=!4m7!3m6!1s0x31da0fc704
 https://www.google.com/maps/place/Supply+Chain+City/data=!4m7!3m6!1s0x31da0fc704f48273:0x66ba839bb50b936f!8m2!3d1.3529827!4d103.7097888!16s%2Fg%2F11cn066zgf!19sChIJc4L0BMcP2jERb5MLtZuDumY
 https://www.google.com/maps/place/CoCo+ICHIBANYA+-+Suntec+City/data=!4m7!3m6!1s0x31da190065222f93:0x14093699b5327756!8m2!3d1.2957393!4d103.8594094!16s%2Fg%2F11ywx_zvnv!19sChIJky8iZQAZ2jERVncytZk2CRQ
 https://www.google.com/maps/place/Food+Arena+@+Suntec+City/data=!4m7!3m6!1s0x31da19003fa1d365:0x5e6b97cff4b62f96!8m2!3d1.2953835!4d103.8600137!16s%2Fg%2F11yjg1f8fw!19sChIJZdOhPwAZ2jERli-29M-Xa14
+https://www.google.com/maps/place/Food+Arena+@+Suntec+City/data=!4m7!3m6!1s0x31da19003fa1d365:0x5e6b97cff4b62f96!8m2!3d1.2953835!4d103.8600137!16s%2Fg%2F11yjg1f8fw!19sChIJZdOhPwAZ2jERli-29M-Xa14
+https://www.google.com/maps/place/Jollibee/data=!4m7!3m6!1s0x31da19bb4de33c3d:0x926736f0fc85b85c!8m2!3d1.2945042!4d103.8579599!16s%2Fg%2F11fp8jc9zt!19sChIJPTzjTbsZ2jERXLiF_PA2Z5I
