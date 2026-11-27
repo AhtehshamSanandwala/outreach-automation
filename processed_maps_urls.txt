@@ -13346,3 +13346,5 @@ https://www.google.com/maps/place/ECCO+Suntec+City+Mall/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/Cow+Play+Cow+Moo+Singapore/data=!4m7!3m6!1s0x31da19aeef4d3957:0x5bdf61892578aed8!8m2!3d1.2950242!4d103.8602465!16s%2Fg%2F11bzyybvvj!19sChIJVzlN764Z2jER2K54JYlh31s
 https://www.google.com/maps/place/Cardshack+SG/data=!4m7!3m6!1s0x31da19321e6d23f7:0xa3ea04042031df0e!8m2!3d1.295825!4d103.8587866!16s%2Fg%2F11t710dr9c!19sChIJ9yNtHjIZ2jERDt8xIAQE6qM
 https://www.google.com/maps/place/PayPal/data=!4m7!3m6!1s0x31da19af38dd2bf3:0xf0d29996d3b5a7d!8m2!3d1.2944493!4d103.8580241!16s%2Fg%2F1tgcvl4l!19sChIJ8yvdOK8Z2jERfVo7bZkpDQ8
+https://www.google.com/maps/place/SuperPark+Singapore/data=!4m7!3m6!1s0x31da193f907e7fc3:0xddbe9e5d41cd7585!8m2!3d1.2961791!4d103.8586032!16s%2Fg%2F11gtgd5k_8!19sChIJw39-kD8Z2jERhXXNQV2evt0
+https://www.google.com/maps/place/Decathlon+-+Suntec+City+%282Hrs+Click+%26+Collect%29/data=!4m7!3m6!1s0x31da19599f29251b:0x57a0def92e0fc456!8m2!3d1.2958806!4d103.8584432!16s%2Fg%2F11xgv0869z!19sChIJGyUpn1kZ2jERVsQPLvneoFc
