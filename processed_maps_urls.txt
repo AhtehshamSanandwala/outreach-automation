@@ -13746,3 +13746,5 @@ https://www.google.com/maps/place/AFON+IT+Pte+Ltd/data=!4m7!3m6!1s0x31da1aa05b65
 https://www.google.com/maps/place/NEXPLORE+%28S%29+PTE+LTD/data=!4m7!3m6!1s0x31da190f28d66793:0x47e71e0a90cf70bb!8m2!3d1.2977022!4d103.8565921!16s%2Fg%2F11j0tllr71!19sChIJk2fWKA8Z2jERu3DPkAoe50c
 https://www.google.com/maps/place/doodleblue+Innovations+Private+Limited/data=!4m7!3m6!1s0x31da170651f1ab45:0xbf13470f10042cfe!8m2!3d1.2835725!4d103.8520216!16s%2Fg%2F11c1rg46kv!19sChIJRavxUQYX2jER_iwEEA9HE78
 https://www.google.com/maps/place/Read+Bridge/data=!4m7!3m6!1s0x31da19a001275fb1:0xf25516ae7906d7cf!8m2!3d1.289203!4d103.8451037!16s%2Fm%2F026j9ny!19sChIJsV8nAaAZ2jERz9cGea4WVfI
+https://www.google.com/maps/place/Techasoft+Private+Limited/data=!4m7!3m6!1s0x3bae1442933125ef:0xf84c75e49cc9617d!8m2!3d12.9167145!4d77.6518964!16s%2Fg%2F11c6lc0_jf!19sChIJ7yUxk0IUrjsRfWHJnOR1TPg
+https://www.google.com/maps/place/Queue+Software+Associates+Worldwide+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da19b9a04e59c5:0x885909816788e624!8m2!3d1.2767434!4d103.8482644!16s%2Fg%2F11shfkr8cw!19sChIJxVlOoLkZ2jERJOaIZ4EJWYg
