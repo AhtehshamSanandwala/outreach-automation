@@ -13694,3 +13694,4 @@ https://www.google.com/maps/place/Home+Dawn+Cafe+@+Clarke+Quay/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/AMSDigital/data=!4m7!3m6!1s0x390ce162e655670b:0x8a5d3aa0a104c8df!8m2!3d28.5341198!4d77.2696741!16s%2Fg%2F11ghp26x_7!19sChIJC2dV5mLhDDkR38gEoaA6XYo
 https://www.google.com/maps/place/Margo+Digitech/data=!4m7!3m6!1s0x390d03e828dafaeb:0xb09d50ba9ffab43!8m2!3d28.6515468!4d77.144917!16s%2Fg%2F11zwnrcrw2!19sChIJ6_raKOgDDTkRQ6v_qQvVCQs
 https://www.google.com/maps/place/The+Asia+Collective+Pte+Ltd/data=!4m7!3m6!1s0x31da19e92ddf4361:0xd0a372048b814bcc!8m2!3d1.2798791!4d103.8438186!16s%2Fg%2F11r7kr1fbh!19sChIJYUPfLekZ2jERzEuBiwRyo9A
+https://www.google.com/maps/place/Brewerkz+Riverside+Point/data=!4m7!3m6!1s0x31da19195b7af921:0x1dbe7c851eb8cc7!8m2!3d1.2895951!4d103.8440046!16s%2Fg%2F1tdxyf0f!19sChIJIfl6WxkZ2jERx4zrUcjn2wE
