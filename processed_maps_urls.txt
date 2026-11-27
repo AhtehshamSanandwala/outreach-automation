@@ -13632,3 +13632,4 @@ https://www.google.com/maps/place/Clinic+Marina/data=!4m7!3m6!1s0x31da19af0f7d33
 https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da192ca9aa44ed:0x71abd016b98c6b74!8m2!3d1.293457!4d103.857186!16s%2Fg%2F11nbgwz582!19sChIJ7USqqSwZ2jERdGuMuRbQq3E
 https://www.google.com/maps/place/Mamma+Mia+Trattoria+E+Caff%C3%A8+%28Suntec+City%29/data=!4m7!3m6!1s0x31da19b0b9fd7975:0x1cace3deda23479d!8m2!3d1.2945786!4d103.8582064!16s%2Fg%2F11pd0q3pbz!19sChIJdXn9ubAZ2jERnUcj2t7jrBw
 https://www.google.com/maps/place/iSTEAKS+@+Suntec+City/data=!4m7!3m6!1s0x31da19dce6ed3fcd:0xd441ce8b5e5c097f!8m2!3d1.2959108!4d103.8585507!16s%2Fg%2F11jbdwv7mm!19sChIJzT_t5twZ2jERfwlcXovOQdQ
+https://www.google.com/maps/place/Burger+King+Suntec+City/data=!4m7!3m6!1s0x31da19af0c1ae8e7:0x888fd1075cfdd894!8m2!3d1.2952455!4d103.8600613!16s%2Fg%2F1tdjtjvs!19sChIJ5-gaDK8Z2jERlNj9XAfRj4g
