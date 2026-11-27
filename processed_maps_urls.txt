@@ -13398,3 +13398,6 @@ https://www.google.com/maps/place/SiliconCore+Technology/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Precious+Thoughts+%28Marina+Square%29/data=!4m7!3m6!1s0x31da19038c3054f9:0xa51d1b7c24a03504!8m2!3d1.2912061!4d103.8576768!16s%2Fg%2F11sd8tw5mc!19sChIJ-VQwjAMZ2jERBDWgJHwbHaU
 https://www.google.com/maps/place/Umci+Pte+Ltd/data=!4m7!3m6!1s0x31da19aee79b2aa7:0xaa82a69a0b298d54!8m2!3d1.2955307!4d103.8589474!16s%2Fg%2F1ptwl2sj3!19sChIJpyqb564Z2jERVI0pC5qmgqo
 https://www.google.com/maps/place/MS+Venture+Pte+Ltd/data=!4m7!3m6!1s0x31da17fa121e453f:0x83583eb05795cca3!8m2!3d1.3316922!4d103.9033646!16s%2Fg%2F1tdnhn1c!19sChIJP0UeEvoX2jERo8yVV7A-WIM
+https://www.google.com/maps/place/Protech+Engineering+And+Services/data=!4m7!3m6!1s0x31da178fd7e6087d:0x6734333ca3c92ece!8m2!3d1.2954127!4d103.8584698!16s%2Fg%2F1tdqdzzx!19sChIJfQjm148X2jERzi7JozwzNGc
+https://www.google.com/maps/place/COCA+@+Suntec+City+Mall/data=!4m7!3m6!1s0x31da1935b2a4f44d:0xdaea6c25bd3f6553!8m2!3d1.295283!4d103.8581775!16s%2Fg%2F11fhrpy2t9!19sChIJTfSksjUZ2jERU2U_vSVs6to
+https://www.google.com/maps/place/ViewQwest/data=!4m7!3m6!1s0x31da19af40bc3d7b:0x3e9164d6f05fd2bf!8m2!3d1.2946375!4d103.8577645!16s%2Fg%2F11cm4d8y7j!19sChIJez28QK8Z2jERv9Jf8NZkkT4
