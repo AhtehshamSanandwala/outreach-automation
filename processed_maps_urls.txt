@@ -13659,3 +13659,4 @@ https://www.google.com/maps/place/CQ+@+Clarke+Quay/data=!4m7!3m6!1s0x31da19a0380
 https://www.google.com/maps/place/Th!nkads+Pte+Ltd/data=!4m7!3m6!1s0x31da196d845f72b9:0x1fd5de06c2423897!8m2!3d1.2816971!4d103.8461421!16s%2Fg%2F1thgdjmn!19sChIJuXJfhG0Z2jERlzhCwgbe1R8
 https://www.google.com/maps/place/W+Communications/data=!4m7!3m6!1s0x31da190c55238fcb:0xdff51be3c2f81e0f!8m2!3d1.2777689!4d103.8483915!16s%2Fg%2F11fmw_fwh8!19sChIJy48jVQwZ2jERDx74wuMb9d8
 https://www.google.com/maps/place/CQ+@+Clarke+Quay/data=!4m7!3m6!1s0x31da19a038007c9d:0x20e5acd1e8ccf02!8m2!3d1.2906024!4d103.8464742!16zL20vMDcycXlf!19sChIJnXwAOKAZ2jERAs-MHs1aDgI
+https://www.google.com/maps/place/W+Communications/data=!4m7!3m6!1s0x31da190c55238fcb:0xdff51be3c2f81e0f!8m2!3d1.2777689!4d103.8483915!16s%2Fg%2F11fmw_fwh8!19sChIJy48jVQwZ2jERDx74wuMb9d8
