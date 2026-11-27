@@ -13563,3 +13563,5 @@ https://www.google.com/maps/place/Livspace/data=!4m7!3m6!1s0x31da19703f0611e5:0x
 https://www.google.com/maps/place/Livspace/data=!4m7!3m6!1s0x31da19703f0611e5:0xebe88a0c7555dc7c!8m2!3d1.29503!4d103.858303!16s%2Fg%2F11j4pywv77!19sChIJ5REGP3AZ2jERfNxVdQyK6Os
 https://www.google.com/maps/place/Whitespace+Ltd+%28Singapore%29/data=!4m7!3m6!1s0x31da1924ad98f7a7:0x301718ac39fdafdc!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11rsc4lgk_!19sChIJp_eYrSQZ2jER3K_9OawYFzA
 https://www.google.com/maps/place/Whitespace+Ltd+%28Singapore%29/data=!4m7!3m6!1s0x31da1924ad98f7a7:0x301718ac39fdafdc!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11rsc4lgk_!19sChIJp_eYrSQZ2jER3K_9OawYFzA
+https://www.google.com/maps/place/Suntec+Real+Estate+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x31da1818603fe7d5:0xf7bd43b8cb41aaab!8m2!3d1.2839773!4d103.817404!16s%2Fg%2F11fm4ylhyy!19sChIJ1ec_YBgY2jERq6pBy7hDvfc
+https://www.google.com/maps/place/Suntec+Real+Estate+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x31da1818603fe7d5:0xf7bd43b8cb41aaab!8m2!3d1.2839773!4d103.817404!16s%2Fg%2F11fm4ylhyy!19sChIJ1ec_YBgY2jERq6pBy7hDvfc
