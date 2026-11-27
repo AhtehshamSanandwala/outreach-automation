@@ -13505,3 +13505,5 @@ https://www.google.com/maps/place/Piaggio+Asia+Pacific+%28Pte%29+Ltd/data=!4m7!3
 https://www.google.com/maps/place/ISBC/data=!4m7!3m6!1s0x31da19af1023b833:0x712528dd96bc1346!8m2!3d1.2954409!4d103.8584671!16s%2Fg%2F11rqcz1kpv!19sChIJM7gjEK8Z2jERRhO8lt0oJXE
 https://www.google.com/maps/place/Calgon+Carbon+Asia+Pte.+Ltd./data=!4m7!3m6!1s0x31da19afa8e7b87d:0x3163d052aec9ae27!8m2!3d1.295475!4d103.859084!16s%2Fg%2F1td7ktyl!19sChIJfbjnqK8Z2jERJ67JrlLQYzE
 https://www.google.com/maps/place/Wrist+Ship+Supply+Singapore/data=!4m7!3m6!1s0x31da0f4d58601de3:0x81090fbd9b46c09d!8m2!3d1.3088288!4d103.6592585!16s%2Fg%2F1v6p1sm8!19sChIJ4x1gWE0P2jERncBGm70PCYE
+https://www.google.com/maps/place/RIC+Marine+%26+Offshore+Supplies+Pte+Ltd/data=!4m7!3m6!1s0x31da0ff12d7adb19:0x2b5b1ff5417497b9!8m2!3d1.3322041!4d103.7141005!16s%2Fg%2F11cmck498q!19sChIJGdt6LfEP2jERuZd0QfUfWys
+https://www.google.com/maps/place/Francois+Marine+%26+Offshore/data=!4m7!3m6!1s0x31da0f8608b9bf85:0xe78f5c27795d44b4!8m2!3d1.3240273!4d103.6707112!16s%2Fg%2F1vyn1ck_!19sChIJhb-5CIYP2jERtERdeSdcj-c
