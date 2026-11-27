@@ -13377,3 +13377,4 @@ https://www.google.com/maps/place/Josin+Pte+Ltd/data=!4m7!3m6!1s0x31da1abfccc75c
 https://www.google.com/maps/place/Welcia+Suntec+City/data=!4m7!3m6!1s0x31da196feeaf915b:0x3b41a31cb2090ad2!8m2!3d1.2953212!4d103.8597795!16s%2Fg%2F11h4lk3qhp!19sChIJW5Gv7m8Z2jER0goJshyjQTs
 https://www.google.com/maps/place/Otaku+House/data=!4m7!3m6!1s0x31da19a8a51c9f51:0xa73c824bca907b8!8m2!3d1.2958701!4d103.8588885!16s%2Fg%2F1td9smp4!19sChIJUZ8cpagZ2jERuAepvCTIcwo
 https://www.google.com/maps/place/Singapore+Godiva+Suntec+City/data=!4m7!3m6!1s0x31da19a8b2ba7c8b:0x48145bbe0437420!8m2!3d1.2936632!4d103.857191!16s%2Fg%2F1pty2pn8n!19sChIJi3y6sqgZ2jERIHRD4LtFgQQ
+https://www.google.com/maps/place/Aclium/data=!4m7!3m6!1s0x31da190003106467:0x7db2f96ab27d45a6!8m2!3d1.293789!4d103.8572326!16s%2Fg%2F11vq9mtc8t!19sChIJZ2QQAwAZ2jERpkV9smr5sn0
