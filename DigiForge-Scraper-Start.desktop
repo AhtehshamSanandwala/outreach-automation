@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=DigiForge Scraper (Start)
+Comment=Start Google Maps Business Scraper in Background
+Exec=/run/media/ahtesham/HDD/Project/DigiForgeScripts/outreach-automation/scrape_start.sh
+Icon=system-search
+Terminal=false
+Categories=Office;Network;Utility;
+StartupNotify=true
+

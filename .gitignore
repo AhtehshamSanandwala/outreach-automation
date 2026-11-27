@@ -20,5 +20,6 @@ client_secret*.json
 downloaded_files/
 form_results/*.lock
 form_results/*.log
+scraper.pid
 
 

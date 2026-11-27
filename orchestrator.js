@@ -26,6 +26,9 @@ const MAX_BATCHES_PER_DAY = parseInt(process.env.MAX_BATCHES_PER_DAY || '3', 10)
 const MIN_BREAK_MINUTES = parseInt(process.env.MIN_BREAK_MINUTES || '75', 10); // 1h 15m
 const MAX_BREAK_MINUTES = parseInt(process.env.MAX_BREAK_MINUTES || '120', 10); // 2h 00m
 const AUTO_GIT_PUSH = process.env.AUTO_GIT_PUSH !== 'false'; // Default true
+const AUTO_SCRAPE_IN_COOLDOWN = process.env.AUTO_SCRAPE_IN_COOLDOWN !== 'false'; // Default true
+const SCRAPER_SERVICE = path.join(__dirname, 'scraper_service.sh');
+const SCRAPER_PID_FILE = path.join(__dirname, 'scraper.pid');
 
 const LOCK_FILE = path.join(OUTPUT_DIR, 'orchestrator.lock');
 const STATUS_JSON = path.join(OUTPUT_DIR, 'status.json');
@@ -35,6 +38,7 @@ let currentChildProcess = null;
 let isShuttingDown = false;
 let completedBatchesToday = 0;
 let lastBatchDateStr = '';
+let scraperStartedByOrchestrator = false;
 
 // ── Timezone & Operating Hours Utilities ──────────────────────────────────────
 function getTargetTime() {
@@ -220,6 +224,69 @@ function runBatchProcess() {
   });
 }
 
+// ── Scraper Coordination Helpers ────────────────────────────────────────────
+function isScraperRunning() {
+  try {
+    if (fs.existsSync(SCRAPER_PID_FILE)) {
+      const pid = parseInt(fs.readFileSync(SCRAPER_PID_FILE, 'utf8').trim(), 10);
+      if (!isNaN(pid)) {
+        process.kill(pid, 0);
+        return true;
+      }
+    }
+  } catch (_) {}
+  try {
+    const out = execSync('pgrep -f "node.*unified_scraper.js"', { stdio: ['ignore', 'pipe', 'ignore'] }).toString().trim();
+    return out.length > 0;
+  } catch (_) {
+    return false;
+  }
+}
+
+function startScraperForCooldown() {
+  if (!AUTO_SCRAPE_IN_COOLDOWN || isShuttingDown) return;
+  if (!fs.existsSync(SCRAPER_SERVICE)) return;
+  if (isScraperRunning()) return;
+
+  try {
+    console.log(`\n🗺️  [Scraper] Outreach idle/cooldown — starting Google Maps scraper in background...`);
+    execSync(`bash "${SCRAPER_SERVICE}" start`, {
+      cwd: __dirname,
+      stdio: 'pipe',
+      env: { ...process.env, SCRAPER_SILENT: '1' }
+    });
+    scraperStartedByOrchestrator = true;
+    notify('🗺️ DigiForge: Scraper Active', 'Outreach in cooldown/off-hours — Google Maps scraper running.', {
+      icon: 'system-search'
+    });
+  } catch (err) {
+    console.log(`⚠️  [Scraper] Could not auto-start scraper: ${err.message}`);
+  }
+}
+
+function stopScraperForOutreach() {
+  if (!fs.existsSync(SCRAPER_SERVICE)) return;
+  if (!isScraperRunning()) {
+    scraperStartedByOrchestrator = false;
+    return;
+  }
+
+  try {
+    console.log(`\n🛑 [Scraper] Outreach starting — stopping Google Maps scraper cleanly...`);
+    execSync(`bash "${SCRAPER_SERVICE}" stop`, {
+      cwd: __dirname,
+      stdio: 'pipe',
+      env: { ...process.env, SCRAPER_SILENT: '1' }
+    });
+    scraperStartedByOrchestrator = false;
+    notify('🛑 DigiForge: Scraper Paused', 'Outreach starting (8am SGT / batch ready) — scraper stopped cleanly.', {
+      icon: 'process-stop'
+    });
+  } catch (err) {
+    console.log(`⚠️  [Scraper] Could not stop scraper cleanly: ${err.message}`);
+  }
+}
+
 // ── Sleep with Periodic Ticking (Resilient to PC Sleep/Suspension) ────────────
 async function sleepTick(totalMs, statusMsg) {
   const endTime = Date.now() + totalMs;
@@ -272,6 +339,7 @@ async function startOrchestrator() {
       const wakeHours = (hoursCheck.msUntilNextWindow / 3600000).toFixed(1);
       console.log(`   Sleeping until 08:00 SGT next business window (~${wakeHours} hours)...`);
       notify('🌙 DigiForge: Day Complete', `Outside Singapore business hours (8am–8pm SGT). Sleeping until 08:00 SGT tomorrow.`);
+      startScraperForCooldown();
       await sleepTick(hoursCheck.msUntilNextWindow, 'Sleeping until next business window');
       continue;
     }
@@ -280,6 +348,7 @@ async function startOrchestrator() {
     if (completedBatchesToday >= MAX_BATCHES_PER_DAY) {
       console.log(`\n🎯 [${t.timeStr}] Daily quota reached (${completedBatchesToday}/${MAX_BATCHES_PER_DAY} batches). Protecting domain reputation.`);
       notify('🌙 DigiForge: Day Complete', `Completed all ${MAX_BATCHES_PER_DAY} batches today. Sleeping until 08:00 SGT tomorrow.`);
+      startScraperForCooldown();
       // Sleep until 08:00 SGT next day
       const untilTomorrow = checkOperatingHours();
       await sleepTick(untilTomorrow.msUntilNextWindow || 3600000, 'Daily quota complete. Resting until tomorrow');
@@ -313,7 +382,8 @@ async function startOrchestrator() {
       }
     }
 
-    // 5. Execute Batch
+    // 5. Execute Batch (stop scraper first if running — e.g. at 8am SGT or end of cooldown)
+    stopScraperForOutreach();
     updateStatus('running', { 
       message: `Batch in progress (Attempt #${completedBatchesToday + 1})`,
       inhibiting_shutdown: true 
@@ -338,6 +408,7 @@ async function startOrchestrator() {
     console.log(`\n☕ Entering cooldown break of ${breakMins} minutes. Next batch scheduled at ~${nextRunTime} SGT.`);
     notify('☕ DigiForge: Cooldown', `Taking a ${breakMins}-minute break. Next batch scheduled at ${nextRunTime} SGT.`);
 
+    startScraperForCooldown();
     await sleepTick(breakMs, `Resting between batches`);
   }
 
@@ -354,6 +425,10 @@ function cleanupAndExit(code = 0) {
     try {
       currentChildProcess.kill('SIGTERM');
     } catch (_) {}
+  }
+
+  if (scraperStartedByOrchestrator) {
+    stopScraperForOutreach();
   }
 
   updateStatus('stopped', { message: 'Orchestrator stopped cleanly' });

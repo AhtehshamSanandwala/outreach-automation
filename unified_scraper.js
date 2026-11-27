@@ -86,6 +86,10 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
+let notify = () => {};
+try {
+    ({ notify } = require('./notifier'));
+} catch (_) {}
 
 // Google Apps Script Web App endpoint (deployed from code.gs) that appends
 // each scraped row to a live Google Sheet ("MapData" tab) in real time.
@@ -638,6 +642,19 @@ async function scrapeUnified() {
     }
 
     let { browser, page } = await launchScraperBrowser();
+    let scraperStopping = false;
+
+    const handleScraperShutdown = async (sig) => {
+        if (scraperStopping) return;
+        scraperStopping = true;
+        console.log(`\n🛑 Received ${sig} — saving progress and closing browser...`);
+        try { saveProgress(); } catch (_) {}
+        try { if (browser) await browser.close().catch(() => {}); } catch (_) {}
+        process.exit(0);
+    };
+    process.once('SIGINT', () => handleScraperShutdown('SIGINT'));
+    process.once('SIGTERM', () => handleScraperShutdown('SIGTERM'));
+    process.on('SIGHUP', () => {});
 
     let totalCompanies = 0;
     let totalEmails = 0;
@@ -1187,6 +1204,11 @@ async function scrapeUnified() {
         console.log(`📊 Total companies: ${totalCompanies}`);
         console.log(`📧 Total emails: ${totalEmails}`);
         console.log(`📄 Data saved to: ${CSV_FILE}`);
+        notify('🎉 DigiForge: Scraper Complete', `Finished all ${searches.length} searches (${totalCompanies} businesses, ${totalEmails} emails).`, {
+            appName: 'DigiForge Scraper',
+            desktopEntry: 'digiforge-scraper-start',
+            icon: 'emblem-default'
+        });
     }
 }
 

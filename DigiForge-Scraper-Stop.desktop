@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=DigiForge Scraper (Stop)
+Comment=Stop Google Maps Business Scraper Cleanly
+Exec=/run/media/ahtesham/HDD/Project/DigiForgeScripts/outreach-automation/scrape_stop.sh
+Icon=process-stop
+Terminal=false
+Categories=Office;Network;Utility;
+StartupNotify=true
+

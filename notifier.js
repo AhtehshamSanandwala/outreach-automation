@@ -12,7 +12,9 @@ const { exec } = require('child_process');
  * 3. Falls back gracefully to kdialog if gdbus is not present.
  */
 function notify(summary, body, options = {}) {
-  const safeTitle = (summary || 'DigiForge Outreach').replace(/["`$\\]/g, '');
+  const safeApp = (options.appName || 'DigiForge Outreach').replace(/["`$\\]/g, '');
+  const desktopEntry = (options.desktopEntry || 'digiforge-outreach').replace(/["`$\\']/g, '');
+  const safeTitle = (summary || safeApp).replace(/["`$\\]/g, '');
   const safeBody = (body || '').replace(/["`$\\]/g, '');
   const urgencyByte = options.urgency === 'critical' ? 2 : (options.urgency === 'low' ? 0 : 1);
   const icon = options.icon || (options.urgency === 'critical' ? 'dialog-warning' : 'mail-send');
@@ -20,18 +22,18 @@ function notify(summary, body, options = {}) {
 
   // 1. Freedesktop standard notification over D-Bus via gdbus
   // Notice: hints dictionary uses transient: <false> and urgency: <byte X>
-  // This explicitly instructs KDE Plasma to log and retain the notification in the panel bell history!
+  // This explicitly instructs KDE Plasma / GNOME to log and retain the notification in panel history!
   const gdbusCmd = `gdbus call --session \\
     --dest org.freedesktop.Notifications \\
     --object-path /org/freedesktop/Notifications \\
     --method org.freedesktop.Notifications.Notify \\
-    "DigiForge Outreach" \\
+    "${safeApp}" \\
     0 \\
     "${icon}" \\
     "${safeTitle}" \\
     "${safeBody}" \\
     "[]" \\
-    "{'urgency': <byte ${urgencyByte}>, 'transient': <false>, 'desktop-entry': <'digiforge-outreach'>}" \\
+    "{'urgency': <byte ${urgencyByte}>, 'transient': <false>, 'desktop-entry': <'${desktopEntry}'>}" \\
     ${timeoutMs} >/dev/null 2>&1`;
 
   // 2. Fallback: KDE native kdialog
