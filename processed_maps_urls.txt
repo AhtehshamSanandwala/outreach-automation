@@ -13573,3 +13573,4 @@ https://www.google.com/maps/place/Suntec+Tower+5/data=!4m7!3m6!1s0x31da190006f9e
 https://www.google.com/maps/place/Suntec+Tower+5/data=!4m7!3m6!1s0x31da190006f9e1d7:0xda9e8d96e6f7754c!8m2!3d1.2946082!4d103.8580416!16s%2Fg%2F11w8pjr0r3!19sChIJ1-H5BgAZ2jERTHX35paNnto
 https://www.google.com/maps/place/CEO+SUITE/data=!4m7!3m6!1s0x31da19153079d8ab:0xda2b79c97e717912!8m2!3d1.2935369!4d103.8603499!16s%2Fg%2F11kjcrqzj1!19sChIJq9h5MBUZ2jEREnlxfsl5K9o
 https://www.google.com/maps/place/CEO+SUITE/data=!4m7!3m6!1s0x31da19153079d8ab:0xda2b79c97e717912!8m2!3d1.2935369!4d103.8603499!16s%2Fg%2F11kjcrqzj1!19sChIJq9h5MBUZ2jEREnlxfsl5K9o
+https://www.google.com/maps/place/WeWork+-+Office+Space+%26+Coworking/data=!4m7!3m6!1s0x31da196e0e8a49cf:0x4372ce4291e81d17!8m2!3d1.2944906!4d103.8580161!16s%2Fg%2F11f7b56_cc!19sChIJz0mKDm4Z2jERFx3okULOckM
