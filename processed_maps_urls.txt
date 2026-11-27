@@ -13373,3 +13373,5 @@ https://www.google.com/maps/place/COCA+@+Suntec+City+Mall/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/SuperPark+Singapore/data=!4m7!3m6!1s0x31da193f907e7fc3:0xddbe9e5d41cd7585!8m2!3d1.2961791!4d103.8586032!16s%2Fg%2F11gtgd5k_8!19sChIJw39-kD8Z2jERhXXNQV2evt0
 https://www.google.com/maps/place/ViewQwest/data=!4m7!3m6!1s0x31da19af40bc3d7b:0x3e9164d6f05fd2bf!8m2!3d1.2946375!4d103.8577645!16s%2Fg%2F11cm4d8y7j!19sChIJez28QK8Z2jERv9Jf8NZkkT4
 https://www.google.com/maps/place/Decathlon+-+Suntec+City+%282Hrs+Click+%26+Collect%29/data=!4m7!3m6!1s0x31da19599f29251b:0x57a0def92e0fc456!8m2!3d1.2958806!4d103.8584432!16s%2Fg%2F11xgv0869z!19sChIJGyUpn1kZ2jERVsQPLvneoFc
+https://www.google.com/maps/place/Josin+Pte+Ltd/data=!4m7!3m6!1s0x31da1abfccc75c6d:0x8cc4878ca69e1d2f!8m2!3d1.310563!4d103.751069!16s%2Fg%2F1tcvflxm!19sChIJbVzHzL8a2jERLx2epoyHxIw
+https://www.google.com/maps/place/Welcia+Suntec+City/data=!4m7!3m6!1s0x31da196feeaf915b:0x3b41a31cb2090ad2!8m2!3d1.2953212!4d103.8597795!16s%2Fg%2F11h4lk3qhp!19sChIJW5Gv7m8Z2jER0goJshyjQTs
