@@ -13498,3 +13498,6 @@ https://www.google.com/maps/place/Vitra+Commodities+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Polytek+Engineering/data=!4m7!3m6!1s0x31da177a94879929:0xa2faff72872b5302!8m2!3d1.3347998!4d103.8582881!16s%2Fg%2F1ptwflf72!19sChIJKZmHlHoX2jERAlMrh3L_-qI
 https://www.google.com/maps/place/Sushiro+Suntec+City/data=!4m7!3m6!1s0x31da19f57b4b19f1:0x250681740b369c44!8m2!3d1.294746!4d103.8599748!16s%2Fg%2F11llk4ms_p!19sChIJ8RlLe_UZ2jERRJw2C3SBBiU
 https://www.google.com/maps/place/Revlight+Security/data=!4m7!3m6!1s0x31da19e34e88bc9d:0xbc222b8aea22b122!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11gk3825kv!19sChIJnbyITuMZ2jERIrEi6oorIrw
+https://www.google.com/maps/place/Oceantec+Consultants+Pte.+Ltd./data=!4m7!3m6!1s0xf0e09421d35356d:0x993b063240efb1b6!8m2!3d1.314!4d103.84425!16s%2Fg%2F11wvzz51dl!19sChIJbTU1HUIJDg8RtrHvQDIGO5k
+https://www.google.com/maps/place/Optical+Cable+Technology+Asia/data=!4m7!3m6!1s0x31da19afa8f69ee1:0xc57b2f3b8914c195!8m2!3d1.2955726!4d103.8589619!16s%2Fg%2F11b6d4_dfx!19sChIJ4Z72qK8Z2jERlcEUiTsve8U
+https://www.google.com/maps/place/Kiehl%E2%80%99s+Since+1851/data=!4m7!3m6!1s0x31da19af4d7e1c5b:0x6d890fe3cb0b7c5!8m2!3d1.2938225!4d103.857143!16s%2Fg%2F1pt_bzl1p!19sChIJWxx-Ta8Z2jERxbewPP6Q2AY
