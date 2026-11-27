@@ -13368,3 +13368,7 @@ https://www.google.com/maps/place/Cow+Play+Cow+Moo+Singapore/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/The+Cookie+Museum+at+The+Gallery/data=!4m7!3m6!1s0x31da193419c24b7f:0x48c2ee73ce4babd4!8m2!3d1.2936672!4d103.8569983!16s%2Fg%2F11k41jn1qf!19sChIJf0vCGTQZ2jER1KtLznPuwkg
 https://www.google.com/maps/place/Cardshack+SG/data=!4m7!3m6!1s0x31da19321e6d23f7:0xa3ea04042031df0e!8m2!3d1.295825!4d103.8587866!16s%2Fg%2F11t710dr9c!19sChIJ9yNtHjIZ2jERDt8xIAQE6qM
 https://www.google.com/maps/place/Precious+Thoughts+%28Marina+Square%29/data=!4m7!3m6!1s0x31da19038c3054f9:0xa51d1b7c24a03504!8m2!3d1.2912061!4d103.8576768!16s%2Fg%2F11sd8tw5mc!19sChIJ-VQwjAMZ2jERBDWgJHwbHaU
+https://www.google.com/maps/place/PayPal/data=!4m7!3m6!1s0x31da19af38dd2bf3:0xf0d29996d3b5a7d!8m2!3d1.2944493!4d103.8580241!16s%2Fg%2F1tgcvl4l!19sChIJ8yvdOK8Z2jERfVo7bZkpDQ8
+https://www.google.com/maps/place/COCA+@+Suntec+City+Mall/data=!4m7!3m6!1s0x31da1935b2a4f44d:0xdaea6c25bd3f6553!8m2!3d1.295283!4d103.8581775!16s%2Fg%2F11fhrpy2t9!19sChIJTfSksjUZ2jERU2U_vSVs6to
+https://www.google.com/maps/place/SuperPark+Singapore/data=!4m7!3m6!1s0x31da193f907e7fc3:0xddbe9e5d41cd7585!8m2!3d1.2961791!4d103.8586032!16s%2Fg%2F11gtgd5k_8!19sChIJw39-kD8Z2jERhXXNQV2evt0
+https://www.google.com/maps/place/ViewQwest/data=!4m7!3m6!1s0x31da19af40bc3d7b:0x3e9164d6f05fd2bf!8m2!3d1.2946375!4d103.8577645!16s%2Fg%2F11cm4d8y7j!19sChIJez28QK8Z2jERv9Jf8NZkkT4
