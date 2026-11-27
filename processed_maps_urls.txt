@@ -13401,3 +13401,6 @@ https://www.google.com/maps/place/MS+Venture+Pte+Ltd/data=!4m7!3m6!1s0x31da17fa1
 https://www.google.com/maps/place/Protech+Engineering+And+Services/data=!4m7!3m6!1s0x31da178fd7e6087d:0x6734333ca3c92ece!8m2!3d1.2954127!4d103.8584698!16s%2Fg%2F1tdqdzzx!19sChIJfQjm148X2jERzi7JozwzNGc
 https://www.google.com/maps/place/COCA+@+Suntec+City+Mall/data=!4m7!3m6!1s0x31da1935b2a4f44d:0xdaea6c25bd3f6553!8m2!3d1.295283!4d103.8581775!16s%2Fg%2F11fhrpy2t9!19sChIJTfSksjUZ2jERU2U_vSVs6to
 https://www.google.com/maps/place/ViewQwest/data=!4m7!3m6!1s0x31da19af40bc3d7b:0x3e9164d6f05fd2bf!8m2!3d1.2946375!4d103.8577645!16s%2Fg%2F11cm4d8y7j!19sChIJez28QK8Z2jERv9Jf8NZkkT4
+https://www.google.com/maps/place/BNSG+International+Pte.+Ltd/data=!4m7!3m6!1s0x31da1948c1566793:0x7cc22dfaa952cc04!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11v3kxgtjm!19sChIJk2dWwUgZ2jERBMxSqfotwnw
+https://www.google.com/maps/place/Josin+Pte+Ltd/data=!4m7!3m6!1s0x31da1abfccc75c6d:0x8cc4878ca69e1d2f!8m2!3d1.310563!4d103.751069!16s%2Fg%2F1tcvflxm!19sChIJbVzHzL8a2jERLx2epoyHxIw
+https://www.google.com/maps/place/Petrosin+Engineering+%26+Contractors+Pte+Ltd/data=!4m7!3m6!1s0x31da19af11d3fffd:0xf458a15f6e3db754!8m2!3d1.295285!4d103.85852!16s%2Fg%2F1tkqxsxq!19sChIJ_f_TEa8Z2jERVLc9bl-hWPQ
