@@ -13410,3 +13410,17 @@ https://www.google.com/maps/place/BECIS+%28Berkeley+Energy+Commercial+Industrial
 https://www.google.com/maps/place/Baosteel+Resources+Singapore+Company+Pte+Ltd/data=!4m7!3m6!1s0x31da19aee2acb187:0xe18623caf0a6b8fd!8m2!3d1.2956024!4d103.8585763!16s%2Fg%2F11h51kcg9j!19sChIJh7Gs4q4Z2jER_bim8MojhuE
 https://www.google.com/maps/place/Global+Now+Pte.+Ltd./data=!4m7!3m6!1s0xa1ec28ffefa0a45f:0xb0be601ee544fd07!8m2!3d1.2953434!4d103.8587414!16s%2Fg%2F11vc0rgbsb!19sChIJX6Sg7_8o7KERB_1E5R5gvrA
 https://www.google.com/maps/place/Royce+Innovations+Pte+Ltd/data=!4m7!3m6!1s0x31da194e412bc689:0x5ebe683c8908deee!8m2!3d1.295285!4d103.85852!16s%2Fg%2F11yn_v6bbk!19sChIJicYrQU4Z2jER7t4IiTxovl4
+https://www.google.com/maps/place/Polymet+SA+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da191340ce793b:0xec51cd88d00b0a4b!8m2!3d1.2954824!4d103.8583973!16s%2Fg%2F119vm6xl8!19sChIJO3nOQBMZ2jERSwoL0IjNUew
+https://www.google.com/maps/place/honest+%26+gentle/data=!4m7!3m6!1s0x31da19b03e3c25c1:0x8f77d3096929f70c!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11qrtz22n7!19sChIJwSU8PrAZ2jERDPcpaQnTd48
+https://www.google.com/maps/place/Evita+Peroni/data=!4m7!3m6!1s0x31da19af00b4032b:0x3925342bc572cc15!8m2!3d1.295968!4d103.858967!16s%2Fg%2F11cs5s4lk0!19sChIJKwO0AK8Z2jERFcxyxSs0JTk
+https://www.google.com/maps/place/MedSEA+Forte+Pte+Ltd/data=!4m7!3m6!1s0x28b2f475400ee0a1:0x3c8153458507550!8m2!3d1.2953522!4d103.8584051!16s%2Fg%2F11tg2nzl9h!19sChIJoeAOQHX0sigRUHVQWDQVyAM
+https://www.google.com/maps/place/5BERS+Pte+Ltd/data=!4m7!3m6!1s0x31da19cdb4323913:0xc608f00c06ab1c60!8m2!3d1.2954409!4d103.8584671!16s%2Fg%2F11pyn9nxyy!19sChIJEzkytM0Z2jERYByrBgzwCMY
+https://www.google.com/maps/place/Kisco+%28Asia%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da1be3c913b3bd:0x412902762cb19bb2!8m2!3d1.2957787!4d103.8583705!16s%2Fg%2F1tl1kz_q!19sChIJvbMTyeMb2jERspuxLHYCKUE
+https://www.google.com/maps/place/Prime+Force+Engineering+%26+Construction+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d90109c6ef9:0x76ee453a9584cee7!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11h07pzylz!19sChIJ-W6cEJA92jER586ElTpF7nY
+https://www.google.com/maps/place/TP-Link+Corporation+Pte.+Ltd./data=!4m7!3m6!1s0x31da178fdf1deecf:0xe1c88150cf78e7ad!8m2!3d1.2955159!4d103.8584922!16s%2Fg%2F1ptybmv_r!19sChIJz-4d348X2jERred4z1CByOE
+https://www.google.com/maps/place/Verean+Pte+Ltd/data=!4m7!3m6!1s0x31da19af037f5a69:0x9a3da5fe167ce52c!8m2!3d1.2956745!4d103.8589973!16s%2Fg%2F1pty45w9s!19sChIJaVp_A68Z2jERLOV8Fv6lPZo
+https://www.google.com/maps/place/Tong+Teik+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da19af0fcf0c0f:0x3a748a0669a17d1a!8m2!3d1.295448!4d103.8585167!16s%2Fg%2F1tqyc03n!19sChIJDwzPD68Z2jERGn2haQaKdDo
+https://www.google.com/maps/place/WorldLink+Technologies+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da17862d347e1b:0x84eb33b4b4e9647e!8m2!3d1.2955882!4d103.8590484!16s%2Fg%2F1ptz81mql!19sChIJG340LYYX2jERfmTptLQz64Q
+https://www.google.com/maps/place/Maka+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da17f09b07afd7:0x94e2ea13cb7cf1b9!8m2!3d1.2953522!4d103.8584266!16s%2Fg%2F1ptwppj8m!19sChIJ168Hm_AX2jERufF8yxPq4pQ
+https://www.google.com/maps/place/Petrosin+Corporation+Pte.+Ltd./data=!4m7!3m6!1s0x31da19af0fcf0c0f:0x8b300a50b6b442dc!8m2!3d1.2955401!4d103.8584175!16s%2Fg%2F1tkrj9v7!19sChIJDwzPD68Z2jER3EK0tlAKMIs
+https://www.google.com/maps/place/Dune+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da198e3028b40b:0xe58cfbd8a381e6f7!8m2!3d1.2956181!4d103.858971!16s%2Fg%2F11pvm07zqv!19sChIJC7QoMI4Z2jER9-aBo9j7jOU
