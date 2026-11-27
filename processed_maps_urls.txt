@@ -13587,3 +13587,5 @@ https://www.google.com/maps/place/Precision+Products+Singapore+Pte+Ltd/data=!4m7
 https://www.google.com/maps/place/Alcotec+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da17c782a3d181:0xdfa3f11045a1e6e2!8m2!3d1.3518134!4d103.8920154!16s%2Fg%2F1w_vkt5b!19sChIJgdGjgscX2jER4uahRRDxo98
 https://www.google.com/maps/place/Swift+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da106ddd694353:0x4917a77c9085b9e6!8m2!3d1.3444837!4d103.7503264!16s%2Fg%2F1wg5vhsr!19sChIJU0Np3W0Q2jER5rmFkHynF0k
 https://www.google.com/maps/place/Parts+Precision+Technology%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1367cccc26e7:0xf03a6288aa6f2ceb!8m2!3d1.4451027!4d103.8128413!16s%2Fg%2F11b6nld4cb!19sChIJ5ybMzGcT2jER6yxvqohiOvA
+https://www.google.com/maps/place/Alcotec+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da17c782a3d181:0xdfa3f11045a1e6e2!8m2!3d1.3518134!4d103.8920154!16s%2Fg%2F1w_vkt5b!19sChIJgdGjgscX2jER4uahRRDxo98
+https://www.google.com/maps/place/Parts+Precision+Technology%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da1367cccc26e7:0xf03a6288aa6f2ceb!8m2!3d1.4451027!4d103.8128413!16s%2Fg%2F11b6nld4cb!19sChIJ5ybMzGcT2jER6yxvqohiOvA
