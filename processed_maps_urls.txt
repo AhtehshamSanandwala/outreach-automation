@@ -13344,3 +13344,4 @@ https://www.google.com/maps/place/NingXia+Signature/data=!4m7!3m6!1s0x31da190060
 https://www.google.com/maps/place/Kazo+-+Suntec+City/data=!4m7!3m6!1s0x31da19aff4e67f61:0x550d21430c4a3f37!8m2!3d1.2950106!4d103.8600037!16s%2Fg%2F11fqcsv6x9!19sChIJYX_m9K8Z2jERNz9KDEMhDVU
 https://www.google.com/maps/place/ECCO+Suntec+City+Mall/data=!4m7!3m6!1s0x31da19a8a51c9f51:0xa1d417316d52614!8m2!3d1.295825!4d103.8587866!16s%2Fg%2F1tdyyghz!19sChIJUZ8cpagZ2jERFCbVFnNBHQo
 https://www.google.com/maps/place/Cow+Play+Cow+Moo+Singapore/data=!4m7!3m6!1s0x31da19aeef4d3957:0x5bdf61892578aed8!8m2!3d1.2950242!4d103.8602465!16s%2Fg%2F11bzyybvvj!19sChIJVzlN764Z2jER2K54JYlh31s
+https://www.google.com/maps/place/Cardshack+SG/data=!4m7!3m6!1s0x31da19321e6d23f7:0xa3ea04042031df0e!8m2!3d1.295825!4d103.8587866!16s%2Fg%2F11t710dr9c!19sChIJ9yNtHjIZ2jERDt8xIAQE6qM
