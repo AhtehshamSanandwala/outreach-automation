@@ -13486,3 +13486,6 @@ https://www.google.com/maps/place/BYD+Suntec+City+1826/data=!4m7!3m6!1s0x31da19e
 https://www.google.com/maps/place/CMI+Global+Holding+Pte+Ltd/data=!4m7!3m6!1s0x31da19af022800f3:0x6ca056ea2a9d122f!8m2!3d1.2955706!4d103.8589381!16s%2Fg%2F11fm4yjzwl!19sChIJ8wAoAq8Z2jERLxKdKupWoGw
 https://www.google.com/maps/place/Marina+Technology+%26+Construction+Pte.+Ltd./data=!4m7!3m6!1s0x31da1bcd8b4b884b:0x95575f4c7954ae18!8m2!3d1.2801586!4d103.822891!16s%2Fg%2F11c1wszkdy!19sChIJS4hLi80b2jERGK5UeUxfV5U
 https://www.google.com/maps/place/Orbray+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19af022800f3:0xdd2b5ee929d4cba5!8m2!3d1.2956778!4d103.8589961!16s%2Fg%2F11hz17b2h6!19sChIJ8wAoAq8Z2jERpcvUKeleK90
+https://www.google.com/maps/place/Bestec+Marine+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da059f0583a0ed:0x5c9e75e70a063bf7!8m2!3d1.3340531!4d103.6970232!16s%2Fg%2F11bwhb0bv9!19sChIJ7aCDBZ8F2jER9zsGCud1nlw
+https://www.google.com/maps/place/G3+MULTINATIONAL+PTE.+LTD./data=!4m7!3m6!1s0x31da199e9542849b:0x3239f937dcd95f20!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11y3npdpkh!19sChIJm4RClZ4Z2jERIF_Z3Df5OTI
+https://www.google.com/maps/place/Flotech+Controls+Pte+Ltd/data=!4m7!3m6!1s0x31da16b698c645ed:0xf701e092a8842616!8m2!3d1.3863101!4d103.8280339!16s%2Fg%2F1tpf4nld!19sChIJ7UXGmLYW2jERFiaEqJLgAfc
