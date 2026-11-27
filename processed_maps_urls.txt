@@ -13682,3 +13682,6 @@ https://www.google.com/maps/place/Cardinal+Digital/data=!4m7!3m6!1s0x31da1997542
 https://www.google.com/maps/place/TheSmartLocal/data=!4m7!3m6!1s0x31da19d0f5bb208d:0x341d8a89a121a943!8m2!3d1.3194279!4d103.866238!16s%2Fg%2F11clwcn6cx!19sChIJjSC79dAZ2jERQ6khoYmKHTQ
 https://www.google.com/maps/place/Royal+Org+Pte.+Ltd./data=!4m7!3m6!1s0x31da19126e458569:0x7f3ba36384de31ef!8m2!3d1.2872281!4d103.849359!16s%2Fg%2F11qnk7rsky!19sChIJaYVFbhIZ2jER7zHehGOjO38
 https://www.google.com/maps/place/TheSmartLocal/data=!4m7!3m6!1s0x31da19d0f5bb208d:0x341d8a89a121a943!8m2!3d1.3194279!4d103.866238!16s%2Fg%2F11clwcn6cx!19sChIJjSC79dAZ2jERQ6khoYmKHTQ
+https://www.google.com/maps/place/Relevant+Audience+Digital+Agency/data=!4m7!3m6!1s0x30e29f176497ba05:0x5173440a4d27ef66!8m2!3d13.6821341!4d100.6098743!16s%2Fg%2F11ghzsygmk!19sChIJBbqXZBef4jARZu8nTQpEc1E
+https://www.google.com/maps/place/Clarke+Quay+Central/data=!4m7!3m6!1s0x31da190a9bbec0d7:0x4d829ccbc19a9496!8m2!3d1.2890252!4d103.8466098!16s%2Fm%2F02wx23q!19sChIJ18C-mwoZ2jERlpSawcucgk0
+https://www.google.com/maps/place/Clarke+Quay+Central/data=!4m7!3m6!1s0x31da190a9bbec0d7:0x4d829ccbc19a9496!8m2!3d1.2890252!4d103.8466098!16s%2Fm%2F02wx23q!19sChIJ18C-mwoZ2jERlpSawcucgk0
