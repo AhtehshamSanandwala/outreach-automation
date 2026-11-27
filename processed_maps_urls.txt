@@ -13567,3 +13567,7 @@ https://www.google.com/maps/place/Suntec+Real+Estate+Consultants+Pte+Ltd/data=!4
 https://www.google.com/maps/place/Suntec+Real+Estate+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x31da1818603fe7d5:0xf7bd43b8cb41aaab!8m2!3d1.2839773!4d103.817404!16s%2Fg%2F11fm4ylhyy!19sChIJ1ec_YBgY2jERq6pBy7hDvfc
 https://www.google.com/maps/place/Ace+Decision+Facilities+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da1927cf2979c3:0x241e314687ebba9f!8m2!3d1.3084225!4d103.8619854!16s%2Fg%2F11ppzbnr6s!19sChIJw3kpzycZ2jERn7rrh0YxHiQ
 https://www.google.com/maps/place/Ace+Decision+Facilities+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da1927cf2979c3:0x241e314687ebba9f!8m2!3d1.3084225!4d103.8619854!16s%2Fg%2F11ppzbnr6s!19sChIJw3kpzycZ2jERn7rrh0YxHiQ
+https://www.google.com/maps/place/Hei+Homes/data=!4m7!3m6!1s0x31da19285631fde9:0x7dafa3ac04356ce2!8m2!3d1.2953537!4d103.8582901!16s%2Fg%2F11hzx3_p9b!19sChIJ6f0xVigZ2jER4mw1BKyjr30
+https://www.google.com/maps/place/Hei+Homes/data=!4m7!3m6!1s0x31da19285631fde9:0x7dafa3ac04356ce2!8m2!3d1.2953537!4d103.8582901!16s%2Fg%2F11hzx3_p9b!19sChIJ6f0xVigZ2jER4mw1BKyjr30
+https://www.google.com/maps/place/Suntec+Tower+5/data=!4m7!3m6!1s0x31da190006f9e1d7:0xda9e8d96e6f7754c!8m2!3d1.2946082!4d103.8580416!16s%2Fg%2F11w8pjr0r3!19sChIJ1-H5BgAZ2jERTHX35paNnto
+https://www.google.com/maps/place/Suntec+Tower+5/data=!4m7!3m6!1s0x31da190006f9e1d7:0xda9e8d96e6f7754c!8m2!3d1.2946082!4d103.8580416!16s%2Fg%2F11w8pjr0r3!19sChIJ1-H5BgAZ2jERTHX35paNnto
