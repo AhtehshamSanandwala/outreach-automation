@@ -13613,3 +13613,5 @@ https://www.google.com/maps/place/Chopstix+%26+Rice+%7C+Indonesian+Restaurant+%7
 https://www.google.com/maps/place/Dookki/data=!4m7!3m6!1s0x31da19aee60b4caf:0x803c8eba306ed6f6!8m2!3d1.2948702!4d103.8595897!16s%2Fg%2F11dyp0stkk!19sChIJr0wL5q4Z2jER9tZuMLqOPIA
 https://www.google.com/maps/place/Sanook+Kitchen+-+Suntec+City/data=!4m7!3m6!1s0x31da196ffb35434f:0xdc945c43bc3f22da!8m2!3d1.2951958!4d103.8587051!16s%2Fg%2F11j0h7wrwf!19sChIJT0M1-28Z2jER2iI_vENclNw
 https://www.google.com/maps/place/Penang+Place+Restaurant+%26+Catering/data=!4m7!3m6!1s0x31da1a4558434881:0x5153ad05b2362e0a!8m2!3d1.2939416!4d103.8570489!16s%2Fg%2F1td___9c!19sChIJgUhDWEUa2jERCi42sgWtU1E
+https://www.google.com/maps/place/McDonald%27s+Suntec+City/data=!4m7!3m6!1s0x31da19a8a51c9f51:0x3649aff550ba0d8f!8m2!3d1.2949421!4d103.8597609!16s%2Fg%2F1hc10cz1j!19sChIJUZ8cpagZ2jERjw26UPWvSTY
+https://www.google.com/maps/place/Bali+Thai/data=!4m7!3m6!1s0x31da19a8a51c9f51:0x89a50a45338bee19!8m2!3d1.2943391!4d103.8582311!16s%2Fg%2F1tdxyf0w!19sChIJUZ8cpagZ2jERGe6LM0UKpYk
