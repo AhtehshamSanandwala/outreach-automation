@@ -15079,3 +15079,5 @@ https://www.google.com/maps/place/HEI+Architects/data=!4m7!3m6!1s0x31da19cbb7d1d
 https://www.google.com/maps/place/Studio+D%E2%80%99+Interior/data=!4m7!3m6!1s0x31da17c9cac8de09:0x4e9e2be35926ba01!8m2!3d1.333496!4d103.8918092!16s%2Fg%2F11s9dp4sf1!19sChIJCd7IyskX2jERAbomWeMrnk4
 https://www.google.com/maps/place/BDP/data=!4m7!3m6!1s0x31da19c938329f59:0x143ed38fd1169605!8m2!3d1.2783407!4d103.8508838!16s%2Fg%2F11vkbnr5ht!19sChIJWZ8yOMkZ2jERBZYW0Y_TPhQ
 https://www.google.com/maps/place/Getch+D+Projects+%26+Interior/data=!4m7!3m6!1s0x31da19029770c6df:0xe83a80b3f169c038!8m2!3d1.3028252!4d103.849411!16s%2Fg%2F11w1cv939l!19sChIJ38ZwlwIZ2jEROMBp8bOAOug
+https://www.google.com/maps/place/Project+L+Studio/data=!4m7!3m6!1s0x31da176a8d501449:0x76b7abe8045c2dd9!8m2!3d1.3320649!4d103.8908485!16s%2Fg%2F11txhqhl9y!19sChIJSRRQjWoX2jER2S1cBOirt3Y
+https://www.google.com/maps/place/Aamer+Taher/data=!4m7!3m6!1s0x31da1a153374dadd:0x87089ec974f1b452!8m2!3d1.291072!4d103.8148302!16s%2Fg%2F1tf_dyjr!19sChIJ3dp0MxUa2jERUrTxdMmeCIc
