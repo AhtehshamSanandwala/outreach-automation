@@ -14490,3 +14490,6 @@ https://www.google.com/maps/place/DIVMOB/data=!4m7!3m6!1s0x31da192eb499a667:0x78
 https://www.google.com/maps/place/SMEs+Go+Digital/data=!4m7!3m6!1s0x31da18188d022b0d:0xab971de750ecb5e2!8m2!3d1.3197133!4d103.8924831!16s%2Fg%2F11h52s40f3!19sChIJDSsCjRgY2jER4rXsUOcdl6s
 https://www.google.com/maps/place/BPS+World/data=!4m7!3m6!1s0x31da1911a6555555:0x4b122b96357cd0f4!8m2!3d1.2774899!4d103.8526038!16s%2Fg%2F11hz17p0rp!19sChIJVVVVphEZ2jER9NB8NZYrEks
 https://www.google.com/maps/place/Actualize+CrossFit+%26+Hyrox/data=!4m7!3m6!1s0x31da178e09933dd9:0x34f251d87c63f42b!8m2!3d1.3098924!4d103.8581056!16s%2Fg%2F11bvt3zpz1!19sChIJ2T2TCY4X2jERK_RjfNhR8jQ
+https://www.google.com/maps/place/https:%2F%2Fwww.foundit.sg%2F/data=!4m7!3m6!1s0x31da19af8256dc8b:0xee78e63ab783239f!8m2!3d1.2880169!4d103.8477094!16s%2Fg%2F1tdxmz7p!19sChIJi9xWgq8Z2jERnyODtzrmeO4
+https://www.google.com/maps/place/Best+Denki+%28VivoCity%29/data=!4m7!3m6!1s0x31da1958a3aaaaab:0x703d225ec8af20c2!8m2!3d1.2646805!4d103.8224081!16s%2Fg%2F1tf21lr8!19sChIJq6qqo1gZ2jERwiCvyF4iPXA
+https://www.google.com/maps/place/dhost+Global,+Inc/data=!4m7!3m6!1s0x31da195b0a5cc541:0x98688d1957f5590d!8m2!3d1.3201798!4d103.8901193!16s%2Fg%2F11rhx5qb0m!19sChIJQcVcClsZ2jERDVn1VxmNaJg
