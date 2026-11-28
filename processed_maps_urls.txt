@@ -13783,3 +13783,7 @@ https://www.google.com/maps/place/ACTIOPORT+-+Technology+%26+Innovation+Company+
 https://www.google.com/maps/place/Codesurance+Pte.+Ltd./data=!4m7!3m6!1s0x31da19330e083a77:0xf44f0f0b9a7accd5!8m2!3d1.2990794!4d103.8537523!16s%2Fg%2F11mhfsnktm!19sChIJdzoIDjMZ2jER1cx6mgsPT_Q
 https://www.google.com/maps/place/Read+Bridge/data=!4m7!3m6!1s0x31da19a001275fb1:0xf25516ae7906d7cf!8m2!3d1.289203!4d103.8451037!16s%2Fm%2F026j9ny!19sChIJsV8nAaAZ2jERz9cGea4WVfI
 https://www.google.com/maps/place/TRooTech+Business+Solutions+Pvt.+Ltd./data=!4m7!3m6!1s0x395e8f517cd780bd:0x5572b30b83d97891!8m2!3d23.0282319!4d72.4988084!16s%2Fg%2F11bxb9z9m2!19sChIJvYDXfFGPXjkRkXjZgwuzclU
+https://www.google.com/maps/place/Techasoft+Private+Limited/data=!4m7!3m6!1s0x3bae1442933125ef:0xf84c75e49cc9617d!8m2!3d12.9167145!4d77.6518964!16s%2Fg%2F11c6lc0_jf!19sChIJ7yUxk0IUrjsRfWHJnOR1TPg
+https://www.google.com/maps/place/RIVERSTONEDEVS+PTE.+LTD./data=!4m7!3m6!1s0x31da17ded3553c97:0xee131d33b9a5b211!8m2!3d1.3412684!4d103.8766193!16s%2Fg%2F11z515tgh0!19sChIJlzxV094X2jEREbKluTMdE-4
+https://www.google.com/maps/place/Xantec+Solutions+Sdn+Bhd/data=!4m7!3m6!1s0x31da6c289f8c59ad:0xe9ea5fe0fc60e9d6!8m2!3d1.5476152!4d103.7816392!16s%2Fg%2F1tfd9_2p!19sChIJrVmMnyhs2jER1ulg_OBf6uk
+https://www.google.com/maps/place/Holiday+Inn+Express+Singapore+Clarke+Quay+by+IHG/data=!4m10!3m9!1s0x31da19757ec62043:0xc2cb488bc762d24b!5m2!4m1!1i2!8m2!3d1.2891213!4d103.8419682!16s%2Fg%2F1pp2x8ty5!19sChIJQyDGfnUZ2jERS9Jix4tIy8I
