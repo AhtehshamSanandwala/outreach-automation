@@ -13908,3 +13908,4 @@ https://www.google.com/maps/place/HipVan/data=!4m7!3m6!1s0x31da1974b15e6a1b:0x1a
 https://www.google.com/maps/place/Tan+%2B+Tsakonas+Architects+LLP/data=!4m7!3m6!1s0x31da1985eee74cc7:0xc5ffeeb343af2f3f!8m2!3d1.3191725!4d103.8925563!16s%2Fg%2F1v6wlvlr!19sChIJx0zn7oUZ2jERPy-vQ7Pu_8U
 https://www.google.com/maps/place/Board+of+Architects+%28BOA%29/data=!4m7!3m6!1s0x31da1912b8578811:0x6b5e720d6eba45eb!8m2!3d1.2786803!4d103.8457128!16s%2Fg%2F1tlc5lhr!19sChIJEYhXuBIZ2jER60W6bg1yXms
 https://www.google.com/maps/place/Formspace+Architects/data=!4m7!3m6!1s0x31da1714de1aaaab:0x672765b4d6e0bf93!8m2!3d1.3463946!4d103.8480292!16s%2Fg%2F11qpkcq0jc!19sChIJq6oa3hQX2jERk7_g1rRlJ2c
+https://www.google.com/maps/place/CHIO+Architects/data=!4m7!3m6!1s0x8f1c22734744fa91:0x230631e11d89d898!8m2!3d1.314!4d103.84425!16s%2Fg%2F11sr8l9z5s!19sChIJkfpER3MiHI8RmNiJHeExBiM
