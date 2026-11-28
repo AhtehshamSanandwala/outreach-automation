@@ -15610,3 +15610,6 @@ https://www.google.com/maps/place/Ong+Teng+Chong+Building+Contractor+Pte+Ltd/dat
 https://www.google.com/maps/place/Fonda+Global+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da05c337111679:0x6b71893aa9262659!8m2!3d1.326983!4d103.702594!16s%2Fg%2F11s2q2n_cl!19sChIJeRYRN8MF2jERWSYmqTqJcWs
 https://www.google.com/maps/place/81+Electrical/data=!4m7!3m6!1s0x31da115356f793e5:0xd13db4bddbd9345c!8m2!3d1.3375285!4d103.7547136!16s%2Fg%2F11wg89j6tl!19sChIJ5ZP3VlMR2jERXDTZ2720PdE
 https://www.google.com/maps/place/Mr+Shopper+Studio/data=!4m7!3m6!1s0x31da17f309224e91:0x37f69b34e2935184!8m2!3d1.333427!4d103.8942808!16s%2Fg%2F11bzq4j5p6!19sChIJkU4iCfMX2jERhFGT4jSb9jc
+https://www.google.com/maps/place/Comuna+Interiors+Pte+Ltd/data=!4m7!3m6!1s0x31da19a835ff9d79:0x77e00e29bb5258db!8m2!3d1.2989163!4d103.8519697!16s%2Fg%2F11s2s3b_8p!19sChIJeZ3_NagZ2jER21hSuykO4Hc
+https://www.google.com/maps/place/Joyous+Contractor+Pte+Ltd/data=!4m7!3m6!1s0x31da17e5193a5903:0xaccaa35c0d4eda3a!8m2!3d1.3367788!4d103.7543671!16s%2Fg%2F11c59w0g2l!19sChIJA1k6GeUX2jEROtpODVyjyqw
+https://www.google.com/maps/place/Double+H+Construction/data=!4m7!3m6!1s0x31da12238429bdf7:0xee9882e9cedbf2e3!8m2!3d1.4087326!4d103.7574587!16s%2Fg%2F11dzw3_s7_!19sChIJ970phCMS2jER4_LbzumCmO4
