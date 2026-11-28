@@ -13946,3 +13946,6 @@ https://www.google.com/maps/place/Modern-Pak+Pte+Ltd/data=!4m7!3m6!1s0x31da178b5
 https://www.google.com/maps/place/Nike+Employee+Store/data=!4m7!3m6!1s0x31da1964c3ce412b:0x6122c8f510edf53c!8m2!3d1.2895277!4d103.8439076!16s%2Fg%2F11h51k4nyc!19sChIJK0HOw2QZ2jERPPXtEPXIImE
 https://www.google.com/maps/place/CL+Packaging/data=!4m7!3m6!1s0x31da17d3a486cedf:0x772cbb70637ffa19!8m2!3d1.3598453!4d103.8344825!16s%2Fg%2F11ypxkzr_k!19sChIJ386GpNMX2jERGfp_Y3C7LHc
 https://www.google.com/maps/place/Woods+Pharmacy+Pte+Ltd/data=!4m7!3m6!1s0x31da199c6a4ff255:0xfe8a7858fb14b090!8m2!3d1.2893848!4d103.8472753!16s%2Fg%2F11t79kn450!19sChIJVfJPapwZ2jERkLAU-1h4iv4
+https://www.google.com/maps/place/MJI+Universal+Pte+Ltd/data=!4m7!3m6!1s0x31da191263ec830f:0x8a2b400b4b818b45!8m2!3d1.2891137!4d103.8466671!16s%2Fg%2F1ptzvp0gy!19sChIJD4PsYxIZ2jERRYuBSwtAK4o
+https://www.google.com/maps/place/Tobe+Packaging+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da182ecc4592db:0x605ad2569d81dd0f!8m2!3d1.4545832!4d103.8091562!16s%2Fg%2F1tdb6by0!19sChIJ25JFzC4Y2jERD92BnVbSWmA
+https://www.google.com/maps/place/Laser+Packaging+Machine+Mfg+Pte+Ltd+-+Food+Packaging+Supplier/data=!4m7!3m6!1s0x31da106e5aaaaaab:0x4fdcf2b07ff8763e!8m2!3d1.3386674!4d103.7592394!16s%2Fg%2F1thmhhgc!19sChIJq6qqWm4Q2jERPnb4f7Dy3E8
