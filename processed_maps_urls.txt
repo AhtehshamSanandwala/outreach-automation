@@ -14305,3 +14305,5 @@ https://www.google.com/maps/place/Dhoby+Ghaut+Green/data=!4m7!3m6!1s0x31da19a2cd
 https://www.google.com/maps/place/Isuccess+Solutions/data=!4m7!3m6!1s0x31da19bb6470a4af:0xec98afeee48d9aa3!8m2!3d1.3002738!4d103.8511982!16s%2Fg%2F1tj98j6s!19sChIJr6RwZLsZ2jERo5qN5O6vmOw
 https://www.google.com/maps/place/Books+Kinokuniya+Singapore+Main+Store/data=!4m7!3m6!1s0x31da1991f17e993b:0x3f3e660ed88690d5!8m2!3d1.3031127!4d103.8341236!16s%2Fg%2F1tfsqd7q!19sChIJO5l-8ZEZ2jER1ZCG2A5mPj8
 https://www.google.com/maps/place/Kaplan+City+Campus+@+Wilkie+Edge/data=!4m7!3m6!1s0x31da1974c7bac785:0x70ecfa5b1304fd12!8m2!3d1.3022928!4d103.8497956!16s%2Fg%2F11b77p9bz8!19sChIJhce6x3QZ2jEREv0EE1v67HA
+https://www.google.com/maps/place/Triple+D+Minilab+Centre/data=!4m7!3m6!1s0x31da19bbc442cc39:0xde3946d2aa75a35d!8m2!3d1.3019076!4d103.8526537!16s%2Fg%2F1td3n_sh!19sChIJOcxCxLsZ2jERXaN1qtJGOd4
+https://www.google.com/maps/place/Performance+Launchpad/data=!4m7!3m6!1s0x31da199b1261f979:0x39d8819e784c06c7!8m2!3d1.2864334!4d103.84914!16s%2Fg%2F11fm_m139s!19sChIJeflhEpsZ2jERxwZMeJ6B2Dk
