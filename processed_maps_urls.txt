@@ -15060,3 +15060,5 @@ https://www.google.com/maps/place/arche+design+co/data=!4m7!3m6!1s0x31da19cbeff5
 https://www.google.com/maps/place/DI%2B+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da17a7cd9fd9c3:0x47542af9aa0da98c!8m2!3d1.3334416!4d103.8917436!16s%2Fg%2F11l6j4nzn8!19sChIJw9mfzacX2jERjKkNqvkqVEc
 https://www.google.com/maps/place/Dary+Design+Pte+Ltd/data=!4m7!3m6!1s0x31da195131f20f49:0x6c8b2705f90bf1e!8m2!3d1.2895385!4d103.8496034!16s%2Fg%2F11x312v0dt!19sChIJSQ_yMVEZ2jERHr-QX3CyyAY
 https://www.google.com/maps/place/Dwell+Projects+Architects/data=!4m7!3m6!1s0x31da19c8269df3e5:0x9a825b4931bdfbf5!8m2!3d1.3082056!4d103.8584469!16s%2Fg%2F1ptxc5_n1!19sChIJ5fOdJsgZ2jER9fu9MUlbgpo
+https://www.google.com/maps/place/Architology+Interiors/data=!4m7!3m6!1s0x31da1a231ee49503:0x37275ad95298737d!8m2!3d1.3124722!4d103.8642149!16s%2Fg%2F11cm03f7t1!19sChIJA5XkHiMa2jERfXOYUtlaJzc
+https://www.google.com/maps/place/ACO+Architects+LLP/data=!4m7!3m6!1s0x31da1988e53491f3:0x86085e4be39af297!8m2!3d1.3064839!4d103.8565314!16s%2Fg%2F11gy9l_p5t!19sChIJ85E05YgZ2jERl_Ka40teCIY
