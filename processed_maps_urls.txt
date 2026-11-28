@@ -13757,3 +13757,5 @@ https://www.google.com/maps/place/Paradox+Singapore+Merchant+Court/data=!4m7!3m6
 https://www.google.com/maps/place/Code+Factor+Solutions/data=!4m7!3m6!1s0x31da19b46f8b22bb:0xa378b04cf3220fb7!8m2!3d1.2786632!4d103.8474008!16s%2Fg%2F11svj1731b!19sChIJuyKLb7QZ2jERtw8i80yweKM
 https://www.google.com/maps/place/Fortunesoft+IT+Innovations+Pte.+Ltd./data=!4m7!3m6!1s0x31da199477491a67:0x70002920bf6097fc!8m2!3d1.2828776!4d103.8499315!16s%2Fg%2F11f6544qcy!19sChIJZxpJd5QZ2jER_JdgvyApAHA
 https://www.google.com/maps/place/Intelligent+IT+Hub+Pvt.+Ltd.+%28IIH+Global%29/data=!4m7!3m6!1s0x395e834958740eb5:0xc88145a216adcbfe!8m2!3d23.07539!4d72.526184!16s%2Fg%2F11btrr7nnc!19sChIJtQ50WEmDXjkR_sutFqJFgcg
+https://www.google.com/maps/place/The+Central/data=!4m7!3m6!1s0x31da190a999bbf71:0x461ccb9ab0af5be7!8m2!3d1.288091!4d103.8461593!16s%2Fg%2F11cjkppb_p!19sChIJcb-bmQoZ2jER51uvsJrLHEY
+https://www.google.com/maps/place/Softvil+Technologies/data=!4m7!3m6!1s0x3ae2504f89653e8b:0x70f099db7d4b055a!8m2!3d6.9328376!4d79.8429248!16s%2Fg%2F11f541fk17!19sChIJiz5liU9Q4joRWgVLfduZ8HA
