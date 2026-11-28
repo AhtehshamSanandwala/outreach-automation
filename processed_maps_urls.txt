@@ -14507,3 +14507,4 @@ https://www.google.com/maps/place/Cybage+Software+Private+Limited/data=!4m7!3m6!
 https://www.google.com/maps/place/Dynamics+International+School/data=!4m7!3m6!1s0x31da1915d976791d:0x1b2c905b58e5446a!8m2!3d1.306069!4d103.8286!16s%2Fg%2F11fp3rmyp8!19sChIJHXl22RUZ2jERakTlWFuQLBs
 https://www.google.com/maps/place/Inno+Panda/data=!4m7!3m6!1s0x31da193c83506c0f:0x990b2ebcecc76d1a!8m2!3d1.3192491!4d103.8927959!16s%2Fg%2F11z6thl_dh!19sChIJD2xQgzwZ2jERGm3H7LwuC5k
 https://www.google.com/maps/place/Streetdirectory/data=!4m7!3m6!1s0x31da1a32d5c2f6af:0xdfde798a86eed73a!8m2!3d1.3481942!4d103.8634886!16s%2Fg%2F1tgpvqdq!19sChIJr_bC1TIa2jEROtfuhop53t8
+https://www.google.com/maps/place/SMEs+Go+Digital/data=!4m7!3m6!1s0x31da18188d022b0d:0xab971de750ecb5e2!8m2!3d1.3197133!4d103.8924831!16s%2Fg%2F11h52s40f3!19sChIJDSsCjRgY2jER4rXsUOcdl6s
