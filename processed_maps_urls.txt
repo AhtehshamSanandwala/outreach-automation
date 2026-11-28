@@ -14530,3 +14530,5 @@ https://www.google.com/maps/place/Cosmos+Digital+Hub/data=!4m7!3m6!1s0x601793d0c
 https://www.google.com/maps/place/Sysnet+System+and+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1abdfc69dad5:0xaf8b4cd40e4fde14!8m2!3d1.3132993!4d103.7517226!16s%2Fg%2F1ptw7m_nl!19sChIJ1dpp_L0a2jERFN5PDtRMi68
 https://www.google.com/maps/place/HokuApps/data=!4m7!3m6!1s0x31da190c29b59a8f:0x1629c58e341e193a!8m2!3d1.2829572!4d103.8506005!16s%2Fg%2F11fyzfk65w!19sChIJj5q1KQwZ2jEROhkeNI7FKRY
 https://www.google.com/maps/place/Buuuk+Pte+Ltd+-+Custom+Software+%26+Mobile+App+Developer+%7C+Premier+iOS+Development+Agency/data=!4m7!3m6!1s0x31da1816be8e8ad7:0xc2c339b2817a1eba!8m2!3d1.2958614!4d103.8555479!16s%2Fg%2F1td3n_n8!19sChIJ14qOvhYY2jERuh56gbI5w8I
+https://www.google.com/maps/place/Devhaus+Pte.+Ltd./data=!4m7!3m6!1s0x31da1905d34a1bdf:0x8cee103a2e04733d!8m2!3d1.3191484!4d103.8925321!16s%2Fg%2F11knlggzj5!19sChIJ3xtK0wUZ2jERPXMELjoQ7ow
+https://www.google.com/maps/place/Singapore+University+of+Technology+and+Design+%28SUTD%29/data=!4m7!3m6!1s0x31da3cd899f260cb:0x99becabc6d025518!8m2!3d1.3402328!4d103.9631584!16s%2Fm%2F09gh_cr!19sChIJy2Dymdg82jERGFUCbbzKvpk
