@@ -14910,3 +14910,5 @@ https://www.google.com/maps/place/PE+Consultants+Pte.+Ltd./data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Dongah+Geological+Engineering+Co.,+Ltd,+Singapore+Branch/data=!4m7!3m6!1s0x31da19ba55555555:0x89176487a923bd3f!8m2!3d1.291276!4d103.8512906!16s%2Fg%2F11ggz9_9gn!19sChIJVVVVVboZ2jERP70jqYdkF4k
 https://www.google.com/maps/place/DJBH+Global/data=!4m7!3m6!1s0x31da19ef9da2c4fb:0xeb980429eb2a17e8!8m2!3d1.3009222!4d103.8626412!16s%2Fg%2F11s7wcw00c!19sChIJ-8Sine8Z2jER6Bcq6ykEmOs
 https://www.google.com/maps/place/DHI+Water+%26+Environment+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da0faf8964342b:0xe0885a2dce47c3b6!8m2!3d1.3300983!4d103.7446498!16s%2Fg%2F1ptvywhmf!19sChIJKzRkia8P2jERtsNHzi1aiOA
+https://www.google.com/maps/place/Geoconsult+Asia+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1bce75657015:0xf9fc63d27fe5a0a7!8m2!3d1.2845318!4d103.8084944!16s%2Fg%2F1tgldvlh!19sChIJFXBldc4b2jERp6Dlf9Jj_Pk
+https://www.google.com/maps/place/DMH/data=!4m7!3m6!1s0x31da193f2fe4a24f:0xaff609df15341e36!8m2!3d1.2923407!4d103.8508826!16s%2Fg%2F11ty4hqs8v!19sChIJT6LkLz8Z2jERNh40Fd8J9q8
