@@ -13802,3 +13802,4 @@ https://www.google.com/maps/place/Paradox+Singapore/data=!4m10!3m9!1s0x31da190ab
 https://www.google.com/maps/place/Dynamics+Square+-+Microsoft+Dynamics+365+Partner+%28ERP%2FCRM%29,+Singapore/data=!4m7!3m6!1s0x31da19cf630eed87:0xd81679312ed5a019!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11gvgzj6tt!19sChIJh-0OY88Z2jERGaDVLjF5Ftg
 https://www.google.com/maps/place/Cloud+Comrade/data=!4m7!3m6!1s0x31da1bd1f4fbd11f:0xbd8e544b5d7c7065!8m2!3d1.282203!4d103.8477265!16s%2Fg%2F1q6bf7w7v!19sChIJH9H79NEb2jERZXB8XUtUjr0
 https://www.google.com/maps/place/Far+East+Hospitality+Management/data=!4m7!3m6!1s0x31da19bc972e6fa9:0x854a66383b7a2bee!8m2!3d1.2890252!4d103.8466098!16s%2Fg%2F11fv4lw8l7!19sChIJqW8ul7wZ2jER7it6OzhmSoU
+https://www.google.com/maps/place/CloudGo+Pte+Ltd/data=!4m7!3m6!1s0x31da1935e5b28ab3:0xe38c4714a793635a!8m2!3d1.2912061!4d103.8576768!16s%2Fg%2F11h2n02t4m!19sChIJs4qy5TUZ2jERWmOTpxRHjOM
