@@ -15797,3 +15797,4 @@ https://www.google.com/maps/place/Parc+Sophia/data=!4m7!3m6!1s0x31da19bdb33ff167
 https://www.google.com/maps/place/YMCA+of+Singapore/data=!4m7!3m6!1s0x31da19a32425276f:0xe02e0f14a1ead015!8m2!3d1.2976866!4d103.8479628!16s%2Fg%2F11h6s0fvx2!19sChIJbyclJKMZ2jERFdDqoRQPLuA
 https://www.google.com/maps/place/Parc+Sophia/data=!4m7!3m6!1s0x31da19bdb33ff167:0x46dd7f6361d121d3!8m2!3d1.3014772!4d103.847596!16s%2Fg%2F1q6j8vx1j!19sChIJZ_E_s70Z2jER0yHRYWN_3UY
 https://www.google.com/maps/place/PRECISE+MEASURE+ENGINEERING+PTE.+LTD./data=!4m7!3m6!1s0x4bc9113e9f4eb15f:0xe9b96cd93b491f54!8m2!3d1.3044917!4d103.7967223!16s%2Fg%2F11z6nbn8jy!19sChIJX7FOnz4RyUsRVB9JO9lsuek
+https://www.google.com/maps/place/Unique+Precision+Engineering+Pte+Ltd./data=!4m7!3m6!1s0x31da145fdf14ddcb:0xa228b8f20896b821!8m2!3d1.4542448!4d103.8066602!16s%2Fg%2F11cmdfm7y9!19sChIJy90U318U2jERIbiWCPK4KKI
