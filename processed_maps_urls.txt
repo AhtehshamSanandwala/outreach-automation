@@ -15717,3 +15717,5 @@ https://www.google.com/maps/place/Wilkie+80/data=!4m7!3m6!1s0x31da19bdd5571167:0
 https://www.google.com/maps/place/Cavenagh+Gardens/data=!4m7!3m6!1s0x31da199451d5cb4d:0x553cc8681be02d25!8m2!3d1.3055282!4d103.8410468!16s%2Fg%2F12jdf8wkw!19sChIJTcvVUZQZ2jERJS3gG2jIPFU
 https://www.google.com/maps/place/Dex+Ho+-+Get+Right+Property/data=!4m7!3m6!1s0x6d1a38305b54d8b1:0x2a1fe824cab04621!8m2!3d1.3322846!4d103.8483709!16s%2Fg%2F11pcrl0kf3!19sChIJsdhUWzA4Gm0RIUawyiToHyo
 https://www.google.com/maps/place/Cathay+Building/data=!4m7!3m6!1s0x31da1998c94554af:0x51cf2721e2b3b1a0!8m2!3d1.2993194!4d103.8477035!16s%2Fg%2F11g_x4p5cd!19sChIJr1RFyZgZ2jERoLGz4iEnz1E
+https://www.google.com/maps/place/d%27Habitat+%E2%80%93+Co-Living+Spaces+in+Singapore+%28Ballota%29/data=!4m7!3m6!1s0x31da3dbe53e609a5:0xd688a9619d4dd459!8m2!3d1.3574061!4d103.9682888!16s%2Fg%2F11x0jt1ftp!19sChIJpQnmU7492jERWdRNnWGpiNY
+https://www.google.com/maps/place/Cashew/data=!4m7!3m6!1s0x31da1917087c6583:0x476b15b14f7017cd!8m2!3d1.2786848!4d103.8517913!16s%2Fg%2F11xtyk5g89!19sChIJg2V8CBcZ2jERzRdwT7EVa0c
