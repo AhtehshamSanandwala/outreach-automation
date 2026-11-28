@@ -15128,3 +15128,4 @@ https://www.google.com/maps/place/DB+Studio/data=!4m7!3m6!1s0x31da19ced3fe0cad:0
 https://www.google.com/maps/place/Sanofi+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da07cf440f7a1d:0xfe1f83cebe29dbf6!8m2!3d1.3060648!4d103.6334978!16s%2Fg%2F11twv54j9g!19sChIJHXoPRM8H2jER9tspvs6DH_4
 https://www.google.com/maps/place/Space+Furniture+Asia+Hub/data=!4m7!3m6!1s0x31da19a923ae35df:0x76af225318172a36!8m2!3d1.2996619!4d103.8507138!16s%2Fg%2F1yl451c_l!19sChIJ3zWuI6kZ2jERNioXGFMir3Y
 https://www.google.com/maps/place/RTP+Company+PTE+Ltd.+%28Singapore%29/data=!4m7!3m6!1s0x31da07004493b151:0x1e860bc9d7ed0b72!8m2!3d1.3067621!4d103.6307291!16s%2Fg%2F11ycyz0cb1!19sChIJUbGTRAAH2jERcgvt18kLhh4
+https://www.google.com/maps/place/MUJI+Plaza+Singapura/data=!4m7!3m6!1s0x31da19bd7ad7af9f:0x5946c4c96d86bd8b!8m2!3d1.3003739!4d103.8450773!16s%2Fg%2F11fxqsv7q_!19sChIJn6_Xer0Z2jERi72GbcnERlk
