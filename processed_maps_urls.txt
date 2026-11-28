@@ -14995,3 +14995,5 @@ https://www.google.com/maps/place/Terratech+Engineering+Pte.+Ltd./data=!4m7!3m6!
 https://www.google.com/maps/place/RG+Architects/data=!4m7!3m6!1s0x31da19a5152c45b3:0xd6f5a8004dd1ccd5!8m2!3d1.2973059!4d103.8550148!16s%2Fg%2F1tdx66x_!19sChIJs0UsFaUZ2jER1czRTQCo9dY
 https://www.google.com/maps/place/Sustainable+Energy+Association+of+Singapore+%28SEAS%29/data=!4m7!3m6!1s0x31da19c8a13fd3c1:0x6c0d8bdf1db163cc!8m2!3d1.311494!4d103.85667!16s%2Fg%2F1pv2byw92!19sChIJwdM_ocgZ2jERzGOxHd-LDWw
 https://www.google.com/maps/place/The+Clinic+Group+@+Campus/data=!4m7!3m6!1s0x31da19a378256195:0xbc300dd327e036ea!8m2!3d1.2962929!4d103.850145!16s%2Fg%2F12hrkrv8k!19sChIJlWEleKMZ2jER6jbgJ9MNMLw
+https://www.google.com/maps/place/IES+Incubator+%26+Accelerator+%28IES-INCA%29+PTE+LTD/data=!4m7!3m6!1s0x31da11b2b4b4d675:0xb2e6126211951032!8m2!3d1.3451959!4d103.790522!16s%2Fg%2F11l2h_ly7m!19sChIJdda0tLIR2jERMhCVEWIS5rI
+https://www.google.com/maps/place/VivATA+Pte+Ltd/data=!4m7!3m6!1s0x31da1912c4552ba9:0xb21c4bd459ef6a48!8m2!3d1.2967615!4d103.8546068!16s%2Fg%2F1v7pv_1j!19sChIJqStVxBIZ2jERSGrvWdRLHLI
