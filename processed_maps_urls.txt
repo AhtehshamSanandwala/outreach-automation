@@ -13915,3 +13915,5 @@ https://www.google.com/maps/place/National+Design+Centre/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/3PA+Pte+Ltd/data=!4m7!3m6!1s0x31da19731038c80d:0x7281bc359670d8e7!8m2!3d1.2825238!4d103.8424326!16s%2Fg%2F1tcvlsw9!19sChIJDcg4EHMZ2jER59hwljW8gXI
 https://www.google.com/maps/place/3P+Ecotecture+Pte+Ltd/data=!4m7!3m6!1s0x31da19730e3e3e93:0x58cc25cc962abc54!8m2!3d1.2830471!4d103.8426912!16s%2Fg%2F1ptv_zyq3!19sChIJkz4-DnMZ2jERVLwqlswlzFg
 https://www.google.com/maps/place/ADX+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da1752e67c2733:0x23f4cf8a2acbc50f!8m2!3d1.3347415!4d103.8820482!16s%2Fg%2F1ptw0rzhq!19sChIJMyd85lIX2jERD8XLKorP9CM
+https://www.google.com/maps/place/Wine+Sellers+Pte+Ltd/data=!4m7!3m6!1s0x31da19a020558f35:0xbbda2507950fa2b9!8m2!3d1.2907146!4d103.845056!16s%2Fg%2F1ptyhyjv0!19sChIJNY9VIKAZ2jERuaIPlQcl2rs
+https://www.google.com/maps/place/PCM+Group+Asia+Pacific+PTE+LTD/data=!4m7!3m6!1s0x31da19f94f3e7647:0xf705110494fbaba9!8m2!3d1.2886218!4d103.8465628!16s%2Fg%2F11twhxm94x!19sChIJR3Y-T_kZ2jERqav7lAQRBfc
