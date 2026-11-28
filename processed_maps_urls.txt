@@ -15778,3 +15778,5 @@ https://www.google.com/maps/place/Propertyhub/data=!4m7!3m6!1s0x31da179f432caf89
 https://www.google.com/maps/place/The+MacDonald+House/data=!4m7!3m6!1s0x31da19bd467ac0c7:0x7244cd376e2de565!8m2!3d1.2991656!4d103.8459792!16zL20vMGI2dnoy!19sChIJx8B6Rr0Z2jERZeUtbjfNRHI
 https://www.google.com/maps/place/Winsland+House+I/data=!4m7!3m6!1s0x31da19ffed0b59c5:0xe050a7029fe83b92!8m2!3d1.2997098!4d103.8403139!16s%2Fg%2F11j6_sklwx!19sChIJxVkL7f8Z2jERkjvonwKnUOA
 https://www.google.com/maps/place/Cairnhill+Nine/data=!4m7!3m6!1s0x31da1993c2dde473:0x1eac8768c7f50f2f!8m2!3d1.3034739!4d103.8375387!16s%2Fg%2F11dxbx7hz6!19sChIJc-TdwpMZ2jERLw_1x2iHrB4
+https://www.google.com/maps/place/FlySpaces+APAC/data=!4m7!3m6!1s0x31da19187ef6413d:0x18a23223a752ad0!8m2!3d1.2800824!4d103.84931!16s%2Fg%2F11g_zdc2xr!19sChIJPUH2fhgZ2jER0Cp1OiIjigE
+https://www.google.com/maps/place/Matthias+Goh+Property/data=!4m7!3m6!1s0x6d54cbca7531d887:0x8723094b3b35f6be!8m2!3d1.314!4d103.84425!16s%2Fg%2F11rg4xbdl3!19sChIJh9gxdcrLVG0RvvY1O0sJI4c
