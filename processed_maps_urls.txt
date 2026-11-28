@@ -15010,3 +15010,5 @@ https://www.google.com/maps/place/JGP+Architecture+%28S%29+Pte.+Ltd./data=!4m7!3
 https://www.google.com/maps/place/DS+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da19086cf2991f:0x19456d33c86c26ee!8m2!3d1.3003621!4d103.8508251!16s%2Fg%2F11rvdch4q8!19sChIJH5nybAgZ2jER7iZsyDNtRRk
 https://www.google.com/maps/place/Goy+Architects/data=!4m7!3m6!1s0x31da1bb3da7116ad:0xc74646a4d13ce535!8m2!3d1.3504959!4d103.8425523!16s%2Fg%2F11h2h7jvwy!19sChIJrRZx2rMb2jERNeU80aRGRsc
 https://www.google.com/maps/place/New+Space+Architects+Pte.+Ltd./data=!4m7!3m6!1s0x31da196b03bfdaa3:0xbf6130c99bbc8a4d!8m2!3d1.2825032!4d103.8204463!16s%2Fg%2F1tdkjr0s!19sChIJo9q_A2sZ2jERTYq8m8kwYb8
+https://www.google.com/maps/place/Kyoob+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da197311d36b8f:0x585de701ac91f625!8m2!3d1.2828449!4d103.8425941!16s%2Fg%2F11h52ynfbg!19sChIJj2vTEXMZ2jERJfaRrAHnXVg
+https://www.google.com/maps/place/Quarters+Architects/data=!4m7!3m6!1s0x31da197272248e19:0x6923ebb6326eecc3!8m2!3d1.2964303!4d103.8544082!16s%2Fg%2F11g8769n9d!19sChIJGY4kcnIZ2jERw-xuMrbrI2k
