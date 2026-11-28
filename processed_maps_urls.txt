@@ -15265,3 +15265,5 @@ https://www.google.com/maps/place/Kopitiam+Food+Hall/data=!4m7!3m6!1s0x31da19bd7
 https://www.google.com/maps/place/Holie+Logistics+by+Holie+Trading+%26+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x8f019efae261d46d:0x3760a8719fc9f4d5!8m2!3d1.314!4d103.84425!16s%2Fg%2F11m5v333d5!19sChIJbdRh4vqeAY8R1fTJn3GoYDc
 https://www.google.com/maps/place/Venus+Beauty+%28Lucky+Plaza%29/data=!4m7!3m6!1s0x31da19233f2b9d9b:0xb445148fd2b1fc44!8m2!3d1.3045755!4d103.8340344!16s%2Fg%2F11r6glr9p6!19sChIJm50rPyMZ2jERRPyx0o8URbQ
 https://www.google.com/maps/place/%22K%22+Line+Logistics/data=!4m7!3m6!1s0x31da3c0cdc3b8307:0xa02de75e92caeb9f!8m2!3d1.3826733!4d103.9994011!16s%2Fg%2F1ptwc5jj3!19sChIJB4M73Aw82jERn-vKkl7nLaA
+https://www.google.com/maps/place/HQ+SMRT+Corporation+Ltd/data=!4m7!3m6!1s0x31da19a43b568581:0xe64507b414b5f38!8m2!3d1.3158857!4d103.8936214!16s%2Fg%2F1tdkv5tt!19sChIJgYVWO6QZ2jEROF9LQXtQZA4
+https://www.google.com/maps/place/Hankyu+Hanshin+Express+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c6ffac6a90f:0x12dba49a645e5514!8m2!3d1.3731198!4d103.995381!16s%2Fg%2F1tj9qwdq!19sChIJD6nG-m882jERFFVeZJqk2xI
