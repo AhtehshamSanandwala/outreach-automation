@@ -14414,3 +14414,6 @@ https://www.google.com/maps/place/Hubb+IT+Pte+Ltd/data=!4m7!3m6!1s0x31da19578556
 https://www.google.com/maps/place/Adaptive+Techsolutions+Pte+Ltd/data=!4m7!3m6!1s0x31da19b8e4a0c4b1:0x4593c29f88f0803c!8m2!3d1.3057267!4d103.8527053!16s%2Fg%2F11b821k4gm!19sChIJscSg5LgZ2jERPIDwiJ_Ck0U
 https://www.google.com/maps/place/Datadog/data=!4m7!3m6!1s0x31da1900473ba0b9:0x96ff8da22cff67cd!8m2!3d1.2956544!4d103.8564952!16s%2Fg%2F11y4nzgt59!19sChIJuaA7RwAZ2jERzWf_LKKN_5Y
 https://www.google.com/maps/place/Evolve+Innovative+Solutions/data=!4m7!3m6!1s0x31da1999e7e0fb17:0xe7c6ca07098f8876!8m2!3d1.3062045!4d103.8322427!16s%2Fg%2F11h6gnv1cz!19sChIJF_vg55kZ2jERdoiPCQfKxuc
+https://www.google.com/maps/place/SG-Soft+Pte.+Ltd.+%28SGEEDE+Singapore%29/data=!4m7!3m6!1s0x31da190764142bd5:0x4862fd6ed01c31c4!8m2!3d1.2864418!4d103.8491423!16s%2Fg%2F11z_x2n8yg!19sChIJ1SsUZAcZ2jERxDEc0G79Ykg
+https://www.google.com/maps/place/Hephaestus+Technologies+Pte.+Ltd.+%28HTech%29/data=!4m7!3m6!1s0x31da19606b1e7a99:0x53cecec80b8f774!8m2!3d1.3167896!4d103.8808234!16s%2Fg%2F11sbbf_6tv!19sChIJmXoea2AZ2jERdPe4gOzsPAU
+https://www.google.com/maps/place/Dodid/data=!4m7!3m6!1s0x31da16b13a300001:0x754044b95a8739ae!8m2!3d1.3884397!4d103.8277773!16s%2Fg%2F11hz19cpms!19sChIJAQAwOrEW2jERrjmHWrlEQHU
