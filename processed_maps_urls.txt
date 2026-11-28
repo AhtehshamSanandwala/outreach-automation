@@ -15542,3 +15542,7 @@ https://www.google.com/maps/place/Green+Engineering+%26+Construction+Pte+Ltd/dat
 https://www.google.com/maps/place/Ngee+Cheng+Electric+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da16b6f415b66d:0x8bc0606f28055676!8m2!3d1.3853775!4d103.8290231!16s%2Fg%2F1vxdvtfl!19sChIJbbYV9LYW2jERdlYFKG9gwIs
 https://www.google.com/maps/place/ISS+M%26E+PTE.+LTD./data=!4m7!3m6!1s0x8ba538b80985fba1:0xed5ee6dc92aeb452!8m2!3d1.2647618!4d103.8191831!16s%2Fg%2F11l2fw72hr!19sChIJofuFCbg4pYsRUrSuktzmXu0
 https://www.google.com/maps/place/Sunley+M%26E+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da19dc5e4e2c43:0x4a06dd76a53d273f!8m2!3d1.3287561!4d103.8793414!16s%2Fg%2F11h4nhfvkq!19sChIJQyxOXtwZ2jERPyc9pXbdBko
+https://www.google.com/maps/place/Ngee+Cheng+Electric+Co+Pte+Ltd/data=!4m7!3m6!1s0x31da16b6f415b66d:0x8bc0606f28055676!8m2!3d1.3853775!4d103.8290231!16s%2Fg%2F1vxdvtfl!19sChIJbbYV9LYW2jERdlYFKG9gwIs
+https://www.google.com/maps/place/Doyen+Construction+%26+Engineering/data=!4m7!3m6!1s0x31da132902bfb383:0x6b5da4938dff8717!8m2!3d1.4378735!4d103.8067738!16s%2Fg%2F11kq79l1_3!19sChIJg7O_AikT2jERF4f_jZOkXWs
+https://www.google.com/maps/place/Sunley+M%26E+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da19dc5e4e2c43:0x4a06dd76a53d273f!8m2!3d1.3287561!4d103.8793414!16s%2Fg%2F11h4nhfvkq!19sChIJQyxOXtwZ2jERPyc9pXbdBko
+https://www.google.com/maps/place/D+AND+D+INDUSTRIES+PTE+LTD/data=!4m7!3m6!1s0x9a6aae7805d0463:0xfe19a4a3a0b202f!8m2!3d1.3124459!4d103.8588937!16s%2Fg%2F11ltkb592k!19sChIJYwRdgOeqpgkRLyALOkqa4Q8
