@@ -15145,3 +15145,5 @@ https://www.google.com/maps/place/NVT+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da0
 https://www.google.com/maps/place/RTP+Company+PTE+Ltd.+%28Singapore%29/data=!4m7!3m6!1s0x31da07004493b151:0x1e860bc9d7ed0b72!8m2!3d1.3067621!4d103.6307291!16s%2Fg%2F11ycyz0cb1!19sChIJUbGTRAAH2jERcgvt18kLhh4
 https://www.google.com/maps/place/MUJI+Plaza+Singapura/data=!4m7!3m6!1s0x31da19bd7ad7af9f:0x5946c4c96d86bd8b!8m2!3d1.3003739!4d103.8450773!16s%2Fg%2F11fxqsv7q_!19sChIJn6_Xer0Z2jERi72GbcnERlk
 https://www.google.com/maps/place/novita+%28Plaza+Singapura%29/data=!4m7!3m6!1s0x31da19db4e011c65:0xb24f3e57b9d9c95f!8m2!3d1.3007992!4d103.8450287!16s%2Fg%2F11q8yhf5bz!19sChIJZRwBTtsZ2jERX8nZuVc-T7I
+https://www.google.com/maps/place/P.Osh/data=!4m7!3m6!1s0x31da17b4c29fa701:0xbb3f74ea7a3737a5!8m2!3d1.3317916!4d103.8793457!16s%2Fg%2F11b6hq0v4w!19sChIJAaefwrQX2jERpTc3eup0P7s
+https://www.google.com/maps/place/Garmin+Brand+Store+-+Plaza+Singapura/data=!4m7!3m6!1s0x31da19e028db73fb:0xd0d6c7e5d57789d3!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F11tx7y5ns4!19sChIJ-3PbKOAZ2jER04l31eXH1tA
