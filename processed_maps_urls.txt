@@ -14147,3 +14147,5 @@ https://www.google.com/maps/place/Harry%27s+Clarke+Quay/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/nomVnom+Bistro+-+%28Vegan+-+Clarke+Quay,+Singapore%29/data=!4m7!3m6!1s0x31da190bfc081427:0xb8c19992be9a12b!8m2!3d1.2895043!4d103.8467143!16s%2Fg%2F11ckqzzkd1!19sChIJJxQI_AsZ2jERK6HpK5kZjAs
 https://www.google.com/maps/place/Capital+Zouk+Singapore/data=!4m7!3m6!1s0x31da19b4c567c173:0xf30f5a1f8e7eafcf!8m2!3d1.2908021!4d103.8457756!16s%2Fg%2F11qp3sc_g5!19sChIJc8FnxbQZ2jERz69-jh9aD_M
 https://www.google.com/maps/place/K.STAR+@+Clarke+Quay/data=!4m7!3m6!1s0x31da19d9725af18d:0x7c189ee0d76d64cc!8m2!3d1.2906365!4d103.8456662!16s%2Fg%2F11v9k2csc8!19sChIJjfFactkZ2jERzGRt1-CeGHw
+https://www.google.com/maps/place/Chin+Taik+Enterprise/data=!4m7!3m6!1s0x31da190a9a634cc3:0x6a75368485ac44b5!8m2!3d1.2886097!4d103.8467559!16s%2Fg%2F1ptxcj1ym!19sChIJw0xjmgoZ2jERtUSshYQ2dWo
+https://www.google.com/maps/place/Chapters+by+Drinks%26Co./data=!4m7!3m6!1s0x31da195a4f97cfef:0x12221d650b8b4ab0!8m2!3d1.2895978!4d103.8452349!16s%2Fg%2F11l262d0wz!19sChIJ78-XT1oZ2jERsEqLC2UdIhI
