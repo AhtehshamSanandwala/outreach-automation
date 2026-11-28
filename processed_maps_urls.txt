@@ -13917,3 +13917,5 @@ https://www.google.com/maps/place/3P+Ecotecture+Pte+Ltd/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/ADX+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da1752e67c2733:0x23f4cf8a2acbc50f!8m2!3d1.3347415!4d103.8820482!16s%2Fg%2F1ptw0rzhq!19sChIJMyd85lIX2jERD8XLKorP9CM
 https://www.google.com/maps/place/Wine+Sellers+Pte+Ltd/data=!4m7!3m6!1s0x31da19a020558f35:0xbbda2507950fa2b9!8m2!3d1.2907146!4d103.845056!16s%2Fg%2F1ptyhyjv0!19sChIJNY9VIKAZ2jERuaIPlQcl2rs
 https://www.google.com/maps/place/PCM+Group+Asia+Pacific+PTE+LTD/data=!4m7!3m6!1s0x31da19f94f3e7647:0xf705110494fbaba9!8m2!3d1.2886218!4d103.8465628!16s%2Fg%2F11twhxm94x!19sChIJR3Y-T_kZ2jERqav7lAQRBfc
+https://www.google.com/maps/place/Board+of+Architects+%28BOA%29/data=!4m7!3m6!1s0x31da1912b8578811:0x6b5e720d6eba45eb!8m2!3d1.2786803!4d103.8457128!16s%2Fg%2F1tlc5lhr!19sChIJEYhXuBIZ2jER60W6bg1yXms
+https://www.google.com/maps/place/Takeda+Manufacturing+Singapore+Pte+Ltd+-+Main+Building/data=!4m7!3m6!1s0x31da125ab38428a9:0xba22a45aa98aa7f6!8m2!3d1.4292918!4d103.7628671!16s%2Fg%2F11c1tdbv0s!19sChIJqSiEs1oS2jER9qeKqVqkIro
