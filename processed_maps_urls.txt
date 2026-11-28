@@ -15810,3 +15810,5 @@ https://www.google.com/maps/place/Tach+Precision+Engineering+Pte+Ltd/data=!4m7!3
 https://www.google.com/maps/place/Geo+Hi-Tech+Engineering+PTE+LTD/data=!4m7!3m6!1s0x31da17e3d7e12741:0xc947050ded7e6979!8m2!3d1.3401958!4d103.9108529!16s%2Fg%2F11f4m4n9z9!19sChIJQSfh1-MX2jEReWl-7Q0FR8k
 https://www.google.com/maps/place/Wong+Hing+Long+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x31da17c9490db121:0xe110eea71705f320!8m2!3d1.3586017!4d103.8964669!16s%2Fg%2F11btlv16_l!19sChIJIbENSckX2jERIPMFF6fuEOE
 https://www.google.com/maps/place/Haoyang+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da17cd1a17c09f:0xd43d04a005388e6f!8m2!3d1.3753869!4d103.930532!16s%2Fg%2F11scs4_69j!19sChIJn8AXGs0X2jERb444BaAEPdQ
+https://www.google.com/maps/place/D-met+Precision+Pte.+Ltd./data=!4m7!3m6!1s0x31da1367ce16dcad:0x6115c795dcad410a!8m2!3d1.456113!4d103.8108178!16s%2Fg%2F11cs5p3gj_!19sChIJrdwWzmcT2jERCkGt3JXHFWE
+https://www.google.com/maps/place/Taimaru+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da0f7deb43c00f:0xacd8efef77378f2d!8m2!3d1.3280243!4d103.675479!16s%2Fg%2F1thlwz76!19sChIJD8BD630P2jERLY83d-_v2Kw
