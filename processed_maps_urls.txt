@@ -15434,3 +15434,5 @@ https://www.google.com/maps/place/Wee+Poh+Construction+Co.+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/DJ+Builders+%26+Contractors+Pte.+Ltd./data=!4m7!3m6!1s0x31da17f247611141:0x5ab15f3b133d4533!8m2!3d1.3009974!4d103.8627019!16s%2Fg%2F11c1wrtrx6!19sChIJQRFhR_IX2jERM0U9EztfsVo
 https://www.google.com/maps/place/Ho+Lee+Group/data=!4m7!3m6!1s0x31da19b6bcaf6ec9:0xb3a1261c7c4e774d!8m2!3d1.3042585!4d103.8616069!16s%2Fg%2F1trtrv67!19sChIJyW6vvLYZ2jERTXdOfBwmobM
 https://www.google.com/maps/place/Chh+Construction+System+Pte+Ltd/data=!4m7!3m6!1s0x31da1912c4552ba9:0x4488353c7f8a5e0e!8m2!3d1.3361813!4d103.8862162!16s%2Fg%2F1tp05m8b!19sChIJqStVxBIZ2jERDl6Kfzw1iEQ
+https://www.google.com/maps/place/Hock+Hai+Civil+Engineering+%26+Building+Pte+Ltd/data=!4m7!3m6!1s0x31da11548759c9eb:0xef69e45fe4ef3bda!8m2!3d1.3972902!4d103.8189046!16s%2Fg%2F1vv2prqc!19sChIJ68lZh1QR2jER2jvv5F_kae8
+https://www.google.com/maps/place/Da+Guan+Construction+Pte+Ltd/data=!4m7!3m6!1s0x64338adf8ad63461:0x5dd384b95ece0ed2!8m2!3d1.3322152!4d103.8903577!16s%2Fg%2F11zds3zg2x!19sChIJYTTWit-KM2QR0g7OXrmE010
