@@ -14627,3 +14627,5 @@ https://www.google.com/maps/place/Netmarks+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/CYBERhythm+Pte.+Ltd./data=!4m7!3m6!1s0x31da1920ff20c5f3:0xf5fc8263795920cd!8m2!3d1.2835867!4d103.8470853!16s%2Fg%2F11jvy1f5l8!19sChIJ88Ug_yAZ2jERzSBZeWOC_PU
 https://www.google.com/maps/place/Henderson+Security+Services/data=!4m7!3m6!1s0x31da1bd6cbcb1e41:0x20e902c02d1c9075!8m2!3d1.3335017!4d103.8871113!16s%2Fg%2F1tdpp5h0!19sChIJQR7Ly9Yb2jERdZAcLcAC6SA
 https://www.google.com/maps/place/Hiwire+Data+Security+Pte+Ltd,+Powersearch+Pte+Ltd/data=!4m7!3m6!1s0x31da19b6bb5ba721:0x35c697e092ffd38c!8m2!3d1.303828!4d103.8614791!16s%2Fg%2F1tlc5lkk!19sChIJIadbu7YZ2jERjNP_kuCXxjU
+https://www.google.com/maps/place/Halodata+International+Pte+Ltd/data=!4m7!3m6!1s0x31da19a0ead14ad3:0xe6050520ad5f4f1c!8m2!3d1.2755117!4d103.7955707!16s%2Fg%2F11bycjqv4_!19sChIJ00rR6qAZ2jERHE9frSAFBeY
+https://www.google.com/maps/place/Cyber+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da1bce7718542d:0x3d12f9e77f1af4d7!8m2!3d1.2843821!4d103.8080106!16s%2Fg%2F1tgm0cqp!19sChIJLVQYd84b2jER1_Qaf-f5Ej0
