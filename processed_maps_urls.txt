@@ -14445,3 +14445,4 @@ https://www.google.com/maps/place/KodeKloud/data=!4m7!3m6!1s0x31da19fe1a0e3745:0
 https://www.google.com/maps/place/Ahiho+Pte.+Ltd./data=!4m7!3m6!1s0x31da19a48617eed5:0x3df517b3bfd85fa!8m2!3d1.2784077!4d103.847766!16s%2Fg%2F11sz4blq5k!19sChIJ1e4XhqQZ2jER-oX9O3tR3wM
 https://www.google.com/maps/place/EZ+Accounting+pte+ltd/data=!4m7!3m6!1s0x31da183067646ac9:0x2f36149b2f39bf4!8m2!3d1.3145184!4d103.8772555!16s%2Fg%2F1tmpshlx!19sChIJyWpkZzAY2jER9Jvzsklh8wI
 https://www.google.com/maps/place/DIGITIZENOW+PTE.+LTD./data=!4m7!3m6!1s0x31da19da20c671a5:0xc34eac1ebfde3c1f!8m2!3d1.2864418!4d103.8491423!16s%2Fg%2F11kpk_7fm1!19sChIJpXHGINoZ2jERHzzevx6sTsM
+https://www.google.com/maps/place/INFR+AI+%28VRcollab%29/data=!4m7!3m6!1s0x31da1b304cb375e1:0xca7db4fed91e46e0!8m2!3d1.2739068!4d103.8462175!16s%2Fg%2F11g3g4wkr3!19sChIJ4XWzTDAb2jER4EYe2f60fco
