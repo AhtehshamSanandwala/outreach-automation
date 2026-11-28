@@ -15683,3 +15683,4 @@ https://www.google.com/maps/place/BUTLER+Property+Management/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Management+Corporation+Strata+Title+No+628/data=!4m7!3m6!1s0x31da1996fb319221:0xe3faf0ef31ba99e4!8m2!3d1.3012426!4d103.8411638!16s%2Fg%2F1wc2zrts!19sChIJIZIx-5YZ2jER5Jm6Me_w-uM
 https://www.google.com/maps/place/Ping+Property+Singapore/data=!4m7!3m6!1s0x31da1742845659e3:0x30d24d8ae90bd1f5!8m2!3d1.3176676!4d103.9248199!16s%2Fg%2F11fj1tcp1b!19sChIJ41lWhEIX2jER9dEL6YpN0jA
 https://www.google.com/maps/place/Shawn+Khoo+Property/data=!4m7!3m6!1s0x31da17e9c56ebb81:0xce2cc27a5d02892!8m2!3d1.3322846!4d103.8483709!16s%2Fg%2F11t46pyg89!19sChIJgbtuxekX2jERkijQpSfM4gw
+https://www.google.com/maps/place/Soho/data=!4m7!3m6!1s0x31da19bbecea95ad:0x777248dda1d50e8a!8m2!3d1.3019168!4d103.8402336!16s%2Fg%2F11fzb1qhr4!19sChIJrZXq7LsZ2jERig7Vod1Icnc
