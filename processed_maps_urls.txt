@@ -15630,3 +15630,5 @@ https://www.google.com/maps/place/ArtMuse+Interior+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/i.Poise+Design/data=!4m7!3m6!1s0x31da1875734001a5:0xc12276cd04005c2b!8m2!3d1.311605!4d103.8746456!16s%2Fg%2F1q6j28zxf!19sChIJpQFAc3UY2jERK1wABM12IsE
 https://www.google.com/maps/place/Mr+Shopper+Studio/data=!4m7!3m6!1s0x31da17f309224e91:0x37f69b34e2935184!8m2!3d1.333427!4d103.8942808!16s%2Fg%2F11bzq4j5p6!19sChIJkU4iCfMX2jERhFGT4jSb9jc
 https://www.google.com/maps/place/Reborn+Interior+Pte.+Ltd./data=!4m7!3m6!1s0x31da11633a5f8753:0x95a6dee97f314e6b!8m2!3d1.328382!4d103.752966!16s%2Fg%2F11wwj8_8zb!19sChIJU4dfOmMR2jERa04xf-neppU
+https://www.google.com/maps/place/erstudio+Pte+Ltd/data=!4m7!3m6!1s0x31da19c814abc07f:0xb4d3d37744ee3f77!8m2!3d1.3717921!4d103.9337341!16s%2Fg%2F11g6pyxqw8!19sChIJf8CrFMgZ2jERdz_uRHfT07Q
+https://www.google.com/maps/place/Comuna+Interiors+Pte+Ltd/data=!4m7!3m6!1s0x31da19a835ff9d79:0x77e00e29bb5258db!8m2!3d1.2989163!4d103.8519697!16s%2Fg%2F11s2s3b_8p!19sChIJeZ3_NagZ2jER21hSuykO4Hc
