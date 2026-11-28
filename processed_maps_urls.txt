@@ -15277,3 +15277,4 @@ https://www.google.com/maps/place/GUUD+Company/data=!4m7!3m6!1s0x31da19f19e26473
 https://www.google.com/maps/place/CS+Fresh+Gold/data=!4m7!3m6!1s0x31da198a506bac55:0xfc4abb00c83075d9!8m2!3d1.3050717!4d103.8239546!16s%2Fg%2F1tjdj8c1!19sChIJVaxrUIoZ2jER2XUwyAC7Svw
 https://www.google.com/maps/place/Da+Zhou+Trading+Pte.+Ltd./data=!4m7!3m6!1s0x31da10729bcc90e7:0x3a8bb9582583e552!8m2!3d1.3366024!4d103.7548806!16s%2Fg%2F1tg844tz!19sChIJ55DMm3IQ2jERUuWDJVi5izo
 https://www.google.com/maps/place/Nanhai+Business+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da3cd62c2853c1:0xd7b00187bbb95d9b!8m2!3d1.3324723!4d103.9613663!16s%2Fg%2F11b5ysw7rc!19sChIJwVMoLNY82jERm125u4cBsNc
+https://www.google.com/maps/place/ST+Logistics+Hub+East/data=!4m7!3m6!1s0x31da3d2edc464611:0x56a026c4a355e071!8m2!3d1.3324182!4d103.9534319!16s%2Fg%2F1td742s4!19sChIJEUZG3C492jERceBVo8QmoFY
