@@ -14842,3 +14842,6 @@ https://www.google.com/maps/place/BMS+LAW+LLC/data=!4m7!3m6!1s0x31da19a0beeaaaab
 https://www.google.com/maps/place/Jay+Kumar+%7C+PropNex+Realty/data=!4m7!3m6!1s0x31da172c919d03ad:0xc9d2ca7c4241c612!8m2!3d1.332183!4d103.848428!16s%2Fg%2F11fsn1b8d9!19sChIJrQOdkSwX2jEREsZBQnzK0sk
 https://www.google.com/maps/place/Hin+Tat+Augustine+%26+Partners/data=!4m7!3m6!1s0x31da190a789f17bb:0xb7a5a7875c23af4b!8m2!3d1.2888538!4d103.8484884!16s%2Fg%2F1th54hzb!19sChIJuxefeAoZ2jERS68jXIenpbc
 https://www.google.com/maps/place/JNA+Real+Estate/data=!4m7!3m6!1s0x31da1948ff1a2af5:0xb29ecb76704319e3!8m2!3d1.3376149!4d103.8836904!16s%2Fg%2F11pwv5wyc9!19sChIJ9Soa_0gZ2jER4xlDcHbLnrI
+https://www.google.com/maps/place/Herbert+Smith+Freehills+Kramer+LLP+%28Singapore%29/data=!4m7!3m6!1s0x31da19094881ecf7:0xbc9f638960a28f45!8m2!3d1.284686!4d103.852059!16s%2Fg%2F1tdz2bc4!19sChIJ9-yBSAkZ2jERRY-iYIljn7w
+https://www.google.com/maps/place/Commercial+Property+Singapore/data=!4m7!3m6!1s0x31da19bcbbb4f183:0x16f94582e20ecaa!8m2!3d1.2991562!4d103.8496298!16s%2Fg%2F11h52s4p47!19sChIJg_G0u7wZ2jERquwgLliUbwE
+https://www.google.com/maps/place/Trowers+%26+Hamlins+%28Singapore%29+LLP/data=!4m7!3m6!1s0x31da19e35974769d:0x52d3012fba00caed!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11vw_vd3x4!19sChIJnXZ0WeMZ2jER7coAui8B01I
