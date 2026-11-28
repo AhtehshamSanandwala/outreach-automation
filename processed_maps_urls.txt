@@ -15338,3 +15338,5 @@ https://www.google.com/maps/place/MAN+Marine+Services+Singapore/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Maps+Offshore+Services+Pte+Ltd./data=!4m7!3m6!1s0x31da0ff7315ce237:0x8c6ef8fa1a18cafd!8m2!3d1.305818!4d103.679938!16s%2Fg%2F1td3__8j!19sChIJN-JcMfcP2jER_coYGvr4bow
 https://www.google.com/maps/place/Afloat+Marine+%26+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da0f8ef51cbc59:0xebd37a64a91ffd7f!8m2!3d1.3340266!4d103.6988819!16s%2Fg%2F11b6t_mdqz!19sChIJWbwc9Y4P2jERf_0fqWR60-s
 https://www.google.com/maps/place/Murdoch+Offshore/data=!4m7!3m6!1s0x31da191d1a7d1979:0x4d70f174a4e71daa!8m2!3d1.2814095!4d103.8510185!16s%2Fg%2F11sc0c00qv!19sChIJeRl9Gh0Z2jERqh3npHTxcE0
+https://www.google.com/maps/place/OCEANUS+MARINE+PTE+LTD/data=!4m7!3m6!1s0x31da100912eaaaab:0xacf905a398ccb8bf!8m2!3d1.3488044!4d103.7034043!16s%2Fg%2F11vrxnjbqd!19sChIJq6rqEgkQ2jERv7jMmKMF-aw
+https://www.google.com/maps/place/Survival+Systems+International+Offshore+%26+Marine+Pte+Ltd/data=!4m7!3m6!1s0x31da17f31b83092d:0xae5e807bfc818e02!8m2!3d1.3495757!4d103.8410234!16s%2Fg%2F11fmm01g9v!19sChIJLQmDG_MX2jERAo6B_HuAXq4
