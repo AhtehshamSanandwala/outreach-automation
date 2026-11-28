@@ -14497,3 +14497,4 @@ https://www.google.com/maps/place/Digistore+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/The+Fesique+Lab/data=!4m7!3m6!1s0x31da19a569e6163b:0xb1bb4b5641d6848a!8m2!3d1.2871416!4d103.8468672!16s%2Fg%2F11dx9dy4f0!19sChIJOxbmaaUZ2jERioTWQVZLu7E
 https://www.google.com/maps/place/Haus+on+Handy/data=!4m7!3m6!1s0x31da1950ea4da1ed:0x82ec3969528dd8ed!8m2!3d1.2996595!4d103.8464581!16s%2Fg%2F11flrym7mk!19sChIJ7aFN6lAZ2jER7diNUmk57II
 https://www.google.com/maps/place/SGTech/data=!4m7!3m6!1s0x31da196d7d1ca64d:0x66bdf9454a3bbbec!8m2!3d1.312021!4d103.8628386!16s%2Fg%2F1tf1lbgd!19sChIJTaYcfW0Z2jER7Ls7SkX5vWY
+https://www.google.com/maps/place/Bevootech+Pte+Ltd/data=!4m7!3m6!1s0x31da17864340b475:0x76eaa336b462a86c!8m2!3d1.314!4d103.84425!16s%2Fg%2F11fm4yfmvw!19sChIJdbRAQ4YX2jERbKhitDaj6nY
