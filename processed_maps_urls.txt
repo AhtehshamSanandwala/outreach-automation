@@ -14698,3 +14698,6 @@ https://www.google.com/maps/place/DreamHub+Consultancy+Services/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Dotcom+Solutions/data=!4m7!3m6!1s0x31da179205849a99:0xa4c595303cfea2cb!8m2!3d1.336228!4d103.8865!16s%2Fg%2F11b6gnsxb2!19sChIJmZqEBZIX2jERy6L-PDCVxaQ
 https://www.google.com/maps/place/DRBCM+Associates+Pte+Ltd/data=!4m7!3m6!1s0x31da19a0c8705693:0x4109931a72f16a15!8m2!3d1.2899946!4d103.8497109!16s%2Fg%2F1ptynnls7!19sChIJk1ZwyKAZ2jERFWrxchqTCUE
 https://www.google.com/maps/place/Salesforce/data=!4m7!3m6!1s0x31da19afa8f5d913:0x297cb7e506584182!8m2!3d1.294517!4d103.8580828!16s%2Fg%2F1tkc45_l!19sChIJE9n1qK8Z2jERgkFYBuW3fCk
+https://www.google.com/maps/place/DCI:+Organizational+Development,+Leadership+Development,+and+Corporate+Training/data=!4m7!3m6!1s0x31da191396a40bcf:0x53f8b3b3c3d72017!8m2!3d1.27633!4d103.848881!16s%2Fg%2F1w_vkt7s!19sChIJzwuklhMZ2jERFyDXw7Oz-FM
+https://www.google.com/maps/place/Blackbox+Research/data=!4m7!3m6!1s0x31da19733639347b:0x61bbf0456935842c!8m2!3d1.2938457!4d103.7934252!16s%2Fg%2F1tf62_n6!19sChIJezQ5NnMZ2jERLIQ1aUXwu2E
+https://www.google.com/maps/place/AsterSense+Pte.+Ltd./data=!4m7!3m6!1s0x2e448fcd1dcb827:0x3d0331b2e601aad4!8m2!3d1.2783955!4d103.8487731!16s%2Fg%2F11l240wwcx!19sChIJJ7jc0fxI5AIR1KoB5rIxAz0
