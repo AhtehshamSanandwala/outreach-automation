@@ -14478,3 +14478,5 @@ https://www.google.com/maps/place/South+Beach+Tower/data=!4m7!3m6!1s0x31da19af80
 https://www.google.com/maps/place/Ahiho+Pte.+Ltd./data=!4m7!3m6!1s0x31da19a48617eed5:0x3df517b3bfd85fa!8m2!3d1.2784077!4d103.847766!16s%2Fg%2F11sz4blq5k!19sChIJ1e4XhqQZ2jER-oX9O3tR3wM
 https://www.google.com/maps/place/The+PIT+Personal+Training/data=!4m7!3m6!1s0x31da196d31ab1f73:0x820de8da07fb8340!8m2!3d1.2997606!4d103.8363676!16s%2Fg%2F1ptw7mpvm!19sChIJcx-rMW0Z2jERQIP7B9roDYI
 https://www.google.com/maps/place/EZ+Accounting+pte+ltd/data=!4m7!3m6!1s0x31da183067646ac9:0x2f36149b2f39bf4!8m2!3d1.3145184!4d103.8772555!16s%2Fg%2F1tmpshlx!19sChIJyWpkZzAY2jER9Jvzsklh8wI
+https://www.google.com/maps/place/INFR+AI+%28VRcollab%29/data=!4m7!3m6!1s0x31da1b304cb375e1:0xca7db4fed91e46e0!8m2!3d1.2739068!4d103.8462175!16s%2Fg%2F11g3g4wkr3!19sChIJ4XWzTDAb2jER4EYe2f60fco
+https://www.google.com/maps/place/268+Orchard/data=!4m7!3m6!1s0x31da19917acfda59:0xc1a515d27cbd4b71!8m2!3d1.302693!4d103.836805!16s%2Fg%2F11gf1s1syj!19sChIJWdrPepEZ2jERcUu9fNIVpcE
