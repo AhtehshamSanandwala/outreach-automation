@@ -14853,3 +14853,4 @@ https://www.google.com/maps/place/Braddell+Brothers+LLP/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/AsianPrime+Properties+Pte+Ltd/data=!4m7!3m6!1s0x31da1838756fe0ef:0x3af54a0265b65eee!8m2!3d1.3192491!4d103.8927959!16s%2Fg%2F11h4dj6991!19sChIJ7-BvdTgY2jER7l62ZQJK9To
 https://www.google.com/maps/place/Advomi/data=!4m7!3m6!1s0x31da17933cc17d1d:0x5183b416d807626d!8m2!3d1.330109!4d103.744756!16s%2Fg%2F11pv0jt63w!19sChIJHX3BPJMX2jERbWIH2Ba0g1E
 https://www.google.com/maps/place/Suites+at+Orchard/data=!4m7!3m6!1s0x31da19bd742b81dd:0xd0194bec0051b0c6!8m2!3d1.3005746!4d103.8458503!16s%2Fg%2F11b5pjcl4j!19sChIJ3YErdL0Z2jERxrBRAOxLGdA
+https://www.google.com/maps/place/Legis+Point+LLC/data=!4m7!3m6!1s0x31da190ec652335d:0x879a0026b9580a28!8m2!3d1.2842345!4d103.8524453!16s%2Fg%2F1tdbz4qk!19sChIJXTNSxg4Z2jERKApYuSYAmoc
