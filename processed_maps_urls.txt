@@ -14474,3 +14474,4 @@ https://www.google.com/maps/place/DH+DigiLab+Pte+Ltd/data=!4m7!3m6!1s0x31da19643
 https://www.google.com/maps/place/Bevootech+Pte+Ltd/data=!4m7!3m6!1s0x31da17864340b475:0x76eaa336b462a86c!8m2!3d1.314!4d103.84425!16s%2Fg%2F11fm4yfmvw!19sChIJdbRAQ4YX2jERbKhitDaj6nY
 https://www.google.com/maps/place/T-DevO/data=!4m7!3m6!1s0x31da195ee160f99b:0x4cb2f3d7b2709a6b!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F11h6m9jh4_!19sChIJm_lg4V4Z2jERa5pwstfzskw
 https://www.google.com/maps/place/Apple+Orchard+Road/data=!4m7!3m6!1s0x31da1993d5734607:0xe94b66369127668a!8m2!3d1.3028653!4d103.8362999!16s%2Fg%2F11c59xwr5l!19sChIJB0Zz1ZMZ2jERimYnkTZmS-k
+https://www.google.com/maps/place/South+Beach+Tower/data=!4m7!3m6!1s0x31da19af801edee5:0x768e2b207b22e153!8m2!3d1.2957395!4d103.8566136!16s%2Fm%2F03c415_!19sChIJ5d4egK8Z2jERU-EieyArjnY
