@@ -14831,3 +14831,6 @@ https://www.google.com/maps/place/Legis+Point+LLC/data=!4m7!3m6!1s0x31da190ec652
 https://www.google.com/maps/place/Gunderson+Dettmer+Singapore+LLP/data=!4m7!3m6!1s0x31da191325c3e575:0x692757b331a14f37!8m2!3d1.2764491!4d103.8458497!16s%2Fg%2F11g6hv274s!19sChIJdeXDJRMZ2jERN0-hMbNXJ2k
 https://www.google.com/maps/place/Addleshaw+Goddard+LLP/data=!4m7!3m6!1s0x31da190eeb4ba625:0x27071f4a0712146e!8m2!3d1.2829639!4d103.8520725!16s%2Fg%2F1ptzy2759!19sChIJJaZL6w4Z2jERbhQSB0ofByc
 https://www.google.com/maps/place/Mourant/data=!4m7!3m6!1s0x31da192079476d65:0x1c3673dd9d49ca6c!8m2!3d1.2830123!4d103.852015!16s%2Fg%2F11vpf35tlk!19sChIJZW1HeSAZ2jERbMpJnd1zNhw
+https://www.google.com/maps/place/Kertar+%26+Sandhu+LLC/data=!4m7!3m6!1s0x31da190b4b5049a7:0x276003615dc694b2!8m2!3d1.2852093!4d103.8447228!16s%2Fg%2F1wv_prbp!19sChIJp0lQSwsZ2jERspTGXWEDYCc
+https://www.google.com/maps/place/Ella+Cheong+%26+Mirandah+Pte+Ltd/data=!4m7!3m6!1s0x31da19a6caab2247:0x380d456ab492c0d8!8m2!3d1.2925296!4d103.8506561!16s%2Fg%2F1ptyt7pr5!19sChIJRyKryqYZ2jER2MCStGpFDTg
+https://www.google.com/maps/place/KGP+Legal+LLC/data=!4m7!3m6!1s0x31da191341369ccd:0x49478c2f890392a9!8m2!3d1.2758609!4d103.8464093!16s%2Fg%2F11ggnfhgyj!19sChIJzZw2QRMZ2jERqZIDiS-MR0k
