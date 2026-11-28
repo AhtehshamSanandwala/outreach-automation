@@ -14500,3 +14500,5 @@ https://www.google.com/maps/place/SGTech/data=!4m7!3m6!1s0x31da196d7d1ca64d:0x66
 https://www.google.com/maps/place/Bevootech+Pte+Ltd/data=!4m7!3m6!1s0x31da17864340b475:0x76eaa336b462a86c!8m2!3d1.314!4d103.84425!16s%2Fg%2F11fm4yfmvw!19sChIJdbRAQ4YX2jERbKhitDaj6nY
 https://www.google.com/maps/place/South+Beach+Tower/data=!4m7!3m6!1s0x31da19af801edee5:0x768e2b207b22e153!8m2!3d1.2957395!4d103.8566136!16s%2Fm%2F03c415_!19sChIJ5d4egK8Z2jERU-EieyArjnY
 https://www.google.com/maps/place/The+PIT+Personal+Training/data=!4m7!3m6!1s0x31da196d31ab1f73:0x820de8da07fb8340!8m2!3d1.2997606!4d103.8363676!16s%2Fg%2F1ptw7mpvm!19sChIJcx-rMW0Z2jERQIP7B9roDYI
+https://www.google.com/maps/place/Adamo+Asia+Pacific+-+AI+%26+Software+Development+Company/data=!4m7!3m6!1s0x31da19abd57a8283:0x87e3309d3350724a!8m2!3d1.2982635!4d103.8555139!16s%2Fg%2F11zcjc1pkp!19sChIJg4J61asZ2jERSnJQM50w44c
+https://www.google.com/maps/place/268+Orchard/data=!4m7!3m6!1s0x31da19917acfda59:0xc1a515d27cbd4b71!8m2!3d1.302693!4d103.836805!16s%2Fg%2F11gf1s1syj!19sChIJWdrPepEZ2jERcUu9fNIVpcE
