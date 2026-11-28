@@ -15442,3 +15442,5 @@ https://www.google.com/maps/place/CSD+Construction+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Ho+Lee+Group/data=!4m7!3m6!1s0x31da19b6bcaf6ec9:0xb3a1261c7c4e774d!8m2!3d1.3042585!4d103.8616069!16s%2Fg%2F1trtrv67!19sChIJyW6vvLYZ2jERTXdOfBwmobM
 https://www.google.com/maps/place/HYK+BUILDERS+PTE+LTD/data=!4m7!3m6!1s0x31da1b7ece29ac99:0xb86a5815634c5798!8m2!3d1.4373009!4d103.8068931!16s%2Fg%2F11pwbh8y20!19sChIJmawpzn4b2jERmFdMYxVYarg
 https://www.google.com/maps/place/Hock+Hai+Civil+Engineering+%26+Building+Pte+Ltd/data=!4m7!3m6!1s0x31da11548759c9eb:0xef69e45fe4ef3bda!8m2!3d1.3972902!4d103.8189046!16s%2Fg%2F1vv2prqc!19sChIJ68lZh1QR2jER2jvv5F_kae8
+https://www.google.com/maps/place/Jinmac+Pte+Ltd/data=!4m7!3m6!1s0x31da17258d5520cd:0xb25afce399435811!8m2!3d1.3734629!4d103.8619512!16s%2Fg%2F1ptyjwfqh!19sChIJzSBVjSUX2jEREVhDmeP8WrI
+https://www.google.com/maps/place/C.+K.+Toh+Construction+Pte+Ltd/data=!4m7!3m6!1s0x31da156f0a0d3bd1:0xa7b0ac03208d1301!8m2!3d1.4373932!4d103.8419863!16s%2Fg%2F11b7f7rh4c!19sChIJ0TsNCm8V2jERARONIAOssKc
