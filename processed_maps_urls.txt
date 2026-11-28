@@ -14473,3 +14473,4 @@ https://www.google.com/maps/place/SGTech/data=!4m7!3m6!1s0x31da196d7d1ca64d:0x66
 https://www.google.com/maps/place/DH+DigiLab+Pte+Ltd/data=!4m7!3m6!1s0x31da196438b74127:0xff953e1487720d17!8m2!3d1.3260131!4d103.8791035!16s%2Fg%2F11v4nq_yxp!19sChIJJ0G3OGQZ2jERFw1yhxQ-lf8
 https://www.google.com/maps/place/Bevootech+Pte+Ltd/data=!4m7!3m6!1s0x31da17864340b475:0x76eaa336b462a86c!8m2!3d1.314!4d103.84425!16s%2Fg%2F11fm4yfmvw!19sChIJdbRAQ4YX2jERbKhitDaj6nY
 https://www.google.com/maps/place/T-DevO/data=!4m7!3m6!1s0x31da195ee160f99b:0x4cb2f3d7b2709a6b!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F11h6m9jh4_!19sChIJm_lg4V4Z2jERa5pwstfzskw
+https://www.google.com/maps/place/Apple+Orchard+Road/data=!4m7!3m6!1s0x31da1993d5734607:0xe94b66369127668a!8m2!3d1.3028653!4d103.8362999!16s%2Fg%2F11c59xwr5l!19sChIJB0Zz1ZMZ2jERimYnkTZmS-k
