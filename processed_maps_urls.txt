@@ -15801,3 +15801,7 @@ https://www.google.com/maps/place/Unique+Precision+Engineering+Pte+Ltd./data=!4m
 https://www.google.com/maps/place/Prime+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da119f3efbda6f:0xfd4cbce00f09253c!8m2!3d1.3421302!4d103.7544418!16s%2Fg%2F11kgwgwb4s!19sChIJb9r7Pp8R2jERPCUJD-C8TP0
 https://www.google.com/maps/place/GD+Precision+Pte+Ltd/data=!4m7!3m6!1s0x31da13023557adef:0xb7d4be2d2a1fa558!8m2!3d1.4486433!4d103.8111698!16s%2Fg%2F11ggs78h1x!19sChIJ761XNQIT2jERWKUfKi2-1Lc
 https://www.google.com/maps/place/Turntech+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da3da4dd0c8315:0x77dde94de67d8750!8m2!3d1.3655507!4d103.9319614!16s%2Fg%2F11g18_z82c!19sChIJFYMM3aQ92jERUId95k3p3Xc
+https://www.google.com/maps/place/Dolphin+Engineering+Industries/data=!4m7!3m6!1s0x31da3c4685555555:0x5f5277601bf21894!8m2!3d1.3773253!4d103.9762701!16s%2Fg%2F1tg4hxgn!19sChIJVVVVhUY82jERlBjyG2B3Ul8
+https://www.google.com/maps/place/JP+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da165f548b00d3:0x2036dbd390be245f!8m2!3d1.3780743!4d103.868818!16s%2Fg%2F1tgq44vx!19sChIJ0wCLVF8W2jERXyS-kNPbNiA
+https://www.google.com/maps/place/Polytech+Precision+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da1832cdec3543:0x976ae9e57eada942!8m2!3d1.315339!4d103.8683188!16s%2Fg%2F1tj7bktl!19sChIJQzXszTIY2jERQqmtfuXpapc
+https://www.google.com/maps/place/Hi-P+Precision+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da056e241aaaab:0x5a4b2ad9b6bc2276!8m2!3d1.3141701!4d103.6940958!16s%2Fg%2F11h4dhs625!19sChIJq6oaJG4F2jERdiK8ttkqS1o
