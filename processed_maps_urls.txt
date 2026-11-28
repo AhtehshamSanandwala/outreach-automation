@@ -15203,3 +15203,6 @@ https://www.google.com/maps/place/Lucky+Industrial+Trading+Pte+Ltd/data=!4m7!3m6
 https://www.google.com/maps/place/POP+MART+Plaza+Singapura/data=!4m7!3m6!1s0x31da19c21866aa89:0xe46a8bb1d9f85a93!8m2!3d1.299379!4d103.8453225!16s%2Fg%2F11tn40ph4_!19sChIJiapmGMIZ2jERk1r42bGLauQ
 https://www.google.com/maps/place/Spotlight+Plaza+Singapura/data=!4m7!3m6!1s0x31da1997d93a23a3:0x12058c80e1ff253f!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F1v1shqtk!19sChIJoyM62ZcZ2jERPyX_4YCMBRI
 https://www.google.com/maps/place/Mister+Minit+Plaza+Singapura/data=!4m7!3m6!1s0x31da19bd7f955555:0xe0bebb485949d3f!8m2!3d1.3005206!4d103.8449719!16s%2Fg%2F11f_0vt1s0!19sChIJVVWVf70Z2jERP52UhbTrCw4
+https://www.google.com/maps/place/Transprint+Packaging+Pte+Ltd/data=!4m7!3m6!1s0x31da3c3825029aab:0x63f689d5d395599d!8m2!3d1.3841706!4d103.9739449!16s%2Fg%2F11b6303fs_!19sChIJq5oCJTg82jERnVmV09WJ9mM
+https://www.google.com/maps/place/Cine+Equipment+Pte+Ltd/data=!4m7!3m6!1s0x31da19d8c2172825:0xb97b8ea12336dcb5!8m2!3d1.3510861!4d103.8418277!16s%2Fg%2F1tj47_s6!19sChIJJSgXwtgZ2jERtdw2I6GOe7k
+https://www.google.com/maps/place/TAMZA+House+of+Crystals+%26+Lifestyle/data=!4m7!3m6!1s0x31da19bb7af21bf1:0x81149ad4e09f2bbb!8m2!3d1.3005314!4d103.8508826!16s%2Fg%2F11cnc258bm!19sChIJ8RvyersZ2jERuyuf4NSaFIE
