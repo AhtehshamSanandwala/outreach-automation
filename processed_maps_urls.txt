@@ -14462,3 +14462,5 @@ https://www.google.com/maps/place/DotIT+Outsourcing/data=!4m7!3m6!1s0x31da19c6f6
 https://www.google.com/maps/place/Digistore+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da178763d6f653:0x29d52cf0ac537ed6!8m2!3d1.326544!4d103.875761!16s%2Fg%2F1thscfq9!19sChIJU_bWY4cX2jER1n5TrPAs1Sk
 https://www.google.com/maps/place/VDOHire/data=!4m7!3m6!1s0x31da196ea1a2f933:0xe08c9fb693ac6c2c!8m2!3d1.2833696!4d103.8471939!16s%2Fg%2F11q90k_xfr!19sChIJM_mioW4Z2jERLGysk7afjOA
 https://www.google.com/maps/place/Challenger+Technologies+Ltd/data=!4m7!3m6!1s0x31da17f36d5e8803:0x661cc51cc119e567!8m2!3d1.3317986!4d103.8932733!16s%2Fg%2F11f0193m6q!19sChIJA4hebfMX2jERZ-UZwRzFHGY
+https://www.google.com/maps/place/Monol%C3%B8gue+by+Photomanner/data=!4m7!3m6!1s0x31da199177add72f:0xd0c1e7415ebfb568!8m2!3d1.3020899!4d103.8577814!16s%2Fg%2F11z05hync9!19sChIJL9etd5EZ2jERaLW_XkHnwdA
+https://www.google.com/maps/place/The+Fesique+Lab/data=!4m7!3m6!1s0x31da19a569e6163b:0xb1bb4b5641d6848a!8m2!3d1.2871416!4d103.8468672!16s%2Fg%2F11dx9dy4f0!19sChIJOxbmaaUZ2jERioTWQVZLu7E
