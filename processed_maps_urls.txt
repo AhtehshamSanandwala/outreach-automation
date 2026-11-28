@@ -14299,3 +14299,5 @@ https://www.google.com/maps/place/DMS+Photocopy+%26+Trading+Enterprise/data=!4m7
 https://www.google.com/maps/place/NTUC+LearningHub+@+Haw+Par+Centre+%28near+Dhoby+Ghaut%29/data=!4m7!3m6!1s0x31da193270b6a325:0x6aab92125fc1497f!8m2!3d1.297183!4d103.844086!16s%2Fg%2F11mdh88zg6!19sChIJJaO2cDIZ2jERf0nBXxKSq2o
 https://www.google.com/maps/place/DVYA/data=!4m7!3m6!1s0xcd0b3ad7bdaae2b:0xf81c7a362551eccc!8m2!3d14.1576412!4d150.06225!16s%2Fg%2F11v_48b49f!19sChIJK67ae62z0AwRzOxRJTZ6HPg
 https://www.google.com/maps/place/DBS+Plaza+Singapura+Branch+%28All+Services%29/data=!4m7!3m6!1s0x31da19ba14d10f55:0xcb8775e9635dbe44!8m2!3d1.3009384!4d103.8453181!16s%2Fg%2F1th7_gbt!19sChIJVQ_RFLoZ2jERRL5dY-l1h8s
+https://www.google.com/maps/place/Monol%C3%B8gue+by+Photomanner/data=!4m7!3m6!1s0x31da199177add72f:0xd0c1e7415ebfb568!8m2!3d1.3020899!4d103.8577814!16s%2Fg%2F11z05hync9!19sChIJL9etd5EZ2jERaLW_XkHnwdA
+https://www.google.com/maps/place/Best+Denki+%28Plaza+Singapura%29/data=!4m7!3m6!1s0x31da196ccc3b2c99:0xfdc6b9cbb075ea6e!8m2!3d1.3003762!4d103.8450453!16s%2Fg%2F11ph4wm_r8!19sChIJmSw7zGwZ2jERbup1sMu5xv0
