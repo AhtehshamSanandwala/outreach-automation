@@ -14702,3 +14702,7 @@ https://www.google.com/maps/place/DCI:+Organizational+Development,+Leadership+De
 https://www.google.com/maps/place/Blackbox+Research/data=!4m7!3m6!1s0x31da19733639347b:0x61bbf0456935842c!8m2!3d1.2938457!4d103.7934252!16s%2Fg%2F1tf62_n6!19sChIJezQ5NnMZ2jERLIQ1aUXwu2E
 https://www.google.com/maps/place/AsterSense+Pte.+Ltd./data=!4m7!3m6!1s0x2e448fcd1dcb827:0x3d0331b2e601aad4!8m2!3d1.2783955!4d103.8487731!16s%2Fg%2F11l240wwcx!19sChIJJ7jc0fxI5AIR1KoB5rIxAz0
 https://www.google.com/maps/place/Compport/data=!4m7!3m6!1s0x4231a1af67d09fa7:0xddb4843d1d53a708!8m2!3d1.2784652!4d103.8479153!16s%2Fg%2F11tn0p1rt8!19sChIJp5_QZ6-hMUIRCKdTHT2EtN0
+https://www.google.com/maps/place/HRSINGAPORE+PTE+LTD/data=!4m7!3m6!1s0x31da19b945c12d83:0x4fca679805396c60!8m2!3d1.301841!4d103.8529!16s%2Fg%2F1td6_hzm!19sChIJgy3BRbkZ2jERYGw5BZhnyk8
+https://www.google.com/maps/place/Hr+Agency+%28s%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19b910a0ed57:0x674a9748f9a114c!8m2!3d1.3047748!4d103.8524408!16s%2Fg%2F1tddv8pk!19sChIJV-2gELkZ2jERTBGaj3SpdAY
+https://www.google.com/maps/place/d%C2%B2X+Expertise+Singapore/data=!4m7!3m6!1s0x31da19c91bd62b35:0x4395fdb97a42ee7b!8m2!3d1.2832744!4d103.8508826!16s%2Fg%2F11g1klt0jl!19sChIJNSvWG8kZ2jERe-5Cern9lUM
+https://www.google.com/maps/place/C%2BH+Associates+Pte.Ltd./data=!4m7!3m6!1s0x31da175f4cc2d93b:0xa45f1ac90fd9a2dc!8m2!3d1.3351925!4d103.8876045!16s%2Fg%2F11j01ss8p8!19sChIJO9nCTF8X2jER3KLZD8kaX6Q
