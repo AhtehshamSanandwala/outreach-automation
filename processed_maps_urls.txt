@@ -13914,3 +13914,4 @@ https://www.google.com/maps/place/CVC+Engineers+Pte+Ltd/data=!4m7!3m6!1s0xab4c92
 https://www.google.com/maps/place/National+Design+Centre/data=!4m7!3m6!1s0x31da19bad62a795f:0xebd6bcfaf5795f03!8m2!3d1.2986691!4d103.8533635!16s%2Fm%2F012kc9s9!19sChIJX3kq1roZ2jERA1959fq81us
 https://www.google.com/maps/place/3PA+Pte+Ltd/data=!4m7!3m6!1s0x31da19731038c80d:0x7281bc359670d8e7!8m2!3d1.2825238!4d103.8424326!16s%2Fg%2F1tcvlsw9!19sChIJDcg4EHMZ2jER59hwljW8gXI
 https://www.google.com/maps/place/3P+Ecotecture+Pte+Ltd/data=!4m7!3m6!1s0x31da19730e3e3e93:0x58cc25cc962abc54!8m2!3d1.2830471!4d103.8426912!16s%2Fg%2F1ptv_zyq3!19sChIJkz4-DnMZ2jERVLwqlswlzFg
+https://www.google.com/maps/place/ADX+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da1752e67c2733:0x23f4cf8a2acbc50f!8m2!3d1.3347415!4d103.8820482!16s%2Fg%2F1ptw0rzhq!19sChIJMyd85lIX2jERD8XLKorP9CM
