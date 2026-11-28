@@ -14331,3 +14331,4 @@ https://www.google.com/maps/place/Mindshare+Singapore/data=!4m7!3m6!1s0x31da19b3
 https://www.google.com/maps/place/Staytion+Lifestyle+Centre+%28Dhoby+Ghaut+MRT%29/data=!4m7!3m6!1s0x31da197c53e28335:0x570293b01d0ca561!8m2!3d1.298535!4d103.8459742!16s%2Fg%2F11sskx1_5f!19sChIJNYPiU3wZ2jERYaUMHbCTAlc
 https://www.google.com/maps/place/Team+Music/data=!4m7!3m6!1s0x31da190c91787835:0x6efe6d1389cf8b05!8m2!3d1.2999743!4d103.845354!16s%2Fg%2F11b6y610qr!19sChIJNXh4kQwZ2jERBYvPiRNt_m4
 https://www.google.com/maps/place/Arcade+Studio/data=!4m7!3m6!1s0x31da199bdb11eb77:0xbdc4359c2d94be14!8m2!3d1.3146098!4d103.8773822!16s%2Fg%2F11rxhwkcpx!19sChIJd-sR25sZ2jERFL6ULZw1xL0
+https://www.google.com/maps/place/FunEmpire/data=!4m7!3m6!1s0x31da1a5aaf37b44b:0x94c967a8ec842244!8m2!3d1.3344749!4d103.8860336!16s%2Fg%2F11bxdwsb4m!19sChIJS7Q3r1oa2jERRCKE7KhnyZQ
