@@ -14294,3 +14294,5 @@ https://www.google.com/maps/place/Photo-Me/data=!4m7!3m6!1s0x31da19972d510103:0x
 https://www.google.com/maps/place/PI+-+Games/data=!4m7!3m6!1s0x31da19913385be13:0xb1d79ef4a803e88a!8m2!3d1.3016539!4d103.8386341!16s%2Fg%2F1th592qn!19sChIJE76FM5EZ2jERiugDqPSe17E
 https://www.google.com/maps/place/Yamaha+Music+Store+%26+Music+School+-+Plaza+Singapura/data=!4m7!3m6!1s0x31da19bd7edc6d31:0xbfa5ff151e75dd73!8m2!3d1.3003446!4d103.8450532!16s%2Fg%2F1ptv_7fv9!19sChIJMW3cfr0Z2jERc911HhX_pb8
 https://www.google.com/maps/place/The+Cathay/data=!4m7!3m6!1s0x31da19bd213d070b:0x471373c2c51aa918!8m2!3d1.2995083!4d103.8477778!16zL20vMDlfdzZ4!19sChIJCwc9Ib0Z2jERGKkaxcJzE0c
+https://www.google.com/maps/place/Suchehwa+By+Ted+-+Luxury+Korean+Hair+Salon+%EC%88%98%EC%B1%84%ED%99%94+%ED%97%A4%EC%96%B4+%EC%82%B4%EB%A1%B1/data=!4m7!3m6!1s0x31da1945095e13dd:0x9bc1a458e7fa0448!8m2!3d1.2978935!4d103.845221!16s%2Fg%2F11tjkgvnp2!19sChIJ3RNeCUUZ2jERSAT651ikwZs
+https://www.google.com/maps/place/DMS+Photocopy+%26+Trading+Enterprise/data=!4m7!3m6!1s0x31da19bc66f678d1:0x58b27d7c42559461!8m2!3d1.300661!4d103.8493367!16s%2Fg%2F1tyct4y_!19sChIJ0Xj2ZrwZ2jERYZRVQnx9slg
