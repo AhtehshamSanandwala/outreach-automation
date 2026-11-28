@@ -15174,3 +15174,6 @@ https://www.google.com/maps/place/Niehoff+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Newera+Tools+%26+Machinery+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d553ab2ee7d:0xf2bf2198b5d0800a!8m2!3d1.3717776!4d103.9252017!16s%2Fg%2F1tzglrl1!19sChIJfe6yOlU92jERCoDQtZghv_I
 https://www.google.com/maps/place/Toray+Industries+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da16e2dee7ce01:0xb35a4775690b7193!8m2!3d1.3661276!4d103.8552266!16s%2Fg%2F1pv610vvs!19sChIJAc7n3uIW2jERk3ELaXVHWrM
 https://www.google.com/maps/place/The+Kettle+Gourmet+Pte+Ltd/data=!4m7!3m6!1s0x31da19f2b6401731:0x5354a595a66bcac9!8m2!3d1.3149903!4d103.8624358!16s%2Fg%2F11sd1rjt08!19sChIJMRdAtvIZ2jERycprppWlVFM
+https://www.google.com/maps/place/Benefit+Cosmetics+Brow+Bar/data=!4m7!3m6!1s0x31da19d12003be2d:0x483ad09acede9cdc!8m2!3d1.2998548!4d103.8454835!16s%2Fg%2F11rk5cczjk!19sChIJLb4DINEZ2jER3JzezprQOkg
+https://www.google.com/maps/place/Panatec+%26+Perfect+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da1780abc3a975:0x901c71d87dccffb9!8m2!3d1.326656!4d103.873524!16s%2Fg%2F1tfjycm_!19sChIJdanDq4AX2jERuf_MfdhxHJA
+https://www.google.com/maps/place/Technetics+Group+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1300ebfbf073:0xfa9924e5e47845d1!8m2!3d1.441075!4d103.7840531!16s%2Fg%2F11qc4s4xms!19sChIJc_D76wAT2jER0UV45OUkmfo
