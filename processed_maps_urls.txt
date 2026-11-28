@@ -15816,3 +15816,4 @@ https://www.google.com/maps/place/Fusion+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Kim+Hwee+Industrial+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da0562bb597dcd:0x8fda68e4e79d9707!8m2!3d1.3266909!4d103.6952855!16s%2Fg%2F1tf7d5b_!19sChIJzX1Zu2IF2jERB5ed5-Ro2o8
 https://www.google.com/maps/place/SMARTT+PRECISION+MFG+PTE+LTD/data=!4m7!3m6!1s0x31da3ce3fc669899:0x2dc8913dbef52bc4!8m2!3d1.3493843!4d103.966586!16s%2Fg%2F1wc45j1x!19sChIJmZhm_OM82jERxCv1vj2RyC0
 https://www.google.com/maps/place/Compact+Precision+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da3dfd339bf25f:0x506815b7526d419b!8m2!3d1.3307286!4d103.9181149!16s%2Fg%2F11v05mypcq!19sChIJX_KbM_092jERm0FtUrcVaFA
+https://www.google.com/maps/place/DTM+PRECISION+PTE+LTD/data=!4m7!3m6!1s0x31da17f3145d205b:0x9190d613c6fa8919!8m2!3d1.3345077!4d103.9013238!16s%2Fg%2F11ftmpqm3l!19sChIJWyBdFPMX2jERGYn6xhPWkJE
