@@ -14607,3 +14607,4 @@ https://www.google.com/maps/place/iXiZ+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Evvo+Labs+Pte+Ltd/data=!4m7!3m6!1s0x31da176983ea0061:0x2075a2d9808b8069!8m2!3d1.3282643!4d103.8732974!16s%2Fg%2F11c3q57htk!19sChIJYQDqg2kX2jERaYCLgNmidSA
 https://www.google.com/maps/place/CHJ+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da106e7ba410b5:0x712f4677061972bd!8m2!3d1.3384557!4d103.7582893!16s%2Fg%2F1w97rxs9!19sChIJtRCke24Q2jERvXIZBndGL3E
 https://www.google.com/maps/place/Fortiedge+Pte+Ltd/data=!4m7!3m6!1s0x31da119d5281fcd5:0x75b92c221cd38ca1!8m2!3d1.3324472!4d103.7482532!16s%2Fg%2F11h_7w4wsg!19sChIJ1fyBUp0R2jERoYzTHCIsuXU
+https://www.google.com/maps/place/Securinc+Pte+Ltd/data=!4m7!3m6!1s0x31da1933ea5bb77f:0xdca9a683f544c807!8m2!3d1.2864418!4d103.8491423!16s%2Fg%2F11scn8n48r!19sChIJf7db6jMZ2jERB8hE9YOmqdw
