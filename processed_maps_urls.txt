@@ -15251,3 +15251,5 @@ https://www.google.com/maps/place/ST+Logistics+Hub+East/data=!4m7!3m6!1s0x31da3d
 https://www.google.com/maps/place/JDH+Rubber+Products+Pte+Ltd/data=!4m7!3m6!1s0x31da0591c729eedb:0xd1295292af845709!8m2!3d1.3174757!4d103.6671611!16s%2Fg%2F1tcw5pzk!19sChIJ2-4px5EF2jERCVeEr5JSKdE
 https://www.google.com/maps/place/DrumTannery+%28Dhoby+Ghaut%29/data=!4m7!3m6!1s0x31da19bc7aa00661:0x270344d602e59b14!8m2!3d1.300661!4d103.8493367!16s%2Fg%2F11fmw_bjjb!19sChIJYQagerwZ2jERFJvlAtZEAyc
 https://www.google.com/maps/place/That+Dhoby+Shop+Pte+Ltd/data=!4m7!3m6!1s0x31da17a5788ebf73:0x93a3aa7a2b83f511!8m2!3d1.3540433!4d103.8771596!16s%2Fg%2F1ptxlt6rh!19sChIJc7-OeKUX2jEREfWDK3qqo5M
+https://www.google.com/maps/place/YCH+Distripark+Pte.+Ltd./data=!4m7!3m6!1s0x31da0fc6f794ef85:0x5fc99b104a672208!8m2!3d1.3533064!4d103.7092923!16s%2Fg%2F11jdm05w96!19sChIJhe-U98YP2jERCCJnShCbyV8
+https://www.google.com/maps/place/Regent+Group+Pte+Ltd/data=!4m7!3m6!1s0x31da1b0a0fc0b88d:0x10899a0d39e7e0f9!8m2!3d1.2650026!4d103.8187133!16s%2Fg%2F11w235r9cc!19sChIJjbjADwob2jER-eDnOQ2aiRA
