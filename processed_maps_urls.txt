@@ -14631,3 +14631,5 @@ https://www.google.com/maps/place/Halodata+International+Pte+Ltd/data=!4m7!3m6!1
 https://www.google.com/maps/place/Cyber+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da1bce7718542d:0x3d12f9e77f1af4d7!8m2!3d1.2843821!4d103.8080106!16s%2Fg%2F1tgm0cqp!19sChIJLVQYd84b2jER1_Qaf-f5Ej0
 https://www.google.com/maps/place/Hackuity+PTE+LTD/data=!4m7!3m6!1s0x31da19f154725f75:0xdd688dd42aa4b930!8m2!3d1.2944482!4d103.8581638!16s%2Fg%2F11q4c9m80j!19sChIJdV9yVPEZ2jERMLmkKtSNaN0
 https://www.google.com/maps/place/Data+Terminator+Pte+Ltd/data=!4m7!3m6!1s0x31da106db67959fd:0x8fc2c60ed50290b6!8m2!3d1.3377227!4d103.759799!16s%2Fg%2F1pv0k7vw5!19sChIJ_Vl5tm0Q2jERtpAC1Q7Gwo8
+https://www.google.com/maps/place/Netmarks+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da1bbf33f71de1:0xd7ef15b8f2193503!8m2!3d1.2761607!4d103.7962272!16s%2Fg%2F1trsvjny!19sChIJ4R33M78b2jERAzUZ8rgV79c
+https://www.google.com/maps/place/Aventis+Graduate+School+Singapore/data=!4m7!3m6!1s0x31da1997abb1c151:0xe7287c95ce97317f!8m2!3d1.300618!4d103.842224!16s%2Fm%2F05f421m!19sChIJUcGxq5cZ2jERfzGXzpV8KOc
