@@ -15109,3 +15109,7 @@ https://www.google.com/maps/place/Getch+D+Projects+%26+Interior/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Aamer+Taher/data=!4m7!3m6!1s0x31da1a153374dadd:0x87089ec974f1b452!8m2!3d1.291072!4d103.8148302!16s%2Fg%2F1tf_dyjr!19sChIJ3dp0MxUa2jERUrTxdMmeCIc
 https://www.google.com/maps/place/Threehaus+Works/data=!4m7!3m6!1s0x31da11fec7806637:0x46afdfa36ea1366e!8m2!3d1.3371117!4d103.7597177!16s%2Fg%2F11vcrb6rky!19sChIJN2aAx_4R2jERbjahbqPfr0Y
 https://www.google.com/maps/place/PCI+Private+Limited/data=!4m7!3m6!1s0x31da0563ffe3464d:0xb2f111a460c3276!8m2!3d1.329121!4d103.6960169!16s%2Fg%2F1tdwbfqz!19sChIJTUbj_2MF2jERdjIMRhoRLws
+https://www.google.com/maps/place/Buildd+Pte+Ltd/data=!4m7!3m6!1s0x208d674f91631fb1:0x1c985ab22988b9b5!8m2!3d1.314!4d103.84425!16s%2Fg%2F11vf6xnrc0!19sChIJsR9jkU9njSARtbmIKbJamBw
+https://www.google.com/maps/place/Tee+Yih+Jia+Food+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da13616a5bf601:0xb67ad3232dca359!8m2!3d1.4628623!4d103.8019787!16s%2Fg%2F11ty6ldwts!19sChIJAfZbamET2jERWaPcMjKtZws
+https://www.google.com/maps/place/Tang+Architects/data=!4m7!3m6!1s0x31da196d838ffefb:0x3a2fbf1afba49eb0!8m2!3d1.2794333!4d103.8416097!16s%2Fg%2F1pv043yf0!19sChIJ-_6Pg20Z2jERsJ6k-xq_Lzo
+https://www.google.com/maps/place/Thaddeus+Interior+Associates/data=!4m7!3m6!1s0x31da1975a364310f:0x41676ed8cd0692d9!8m2!3d1.336929!4d103.9056762!16s%2Fg%2F12hlsj85l!19sChIJDzFko3UZ2jER2ZIGzdhuZ0E
