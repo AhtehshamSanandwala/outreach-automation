@@ -15823,3 +15823,6 @@ https://www.google.com/maps/place/Alliance+Medical+Centre+@Dhoby+Xchange/data=!4
 https://www.google.com/maps/place/Neua+Dental+@+Dhoby+Ghaut/data=!4m7!3m6!1s0x31da1956ec77a17d:0x3b46db13d3d145d9!8m2!3d1.2985104!4d103.8467945!16s%2Fg%2F11xmxrlrvp!19sChIJfaF37FYZ2jER2UXR0xPbRjs
 https://www.google.com/maps/place/Physio+Performance+@+Dhoby+Ghaut/data=!4m7!3m6!1s0x31da1947e5bfe01b:0xcfae7e1f5e83d9fc!8m2!3d1.2980335!4d103.8441749!16s%2Fg%2F11rscf99_k!19sChIJG-C_5UcZ2jER_NmDXh9-rs8
 https://www.google.com/maps/place/SKYE+AESTHETICS+Scalp+Hair+Face+Body+%28Dhoby+Ghaut%29/data=!4m7!3m6!1s0x31da198777514233:0xb48cdecf241cb9b0!8m2!3d1.3000678!4d103.8447831!16s%2Fg%2F11rkg53yxb!19sChIJM0JRd4cZ2jERsLkcJM_ejLQ
+https://www.google.com/maps/place/Eu+Yan+Sang+TCM+Clinic+@+Plaza+Singapura/data=!4m7!3m6!1s0x31da19bd7ec8ac73:0x627819221f87cacd!8m2!3d1.3002334!4d103.8455979!16s%2Fg%2F1tj43f1d!19sChIJc6zIfr0Z2jERzcqHHyIZeGI
+https://www.google.com/maps/place/DTAP+Clinic+@+Clarke+Quay+Central/data=!4m7!3m6!1s0x31da199ee2cf5a27:0x894297ea40ce4a33!8m2!3d1.2886218!4d103.8465628!16s%2Fg%2F11byx86zv6!19sChIJJ1rP4p4Z2jERM0rOQOqXQok
+https://www.google.com/maps/place/Become+Aesthetics+Clinic+%28Plaza+Singapura%29/data=!4m7!3m6!1s0x31da19426ccc7c9b:0xd0d46ea366657738!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F11vhk5087c!19sChIJm3zMbEIZ2jEROHdlZqNu1NA
