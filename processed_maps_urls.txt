@@ -15724,3 +15724,5 @@ https://www.google.com/maps/place/JustCo+%E2%80%93+MacDonald+House+%7C+Coworking
 https://www.google.com/maps/place/Dex+Ho+-+Get+Right+Property/data=!4m7!3m6!1s0x6d1a38305b54d8b1:0x2a1fe824cab04621!8m2!3d1.3322846!4d103.8483709!16s%2Fg%2F11pcrl0kf3!19sChIJsdhUWzA4Gm0RIUawyiToHyo
 https://www.google.com/maps/place/Cathay+Building/data=!4m7!3m6!1s0x31da1998c94554af:0x51cf2721e2b3b1a0!8m2!3d1.2993194!4d103.8477035!16s%2Fg%2F11g_x4p5cd!19sChIJr1RFyZgZ2jERoLGz4iEnz1E
 https://www.google.com/maps/place/Delvin+Goh+PropNex/data=!4m7!3m6!1s0x31da11bba94573f9:0xfb9a7921e3c64f60!8m2!3d1.3322846!4d103.8483709!16s%2Fg%2F11rdb7195c!19sChIJ-XNFqbsR2jERYE_G4yF5mvs
+https://www.google.com/maps/place/PK+SOH+%28Property+Wealth+Partners+%7C+Property+Wealth+System+%7C+Singapore+Property+Investment%29/data=!4m7!3m6!1s0x2a78ac7713a7fcf7:0xca54f4f4b80a3650!8m2!3d1.314!4d103.84425!16s%2Fg%2F11ww4t7fn3!19sChIJ9_ynE3eseCoRUDYKuPT0VMo
+https://www.google.com/maps/place/JustCo+%E2%80%93+MacDonald+House+%7C+Coworking+%26+Office+Space/data=!4m7!3m6!1s0x31da193f96adc313:0xd47a88facbaeeddb!8m2!3d1.2991758!4d103.8460539!16s%2Fg%2F11f6520wsm!19sChIJE8Otlj8Z2jER2-2uy_qIetQ
