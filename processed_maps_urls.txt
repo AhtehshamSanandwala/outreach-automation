@@ -15083,3 +15083,6 @@ https://www.google.com/maps/place/Project+L+Studio/data=!4m7!3m6!1s0x31da176a8d5
 https://www.google.com/maps/place/Aamer+Taher/data=!4m7!3m6!1s0x31da1a153374dadd:0x87089ec974f1b452!8m2!3d1.291072!4d103.8148302!16s%2Fg%2F1tf_dyjr!19sChIJ3dp0MxUa2jERUrTxdMmeCIc
 https://www.google.com/maps/place/Threehaus+Works/data=!4m7!3m6!1s0x31da11fec7806637:0x46afdfa36ea1366e!8m2!3d1.3371117!4d103.7597177!16s%2Fg%2F11vcrb6rky!19sChIJN2aAx_4R2jERbjahbqPfr0Y
 https://www.google.com/maps/place/Design+Integrated+Architects/data=!4m7!3m6!1s0x31da17f15b920fed:0xb8167fd5bc82f4ed!8m2!3d1.3316066!4d103.896945!16s%2Fg%2F1tfnqj8r!19sChIJ7Q-SW_EX2jER7fSCvNV_Frg
+https://www.google.com/maps/place/Buildd+Pte+Ltd/data=!4m7!3m6!1s0x208d674f91631fb1:0x1c985ab22988b9b5!8m2!3d1.314!4d103.84425!16s%2Fg%2F11vf6xnrc0!19sChIJsR9jkU9njSARtbmIKbJamBw
+https://www.google.com/maps/place/Temasek+Shophouse/data=!4m7!3m6!1s0x31da195bc0054a03:0xcc520bd082f5033f!8m2!3d1.2989938!4d103.8464252!16s%2Fg%2F11h77pv9ny!19sChIJA0oFwFsZ2jERPwP1gtALUsw
+https://www.google.com/maps/place/Tang+Architects/data=!4m7!3m6!1s0x31da196d838ffefb:0x3a2fbf1afba49eb0!8m2!3d1.2794333!4d103.8416097!16s%2Fg%2F1pv043yf0!19sChIJ-_6Pg20Z2jERsJ6k-xq_Lzo
