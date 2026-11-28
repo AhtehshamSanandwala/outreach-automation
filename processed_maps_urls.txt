@@ -15684,3 +15684,5 @@ https://www.google.com/maps/place/Management+Corporation+Strata+Title+No+628/dat
 https://www.google.com/maps/place/Ping+Property+Singapore/data=!4m7!3m6!1s0x31da1742845659e3:0x30d24d8ae90bd1f5!8m2!3d1.3176676!4d103.9248199!16s%2Fg%2F11fj1tcp1b!19sChIJ41lWhEIX2jER9dEL6YpN0jA
 https://www.google.com/maps/place/Shawn+Khoo+Property/data=!4m7!3m6!1s0x31da17e9c56ebb81:0xce2cc27a5d02892!8m2!3d1.3322846!4d103.8483709!16s%2Fg%2F11t46pyg89!19sChIJgbtuxekX2jERkijQpSfM4gw
 https://www.google.com/maps/place/Soho/data=!4m7!3m6!1s0x31da19bbecea95ad:0x777248dda1d50e8a!8m2!3d1.3019168!4d103.8402336!16s%2Fg%2F11fzb1qhr4!19sChIJrZXq7LsZ2jERig7Vod1Icnc
+https://www.google.com/maps/place/The+Rise+@+Oxley/data=!4m7!3m6!1s0x31da106dcd74f7a5:0xfe47a6221de9dcdd!8m2!3d1.2975014!4d103.8430901!16s%2Fg%2F11fxdytp2d!19sChIJpfd0zW0Q2jER3dzpHSKmR_4
+https://www.google.com/maps/place/Cynric+Ho+Property/data=!4m7!3m6!1s0x31da0f52358e3ad1:0x1166442d646e8d0f!8m2!3d1.3322846!4d103.8483709!16s%2Fg%2F11nn56gd9d!19sChIJ0TqONVIP2jERD41uZC1EZhE
