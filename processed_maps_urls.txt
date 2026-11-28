@@ -13933,3 +13933,5 @@ https://www.google.com/maps/place/Thee+Bold+Stories/data=!4m7!3m6!1s0x31da19b5a5
 https://www.google.com/maps/place/Formspace+Architects/data=!4m7!3m6!1s0x31da1714de1aaaab:0x672765b4d6e0bf93!8m2!3d1.3463946!4d103.8480292!16s%2Fg%2F11qpkcq0jc!19sChIJq6oa3hQX2jERk7_g1rRlJ2c
 https://www.google.com/maps/place/21+Carpenter/data=!4m10!3m9!1s0x31da1900cd98df5f:0x47e99b7c8574d898!5m2!4m1!1i2!8m2!3d1.2885226!4d103.8474019!16s%2Fg%2F11svng002h!19sChIJX9-YzQAZ2jERmNh0hXyb6Uc
 https://www.google.com/maps/place/Sunningdale+Tech+Ltd/data=!4m7!3m6!1s0x31da0f62a7fb0e51:0xc4fceaa2b0ac51dd!8m2!3d1.3276059!4d103.6699677!16s%2Fg%2F1tjs2fs2!19sChIJUQ77p2IP2jER3VGssKLq_MQ
+https://www.google.com/maps/place/The+Foundry/data=!4m7!3m6!1s0x31da195c13177477:0xdc4e4108bf9dc852!8m2!3d1.3001569!4d103.8501777!16s%2Fg%2F11y3rpv2yt!19sChIJd3QXE1wZ2jERUsidvwhBTtw
+https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da191e6fd694b5:0x5329aad8ba714ed7!8m2!3d1.2907458!4d103.846613!16s%2Fg%2F11jmzjmdcs!19sChIJtZTWbx4Z2jER105xutiqKVM
