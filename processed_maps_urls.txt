@@ -15828,3 +15828,6 @@ https://www.google.com/maps/place/DTAP+Clinic+@+Clarke+Quay+Central/data=!4m7!3m
 https://www.google.com/maps/place/Become+Aesthetics+Clinic+%28Plaza+Singapura%29/data=!4m7!3m6!1s0x31da19426ccc7c9b:0xd0d46ea366657738!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F11vhk5087c!19sChIJm3zMbEIZ2jEROHdlZqNu1NA
 https://www.google.com/maps/place/Align+Braces+Clinic+-+Plaza+Singapura/data=!4m7!3m6!1s0x31da19154131525b:0x94b9a98b40441f4b!8m2!3d1.3002937!4d103.8451351!16s%2Fg%2F11h73vsph2!19sChIJW1IxQRUZ2jERSx9EQIupuZQ
 https://www.google.com/maps/place/DSC+Clinic/data=!4m7!3m6!1s0x31da19b7f34c3377:0x2f70f8880e412df7!8m2!3d1.3065859!4d103.8569637!16s%2Fg%2F1tnmp78r!19sChIJdzNM87cZ2jER9y1BDoj4cC8
+https://www.google.com/maps/place/Parklane+Medical+Centre/data=!4m7!3m6!1s0x31da19bc898372e5:0xf521a28ce1227e84!8m2!3d1.3005689!4d103.8493227!16s%2Fg%2F1vcq53nl!19sChIJ5XKDibwZ2jERhH4i4YyiIfU
+https://www.google.com/maps/place/Chong%27s+Medical+Centre/data=!4m7!3m6!1s0x31da1998035f6e53:0x4089dd963ebd4a45!8m2!3d1.298199!4d103.8441246!16s%2Fg%2F1vyk00l2!19sChIJU25fA5gZ2jERRUq9PpbdiUA
+https://www.google.com/maps/place/Evoque+Medical+Aesthetics/data=!4m7!3m6!1s0x31da194c7c3862c3:0x6647cd4839f95dc4!8m2!3d1.2986545!4d103.8464611!16s%2Fg%2F11vlf3s59m!19sChIJw2I4fEwZ2jERxF35OUjNR2Y
