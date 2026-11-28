@@ -15155,3 +15155,4 @@ https://www.google.com/maps/place/P.Osh/data=!4m7!3m6!1s0x31da17b4c29fa701:0xbb3
 https://www.google.com/maps/place/Tong+Seng+Enterprises+1990+Pte+Ltd/data=!4m7!3m6!1s0x31da19bcb92f5581:0xe5f93bb8ce722605!8m2!3d1.2992168!4d103.8496249!16s%2Fg%2F1ptwt713y!19sChIJgVUvubwZ2jERBSZyzrg7-eU
 https://www.google.com/maps/place/IJOOZ+Orange+Juicr+Vending+Machine/data=!4m7!3m6!1s0x31da19003bfe5d7f:0x711bacd6484d931b!8m2!3d1.2989511!4d103.845218!16s%2Fg%2F11vwn794k0!19sChIJf13-OwAZ2jERG5NNSNasG3E
 https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da194ea6bb6aa9:0x48f7d50fb514cbe3!8m2!3d1.298811!4d103.846127!16s%2Fg%2F11krbpl1vy!19sChIJqWq7pk4Z2jER48sUtQ_V90g
+https://www.google.com/maps/place/Tong+Seng+Enterprises+1990+Pte+Ltd/data=!4m7!3m6!1s0x31da19bcb92f5581:0xe5f93bb8ce722605!8m2!3d1.2992168!4d103.8496249!16s%2Fg%2F1ptwt713y!19sChIJgVUvubwZ2jERBSZyzrg7-eU
