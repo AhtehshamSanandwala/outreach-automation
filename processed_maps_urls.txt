@@ -14869,3 +14869,5 @@ https://www.google.com/maps/place/MODERN+ENGINEERING+PTE.+LTD./data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Commercial+Property+Singapore/data=!4m7!3m6!1s0x31da19bcbbb4f183:0x16f94582e20ecaa!8m2!3d1.2991562!4d103.8496298!16s%2Fg%2F11h52s4p47!19sChIJg_G0u7wZ2jERquwgLliUbwE
 https://www.google.com/maps/place/LBS+Engineering+Consultants/data=!4m7!3m6!1s0x31da19bb4cba2e4b:0x6f0e89be7b1679ad!8m2!3d1.2987598!4d103.8520449!16s%2Fg%2F1tgvb40m!19sChIJSy66TLsZ2jERrXkWe76JDm8
 https://www.google.com/maps/place/Jack+Sheo/data=!4m7!3m6!1s0x31da1766b63cb037:0x5b45431ab7fdd874!8m2!3d1.314!4d103.84425!16s%2Fg%2F11c6q8c8yj!19sChIJN7A8tmYX2jERdNj9txpDRVs
+https://www.google.com/maps/place/Commercial+Properties/data=!4m7!3m6!1s0x31da191344c00001:0xadbc9ccb6f4d673f!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11f344f096!19sChIJAQDARBMZ2jERP2dNb8ucvK0
+https://www.google.com/maps/place/HDR/data=!4m7!3m6!1s0x31da198cff7879cd:0x58280ade84565299!8m2!3d1.3060192!4d103.8312847!16s%2Fg%2F11bt_j9fg0!19sChIJzXl4_4wZ2jERmVJWhN4KKFg
