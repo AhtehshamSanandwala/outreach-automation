@@ -14266,3 +14266,5 @@ https://www.google.com/maps/place/The+Cathay/data=!4m7!3m6!1s0x31da19bd213d070b:
 https://www.google.com/maps/place/Yellow+Dot/data=!4m7!3m6!1s0x31da19c0b3b3bb73:0x758a11482442be61!8m2!3d1.314!4d103.84425!16s%2Fg%2F11k4x2wdch!19sChIJc7uzs8AZ2jERYb5CJEgRinU
 https://www.google.com/maps/place/Dhoby+Ghaut/data=!4m7!3m6!1s0x31da19bd67c4bc19:0x44737e8d40235e1e!8m2!3d1.2987042!4d103.8461092!16zL20vMDRjNnhn!19sChIJGbzEZ70Z2jERHl4jQI1-c0Q
 https://www.google.com/maps/place/DMS+Photocopy+%26+Trading+Enterprise/data=!4m7!3m6!1s0x31da19bc66f678d1:0x58b27d7c42559461!8m2!3d1.300661!4d103.8493367!16s%2Fg%2F1tyct4y_!19sChIJ0Xj2ZrwZ2jERYZRVQnx9slg
+https://www.google.com/maps/place/Marketing+Institute+of+Singapore/data=!4m7!3m6!1s0x31da19689c4cdfd5:0x5adb2e0ab3723c5a!8m2!3d1.3330497!4d103.8389724!16s%2Fg%2F1tr9ky_v!19sChIJ1d9MnGgZ2jERWjxyswou21o
+https://www.google.com/maps/place/Dagnc+Private+Limited/data=!4m7!3m6!1s0x31da1791f4f0995d:0x63df9ffb06e837e6!8m2!3d1.4362285!4d103.8428764!16s%2Fg%2F11h2ffdmjk!19sChIJXZnw9JEX2jER5jfoBvuf32M
