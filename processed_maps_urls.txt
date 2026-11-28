@@ -15327,3 +15327,4 @@ https://www.google.com/maps/place/Murdoch+Offshore/data=!4m7!3m6!1s0x31da191d1a7
 https://www.google.com/maps/place/Harris+Pye+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da1008ffffffff:0x3e2ba108165793d1!8m2!3d1.3215261!4d103.6763421!16s%2Fg%2F11j98dcq2b!19sChIJ_____wgQ2jER0ZNXFgihKz4
 https://www.google.com/maps/place/Survival+Systems+International+Offshore+%26+Marine+Pte+Ltd/data=!4m7!3m6!1s0x31da17f31b83092d:0xae5e807bfc818e02!8m2!3d1.3495757!4d103.8410234!16s%2Fg%2F11fmm01g9v!19sChIJLQmDG_MX2jERAo6B_HuAXq4
 https://www.google.com/maps/place/Marine+Line+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da0f8ced728b9b:0x3b15cb562d2a8859!8m2!3d1.333677!4d103.703487!16s%2Fg%2F1ptx0qxty!19sChIJm4ty7YwP2jERWYgqLVbLFTs
+https://www.google.com/maps/place/Loyang+Offshore+Supply+Base/data=!4m7!3m6!1s0x31da3c37ecdc1271:0xc61fb44b45615070!8m2!3d1.3816561!4d103.9720809!16s%2Fg%2F11df57bfl9!19sChIJcRLc7Dc82jERcFBhRUu0H8Y
