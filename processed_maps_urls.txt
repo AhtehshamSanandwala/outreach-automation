@@ -15794,3 +15794,4 @@ https://www.google.com/maps/place/YMCA+of+Singapore/data=!4m7!3m6!1s0x31da19a324
 https://www.google.com/maps/place/Singapore+Expats/data=!4m7!3m6!1s0x31da198cc0aefd57:0x294a9456f4b4b634!8m2!3d1.2850025!4d103.8114111!16s%2Fg%2F1pv2gx64v!19sChIJV_2uwIwZ2jERNLa09FaUSik
 https://www.google.com/maps/place/Property+Web+Singapore/data=!4m7!3m6!1s0x31da199c8c626169:0xc2e208cad0ee32fb!8m2!3d1.2842027!4d103.841643!16s%2Fg%2F11gw2psfwj!19sChIJaWFijJwZ2jER-zLu0MoI4sI
 https://www.google.com/maps/place/Parc+Sophia/data=!4m7!3m6!1s0x31da19bdb33ff167:0x46dd7f6361d121d3!8m2!3d1.3014772!4d103.847596!16s%2Fg%2F1q6j8vx1j!19sChIJZ_E_s70Z2jER0yHRYWN_3UY
+https://www.google.com/maps/place/YMCA+of+Singapore/data=!4m7!3m6!1s0x31da19a32425276f:0xe02e0f14a1ead015!8m2!3d1.2976866!4d103.8479628!16s%2Fg%2F11h6s0fvx2!19sChIJbyclJKMZ2jERFdDqoRQPLuA
