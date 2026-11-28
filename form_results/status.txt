@@ -1,1 +1,1 @@
-[08:27:00 SGT] State: COOLDOWN | Batches Today: 0/3 | Sleeping until next business window (1414m remaining)
+[08:27:30 SGT] State: COOLDOWN | Batches Today: 0/3 | Sleeping until next business window (1413m remaining)
