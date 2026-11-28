@@ -14974,3 +14974,6 @@ https://www.google.com/maps/place/TERS+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/IES+Incubator+%26+Accelerator+%28IES-INCA%29+PTE+LTD/data=!4m7!3m6!1s0x31da11b2b4b4d675:0xb2e6126211951032!8m2!3d1.3451959!4d103.790522!16s%2Fg%2F11l2h_ly7m!19sChIJdda0tLIR2jERMhCVEWIS5rI
 https://www.google.com/maps/place/Auston+Institute+of+Management/data=!4m7!3m6!1s0x31da190a932757cf:0x45eb72c6dab309a0!8m2!3d1.2845709!4d103.8499115!16s%2Fg%2F1tdrtvlw!19sChIJz1cnkwoZ2jERoAmz2sZy60U
 https://www.google.com/maps/place/Ventura+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da1be3ba980a1f:0x6d85cf10d5477306!8m2!3d1.3077329!4d103.7565653!16s%2Fg%2F11h3ngszwq!19sChIJHwqYuuMb2jERBnNH1RDPhW0
+https://www.google.com/maps/place/Hup+Huat+Building+Construction+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da1223f93c12d9:0xc3192c664e315e34!8m2!3d1.3255772!4d103.6744949!16s%2Fg%2F11c1wt0cmf!19sChIJ2RI8-SMS2jERNF4xTmYsGcM
+https://www.google.com/maps/place/DB+Engineering+%26+Consulting+GmbH/data=!4m7!3m6!1s0x31da1917b65ac9af:0xb92c6f5a075536af!8m2!3d1.2900089!4d103.8494332!16s%2Fg%2F11ghfnkzxx!19sChIJr8lathcZ2jERrzZVB1pvLLk
+https://www.google.com/maps/place/Hong+Dat+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da19ceffffffff:0x2d6680aebfc791f5!8m2!3d1.3380847!4d103.8858523!16s%2Fg%2F11c2qvlgqv!19sChIJ_____84Z2jER9ZHHv66AZi0
