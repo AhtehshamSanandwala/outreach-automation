@@ -14535,3 +14535,4 @@ https://www.google.com/maps/place/Singapore+University+of+Technology+and+Design+
 https://www.google.com/maps/place/CodeHat/data=!4m7!3m6!1s0x31da19dadc0fb889:0xde8848c93cc7dba9!8m2!3d1.2919887!4d103.8507907!16s%2Fg%2F11gm52fhj_!19sChIJibgP3NoZ2jERqdvHPMlIiN4
 https://www.google.com/maps/place/DevTeam24/data=!4m7!3m6!1s0x31da19654b507a9b:0xade9fbc5161b8035!8m2!3d1.2856141!4d103.8519726!16s%2Fg%2F11lkjsm4n6!19sChIJm3pQS2UZ2jERNYAbFsX76a0
 https://www.google.com/maps/place/HashMicro+%7C+%231+ERP+Software+Vendor/data=!4m7!3m6!1s0x31da19de800a9135:0x6d6ef65c4bbfd246!8m2!3d1.2771468!4d103.8485274!16s%2Fg%2F11txslx7_k!19sChIJNZEKgN4Z2jERRtK_S1z2bm0
+https://www.google.com/maps/place/FUJIFILM+Business+Innovation+Singapore/data=!4m7!3m6!1s0x31da197770ec774d:0x2b30c24d2a7da87b!8m2!3d1.275215!4d103.7991181!16s%2Fg%2F11gvd5d90g!19sChIJTXfscHcZ2jERe6h9Kk3CMCs
