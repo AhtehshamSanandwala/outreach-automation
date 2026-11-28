@@ -14159,3 +14159,5 @@ https://www.google.com/maps/place/The+Face+Place/data=!4m7!3m6!1s0x31da19232168d
 https://www.google.com/maps/place/Cold+Storage/data=!4m7!3m6!1s0x31da19bd7edc6d31:0x860ac3b7d7c102f4!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F11b66f8n82!19sChIJMW3cfr0Z2jER9ALB17fDCoY
 https://www.google.com/maps/place/Banh+Mi+Society/data=!4m7!3m6!1s0x31da1900327b886b:0xcef19b3b1fde1c99!8m2!3d1.2890574!4d103.8466673!16s%2Fg%2F11xmqb1jxb!19sChIJa4h7MgAZ2jERmRzeHzub8c4
 https://www.google.com/maps/place/AUBE+Beauty+Salon+Clarke+Quay+Central/data=!4m7!3m6!1s0x31da19bdbff88157:0x832376ef39388f8c!8m2!3d1.2891465!4d103.8467157!16s%2Fg%2F11kbtfbl_4!19sChIJV4H4v70Z2jERjI84Oe92I4M
+https://www.google.com/maps/place/Baba+Nyonya+Restaurant+Clark+Quay+The+Central/data=!4m7!3m6!1s0x31da19555081976b:0x7600b3cde179cff6!8m2!3d1.2891465!4d103.8467157!16s%2Fg%2F11wtztqwky!19sChIJa5eBUFUZ2jER9s954c2zAHY
+https://www.google.com/maps/place/MSK+Performance+-+Personal+Training+and+Sports+Coaching+Singapore/data=!4m7!3m6!1s0x31da191fb912d4c7:0xa0c4ebc5b2894858!8m2!3d1.2891465!4d103.8467157!16s%2Fg%2F11kqsmcd4r!19sChIJx9QSuR8Z2jERWEiJssXrxKA
