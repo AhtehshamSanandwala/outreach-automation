@@ -13861,3 +13861,5 @@ https://www.google.com/maps/place/Deed+Poll+Service+%7C+Change+of+Name/data=!4m7
 https://www.google.com/maps/place/Rex+Legal+Law+Corporation/data=!4m7!3m6!1s0x68a7bc6f5a00978d:0x61ae72ffee64aa7b!8m2!3d1.2852093!4d103.8447228!16s%2Fg%2F11sf18blvn!19sChIJjZcAWm-8p2gRe6pk7v9yrmE
 https://www.google.com/maps/place/Justin+Chan+Chambers+LLP/data=!4m7!3m6!1s0x31da1967d32fce55:0xe6dcbe95bd93c3f2!8m2!3d1.2873946!4d103.8488082!16s%2Fg%2F11l5jwf3fr!19sChIJVc4v02cZ2jER8sOTvZW-3OY
 https://www.google.com/maps/place/Gibson+Dunn/data=!4m7!3m6!1s0x31da190e6a27c599:0x5b4c29494aecf1d4!8m2!3d1.2816764!4d103.8521684!16s%2Fg%2F1ptx5f1mg!19sChIJmcUnag4Z2jER1PHsSkkpTFs
+https://www.google.com/maps/place/Collyer+Law+LLC/data=!4m7!3m6!1s0x31da19a580fdda9d:0x93be5e99861dd744!8m2!3d1.2845158!4d103.8511544!16s%2Fg%2F11cly3slxt!19sChIJndr9gKUZ2jERRNcdhplevpM
+https://www.google.com/maps/place/Kalidass+Law+Corporation/data=!4m7!3m6!1s0x31da1995c5b78985:0xe1bc29890aa1e021!8m2!3d1.2780786!4d103.8477476!16s%2Fg%2F11g0mtys21!19sChIJhYm3xZUZ2jERIeChCokpvOE
