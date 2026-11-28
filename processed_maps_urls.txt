@@ -14431,3 +14431,4 @@ https://www.google.com/maps/place/DH+DigiLab+Pte+Ltd/data=!4m7!3m6!1s0x31da19643
 https://www.google.com/maps/place/T-DevO/data=!4m7!3m6!1s0x31da195ee160f99b:0x4cb2f3d7b2709a6b!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F11h6m9jh4_!19sChIJm_lg4V4Z2jERa5pwstfzskw
 https://www.google.com/maps/place/Codoid+Innovations+Singapore+PTE.+LTD./data=!4m7!3m6!1s0x31da1945cb606c2d:0x8ae4168333c2a1e6!8m2!3d1.282984!4d103.8505203!16s%2Fg%2F11jpdqjf_9!19sChIJLWxgy0UZ2jER5qHCM4MW5Io
 https://www.google.com/maps/place/Heicoders+Academy+-+Courses+in+Gen+AI,+Python,+Data+Analytics,+Software+Engineering,+Digital+Marketing+%26+Trading/data=!4m7!3m6!1s0x31da176a362d0497:0x341498bfa54fea51!8m2!3d1.2810433!4d103.8421015!16s%2Fg%2F11hgcft9_6!19sChIJlwQtNmoX2jERUepPpb-YFDQ
+https://www.google.com/maps/place/Singapore+Data+Hub+Pte+Ltd/data=!4m7!3m6!1s0x31da17f084865cbd:0x7e26b39aa78f365!8m2!3d1.3250329!4d103.8532414!16s%2Fg%2F11c3v5j2dr!19sChIJvVyGhPAX2jERZfN4qjlr4gc
