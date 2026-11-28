@@ -13764,3 +13764,4 @@ https://www.google.com/maps/place/Acqurio+Tech+Private+Limited/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Software+Development+Singapore/data=!4m7!3m6!1s0x31da3d56e4ea0b97:0x552977171ceae015!8m2!3d1.3191685!4d103.8925591!16s%2Fg%2F11f1rhv8_6!19sChIJlwvq5FY92jERFeDqHBd3KVU
 https://www.google.com/maps/place/Oche+Singapore/data=!4m7!3m6!1s0x31da1978abe7426b:0x880c9a6d7345ed7!8m2!3d1.2894604!4d103.8441652!16s%2Fg%2F11s7sc51sc!19sChIJa0Lnq3gZ2jER114016bJgAg
 https://www.google.com/maps/place/Paradox+Singapore/data=!4m10!3m9!1s0x31da190abb1c2e8d:0x81504b4ffa8d3709!5m2!4m1!1i2!8m2!3d1.288316!4d103.8456312!16s%2Fg%2F1v27r_pk!19sChIJjS4cuwoZ2jERCTeN-k9LUIE
+https://www.google.com/maps/place/Dynamics+Square+-+Microsoft+Dynamics+365+Partner+%28ERP%2FCRM%29,+Singapore/data=!4m7!3m6!1s0x31da19cf630eed87:0xd81679312ed5a019!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11gvgzj6tt!19sChIJh-0OY88Z2jERGaDVLjF5Ftg
