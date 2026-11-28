@@ -15097,3 +15097,5 @@ https://www.google.com/maps/place/Tierra+Design+%28S%29+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Hsi+Arch+Design+Consultants/data=!4m7!3m6!1s0x31da22a54b5c7327:0x76b10440c2ee1f35!8m2!3d1.3157053!4d103.9258868!16s%2Fg%2F1tf_dyl5!19sChIJJ3NcS6Ui2jERNR_uwkAEsXY
 https://www.google.com/maps/place/Archi-Praxis/data=!4m7!3m6!1s0x31da19b7db291239:0x73c992403cd56951!8m2!3d1.3070872!4d103.8582327!16s%2Fg%2F1pty2q7w6!19sChIJORIp27cZ2jERUWnVPECSyXM
 https://www.google.com/maps/place/DB+Studio/data=!4m7!3m6!1s0x31da19ced3fe0cad:0xe3c190a3750e0746!8m2!3d1.3128598!4d103.8596237!16s%2Fg%2F11byl224pk!19sChIJrQz-084Z2jERRgcOdaOQweM
+https://www.google.com/maps/place/Space+Furniture+Asia+Hub/data=!4m7!3m6!1s0x31da19a923ae35df:0x76af225318172a36!8m2!3d1.2996619!4d103.8507138!16s%2Fg%2F1yl451c_l!19sChIJ3zWuI6kZ2jERNioXGFMir3Y
+https://www.google.com/maps/place/Linghao+Architects/data=!4m7!3m6!1s0x31da19b142f3aeaf:0xb7b1b09cc76890c3!8m2!3d1.301946!4d103.861333!16s%2Fg%2F1ptwhlj4d!19sChIJr67zQrEZ2jERw5Box5ywsbc
