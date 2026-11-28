@@ -15267,3 +15267,6 @@ https://www.google.com/maps/place/Venus+Beauty+%28Lucky+Plaza%29/data=!4m7!3m6!1
 https://www.google.com/maps/place/%22K%22+Line+Logistics/data=!4m7!3m6!1s0x31da3c0cdc3b8307:0xa02de75e92caeb9f!8m2!3d1.3826733!4d103.9994011!16s%2Fg%2F1ptwc5jj3!19sChIJB4M73Aw82jERn-vKkl7nLaA
 https://www.google.com/maps/place/HQ+SMRT+Corporation+Ltd/data=!4m7!3m6!1s0x31da19a43b568581:0xe64507b414b5f38!8m2!3d1.3158857!4d103.8936214!16s%2Fg%2F1tdkv5tt!19sChIJgYVWO6QZ2jEROF9LQXtQZA4
 https://www.google.com/maps/place/Hankyu+Hanshin+Express+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c6ffac6a90f:0x12dba49a645e5514!8m2!3d1.3731198!4d103.995381!16s%2Fg%2F1tj9qwdq!19sChIJD6nG-m882jERFFVeZJqk2xI
+https://www.google.com/maps/place/Timezone+Orchard+Xchange/data=!4m7!3m6!1s0x31da11d5adbe761b:0xef8010ebcd2af76d!8m2!3d1.3033599!4d103.8322884!16s%2Fg%2F11ssdx_gty!19sChIJG3a-rdUR2jERbfcqzesQgO8
+https://www.google.com/maps/place/D.A.+Trading+%26+Logistics/data=!4m7!3m6!1s0x31da19b944d25205:0x9e2f1680cb947700!8m2!3d1.3039637!4d103.8513784!16s%2Fg%2F1ptx3x76g!19sChIJBVLSRLkZ2jERAHeUy4AWL54
+https://www.google.com/maps/place/Zhang+Liang+Mala+Tang+%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB+@Dhoby+Ghaut/data=!4m7!3m6!1s0x31da19ffc4339c8d:0xc09433ee8adc1fc8!8m2!3d1.2987012!4d103.8490258!16s%2Fg%2F11k4spt3l2!19sChIJjZwzxP8Z2jERyB_ciu4zlMA
