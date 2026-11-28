@@ -14264,3 +14264,5 @@ https://www.google.com/maps/place/Yamaha+Music+Store+%26+Music+School+-+Plaza+Si
 https://www.google.com/maps/place/DIAIM+Marketing/data=!4m7!3m6!1s0x4ebd466a6ede226b:0xf67a9b30e67521ad!8m2!3d1.314!4d103.84425!16s%2Fg%2F11h_8vgncc!19sChIJayLebmpGvU4RrSF15jCbevY
 https://www.google.com/maps/place/The+Cathay/data=!4m7!3m6!1s0x31da19bd213d070b:0x471373c2c51aa918!8m2!3d1.2995083!4d103.8477778!16zL20vMDlfdzZ4!19sChIJCwc9Ib0Z2jERGKkaxcJzE0c
 https://www.google.com/maps/place/Yellow+Dot/data=!4m7!3m6!1s0x31da19c0b3b3bb73:0x758a11482442be61!8m2!3d1.314!4d103.84425!16s%2Fg%2F11k4x2wdch!19sChIJc7uzs8AZ2jERYb5CJEgRinU
+https://www.google.com/maps/place/Dhoby+Ghaut/data=!4m7!3m6!1s0x31da19bd67c4bc19:0x44737e8d40235e1e!8m2!3d1.2987042!4d103.8461092!16zL20vMDRjNnhn!19sChIJGbzEZ70Z2jERHl4jQI1-c0Q
+https://www.google.com/maps/place/DMS+Photocopy+%26+Trading+Enterprise/data=!4m7!3m6!1s0x31da19bc66f678d1:0x58b27d7c42559461!8m2!3d1.300661!4d103.8493367!16s%2Fg%2F1tyct4y_!19sChIJ0Xj2ZrwZ2jERYZRVQnx9slg
