@@ -14825,3 +14825,6 @@ https://www.google.com/maps/place/Daphne+Tok+%28Belief+Advisors%29/data=!4m7!3m6
 https://www.google.com/maps/place/Loh+Xiao+Hui/data=!4m7!3m6!1s0x31da197001a14219:0xe1b48f2441061b8d!8m2!3d1.2824439!4d103.8490256!16s%2Fg%2F11lgncx_yy!19sChIJGUKhAXAZ2jERjRsGQSSPtOE
 https://www.google.com/maps/place/Advomi/data=!4m7!3m6!1s0x31da17933cc17d1d:0x5183b416d807626d!8m2!3d1.330109!4d103.744756!16s%2Fg%2F11pv0jt63w!19sChIJHX3BPJMX2jERbWIH2Ba0g1E
 https://www.google.com/maps/place/Accounts+Management+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da16309a9eca4b:0xfd1f857772697bd1!8m2!3d1.3724597!4d103.8992195!16s%2Fg%2F1tslg75h!19sChIJS8qemjAW2jER0XtpcneFH_0
+https://www.google.com/maps/place/Danny+Goh+Shen+You/data=!4m7!3m6!1s0x31da194bc2ed3997:0x92d5a7bf4dda3e47!8m2!3d1.2990047!4d103.8426847!16s%2Fg%2F11lgnf51wp!19sChIJlzntwksZ2jERRz7aTb-n1ZI
+https://www.google.com/maps/place/H+T+Khoo+%26+Co./data=!4m7!3m6!1s0x31da190be5294ce3:0x733f98f7027aa933!8m2!3d1.2849817!4d103.8500452!16s%2Fg%2F11g9j_kq1j!19sChIJ40wp5QsZ2jERM6l6AveYP3M
+https://www.google.com/maps/place/Legis+Point+LLC/data=!4m7!3m6!1s0x31da190ec652335d:0x879a0026b9580a28!8m2!3d1.2842345!4d103.8524453!16s%2Fg%2F1tdbz4qk!19sChIJXTNSxg4Z2jERKApYuSYAmoc
