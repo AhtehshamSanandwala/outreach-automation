@@ -14192,3 +14192,5 @@ https://www.google.com/maps/place/Chinatown+Complex/data=!4m7!3m6!1s0x31da19731f
 https://www.google.com/maps/place/Brewerkz+Riverside+Point/data=!4m7!3m6!1s0x31da19195b7af921:0x1dbe7c851eb8cc7!8m2!3d1.2895951!4d103.8440046!16s%2Fg%2F1tdxyf0f!19sChIJIfl6WxkZ2jERx4zrUcjn2wE
 https://www.google.com/maps/place/Chef+X+@+Clarke+Quay+Central/data=!4m7!3m6!1s0x31da19004f1d097b:0xe04e5fdaf07b3276!8m2!3d1.2891465!4d103.8467157!16s%2Fg%2F11vy83ltdc!19sChIJewkdTwAZ2jERdjJ78NpfTuA
 https://www.google.com/maps/place/Man+Man+Japanese+Unagi+%28Clarke+Quay%29/data=!4m7!3m6!1s0x31da19a0f6e96341:0x6b0009f3cd5d225a!8m2!3d1.2891661!4d103.8467746!16s%2Fg%2F11hzyxk4h0!19sChIJQWPp9qAZ2jERWiJdzfMJAGs
+https://www.google.com/maps/place/20+Ghim+Moh+Road+Market+%26+Food+Centre/data=!4m7!3m6!1s0x31da1a68ec5eaf37:0xe8691d8a34a7a8b2!8m2!3d1.3109708!4d103.7883085!16s%2Fg%2F11hyns3vr2!19sChIJN69e7Gga2jERsqinNIodaeg
+https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da191e6fd694b5:0x5329aad8ba714ed7!8m2!3d1.2907458!4d103.846613!16s%2Fg%2F11jmzjmdcs!19sChIJtZTWbx4Z2jER105xutiqKVM
