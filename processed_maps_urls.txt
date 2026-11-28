@@ -13925,3 +13925,4 @@ https://www.google.com/maps/place/MJI+Universal+Pte+Ltd/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/P%26W+NGPF+Manufacturing+Company+Pte+Ltd/data=!4m7!3m6!1s0x31da15cd0e77c7a3:0xa244d9c248d75141!8m2!3d1.4112534!4d103.8702801!16s%2Fg%2F11b7747_49!19sChIJo8d3Ds0V2jERQVHXSMLZRKI
 https://www.google.com/maps/place/Avalon+Collective+Pte+Ltd/data=!4m7!3m6!1s0x100404406b09589f:0x4fa38727041bf390!8m2!3d1.3105959!4d103.864004!16s%2Fg%2F11b6f0tsc_!19sChIJn1gJa0AEBBARkPMbBCeHo08
 https://www.google.com/maps/place/HipVan/data=!4m7!3m6!1s0x31da1974b15e6a1b:0x1aa62574b6c85ed!8m2!3d1.2912975!4d103.845825!16s%2Fg%2F11bz0bj96q!19sChIJG2pesXQZ2jER7YVsS1diqgE
+https://www.google.com/maps/place/Studio+Lapis/data=!4m7!3m6!1s0x31da196a8c88ed91:0xf709b594c1d90744!8m2!3d1.2812914!4d103.8227657!16s%2Fg%2F11cn7wr395!19sChIJke2IjGoZ2jERRAfZwZS1Cfc
