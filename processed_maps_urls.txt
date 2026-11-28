@@ -15773,3 +15773,6 @@ https://www.google.com/maps/place/The+Luxe/data=!4m7!3m6!1s0x31da19504d20e401:0x
 https://www.google.com/maps/place/Kuok+%28Singapore%29+Ltd+Group+of+Companies/data=!4m7!3m6!1s0x31da19835f9379bb:0x586a36b202051314!8m2!3d1.2941183!4d103.83219!16s%2Fg%2F1ts1k4p2!19sChIJu3mTX4MZ2jERFBMFArI2alg
 https://www.google.com/maps/place/Matthias+Goh+Property/data=!4m7!3m6!1s0x6d54cbca7531d887:0x8723094b3b35f6be!8m2!3d1.314!4d103.84425!16s%2Fg%2F11rg4xbdl3!19sChIJh9gxdcrLVG0RvvY1O0sJI4c
 https://www.google.com/maps/place/Regency+House/data=!4m7!3m6!1s0x31da191db772b65f:0x5656ce2651c73e14!8m2!3d1.2995124!4d103.8419775!16s%2Fg%2F11t9kmxf38!19sChIJX7Zytx0Z2jERFD7HUSbOVlY
+https://www.google.com/maps/place/Aspen+Heights/data=!4m7!3m6!1s0x31da1974c7afb233:0xa94f435ee96366ad!8m2!3d1.2947781!4d103.8399673!16s%2Fg%2F1trxb6tj!19sChIJM7Kvx3QZ2jERrWZj6V5DT6k
+https://www.google.com/maps/place/Propertyhub/data=!4m7!3m6!1s0x31da179f432caf89:0x9f542d83ce2df0ee!8m2!3d1.3519286!4d103.8439302!16s%2Fg%2F11p10164jn!19sChIJia8sQ58X2jER7vAtzoMtVJ8
+https://www.google.com/maps/place/The+MacDonald+House/data=!4m7!3m6!1s0x31da19bd467ac0c7:0x7244cd376e2de565!8m2!3d1.2991656!4d103.8459792!16zL20vMGI2dnoy!19sChIJx8B6Rr0Z2jERZeUtbjfNRHI
