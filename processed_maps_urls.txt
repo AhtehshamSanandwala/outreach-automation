@@ -14845,3 +14845,6 @@ https://www.google.com/maps/place/JNA+Real+Estate/data=!4m7!3m6!1s0x31da1948ff1a
 https://www.google.com/maps/place/Herbert+Smith+Freehills+Kramer+LLP+%28Singapore%29/data=!4m7!3m6!1s0x31da19094881ecf7:0xbc9f638960a28f45!8m2!3d1.284686!4d103.852059!16s%2Fg%2F1tdz2bc4!19sChIJ9-yBSAkZ2jERRY-iYIljn7w
 https://www.google.com/maps/place/Commercial+Property+Singapore/data=!4m7!3m6!1s0x31da19bcbbb4f183:0x16f94582e20ecaa!8m2!3d1.2991562!4d103.8496298!16s%2Fg%2F11h52s4p47!19sChIJg_G0u7wZ2jERquwgLliUbwE
 https://www.google.com/maps/place/Trowers+%26+Hamlins+%28Singapore%29+LLP/data=!4m7!3m6!1s0x31da19e35974769d:0x52d3012fba00caed!8m2!3d1.2847487!4d103.8519923!16s%2Fg%2F11vw_vd3x4!19sChIJnXZ0WeMZ2jER7coAui8B01I
+https://www.google.com/maps/place/Jack+Sheo/data=!4m7!3m6!1s0x31da1766b63cb037:0x5b45431ab7fdd874!8m2!3d1.314!4d103.84425!16s%2Fg%2F11c6q8c8yj!19sChIJN7A8tmYX2jERdNj9txpDRVs
+https://www.google.com/maps/place/Ella+Cheong+LLC/data=!4m7!3m6!1s0x31da19b3d602c273:0xbc93a783231ae008!8m2!3d1.3010626!4d103.8624558!16s%2Fg%2F1q6294v3c!19sChIJc8IC1rMZ2jERCOAaI4Onk7w
+https://www.google.com/maps/place/Commercial+Properties/data=!4m7!3m6!1s0x31da191344c00001:0xadbc9ccb6f4d673f!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11f344f096!19sChIJAQDARBMZ2jERP2dNb8ucvK0
