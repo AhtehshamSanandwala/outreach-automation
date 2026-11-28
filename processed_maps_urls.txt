@@ -14620,3 +14620,6 @@ https://www.google.com/maps/place/Data+Terminator+Pte+Ltd/data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/iXiZ+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da106db0f92f41:0x216c79f730a727e1!8m2!3d1.3371713!4d103.7596981!16s%2Fg%2F1tgdqn6_!19sChIJQS_5sG0Q2jER4SenMPd5bCE
 https://www.google.com/maps/place/Evvo+Labs+Pte+Ltd/data=!4m7!3m6!1s0x31da176983ea0061:0x2075a2d9808b8069!8m2!3d1.3282643!4d103.8732974!16s%2Fg%2F11c3q57htk!19sChIJYQDqg2kX2jERaYCLgNmidSA
 https://www.google.com/maps/place/TGW+Advisory+Pte+Ltd/data=!4m7!3m6!1s0x31da19139891742d:0xdffa4fb73a3c53cd!8m2!3d1.3358564!4d103.885446!16s%2Fg%2F11p74p4_sx!19sChIJLXSRmBMZ2jERzVM8OrdP-t8
+https://www.google.com/maps/place/Digi+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1829e58f8aeb:0xfd6476d1eb0067e9!8m2!3d1.326212!4d103.8751491!16s%2Fg%2F11b6_q_4l3!19sChIJ64qP5SkY2jER6WcA69F2ZP0
+https://www.google.com/maps/place/Fortiedge+Pte+Ltd/data=!4m7!3m6!1s0x31da119d5281fcd5:0x75b92c221cd38ca1!8m2!3d1.3324472!4d103.7482532!16s%2Fg%2F11h_7w4wsg!19sChIJ1fyBUp0R2jERoYzTHCIsuXU
+https://www.google.com/maps/place/Data+Security+Systems+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1792dfb90f41:0x1e02ab6742de0e18!8m2!3d1.3376071!4d103.8898378!16s%2Fg%2F1ptwl325j!19sChIJQQ-535IX2jERGA7eQmerAh4
