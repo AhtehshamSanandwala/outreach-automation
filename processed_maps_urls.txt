@@ -15771,3 +15771,5 @@ https://www.google.com/maps/place/Propertyhub/data=!4m7!3m6!1s0x31da179f432caf89
 https://www.google.com/maps/place/Winsland+House+I/data=!4m7!3m6!1s0x31da19ffed0b59c5:0xe050a7029fe83b92!8m2!3d1.2997098!4d103.8403139!16s%2Fg%2F11j6_sklwx!19sChIJxVkL7f8Z2jERkjvonwKnUOA
 https://www.google.com/maps/place/The+Luxe/data=!4m7!3m6!1s0x31da19504d20e401:0x11b6e8bca29236eb!8m2!3d1.2994803!4d103.8471048!16s%2Fg%2F11fnwhjs8z!19sChIJAeQgTVAZ2jER6zaSorzothE
 https://www.google.com/maps/place/Kuok+%28Singapore%29+Ltd+Group+of+Companies/data=!4m7!3m6!1s0x31da19835f9379bb:0x586a36b202051314!8m2!3d1.2941183!4d103.83219!16s%2Fg%2F1ts1k4p2!19sChIJu3mTX4MZ2jERFBMFArI2alg
+https://www.google.com/maps/place/Matthias+Goh+Property/data=!4m7!3m6!1s0x6d54cbca7531d887:0x8723094b3b35f6be!8m2!3d1.314!4d103.84425!16s%2Fg%2F11rg4xbdl3!19sChIJh9gxdcrLVG0RvvY1O0sJI4c
+https://www.google.com/maps/place/Regency+House/data=!4m7!3m6!1s0x31da191db772b65f:0x5656ce2651c73e14!8m2!3d1.2995124!4d103.8419775!16s%2Fg%2F11t9kmxf38!19sChIJX7Zytx0Z2jERFD7HUSbOVlY
