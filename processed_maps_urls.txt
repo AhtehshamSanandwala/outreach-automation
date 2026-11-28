@@ -15027,3 +15027,5 @@ https://www.google.com/maps/place/design@LOFT+architects/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Red+Bean+Architects/data=!4m7!3m6!1s0x31da17f3a64d5325:0xc4fe94d2fe77b01b!8m2!3d1.3329431!4d103.8939977!16s%2Fg%2F1tmqnwt4!19sChIJJVNNpvMX2jERG7B3_tKU_sQ
 https://www.google.com/maps/place/Addp+Architects/data=!4m7!3m6!1s0x31da196d39a825e3:0x429254fe91e4d545!8m2!3d1.278305!4d103.8439197!16s%2Fg%2F1tywvgf1!19sChIJ4yWoOW0Z2jERRdXkkf5UkkI
 https://www.google.com/maps/place/MKPL+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da196d5aaa5385:0x9ed96a3c8f84f550!8m2!3d1.2803339!4d103.8482404!16s%2Fg%2F1q62fxhk9!19sChIJhVOqWm0Z2jERUPWEjzxq2Z4
+https://www.google.com/maps/place/Goy+Architects/data=!4m7!3m6!1s0x31da1bb3da7116ad:0xc74646a4d13ce535!8m2!3d1.3504959!4d103.8425523!16s%2Fg%2F11h2h7jvwy!19sChIJrRZx2rMb2jERNeU80aRGRsc
+https://www.google.com/maps/place/DI%2B+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da17a7cd9fd9c3:0x47542af9aa0da98c!8m2!3d1.3334416!4d103.8917436!16s%2Fg%2F11l6j4nzn8!19sChIJw9mfzacX2jERjKkNqvkqVEc
