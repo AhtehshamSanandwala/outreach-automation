@@ -14131,3 +14131,6 @@ https://www.google.com/maps/place/Slingshot+Singapore/data=!4m7!3m6!1s0x31da19ce
 https://www.google.com/maps/place/Martin+Place+Residences/data=!4m7!3m6!1s0x31da199bf8b23ceb:0x67d5d7f49e6cfbff!8m2!3d1.294094!4d103.8381131!16s%2Fg%2F1ptwygvy2!19sChIJ6zyy-JsZ2jER__tsnvTX1Wc
 https://www.google.com/maps/place/ASTONS+Specialities+@+The+Central/data=!4m7!3m6!1s0x31da19a0740144c7:0x2793b094c5a3269d!8m2!3d1.2893507!4d103.8466063!16s%2Fg%2F11d_1r9qk2!19sChIJx0QBdKAZ2jERnSajxZSwkyc
 https://www.google.com/maps/place/Home+Dusk+Live+House+@+Clarke+Quay/data=!4m7!3m6!1s0x31da19c3d3be288f:0x2b55636b9696df7d!8m2!3d1.290002!4d103.8448153!16s%2Fg%2F11vm7n9_5x!19sChIJjyi-08MZ2jERfd-WlmtjVSs
+https://www.google.com/maps/place/Heads+Up+For+Tails+Pet+Store+-+Clarke+Quay/data=!4m7!3m6!1s0x31da19cdb7c7b817:0x7b2696725f2d294!8m2!3d1.2910052!4d103.8456302!16s%2Fg%2F11lw4c2vxk!19sChIJF7jHt80Z2jERlNLyJWdpsgc
+https://www.google.com/maps/place/Martin+Place+Residences/data=!4m7!3m6!1s0x31da199bf8b23ceb:0x67d5d7f49e6cfbff!8m2!3d1.294094!4d103.8381131!16s%2Fg%2F1ptwygvy2!19sChIJ6zyy-JsZ2jER__tsnvTX1Wc
+https://www.google.com/maps/place/Newman+Sre+Pte.+Ltd./data=!4m7!3m6!1s0x31da17683a154b2b:0x1e4e9ee8158ebf4c!8m2!3d1.3375891!4d103.8458099!16s%2Fg%2F11fnwh9wf5!19sChIJK0sVOmgX2jERTL-OFeieTh4
