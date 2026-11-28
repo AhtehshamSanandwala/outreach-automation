@@ -15134,3 +15134,5 @@ https://www.google.com/maps/place/PCI+Private+Limited/data=!4m7!3m6!1s0x31da0563
 https://www.google.com/maps/place/Garmin+Brand+Store+-+Plaza+Singapura/data=!4m7!3m6!1s0x31da19e028db73fb:0xd0d6c7e5d57789d3!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F11tx7y5ns4!19sChIJ-3PbKOAZ2jER04l31eXH1tA
 https://www.google.com/maps/place/Tee+Yih+Jia+Food+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da13616a5bf601:0xb67ad3232dca359!8m2!3d1.4628623!4d103.8019787!16s%2Fg%2F11ty6ldwts!19sChIJAfZbamET2jERWaPcMjKtZws
 https://www.google.com/maps/place/Megapac+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da0f8645d6e737:0xd6c938cfa8f5db40!8m2!3d1.3307286!4d103.9181149!16s%2Fg%2F1tgd40nb!19sChIJN-fWRYYP2jERQNv1qM84ydY
+https://www.google.com/maps/place/Greenland+Plastics+Industries+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da057e3731103d:0xf6965161dbf916c9!8m2!3d1.326598!4d103.6858381!16s%2Fg%2F1tj8_10h!19sChIJPRAxN34F2jERyRb522FRlvY
+https://www.google.com/maps/place/UNIQLO+Plaza+Singapura/data=!4m7!3m6!1s0x31da19bd7edc6d31:0xb5063480a75cd352!8m2!3d1.3008904!4d103.84503!16s%2Fg%2F11c0rtv6_z!19sChIJMW3cfr0Z2jERUtNcp4A0BrU
