@@ -14367,3 +14367,4 @@ https://www.google.com/maps/place/SFmedia/data=!4m7!3m6!1s0x31da19787d0c5ce1:0xa
 https://www.google.com/maps/place/Cachet+Media/data=!4m7!3m6!1s0x31da19d27fd1fa81:0xab3760b24a2bf87f!8m2!3d1.314!4d103.84425!16s%2Fg%2F119x51509!19sChIJgfrRf9IZ2jERf_grSrJgN6s
 https://www.google.com/maps/place/d.socialagency/data=!4m7!3m6!1s0x31da170a03bbeea1:0x130261238f524e9e!8m2!3d1.3295952!4d103.8751863!16s%2Fg%2F11nwbdk6rz!19sChIJoe67AwoX2jERnk5SjyNhAhM
 https://www.google.com/maps/place/GoSocial/data=!4m7!3m6!1s0x31da2384117abeb3:0x4673176737666d9d!8m2!3d1.312372!4d103.93872!16s%2Fg%2F11spmlr78x!19sChIJs756EYQj2jERnW1mN2cXc0Y
+https://www.google.com/maps/place/SmsDome+Pte+Ltd/data=!4m7!3m6!1s0x31da1658ad423f93:0xf7488504d30ce364!8m2!3d1.350141!4d103.841322!16s%2Fg%2F1vzn31_5!19sChIJkz9CrVgW2jERZOMM0wSFSPc
