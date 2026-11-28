@@ -15485,3 +15485,7 @@ https://www.google.com/maps/place/Debenho+Pte+Ltd/data=!4m7!3m6!1s0x31da106b30bd
 https://www.google.com/maps/place/Far+East+Contractor+Pte+Ltd/data=!4m7!3m6!1s0x31da183b81652d5f:0x9fd735036baaf6c7!8m2!3d1.3144211!4d103.885064!16s%2Fg%2F1ptyf1ckp!19sChIJXy1lgTsY2jERx_aqawM1158
 https://www.google.com/maps/place/Deenn+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da1791f77099d7:0x64b19543d3214278!8m2!3d1.3363311!4d103.8851276!16s%2Fg%2F1pzwdq11m!19sChIJ15lw95EX2jEReEIh00OVsWQ
 https://www.google.com/maps/place/Great+Year+Industries+Pte+Ltd/data=!4m7!3m6!1s0x31da16b0d8015643:0xd23d5ca72df2b7d9!8m2!3d1.383739!4d103.8261739!16s%2Fg%2F1w9xzmbx!19sChIJQ1YB2LAW2jER2bfyLadcPdI
+https://www.google.com/maps/place/Sophia+Hills/data=!4m7!3m6!1s0x31da195f7b4e66b5:0x674a6f0582fb312a!8m2!3d1.3014045!4d103.8470259!16s%2Fg%2F11f61f06qk!19sChIJtWZOe18Z2jERKjH7ggVvSmc
+https://www.google.com/maps/place/Far+East+Contractor+Pte+Ltd/data=!4m7!3m6!1s0x31da183b81652d5f:0x9fd735036baaf6c7!8m2!3d1.3144211!4d103.885064!16s%2Fg%2F1ptyf1ckp!19sChIJXy1lgTsY2jERx_aqawM1158
+https://www.google.com/maps/place/Ong+Brothers+Building/data=!4m7!3m6!1s0x31da170063a3a1f1:0x8d8d144e886de85f!8m2!3d1.334024!4d103.8845509!16s%2Fg%2F11y4h0jxrv!19sChIJ8aGjYwAX2jERX-htiE4UjY0
+https://www.google.com/maps/place/Deenn+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da1791f77099d7:0x64b19543d3214278!8m2!3d1.3363311!4d103.8851276!16s%2Fg%2F1pzwdq11m!19sChIJ15lw95EX2jEReEIh00OVsWQ
