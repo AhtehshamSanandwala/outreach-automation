@@ -15021,3 +15021,4 @@ https://www.google.com/maps/place/The+Design+Abode/data=!4m7!3m6!1s0x31da19beaae
 https://www.google.com/maps/place/VivATA+Pte+Ltd/data=!4m7!3m6!1s0x31da1912c4552ba9:0xb21c4bd459ef6a48!8m2!3d1.2967615!4d103.8546068!16s%2Fg%2F1v7pv_1j!19sChIJqStVxBIZ2jERSGrvWdRLHLI
 https://www.google.com/maps/place/BHATCH+Architects/data=!4m7!3m6!1s0x31da190bb3a5ba93:0x5cf775364935817e!8m2!3d1.3090976!4d103.8583712!16s%2Fg%2F11byhmfhy9!19sChIJk7qlswsZ2jERfoE1STZ191w
 https://www.google.com/maps/place/TOPOS+Design+Studio+Pte+Ltd/data=!4m7!3m6!1s0x31da1bd1f4fbd11f:0x5eb977e9ccab7c2c!8m2!3d1.342946!4d103.95933!16s%2Fg%2F1ptw31txd!19sChIJH9H79NEb2jERLHyrzOl3uV4
+https://www.google.com/maps/place/Park+%2B+Associates+Architects/data=!4m7!3m6!1s0x31da17a1fc0724b7:0x5aeb7ed7118c07ad!8m2!3d1.3455325!4d103.858741!16s%2Fg%2F1tk8l2wv!19sChIJtyQH_KEX2jERrQeMEdd-61o
