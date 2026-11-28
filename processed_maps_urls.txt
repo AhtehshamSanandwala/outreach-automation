@@ -14533,3 +14533,4 @@ https://www.google.com/maps/place/Buuuk+Pte+Ltd+-+Custom+Software+%26+Mobile+App
 https://www.google.com/maps/place/Devhaus+Pte.+Ltd./data=!4m7!3m6!1s0x31da1905d34a1bdf:0x8cee103a2e04733d!8m2!3d1.3191484!4d103.8925321!16s%2Fg%2F11knlggzj5!19sChIJ3xtK0wUZ2jERPXMELjoQ7ow
 https://www.google.com/maps/place/Singapore+University+of+Technology+and+Design+%28SUTD%29/data=!4m7!3m6!1s0x31da3cd899f260cb:0x99becabc6d025518!8m2!3d1.3402328!4d103.9631584!16s%2Fm%2F09gh_cr!19sChIJy2Dymdg82jERGFUCbbzKvpk
 https://www.google.com/maps/place/CodeHat/data=!4m7!3m6!1s0x31da19dadc0fb889:0xde8848c93cc7dba9!8m2!3d1.2919887!4d103.8507907!16s%2Fg%2F11gm52fhj_!19sChIJibgP3NoZ2jERqdvHPMlIiN4
+https://www.google.com/maps/place/DevTeam24/data=!4m7!3m6!1s0x31da19654b507a9b:0xade9fbc5161b8035!8m2!3d1.2856141!4d103.8519726!16s%2Fg%2F11lkjsm4n6!19sChIJm3pQS2UZ2jERNYAbFsX76a0
