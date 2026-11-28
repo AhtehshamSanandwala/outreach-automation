@@ -14144,3 +14144,5 @@ https://www.google.com/maps/place/Chong+Hoe+Healthcare+TCM+@Clarke+Quay/data=!4m
 https://www.google.com/maps/place/SQUE+Rotisserie+%26+Alehouse/data=!4m7!3m6!1s0x31da190a9bbec0d7:0x28da523d520cc19!8m2!3d1.2893259!4d103.8464387!16s%2Fg%2F1tjx_031!19sChIJ18C-mwoZ2jERGcwg1SOljQI
 https://www.google.com/maps/place/Hilandas+Property+%26+Facilities+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da172611d097d7:0xd2f0cae194e992da!8m2!3d1.3258504!4d103.8935104!16s%2Fg%2F1ptzj825k!19sChIJ15fQESYX2jER2pLplOHK8NI
 https://www.google.com/maps/place/Harry%27s+Clarke+Quay/data=!4m7!3m6!1s0x31da190c65d95cb7:0x15b7dc3d9cd0d0fd!8m2!3d1.2900332!4d103.8454485!16s%2Fg%2F1w_vkt7g!19sChIJt1zZZQwZ2jER_dDQnD3ctxU
+https://www.google.com/maps/place/nomVnom+Bistro+-+%28Vegan+-+Clarke+Quay,+Singapore%29/data=!4m7!3m6!1s0x31da190bfc081427:0xb8c19992be9a12b!8m2!3d1.2895043!4d103.8467143!16s%2Fg%2F11ckqzzkd1!19sChIJJxQI_AsZ2jERK6HpK5kZjAs
+https://www.google.com/maps/place/Capital+Zouk+Singapore/data=!4m7!3m6!1s0x31da19b4c567c173:0xf30f5a1f8e7eafcf!8m2!3d1.2908021!4d103.8457756!16s%2Fg%2F11qp3sc_g5!19sChIJc8FnxbQZ2jERz69-jh9aD_M
