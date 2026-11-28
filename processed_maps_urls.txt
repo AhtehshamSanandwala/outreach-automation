@@ -14449,3 +14449,5 @@ https://www.google.com/maps/place/INFR+AI+%28VRcollab%29/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Zimozi+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da191259be35f3:0x6e3935ccf5c480bf!8m2!3d1.2784712!4d103.8477707!16s%2Fg%2F11vycyztnh!19sChIJ8zW-WRIZ2jERv4DE9cw1OW4
 https://www.google.com/maps/place/Data+Dynamics+Pte.+Ltd./data=!4m7!3m6!1s0x31da19e83c54bb65:0xe9cfde492d8b6d35!8m2!3d1.3239494!4d103.8783205!16s%2Fg%2F11spvs0q7j!19sChIJZbtUPOgZ2jERNW2LLUnez-k
 https://www.google.com/maps/place/Hubb+IT+Pte+Ltd/data=!4m7!3m6!1s0x31da19578556412b:0x3980599b19bd727c!8m2!3d1.3167871!4d103.8417713!16s%2Fg%2F11q94lwqp1!19sChIJK0FWhVcZ2jERfHK9GZtZgDk
+https://www.google.com/maps/place/Adaptive+Techsolutions+Pte+Ltd/data=!4m7!3m6!1s0x31da19b8e4a0c4b1:0x4593c29f88f0803c!8m2!3d1.3057267!4d103.8527053!16s%2Fg%2F11b821k4gm!19sChIJscSg5LgZ2jERPIDwiJ_Ck0U
+https://www.google.com/maps/place/Apple+Orchard+Road/data=!4m7!3m6!1s0x31da1993d5734607:0xe94b66369127668a!8m2!3d1.3028653!4d103.8362999!16s%2Fg%2F11c59xwr5l!19sChIJB0Zz1ZMZ2jERimYnkTZmS-k
