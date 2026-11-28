@@ -15081,3 +15081,5 @@ https://www.google.com/maps/place/BDP/data=!4m7!3m6!1s0x31da19c938329f59:0x143ed
 https://www.google.com/maps/place/Getch+D+Projects+%26+Interior/data=!4m7!3m6!1s0x31da19029770c6df:0xe83a80b3f169c038!8m2!3d1.3028252!4d103.849411!16s%2Fg%2F11w1cv939l!19sChIJ38ZwlwIZ2jEROMBp8bOAOug
 https://www.google.com/maps/place/Project+L+Studio/data=!4m7!3m6!1s0x31da176a8d501449:0x76b7abe8045c2dd9!8m2!3d1.3320649!4d103.8908485!16s%2Fg%2F11txhqhl9y!19sChIJSRRQjWoX2jER2S1cBOirt3Y
 https://www.google.com/maps/place/Aamer+Taher/data=!4m7!3m6!1s0x31da1a153374dadd:0x87089ec974f1b452!8m2!3d1.291072!4d103.8148302!16s%2Fg%2F1tf_dyjr!19sChIJ3dp0MxUa2jERUrTxdMmeCIc
+https://www.google.com/maps/place/Threehaus+Works/data=!4m7!3m6!1s0x31da11fec7806637:0x46afdfa36ea1366e!8m2!3d1.3371117!4d103.7597177!16s%2Fg%2F11vcrb6rky!19sChIJN2aAx_4R2jERbjahbqPfr0Y
+https://www.google.com/maps/place/Design+Integrated+Architects/data=!4m7!3m6!1s0x31da17f15b920fed:0xb8167fd5bc82f4ed!8m2!3d1.3316066!4d103.896945!16s%2Fg%2F1tfnqj8r!19sChIJ7Q-SW_EX2jER7fSCvNV_Frg
