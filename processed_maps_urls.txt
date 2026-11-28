@@ -14178,3 +14178,5 @@ https://www.google.com/maps/place/Newman+Sre+Pte.+Ltd./data=!4m7!3m6!1s0x31da176
 https://www.google.com/maps/place/Lee+Mart/data=!4m7!3m6!1s0x31da190b4a31d6f1:0xa1a1c05ca87a4289!8m2!3d1.2854537!4d103.8451222!16s%2Fg%2F11csqwgykn!19sChIJ8dYxSgsZ2jERiUJ6qFzAoaE
 https://www.google.com/maps/place/Rally+Clubhouse/data=!4m7!3m6!1s0x31da19a02fa7394f:0x6a1488477b86b066!8m2!3d1.290948!4d103.845856!16s%2Fg%2F11c55csh15!19sChIJTzmnL6AZ2jERZrCGe0eIFGo
 https://www.google.com/maps/place/Lau+Pa+Sat/data=!4m7!3m6!1s0x31da190de1a58ee5:0xfdead3880c0abd60!8m2!3d1.2805121!4d103.8503809!16zL20vMDl4c2h5!19sChIJ5Y6l4Q0Z2jERYL0KDIjT6v0
+https://www.google.com/maps/place/Fort+Canning+Residences/data=!4m7!3m6!1s0x31da1927cd543177:0xd07661171f45dbb7!8m2!3d1.2917766!4d103.8448938!16s%2Fg%2F11pf9qmhc0!19sChIJdzFUzScZ2jERt9tFHxdhdtA
+https://www.google.com/maps/place/Gabbar+Bistro+%26+Bar+@+Clarke+Quay/data=!4m7!3m6!1s0x31da19d52a26cb8d:0xe3eaf55fddaf6a63!8m2!3d1.290232!4d103.8466056!16s%2Fg%2F11gzq8h2fs!19sChIJjcsmKtUZ2jERY2qv3V_16uM
