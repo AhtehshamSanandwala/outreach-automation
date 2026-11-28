@@ -15161,3 +15161,5 @@ https://www.google.com/maps/place/The+JellyHearts@Plaza+Singapura/data=!4m7!3m6!
 https://www.google.com/maps/place/The+JellyHearts@Plaza+Singapura/data=!4m7!3m6!1s0x31da19c33b8db0df:0xfee97f00e99c6609!8m2!3d1.3005206!4d103.8449719!16s%2Fg%2F11r_k5yp8j!19sChIJ37CNO8MZ2jERCWac6QB_6f4
 https://www.google.com/maps/place/Bean+Bag+Mart/data=!4m7!3m6!1s0x31da19a2a9633db3:0xee2c6f9ec9b12de5!8m2!3d1.3368349!4d103.7559983!16s%2Fg%2F1tvm08gq!19sChIJsz1jqaIZ2jER5S2xyZ5vLO4
 https://www.google.com/maps/place/Couple+Lab+Singapore+%28Plaza+Singapura%29/data=!4m7!3m6!1s0x31da19bd7ec8ac73:0xb3cc8f56f39e163f!8m2!3d1.3001501!4d103.8447053!16s%2Fg%2F1vlqmr85!19sChIJc6zIfr0Z2jERPxae81aPzLM
+https://www.google.com/maps/place/Bean+Bag+Mart/data=!4m7!3m6!1s0x31da19a2a9633db3:0xee2c6f9ec9b12de5!8m2!3d1.3368349!4d103.7559983!16s%2Fg%2F1tvm08gq!19sChIJsz1jqaIZ2jER5S2xyZ5vLO4
+https://www.google.com/maps/place/Newlift+Holdings+Pte.+Ltd./data=!4m7!3m6!1s0x31da178614f0f855:0x627fea48813fe798!8m2!3d1.329999!4d103.878251!16s%2Fg%2F1v82zlx_!19sChIJVfjwFIYX2jERmOc_gUjqf2I
