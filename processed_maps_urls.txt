@@ -14488,3 +14488,5 @@ https://www.google.com/maps/place/Data+Dynamics+Pte.+Ltd./data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Streetdirectory/data=!4m7!3m6!1s0x31da1a32d5c2f6af:0xdfde798a86eed73a!8m2!3d1.3481942!4d103.8634886!16s%2Fg%2F1tgpvqdq!19sChIJr_bC1TIa2jEROtfuhop53t8
 https://www.google.com/maps/place/DIVMOB/data=!4m7!3m6!1s0x31da192eb499a667:0x78ef1ce9783ad471!8m2!3d1.278641!4d103.8510789!16s%2Fg%2F11fjhnzh52!19sChIJZ6aZtC4Z2jERcdQ6eOkc73g
 https://www.google.com/maps/place/SMEs+Go+Digital/data=!4m7!3m6!1s0x31da18188d022b0d:0xab971de750ecb5e2!8m2!3d1.3197133!4d103.8924831!16s%2Fg%2F11h52s40f3!19sChIJDSsCjRgY2jER4rXsUOcdl6s
+https://www.google.com/maps/place/BPS+World/data=!4m7!3m6!1s0x31da1911a6555555:0x4b122b96357cd0f4!8m2!3d1.2774899!4d103.8526038!16s%2Fg%2F11hz17p0rp!19sChIJVVVVphEZ2jER9NB8NZYrEks
+https://www.google.com/maps/place/Actualize+CrossFit+%26+Hyrox/data=!4m7!3m6!1s0x31da178e09933dd9:0x34f251d87c63f42b!8m2!3d1.3098924!4d103.8581056!16s%2Fg%2F11bvt3zpz1!19sChIJ2T2TCY4X2jERK_RjfNhR8jQ
