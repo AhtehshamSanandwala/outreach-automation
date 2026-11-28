@@ -14343,3 +14343,5 @@ https://www.google.com/maps/place/Omnicom+Media+Group+Asia+Pacific+Pte+Ltd/data=
 https://www.google.com/maps/place/VFS+Global/data=!4m7!3m6!1s0x31da19509102eb2d:0xaed9ab87cedd1cfa!8m2!3d1.2971966!4d103.8440529!16s%2Fg%2F11ynwrnhhb!19sChIJLesCkVAZ2jER-hzdzoer2a4
 https://www.google.com/maps/place/KT+Colour/data=!4m7!3m6!1s0x31da190b55b098fb:0x462ee88423166ff7!8m2!3d1.2840511!4d103.8457777!16s%2Fg%2F1tdpcqld!19sChIJ-5iwVQsZ2jER928WI4ToLkY
 https://www.google.com/maps/place/M%26C+Saatchi+Singapore/data=!4m7!3m6!1s0x31da199e7d8d8577:0xc085d3bf488bbea6!8m2!3d1.2914324!4d103.8394848!16s%2Fg%2F11f3bll8cj!19sChIJd4WNfZ4Z2jERpr6LSL_ThcA
+https://www.google.com/maps/place/Hitch+Marketing+Pte+Ltd/data=!4m7!3m6!1s0x31da117c5eeb1b9f:0xbd7032f0be40611f!8m2!3d1.4430857!4d103.8162953!16s%2Fg%2F11fk0mjcpk!19sChIJnxvrXnwR2jERH2FAvvAycL0
+https://www.google.com/maps/place/InsightOut+Singapore/data=!4m7!3m6!1s0x31da196ec63b5697:0x806da13b4de506a1!8m2!3d1.319041!4d103.8923647!16s%2Fg%2F11sfph8hwg!19sChIJl1Y7xm4Z2jERoQblTTuhbYA
