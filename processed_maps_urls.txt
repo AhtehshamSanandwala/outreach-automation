@@ -14738,3 +14738,6 @@ https://www.google.com/maps/place/SMA+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/HoCH+Pte+Ltd/data=!4m7!3m6!1s0x31da193f28bbd5d3:0x89e2ae42b5e19e9f!8m2!3d1.2904823!4d103.8495917!16s%2Fg%2F11hzqg1zvk!19sChIJ09W7KD8Z2jERn57htUKu4ok
 https://www.google.com/maps/place/Dimension+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x31da1b1001ea8ce9:0xf5d2b66ecc290e04!8m2!3d1.2797068!4d103.8491433!16s%2Fg%2F11gl1qjb6g!19sChIJ6YzqARAb2jERBA4pzG620vU
 https://www.google.com/maps/place/C+M+P+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x31da181776a70259:0xf55a219fccaf7649!8m2!3d1.3083787!4d103.8620771!16s%2Fg%2F1td4b1m_!19sChIJWQKndhcY2jERSXavzJ8hWvU
+https://www.google.com/maps/place/Kumar+Management+Consultants+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19bb4ff6bfd3:0x5ecd4fbb57001e65!8m2!3d1.299292!4d103.8514994!16s%2Fg%2F1td02kq6!19sChIJ07_2T7sZ2jERZR4AV7tPzV4
+https://www.google.com/maps/place/Queen+Consulting+Group/data=!4m7!3m6!1s0x31da19a0c6e984b5:0xa8a6025e71fe9b31!8m2!3d1.298243!4d103.844147!16s%2Fg%2F11b6_kk2bs!19sChIJtYTpxqAZ2jERMZv-cV4Cpqg
+https://www.google.com/maps/place/V+Medical+Aesthetics+%26+Laser+Clinic+%28Plaza+Singapura%29/data=!4m7!3m6!1s0x31da19879af4d607:0x1d1a433023dba273!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F11rty5zm00!19sChIJB9b0mocZ2jERc6LbIzBDGh0
