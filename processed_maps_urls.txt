@@ -14421,3 +14421,6 @@ https://www.google.com/maps/place/Inceptives+Digital+-+Mobile+App+Development+Co
 https://www.google.com/maps/place/DotIT+Outsourcing/data=!4m7!3m6!1s0x31da19c6f6a36461:0x87e7ed28fc9c3045!8m2!3d1.3107319!4d103.8534155!16s%2Fg%2F1pty395ds!19sChIJYWSj9sYZ2jERRTCc_Cjt54c
 https://www.google.com/maps/place/VDOHire/data=!4m7!3m6!1s0x31da196ea1a2f933:0xe08c9fb693ac6c2c!8m2!3d1.2833696!4d103.8471939!16s%2Fg%2F11q90k_xfr!19sChIJM_mioW4Z2jERLGysk7afjOA
 https://www.google.com/maps/place/Challenger+Technologies+Ltd/data=!4m7!3m6!1s0x31da17f36d5e8803:0x661cc51cc119e567!8m2!3d1.3317986!4d103.8932733!16s%2Fg%2F11f0193m6q!19sChIJA4hebfMX2jERZ-UZwRzFHGY
+https://www.google.com/maps/place/HashAlgo+Technologies+Pte.+Ltd./data=!4m7!3m6!1s0x31da190b73bdb671:0xa49a7f50ba7aad5!8m2!3d1.2853166!4d103.845837!16s%2Fg%2F11tp04hxwd!19sChIJcba9cwsZ2jER1aqnC_WnSQo
+https://www.google.com/maps/place/Tvisha+Technologies/data=!4m7!3m6!1s0x31da176b7e8226ef:0x8f1b9c26af0604c2!8m2!3d1.3431897!4d103.8504061!16s%2Fg%2F11f31zw2n4!19sChIJ7yaCfmsX2jERwgQGryacG48
+https://www.google.com/maps/place/Management+Development+Institute+of+Singapore+%28MDIS%29/data=!4m7!3m6!1s0x31da1a37afa20047:0x64ff919d13bcde85!8m2!3d1.2970726!4d103.8011673!16s%2Fm%2F02qtp8x!19sChIJRwCirzca2jERhd68E52R_2Q
