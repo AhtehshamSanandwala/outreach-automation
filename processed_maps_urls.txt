@@ -14078,3 +14078,5 @@ https://www.google.com/maps/place/Om+Offshore+Services+Pte.+Ltd./data=!4m7!3m6!1
 https://www.google.com/maps/place/Marina+South+Wharves/data=!4m7!3m6!1s0x31da19431e7bd2d1:0x7261968e65852153!8m2!3d1.2699613!4d103.8573831!16s%2Fg%2F11pb1rpsc9!19sChIJ0dJ7HkMZ2jERUyGFZY6WYXI
 https://www.google.com/maps/place/Ministry+of+Manpower/data=!4m7!3m6!1s0x31da19752fcaf823:0x1b9aad34515777ef!8m2!3d1.2873368!4d103.8444061!16s%2Fg%2F11bbwpplgf!19sChIJI_jKL3UZ2jER73dXUTStmhs
 https://www.google.com/maps/place/Seamaritime+Agency/data=!4m7!3m6!1s0x31da19a50cc55555:0x7a5a962b995aaffb!8m2!3d1.2964499!4d103.8549138!16s%2Fg%2F11fmw_yw7p!19sChIJVVXFDKUZ2jER-69amSuWWno
+https://www.google.com/maps/place/Ministry+of+Manpower/data=!4m7!3m6!1s0x31da19752fcaf823:0x1b9aad34515777ef!8m2!3d1.2873368!4d103.8444061!16s%2Fg%2F11bbwpplgf!19sChIJI_jKL3UZ2jER73dXUTStmhs
+https://www.google.com/maps/place/Berlitz+Marine+Pte+Ltd/data=!4m7!3m6!1s0x31da17f58fa53409:0x553df11cb49de07!8m2!3d1.3267264!4d103.8949534!16s%2Fg%2F11j00s0ddf!19sChIJCTSlj_UX2jERB95JyxHfUwU
