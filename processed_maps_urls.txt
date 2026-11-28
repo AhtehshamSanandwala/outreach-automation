@@ -15642,3 +15642,4 @@ https://www.google.com/maps/place/SuMisura/data=!4m7!3m6!1s0x31da1792f44a6781:0x
 https://www.google.com/maps/place/Goodman+Interior/data=!4m7!3m6!1s0x31da173da41b15f3:0x29b02e6d97549774!8m2!3d1.348939!4d103.8408832!16s%2Fg%2F11f11ktn_0!19sChIJ8xUbpD0X2jERdJdUl20usCk
 https://www.google.com/maps/place/Weiken.com+@+Tradehub+21/data=!4m7!3m6!1s0x31da1075309e02b1:0xbc25a99066fff648!8m2!3d1.328382!4d103.752966!16s%2Fg%2F11b6dhsjk4!19sChIJsQKeMHUQ2jERSPb_ZpCpJbw
 https://www.google.com/maps/place/Renopedia+Pte+Ltd/data=!4m7!3m6!1s0x31da1974c63fe5cf:0xe004eed500f50aa7!8m2!3d1.2865394!4d103.8425928!16s%2Fg%2F11dx8zjk3c!19sChIJz-U_xnQZ2jERpwr1ANXuBOA
+https://www.google.com/maps/place/Charlotte%27s+Carpentry+Pte+Ltd/data=!4m7!3m6!1s0x31da19df4c6aac5b:0x46b0439981e2ecbd!8m2!3d1.3489603!4d103.8409036!16s%2Fg%2F11fm4ym2x4!19sChIJW6xqTN8Z2jERvezigZlDsEY
