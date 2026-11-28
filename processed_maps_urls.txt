@@ -14958,3 +14958,6 @@ https://www.google.com/maps/place/Professional+Engineers+Board/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/Hong+Da+Civil+Engineering+Pte+Ltd./data=!4m7!3m6!1s0x31da17b42c543cc5:0x1e00b5f147b378c8!8m2!3d1.3594861!4d103.8881138!16s%2Fg%2F11c1wskddb!19sChIJxTxULLQX2jERyHizR_G1AB4
 https://www.google.com/maps/place/Sima+Engineering+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da17b99331f4db:0x2f7101f1f9c83139!8m2!3d1.436103!4d103.8427326!16s%2Fg%2F1wh4ccsn!19sChIJ2_Qxk7kX2jEROTHI-fEBcS8
 https://www.google.com/maps/place/VB%2BE+Pte+Ltd/data=!4m7!3m6!1s0x31da1bb8c4a5a16d:0x67bbc574b07d45f0!8m2!3d1.2764275!4d103.7941909!16s%2Fg%2F11cs5s2_b0!19sChIJbaGlxLgb2jER8EV9sHTFu2c
+https://www.google.com/maps/place/Kian+Hock+Piling+Pte+Ltd/data=!4m7!3m6!1s0x31da1005a21c2ba1:0x8b948d7d072a004b!8m2!3d1.3392632!4d103.7573987!16s%2Fg%2F1td7qpyw!19sChIJoSscogUQ2jERSwAqB32NlIs
+https://www.google.com/maps/place/The+Institution+of+Engineers/data=!4m7!3m6!1s0x31da1093481bf45d:0x434f03a7147858f9!8m2!3d1.345061!4d103.7904658!16s%2Fg%2F1tnphj7w!19sChIJXfQbSJMQ2jER-Vh4FKcDT0M
+https://www.google.com/maps/place/Ters+Engineering+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da1810730fffff:0x7817ced5e589d096!8m2!3d1.3164491!4d103.9012131!16s%2Fg%2F11lgy3dffd!19sChIJ__8PcxAY2jERltCJ5dXOF3g
