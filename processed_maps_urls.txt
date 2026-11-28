@@ -14999,3 +14999,5 @@ https://www.google.com/maps/place/IES+Incubator+%26+Accelerator+%28IES-INCA%29+P
 https://www.google.com/maps/place/VivATA+Pte+Ltd/data=!4m7!3m6!1s0x31da1912c4552ba9:0xb21c4bd459ef6a48!8m2!3d1.2967615!4d103.8546068!16s%2Fg%2F1v7pv_1j!19sChIJqStVxBIZ2jERSGrvWdRLHLI
 https://www.google.com/maps/place/TOPOS+Design+Studio+Pte+Ltd/data=!4m7!3m6!1s0x31da1bd1f4fbd11f:0x5eb977e9ccab7c2c!8m2!3d1.342946!4d103.95933!16s%2Fg%2F1ptw31txd!19sChIJH9H79NEb2jERLHyrzOl3uV4
 https://www.google.com/maps/place/Hup+Huat+Building+Construction+%28Pte%29+Ltd/data=!4m7!3m6!1s0x31da1223f93c12d9:0xc3192c664e315e34!8m2!3d1.3255772!4d103.6744949!16s%2Fg%2F11c1wt0cmf!19sChIJ2RI8-SMS2jERNF4xTmYsGcM
+https://www.google.com/maps/place/DB+Engineering+%26+Consulting+GmbH/data=!4m7!3m6!1s0x31da1917b65ac9af:0xb92c6f5a075536af!8m2!3d1.2900089!4d103.8494332!16s%2Fg%2F11ghfnkzxx!19sChIJr8lathcZ2jERrzZVB1pvLLk
+https://www.google.com/maps/place/Park+%2B+Associates+Architects/data=!4m7!3m6!1s0x31da17a1fc0724b7:0x5aeb7ed7118c07ad!8m2!3d1.3455325!4d103.858741!16s%2Fg%2F1tk8l2wv!19sChIJtyQH_KEX2jERrQeMEdd-61o
