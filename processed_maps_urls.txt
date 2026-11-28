@@ -14503,3 +14503,4 @@ https://www.google.com/maps/place/The+PIT+Personal+Training/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Adamo+Asia+Pacific+-+AI+%26+Software+Development+Company/data=!4m7!3m6!1s0x31da19abd57a8283:0x87e3309d3350724a!8m2!3d1.2982635!4d103.8555139!16s%2Fg%2F11zcjc1pkp!19sChIJg4J61asZ2jERSnJQM50w44c
 https://www.google.com/maps/place/268+Orchard/data=!4m7!3m6!1s0x31da19917acfda59:0xc1a515d27cbd4b71!8m2!3d1.302693!4d103.836805!16s%2Fg%2F11gf1s1syj!19sChIJWdrPepEZ2jERcUu9fNIVpcE
 https://www.google.com/maps/place/Pro-DataLGI+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da190a90bf2bb5:0x75d90465babb16d5!8m2!3d1.278037!4d103.8479783!16s%2Fg%2F1ptwzr3xx!19sChIJtSu_kAoZ2jER1Ra7umUE2XU
+https://www.google.com/maps/place/Cybage+Software+Private+Limited/data=!4m7!3m6!1s0x31da19a0bc2b4fd9:0x60141d0d893fdace!8m2!3d1.2899203!4d103.849345!16s%2Fg%2F11ddyd47t8!19sChIJ2U8rvKAZ2jERzto_iQ0dFGA
