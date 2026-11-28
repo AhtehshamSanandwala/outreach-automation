@@ -15748,3 +15748,5 @@ https://www.google.com/maps/place/DP+Properties+Pte.+Ltd./data=!4m7!3m6!1s0x31da
 https://www.google.com/maps/place/Adina+Singapore+Orchard/data=!4m10!3m9!1s0x31da199799cde203:0xf2723d609274b6cf!5m2!4m1!1i2!8m2!3d1.2995207!4d103.8419601!16s%2Fg%2F1w6_lbn0!19sChIJA-LNmZcZ2jERz7Z0kmA9cvI
 https://www.google.com/maps/place/dhumblehome/data=!4m7!3m6!1s0x31da17c7f4980465:0xe48dd7449798e081!8m2!3d1.3317097!4d103.8494335!16s%2Fg%2F11r5r_q48v!19sChIJZQSY9McX2jERgeCYl0TXjeQ
 https://www.google.com/maps/place/d%27Habitat+%E2%80%93+Co-Living+Spaces+in+Singapore/data=!4m7!3m6!1s0x31da19ab7669d3ad:0xe7f56788ad58352f!8m2!3d1.2824091!4d103.8463356!16s%2Fg%2F11m5kjqqfp!19sChIJrdNpdqsZ2jERLzVYrYhn9ec
+https://www.google.com/maps/place/PrisLow+x+Property/data=!4m7!3m6!1s0x31da1709f2721eb9:0x962b2128ac1ad5b5!8m2!3d1.354847!4d103.8473389!16s%2Fg%2F11pf09h8nd!19sChIJuR5y8gkX2jERtdUarCghK5Y
+https://www.google.com/maps/place/Healing+Touch+Spa+%28Dhoby+Ghaut%29/data=!4m7!3m6!1s0x31da19bcb5fe08bd:0x42de7add4a3dec81!8m2!3d1.2985932!4d103.8489551!16s%2Fg%2F11df7z2d_3!19sChIJvQj-tbwZ2jERgew9St163kI
