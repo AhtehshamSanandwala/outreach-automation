@@ -14584,3 +14584,4 @@ https://www.google.com/maps/place/StraitsX/data=!4m7!3m6!1s0x31da1a502995a631:0x
 https://www.google.com/maps/place/Hdbay+Pte+Ltd/data=!4m7!3m6!1s0x31da1766e85fedb9:0x202a51b6ae5bb42a!8m2!3d1.3325303!4d103.8487136!16s%2Fg%2F11cs5s4kwz!19sChIJue1f6GYX2jERKrRbrrZRKiA
 https://www.google.com/maps/place/Cloud+Kinetics+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da193f69e59d85:0x3c45daad051b4a62!8m2!3d1.2847285!4d103.849952!16s%2Fg%2F11n04j5kby!19sChIJhZ3laT8Z2jERYkobBa3aRTw
 https://www.google.com/maps/place/Stepping+Cloud+Consulting+Pte.+Ltd./data=!4m7!3m6!1s0x31da1900188fc367:0x209fc6025ff578e0!8m2!3d1.311461!4d103.863627!16s%2Fg%2F11vxh97zdv!19sChIJZ8OPGAAZ2jER4Hj1XwLGnyA
+https://www.google.com/maps/place/ECS+Cloud+Infotech+%E2%80%93+AWS+Training+Singapore/data=!4m7!3m6!1s0x31da197db38b2a7b:0xbb2abc072bd0a5e6!8m2!3d1.3029333!4d103.8529661!16s%2Fg%2F11xlcj8p4v!19sChIJeyqLs30Z2jER5qXQKwe8Krs
