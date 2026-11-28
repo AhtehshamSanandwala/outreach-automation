@@ -13926,3 +13926,7 @@ https://www.google.com/maps/place/P%26W+NGPF+Manufacturing+Company+Pte+Ltd/data=
 https://www.google.com/maps/place/Avalon+Collective+Pte+Ltd/data=!4m7!3m6!1s0x100404406b09589f:0x4fa38727041bf390!8m2!3d1.3105959!4d103.864004!16s%2Fg%2F11b6f0tsc_!19sChIJn1gJa0AEBBARkPMbBCeHo08
 https://www.google.com/maps/place/HipVan/data=!4m7!3m6!1s0x31da1974b15e6a1b:0x1aa62574b6c85ed!8m2!3d1.2912975!4d103.845825!16s%2Fg%2F11bz0bj96q!19sChIJG2pesXQZ2jER7YVsS1diqgE
 https://www.google.com/maps/place/Studio+Lapis/data=!4m7!3m6!1s0x31da196a8c88ed91:0xf709b594c1d90744!8m2!3d1.2812914!4d103.8227657!16s%2Fg%2F11cn7wr395!19sChIJke2IjGoZ2jERRAfZwZS1Cfc
+https://www.google.com/maps/place/The+Riverhouse+Singapore/data=!4m7!3m6!1s0x31da19fb6c115033:0x6487aa6589563f4e!8m2!3d1.2899265!4d103.8450565!16s%2Fg%2F11fn9d503x!19sChIJM1ARbPsZ2jERTj9WiWWqh2Q
+https://www.google.com/maps/place/Woods+Pharmacy+Pte+Ltd/data=!4m7!3m6!1s0x31da199c6a4ff255:0xfe8a7858fb14b090!8m2!3d1.2893848!4d103.8472753!16s%2Fg%2F11t79kn450!19sChIJVfJPapwZ2jERkLAU-1h4iv4
+https://www.google.com/maps/place/Tan+%2B+Tsakonas+Architects+LLP/data=!4m7!3m6!1s0x31da1985eee74cc7:0xc5ffeeb343af2f3f!8m2!3d1.3191725!4d103.8925563!16s%2Fg%2F1v6wlvlr!19sChIJx0zn7oUZ2jERPy-vQ7Pu_8U
+https://www.google.com/maps/place/Thee+Bold+Stories/data=!4m7!3m6!1s0x31da19b5a50f08dd:0x57db7c397fc96ec7!8m2!3d1.2891768!4d103.8468819!16s%2Fg%2F11svnx_pyr!19sChIJ3QgPpbUZ2jERx27Jfzl821c
