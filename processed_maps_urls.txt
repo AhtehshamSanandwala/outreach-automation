@@ -14458,3 +14458,7 @@ https://www.google.com/maps/place/Dodid/data=!4m7!3m6!1s0x31da16b13a300001:0x754
 https://www.google.com/maps/place/https:%2F%2Fwww.foundit.sg%2F/data=!4m7!3m6!1s0x31da19af8256dc8b:0xee78e63ab783239f!8m2!3d1.2880169!4d103.8477094!16s%2Fg%2F1tdxmz7p!19sChIJi9xWgq8Z2jERnyODtzrmeO4
 https://www.google.com/maps/place/GoCloudEasy+-+Web+Hosting+%26+.SG+Domain+Name+Registrar/data=!4m7!3m6!1s0x31da191344c00001:0xf0a1c3608652f375!8m2!3d1.2764312!4d103.8457609!16s%2Fg%2F11lky4_j9c!19sChIJAQDARBMZ2jERdfNShmDDofA
 https://www.google.com/maps/place/dhost+Global,+Inc/data=!4m7!3m6!1s0x31da195b0a5cc541:0x98688d1957f5590d!8m2!3d1.3201798!4d103.8901193!16s%2Fg%2F11rhx5qb0m!19sChIJQcVcClsZ2jERDVn1VxmNaJg
+https://www.google.com/maps/place/DotIT+Outsourcing/data=!4m7!3m6!1s0x31da19c6f6a36461:0x87e7ed28fc9c3045!8m2!3d1.3107319!4d103.8534155!16s%2Fg%2F1pty395ds!19sChIJYWSj9sYZ2jERRTCc_Cjt54c
+https://www.google.com/maps/place/Digistore+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da178763d6f653:0x29d52cf0ac537ed6!8m2!3d1.326544!4d103.875761!16s%2Fg%2F1thscfq9!19sChIJU_bWY4cX2jER1n5TrPAs1Sk
+https://www.google.com/maps/place/VDOHire/data=!4m7!3m6!1s0x31da196ea1a2f933:0xe08c9fb693ac6c2c!8m2!3d1.2833696!4d103.8471939!16s%2Fg%2F11q90k_xfr!19sChIJM_mioW4Z2jERLGysk7afjOA
+https://www.google.com/maps/place/Challenger+Technologies+Ltd/data=!4m7!3m6!1s0x31da17f36d5e8803:0x661cc51cc119e567!8m2!3d1.3317986!4d103.8932733!16s%2Fg%2F11f0193m6q!19sChIJA4hebfMX2jERZ-UZwRzFHGY
