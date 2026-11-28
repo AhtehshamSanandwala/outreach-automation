@@ -14454,3 +14454,5 @@ https://www.google.com/maps/place/Apple+Orchard+Road/data=!4m7!3m6!1s0x31da1993d
 https://www.google.com/maps/place/Evolve+Innovative+Solutions/data=!4m7!3m6!1s0x31da1999e7e0fb17:0xe7c6ca07098f8876!8m2!3d1.3062045!4d103.8322427!16s%2Fg%2F11h6gnv1cz!19sChIJF_vg55kZ2jERdoiPCQfKxuc
 https://www.google.com/maps/place/BPS+World/data=!4m7!3m6!1s0x31da1911a6555555:0x4b122b96357cd0f4!8m2!3d1.2774899!4d103.8526038!16s%2Fg%2F11hz17p0rp!19sChIJVVVVphEZ2jER9NB8NZYrEks
 https://www.google.com/maps/place/DigitalDot+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da1725931faebf:0xa108fb7f2b833a50!8m2!3d1.3584008!4d103.8335695!16s%2Fg%2F11d_d0ksyw!19sChIJv64fkyUX2jERUDqDK3_7CKE
+https://www.google.com/maps/place/Dodid/data=!4m7!3m6!1s0x31da16b13a300001:0x754044b95a8739ae!8m2!3d1.3884397!4d103.8277773!16s%2Fg%2F11hz19cpms!19sChIJAQAwOrEW2jERrjmHWrlEQHU
+https://www.google.com/maps/place/https:%2F%2Fwww.foundit.sg%2F/data=!4m7!3m6!1s0x31da19af8256dc8b:0xee78e63ab783239f!8m2!3d1.2880169!4d103.8477094!16s%2Fg%2F1tdxmz7p!19sChIJi9xWgq8Z2jERnyODtzrmeO4
