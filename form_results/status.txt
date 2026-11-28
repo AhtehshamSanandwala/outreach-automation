@@ -1,1 +1,1 @@
-[13:54:06 SGT] State: COOLDOWN | Batches Today: 0/3 | Sleeping until next business window (1086m remaining)
+[13:54:33 SGT] State: STOPPED | Batches Today: 0/3 | Orchestrator stopped cleanly
