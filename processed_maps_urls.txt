@@ -14554,3 +14554,5 @@ https://www.google.com/maps/place/CompleteHub+IT+Solutions/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Devhaus+Pte.+Ltd./data=!4m7!3m6!1s0x31da1905d34a1bdf:0x8cee103a2e04733d!8m2!3d1.3191484!4d103.8925321!16s%2Fg%2F11knlggzj5!19sChIJ3xtK0wUZ2jERPXMELjoQ7ow
 https://www.google.com/maps/place/CodeHat/data=!4m7!3m6!1s0x31da19dadc0fb889:0xde8848c93cc7dba9!8m2!3d1.2919887!4d103.8507907!16s%2Fg%2F11gm52fhj_!19sChIJibgP3NoZ2jERqdvHPMlIiN4
 https://www.google.com/maps/place/Mysassylashes+By+Yuki/data=!4m7!3m6!1s0x31da199804a12a3d:0x7e4b66b4f5ef3a6!8m2!3d1.2982363!4d103.8440577!16s%2Fg%2F11c178gbj5!19sChIJPSqhBJgZ2jERpvNeT2u25Ac
+https://www.google.com/maps/place/FUJIFILM+Business+Innovation+Singapore/data=!4m7!3m6!1s0x31da197770ec774d:0x2b30c24d2a7da87b!8m2!3d1.275215!4d103.7991181!16s%2Fg%2F11gvd5d90g!19sChIJTXfscHcZ2jERe6h9Kk3CMCs
+https://www.google.com/maps/place/Hannsville+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x839b21a694be20b:0x7f05f27661744bb8!8m2!3d9.3741102!4d-17.4643322!16s%2Fg%2F11zddy6yrh!19sChIJC-JLaRqyOQgRuEt0YXbyBX8
