@@ -14891,3 +14891,5 @@ https://www.google.com/maps/place/Engineering+Consultant+Singapore/data=!4m7!3m6
 https://www.google.com/maps/place/CKMbT+International+Pte+Ltd/data=!4m7!3m6!1s0x31da19b944e450af:0xb78f48cf42c39ca!8m2!3d1.3271762!4d103.8909078!16s%2Fg%2F1tdmy0g6!19sChIJr1DkRLkZ2jERyjks9Iz0eAs
 https://www.google.com/maps/place/DSCO+Group+Pte.+Ltd./data=!4m7!3m6!1s0x31da1909547de3e5:0xab65dbbe775811a6!8m2!3d1.2645214!4d103.8185167!16s%2Fg%2F1tjz5ggl!19sChIJ5eN9VAkZ2jERphFYd77bZas
 https://www.google.com/maps/place/JIB+Specialist+Consultants+Pte+Ltd/data=!4m7!3m6!1s0x31da17b130748d57:0xfb3b1287e0354280!8m2!3d1.3580198!4d103.8845569!16s%2Fg%2F1pv06dwh2!19sChIJV410MLEX2jERgEI14IcSO_s
+https://www.google.com/maps/place/BELMACS+Pte+Ltd/data=!4m7!3m6!1s0x31da1a2c8fcb8bcf:0x686207b4efd1b40!8m2!3d1.291072!4d103.8148302!16s%2Fg%2F1tfjyctv!19sChIJz4vLjywa2jERQBv9TnsghgY
+https://www.google.com/maps/place/MODERN+ENGINEERING+PTE.+LTD./data=!4m7!3m6!1s0x5da0d94b4c2dacd:0xa2b18e5059094ac0!8m2!3d1.2900088!4d103.8494331!16s%2Fg%2F11z1v4zffr!19sChIJzdrCtJQN2gURwEoJWVCOsaI
