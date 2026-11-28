@@ -13794,3 +13794,5 @@ https://www.google.com/maps/place/Paradox+Singapore+Merchant+Court/data=!4m7!3m6
 https://www.google.com/maps/place/Swirl+Infosystems+Pte+Ltd./data=!4m7!3m6!1s0x31da190eeb4ba625:0x7ebe749f11e81572!8m2!3d1.2830123!4d103.852015!16s%2Fg%2F1pv0tnqhr!19sChIJJaZL6w4Z2jERchXoEZ90vn4
 https://www.google.com/maps/place/Code+Factor+Solutions/data=!4m7!3m6!1s0x31da19b46f8b22bb:0xa378b04cf3220fb7!8m2!3d1.2786632!4d103.8474008!16s%2Fg%2F11svj1731b!19sChIJuyKLb7QZ2jERtw8i80yweKM
 https://www.google.com/maps/place/OTSAW+Digital/data=!4m7!3m6!1s0x31da175475237db9:0xbabe66bbcef28b48!8m2!3d1.3653346!4d103.9317124!16s%2Fg%2F11gv0sq2sh!19sChIJuX0jdVQX2jERSIvyzrtmvro
+https://www.google.com/maps/place/Intelligent+IT+Hub+Pvt.+Ltd.+%28IIH+Global%29/data=!4m7!3m6!1s0x395e834958740eb5:0xc88145a216adcbfe!8m2!3d23.07539!4d72.526184!16s%2Fg%2F11btrr7nnc!19sChIJtQ50WEmDXjkR_sutFqJFgcg
+https://www.google.com/maps/place/ShubhiTech+%28opc%29+Private+Limited/data=!4m7!3m6!1s0x390db1d38bfd0fff:0x2ff33486bdbcb7af!8m2!3d28.9968754!4d77.0575373!16s%2Fg%2F11hzxmshmb!19sChIJ_w_9i9OxDTkRr7e8vYY08y8
