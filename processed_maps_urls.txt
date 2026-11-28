@@ -15813,3 +15813,5 @@ https://www.google.com/maps/place/Haoyang+Technology+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/D-met+Precision+Pte.+Ltd./data=!4m7!3m6!1s0x31da1367ce16dcad:0x6115c795dcad410a!8m2!3d1.456113!4d103.8108178!16s%2Fg%2F11cs5p3gj_!19sChIJrdwWzmcT2jERCkGt3JXHFWE
 https://www.google.com/maps/place/Taimaru+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da0f7deb43c00f:0xacd8efef77378f2d!8m2!3d1.3280243!4d103.675479!16s%2Fg%2F1thlwz76!19sChIJD8BD630P2jERLY83d-_v2Kw
 https://www.google.com/maps/place/Fusion+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da106b7a7eb9bf:0xfe5e3d34367623ab!8m2!3d1.3366149!4d103.7551503!16s%2Fg%2F1ptzvtxpt!19sChIJv7l-emsQ2jERqyN2NjQ9Xv4
+https://www.google.com/maps/place/Kim+Hwee+Industrial+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da0562bb597dcd:0x8fda68e4e79d9707!8m2!3d1.3266909!4d103.6952855!16s%2Fg%2F1tf7d5b_!19sChIJzX1Zu2IF2jERB5ed5-Ro2o8
+https://www.google.com/maps/place/SMARTT+PRECISION+MFG+PTE+LTD/data=!4m7!3m6!1s0x31da3ce3fc669899:0x2dc8913dbef52bc4!8m2!3d1.3493843!4d103.966586!16s%2Fg%2F1wc45j1x!19sChIJmZhm_OM82jERxCv1vj2RyC0
