@@ -14188,3 +14188,4 @@ https://www.google.com/maps/place/Malayan+Settlement/data=!4m7!3m6!1s0x31da19f51
 https://www.google.com/maps/place/Hong+Lim+Market+%26+Food+Centre/data=!4m7!3m6!1s0x31da190b6bb30247:0x45e079b9cc6c1a2b!8m2!3d1.2853948!4d103.8458272!16s%2Fg%2F11bw21fcbk!19sChIJRwKzawsZ2jERKxpszLl54EU
 https://www.google.com/maps/place/Zorba+The+Greek+Taverna/data=!4m7!3m6!1s0x31da19ef3bcc7d3f:0xffb948e47cb26ffa!8m2!3d1.2903443!4d103.8447865!16s%2Fg%2F11fnbdcjhg!19sChIJP33MO-8Z2jER-m-yfORIuf8
 https://www.google.com/maps/place/Chupitos/data=!4m7!3m6!1s0x31da19a03d9d6b8d:0x94d4618a8759f376!8m2!3d1.2901911!4d103.8462401!16s%2Fg%2F1tf55db6!19sChIJjWudPaAZ2jERdvNZh4ph1JQ
+https://www.google.com/maps/place/Chinatown+Complex/data=!4m7!3m6!1s0x31da19731fe5e901:0xac1f445c5e163aaa!8m2!3d1.2825735!4d103.8431104!16s%2Fg%2F11cs5s4nsx!19sChIJAenlH3MZ2jERqjoWXlxEH6w
