@@ -14074,3 +14074,7 @@ https://www.google.com/maps/place/Offshore+Maritime+Services/data=!4m7!3m6!1s0x1
 https://www.google.com/maps/place/Marina+South+Wharves/data=!4m7!3m6!1s0x31da19431e7bd2d1:0x7261968e65852153!8m2!3d1.2699613!4d103.8573831!16s%2Fg%2F11pb1rpsc9!19sChIJ0dJ7HkMZ2jERUyGFZY6WYXI
 https://www.google.com/maps/place/Seamaritime+Agency/data=!4m7!3m6!1s0x31da19a50cc55555:0x7a5a962b995aaffb!8m2!3d1.2964499!4d103.8549138!16s%2Fg%2F11fmw_yw7p!19sChIJVVXFDKUZ2jER-69amSuWWno
 https://www.google.com/maps/place/Hk+Marine+Pte+Ltd/data=!4m7!3m6!1s0x31da190c20955555:0x5f371a026434b4c4!8m2!3d1.282984!4d103.8505203!16s%2Fg%2F11h51k5zcq!19sChIJVVWVIAwZ2jERxLQ0ZAIaN18
+https://www.google.com/maps/place/Om+Offshore+Services+Pte.+Ltd./data=!4m7!3m6!1s0x31da13aa5a8eaaab:0xd33149071acf4649!8m2!3d1.4378076!4d103.7787265!16s%2Fg%2F11j2xmw9py!19sChIJq6qOWqoT2jERSUbPGgdJMdM
+https://www.google.com/maps/place/Marina+South+Wharves/data=!4m7!3m6!1s0x31da19431e7bd2d1:0x7261968e65852153!8m2!3d1.2699613!4d103.8573831!16s%2Fg%2F11pb1rpsc9!19sChIJ0dJ7HkMZ2jERUyGFZY6WYXI
+https://www.google.com/maps/place/Ministry+of+Manpower/data=!4m7!3m6!1s0x31da19752fcaf823:0x1b9aad34515777ef!8m2!3d1.2873368!4d103.8444061!16s%2Fg%2F11bbwpplgf!19sChIJI_jKL3UZ2jER73dXUTStmhs
+https://www.google.com/maps/place/Seamaritime+Agency/data=!4m7!3m6!1s0x31da19a50cc55555:0x7a5a962b995aaffb!8m2!3d1.2964499!4d103.8549138!16s%2Fg%2F11fmw_yw7p!19sChIJVVXFDKUZ2jER-69amSuWWno
