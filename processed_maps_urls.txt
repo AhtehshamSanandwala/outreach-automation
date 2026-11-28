@@ -15068,3 +15068,5 @@ https://www.google.com/maps/place/Linghao+Architects/data=!4m7!3m6!1s0x31da19b14
 https://www.google.com/maps/place/URBNarc/data=!4m7!3m6!1s0x31da19728eeb289f:0x3b6740c7d4e5682f!8m2!3d1.2805974!4d103.8423182!16s%2Fg%2F11b6lm7g4k!19sChIJnyjrjnIZ2jERL2jl1MdAZzs
 https://www.google.com/maps/place/Archstory/data=!4m7!3m6!1s0x1b2c93c41ac3db3:0x56cf7a8f5fe2582c!8m2!3d1.3646627!4d103.7636971!16s%2Fg%2F11sjrmg61g!19sChIJsz2sQTzJsgERLFjiX496z1Y
 https://www.google.com/maps/place/Haus+Atelier+Pte+Ltd/data=!4m7!3m6!1s0x31da170a83d9dd5f:0x41e91d227ac60210!8m2!3d1.2806668!4d103.8195494!16s%2Fg%2F11ggb8vnky!19sChIJX93ZgwoX2jEREALGeiId6UE
+https://www.google.com/maps/place/Chan+Sau+Yan+Associates/data=!4m7!3m6!1s0x31da196d844475ed:0x8b6723d258fbdf8e!8m2!3d1.2793484!4d103.8414591!16s%2Fg%2F1tdb1smn!19sChIJ7XVEhG0Z2jERjt_7WNIjZ4s
+https://www.google.com/maps/place/S+A+Chua+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da190caea21b93:0x6139c43f5ebc2111!8m2!3d1.3041374!4d103.8534644!16s%2Fg%2F1tlvm1d4!19sChIJkxuirgwZ2jERESG8Xj_EOWE
