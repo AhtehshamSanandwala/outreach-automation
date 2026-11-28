@@ -14447,3 +14447,5 @@ https://www.google.com/maps/place/EZ+Accounting+pte+ltd/data=!4m7!3m6!1s0x31da18
 https://www.google.com/maps/place/DIGITIZENOW+PTE.+LTD./data=!4m7!3m6!1s0x31da19da20c671a5:0xc34eac1ebfde3c1f!8m2!3d1.2864418!4d103.8491423!16s%2Fg%2F11kpk_7fm1!19sChIJpXHGINoZ2jERHzzevx6sTsM
 https://www.google.com/maps/place/INFR+AI+%28VRcollab%29/data=!4m7!3m6!1s0x31da1b304cb375e1:0xca7db4fed91e46e0!8m2!3d1.2739068!4d103.8462175!16s%2Fg%2F11g3g4wkr3!19sChIJ4XWzTDAb2jER4EYe2f60fco
 https://www.google.com/maps/place/Zimozi+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da191259be35f3:0x6e3935ccf5c480bf!8m2!3d1.2784712!4d103.8477707!16s%2Fg%2F11vycyztnh!19sChIJ8zW-WRIZ2jERv4DE9cw1OW4
+https://www.google.com/maps/place/Data+Dynamics+Pte.+Ltd./data=!4m7!3m6!1s0x31da19e83c54bb65:0xe9cfde492d8b6d35!8m2!3d1.3239494!4d103.8783205!16s%2Fg%2F11spvs0q7j!19sChIJZbtUPOgZ2jERNW2LLUnez-k
+https://www.google.com/maps/place/Hubb+IT+Pte+Ltd/data=!4m7!3m6!1s0x31da19578556412b:0x3980599b19bd727c!8m2!3d1.3167871!4d103.8417713!16s%2Fg%2F11q94lwqp1!19sChIJK0FWhVcZ2jERfHK9GZtZgDk
