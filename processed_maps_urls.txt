@@ -15261,3 +15261,5 @@ https://www.google.com/maps/place/Toll+City/data=!4m7!3m6!1s0x31da05eb64db273b:0
 https://www.google.com/maps/place/3+Benoi+road+Kuehne+Nagel+Waterfront+Hub/data=!4m7!3m6!1s0x31da19aede6aca5f:0xca1e056f851a45e8!8m2!3d1.3054348!4d103.6806175!16s%2Fg%2F11b7m98kdc!19sChIJX8pq3q4Z2jER6EUahW8FHso
 https://www.google.com/maps/place/HUB+Distributors+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da1b145dce2833:0x68977211cde13cb0!8m2!3d1.3282919!4d103.7532709!16s%2Fg%2F11j38jwxyk!19sChIJMyjOXRQb2jERsDzhzRFyl2g
 https://www.google.com/maps/place/Alstom+Asia-Pacific+and+Singapore+head-office/data=!4m7!3m6!1s0x31da1bc0ad8e1477:0x1bbb173fbcb20872!8m2!3d1.3129371!4d103.8640204!16s%2Fg%2F11f03zx629!19sChIJdxSOrcAb2jERcgiyvD8Xuxs
+https://www.google.com/maps/place/Kopitiam+Food+Hall/data=!4m7!3m6!1s0x31da19bd7ec8ac73:0x70f37db6029a4285!8m2!3d1.3005167!4d103.8449701!16s%2Fg%2F1vr1t579!19sChIJc6zIfr0Z2jERhUKaArZ983A
+https://www.google.com/maps/place/Holie+Logistics+by+Holie+Trading+%26+Logistics+Pte.+Ltd./data=!4m7!3m6!1s0x8f019efae261d46d:0x3760a8719fc9f4d5!8m2!3d1.314!4d103.84425!16s%2Fg%2F11m5v333d5!19sChIJbdRh4vqeAY8R1fTJn3GoYDc
