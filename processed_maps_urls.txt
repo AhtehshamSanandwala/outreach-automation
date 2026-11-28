@@ -15762,3 +15762,5 @@ https://www.google.com/maps/place/Andy+Property/data=!4m7!3m6!1s0x31da1756dee14c
 https://www.google.com/maps/place/Somerset+Bencoolen+Singapore/data=!4m10!3m9!1s0x31da19bca0f65307:0x131e2ef99a31450b!5m2!4m1!1i2!8m2!3d1.2994205!4d103.8505094!16s%2Fg%2F1th60xf6!19sChIJB1P2oLwZ2jERC0UxmvkuHhM
 https://www.google.com/maps/place/Sapphire+99/data=!4m7!3m6!1s0x31da192260e356df:0x2d6aa34a952837c7!8m2!3d1.3023203!4d103.846484!16s%2Fg%2F11j2w9mxlz!19sChIJ31bjYCIZ2jERxzcolUqjai0
 https://www.google.com/maps/place/The+Luxe/data=!4m7!3m6!1s0x31da19504d20e401:0x11b6e8bca29236eb!8m2!3d1.2994803!4d103.8471048!16s%2Fg%2F11fnwhjs8z!19sChIJAeQgTVAZ2jER6zaSorzothE
+https://www.google.com/maps/place/Kuok+%28Singapore%29+Ltd+Group+of+Companies/data=!4m7!3m6!1s0x31da19835f9379bb:0x586a36b202051314!8m2!3d1.2941183!4d103.83219!16s%2Fg%2F1ts1k4p2!19sChIJu3mTX4MZ2jERFBMFArI2alg
+https://www.google.com/maps/place/HG+COLIVING+STYLE+PTE+LTD/data=!4m7!3m6!1s0x8b6d74d3606ecfa9:0x257375a11ee2fba9!8m2!3d1.314!4d103.84425!16s%2Fg%2F11lf254cld!19sChIJqc9uYNN0bYsRqfviHqF1cyU
