@@ -14168,3 +14168,5 @@ https://www.google.com/maps/place/MindChamps+PreSchool+@+River+Valley/data=!4m7!
 https://www.google.com/maps/place/FairPrice+Finest+Funan+Mall/data=!4m7!3m6!1s0x31da19c044f2b37f:0xfb62d4dc186513ea!8m2!3d1.2912647!4d103.8501932!16s%2Fg%2F11flq1_cyx!19sChIJf7PyRMAZ2jER6hNlGNzUYvs
 https://www.google.com/maps/place/ASTONS+Specialities+@+The+Central/data=!4m7!3m6!1s0x31da19a0740144c7:0x2793b094c5a3269d!8m2!3d1.2893507!4d103.8466063!16s%2Fg%2F11d_1r9qk2!19sChIJx0QBdKAZ2jERnSajxZSwkyc
 https://www.google.com/maps/place/IL+CLAY+%26+Behind+Clay+@+Clarke+Quay/data=!4m7!3m6!1s0x31da19003e0ffca7:0xe1208f664b244392!8m2!3d1.2898201!4d103.8457176!16s%2Fg%2F11vxmknl5b!19sChIJp_wPPgAZ2jERkkMkS2aPIOE
+https://www.google.com/maps/place/Chinatown+Food+Street/data=!4m7!3m6!1s0x31da197325988363:0x7c0a3c2fc96d6ab!8m2!3d1.2822896!4d103.843928!16s%2Fg%2F11c3mpzfhs!19sChIJY4OYJXMZ2jERq9aW_MKjwAc
+https://www.google.com/maps/place/CQ+@+Clarke+Quay+Carpark/data=!4m7!3m6!1s0x31da19a0442e59c1:0x858c4c4af40b7251!8m2!3d1.2906395!4d103.8462792!16s%2Fg%2F11khmck0kk!19sChIJwVkuRKAZ2jERUXIL9EpMjIU
