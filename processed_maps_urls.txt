@@ -15031,3 +15031,5 @@ https://www.google.com/maps/place/Goy+Architects/data=!4m7!3m6!1s0x31da1bb3da711
 https://www.google.com/maps/place/DI%2B+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da17a7cd9fd9c3:0x47542af9aa0da98c!8m2!3d1.3334416!4d103.8917436!16s%2Fg%2F11l6j4nzn8!19sChIJw9mfzacX2jERjKkNqvkqVEc
 https://www.google.com/maps/place/JGP+Architecture+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da1913598b22b7:0x9f9b1ac71d71f7f9!8m2!3d1.288699!4d103.847918!16s%2Fg%2F1th196tl!19sChIJtyKLWRMZ2jER-fdxHccam58
 https://www.google.com/maps/place/Dwell+Projects+Architects/data=!4m7!3m6!1s0x31da19c8269df3e5:0x9a825b4931bdfbf5!8m2!3d1.3082056!4d103.8584469!16s%2Fg%2F1ptxc5_n1!19sChIJ5fOdJsgZ2jER9fu9MUlbgpo
+https://www.google.com/maps/place/DS+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da19086cf2991f:0x19456d33c86c26ee!8m2!3d1.3003621!4d103.8508251!16s%2Fg%2F11rvdch4q8!19sChIJH5nybAgZ2jER7iZsyDNtRRk
+https://www.google.com/maps/place/ACO+Architects+LLP/data=!4m7!3m6!1s0x31da1988e53491f3:0x86085e4be39af297!8m2!3d1.3064839!4d103.8565314!16s%2Fg%2F11gy9l_p5t!19sChIJ85E05YgZ2jERl_Ka40teCIY
