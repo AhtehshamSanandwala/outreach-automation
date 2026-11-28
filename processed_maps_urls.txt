@@ -14201,3 +14201,7 @@ https://www.google.com/maps/place/Gabbar+Bistro+%26+Bar+@+Clarke+Quay/data=!4m7!
 https://www.google.com/maps/place/TSUJIRI+The+Central+Store/data=!4m7!3m6!1s0x31da190a9df9e517:0x2878f6404ff15ee2!8m2!3d1.2891118!4d103.8459356!16s%2Fg%2F11btxgxg40!19sChIJF-X5nQoZ2jER4l7xT0D2eCg
 https://www.google.com/maps/place/Banh+Mi+Society/data=!4m7!3m6!1s0x31da1900327b886b:0xcef19b3b1fde1c99!8m2!3d1.2890574!4d103.8466673!16s%2Fg%2F11xmqb1jxb!19sChIJa4h7MgAZ2jERmRzeHzub8c4
 https://www.google.com/maps/place/Eko+Life+%28Clarke+Quay%29+-+Online+Only/data=!4m7!3m6!1s0x31da190262828c6b:0xccaa4aa1205df9f0!8m2!3d1.287413!4d103.8473007!16s%2Fg%2F11gydjypcl!19sChIJa4yCYgIZ2jER8PldIKFKqsw
+https://www.google.com/maps/place/Teck+Sang+Pte+Ltd/data=!4m7!3m6!1s0x31da190af65c6d59:0x6ab371be35b97d27!8m2!3d1.2875455!4d103.8475904!16s%2Fg%2F1vppq102!19sChIJWW1c9goZ2jERJ325Nb5xs2o
+https://www.google.com/maps/place/Rendezvous+Restaurant+Hock+Lock+Kee/data=!4m7!3m6!1s0x31da190a9bbec0d7:0x35b0563210393588!8m2!3d1.289174!4d103.846216!16s%2Fg%2F11r97xg_w!19sChIJ18C-mwoZ2jERiDU5EDJWsDU
+https://www.google.com/maps/place/Baba+Nyonya+Restaurant+Clark+Quay+The+Central/data=!4m7!3m6!1s0x31da19555081976b:0x7600b3cde179cff6!8m2!3d1.2891465!4d103.8467157!16s%2Fg%2F11wtztqwky!19sChIJa5eBUFUZ2jER9s954c2zAHY
+https://www.google.com/maps/place/Cuba+Libre+Caf%C3%A9+%26+Bar/data=!4m7!3m6!1s0x31da19a0305e11af:0xa8ef9d178c8d9093!8m2!3d1.290247!4d103.8464495!16s%2Fg%2F1w10_qg6!19sChIJrxFeMKAZ2jERk5CNjBed76g
