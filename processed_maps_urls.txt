@@ -15523,3 +15523,4 @@ https://www.google.com/maps/place/UG+M%26E/data=!4m7!3m6!1s0x31da1697d286d60b:0x
 https://www.google.com/maps/place/YC+M%26E+Contractor/data=!4m7!3m6!1s0x31da15007bb39e4f:0x8a67c5ce4f8688c9!8m2!3d1.4106002!4d103.898379!16s%2Fg%2F11yts79zdw!19sChIJT56zewAV2jERyYiGT87FZ4o
 https://www.google.com/maps/place/MSM+ENGINEERING+AND+CONSTRUCTION+PTE+LTD/data=!4m7!3m6!1s0x31da19a9d5e3d581:0x967ccd9186248c7b!8m2!3d1.3142102!4d103.8765696!16s%2Fg%2F11s8dks65f!19sChIJgdXj1akZ2jERe4wkhpHNfJY
 https://www.google.com/maps/place/UG+M%26E/data=!4m7!3m6!1s0x31da1697d286d60b:0x92ef173b2d327ccb!8m2!3d1.3898668!4d103.8492521!16s%2Fg%2F11h4dj81mx!19sChIJC9aG0pcW2jERy3wyLTsX75I
+https://www.google.com/maps/place/VS+M+%26+E+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da16f0f24bbda3:0x888b772766e89d69!8m2!3d1.3747055!4d103.8600872!16s%2Fg%2F1wrt9cg9!19sChIJo71L8vAW2jERaZ3oZid3i4g
