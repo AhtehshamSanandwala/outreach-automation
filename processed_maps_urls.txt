@@ -15784,3 +15784,5 @@ https://www.google.com/maps/place/Regency+House/data=!4m7!3m6!1s0x31da191db772b6
 https://www.google.com/maps/place/One+Oxley+Rise/data=!4m7!3m6!1s0x31da1906521c00db:0xdf563bffc147577c!8m2!3d1.2991534!4d103.8418054!16s%2Fg%2F11fm4sjc3c!19sChIJ2wAcUgYZ2jERfFdHwf87Vt8
 https://www.google.com/maps/place/PropertyMattersWithMI/data=!4m7!3m6!1s0x31da172508cb606f:0x1dc80f222b686366!8m2!3d1.3320022!4d103.8494339!16s%2Fg%2F11mcf7hmgj!19sChIJb2DLCCUX2jERZmNoKyIPyB0
 https://www.google.com/maps/place/The+MacDonald+House/data=!4m7!3m6!1s0x31da19bd467ac0c7:0x7244cd376e2de565!8m2!3d1.2991656!4d103.8459792!16zL20vMGI2dnoy!19sChIJx8B6Rr0Z2jERZeUtbjfNRHI
+https://www.google.com/maps/place/Singapore+Expats/data=!4m7!3m6!1s0x31da198cc0aefd57:0x294a9456f4b4b634!8m2!3d1.2850025!4d103.8114111!16s%2Fg%2F1pv2gx64v!19sChIJV_2uwIwZ2jERNLa09FaUSik
+https://www.google.com/maps/place/Cairnhill+Nine/data=!4m7!3m6!1s0x31da1993c2dde473:0x1eac8768c7f50f2f!8m2!3d1.3034739!4d103.8375387!16s%2Fg%2F11dxbx7hz6!19sChIJc-TdwpMZ2jERLw_1x2iHrB4
