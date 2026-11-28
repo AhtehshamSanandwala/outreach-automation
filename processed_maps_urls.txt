@@ -14064,3 +14064,6 @@ https://www.google.com/maps/place/Hai+Fu+Marine+Services+Pte+Ltd/data=!4m7!3m6!1
 https://www.google.com/maps/place/Cast+Launch+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da1ae31654257b:0x8cf4e658564427be!8m2!3d1.334112!4d103.698388!16s%2Fg%2F1tgn27nm!19sChIJeyVUFuMa2jERvidEVljm9Iw
 https://www.google.com/maps/place/Sea+Maritime+Services/data=!4m7!3m6!1s0x31da3d00081bd67b:0xdd0807af74f233ce!8m2!3d1.3823424!4d103.9694324!16s%2Fg%2F11yhfr9_0k!19sChIJe9YbCAA92jERzjPydK8HCN0
 https://www.google.com/maps/place/Offshore+Maritime+Services/data=!4m7!3m6!1s0x1dcc6763e9316e45:0x244452dd4771ea2a!8m2!3d-33.9161616!4d18.4311593!16s%2Fg%2F1pzsgqssz!19sChIJRW4x6WNnzB0RKupxR91SRCQ
+https://www.google.com/maps/place/St.+John%27s+Island+National+Marine+Laboratory/data=!4m7!3m6!1s0x31da1ef69cb85fdd:0x7e60a6609d7acbfa!8m2!3d1.2171559!4d103.8502074!16s%2Fg%2F11dyltcytx!19sChIJ3V-4nPYe2jER-st6nWCmYH4
+https://www.google.com/maps/place/Overseas+Marine+Logistics/data=!4m7!3m6!1s0x31da190cb22e8f25:0x99e46b29ecd90e51!8m2!3d1.2837889!4d103.8448556!16s%2Fg%2F11fm4y16fv!19sChIJJY8usgwZ2jERUQ7Z7Clr5Jk
+https://www.google.com/maps/place/SERVE+MARINE+YARD/data=!4m7!3m6!1s0x31da121f9a0c85ad:0xd90ffce1f43fa4c6!8m2!3d1.3074852!4d103.6794464!16s%2Fg%2F1ptw7yg6p!19sChIJrYUMmh8S2jERxqQ_9OH8D9k
