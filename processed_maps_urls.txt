@@ -14964,3 +14964,5 @@ https://www.google.com/maps/place/Ters+Engineering+Services+Pte.+Ltd./data=!4m7!
 https://www.google.com/maps/place/Dot+Engg+Pte+Ltd/data=!4m7!3m6!1s0x31da052674b3974d:0x5feab62e38505ce2!8m2!3d1.2775038!4d103.7176363!16s%2Fg%2F11z5_nchzm!19sChIJTZezdCYF2jER4lxQOC626l8
 https://www.google.com/maps/place/NYH+Consultants/data=!4m7!3m6!1s0x31da17b156c5bf75:0xe0e30b086bd10428!8m2!3d1.3589128!4d103.8851553!16s%2Fg%2F1ptzc_1fn!19sChIJdb_FVrEX2jERKATRawgL4-A
 https://www.google.com/maps/place/DGS+Engineering+Pte.+Ltd./data=!4m7!3m6!1s0x31da17a99427aa89:0x1f9b8eac91f4c450!8m2!3d1.3582129!4d103.869806!16s%2Fg%2F11cs5nky9x!19sChIJiaonlKkX2jERUMT0kayOmx8
+https://www.google.com/maps/place/Vortex+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da056bcecb1615:0xf6d73eb645bfab0d!8m2!3d1.3275597!4d103.7535152!16s%2Fg%2F11c6_txm4m!19sChIJFRbLzmsF2jERDau_RbY-1_Y
+https://www.google.com/maps/place/Terratech+Engineering+Pte.+Ltd./data=!4m7!3m6!1s0x31da103fe1c3c8b9:0x93b6a24b26db028b!8m2!3d1.3148665!4d103.6278489!16s%2Fg%2F11cs5q05c8!19sChIJucjD4T8Q2jERiwLbJkuitpM
