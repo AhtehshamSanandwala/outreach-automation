@@ -14398,3 +14398,4 @@ https://www.google.com/maps/place/Singapore+Data+Hub+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Dahlia+Technologies+Pte.+Ltd./data=!4m7!3m6!1s0x31da190d640ba6f9:0xa582c734c9feea3f!8m2!3d1.2818145!4d103.8500991!16s%2Fg%2F11vqm5ymrb!19sChIJ-aYLZA0Z2jERP-r-yTTHgqU
 https://www.google.com/maps/place/Human+Technologies+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da1bfa3f241885:0xafed5c72eb495895!8m2!3d1.314!4d103.84425!16s%2Fg%2F11j6zp_5_f!19sChIJhRgkP_ob2jERlVhJ63Jc7a8
 https://www.google.com/maps/place/Nano+Equipment/data=!4m7!3m6!1s0x31da106c2f91bba5:0x54f538c0b61e350!8m2!3d1.3432824!4d103.8472636!16s%2Fg%2F1tdvgp9g!19sChIJpbuRL2wQ2jERUONhC4xTTwU
+https://www.google.com/maps/place/Humble+Code/data=!4m7!3m6!1s0xaca0e8c56ab05cff:0x96bd86b40f4215a7!8m2!3d1.2784422!4d103.847801!16s%2Fg%2F11pdjttzsx!19sChIJ_1ywasXooKwRpxVCD7SGvZY
