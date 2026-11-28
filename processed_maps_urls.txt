@@ -15552,3 +15552,5 @@ https://www.google.com/maps/place/D+AND+D+INDUSTRIES+PTE+LTD/data=!4m7!3m6!1s0x9
 https://www.google.com/maps/place/Ngee+Cheong+Contractors+Pte+Ltd/data=!4m7!3m6!1s0x31da19c45bbbbf5f:0x8af11a5e37fa73a0!8m2!3d1.3145302!4d103.8525585!16s%2Fg%2F1tg6s6xv!19sChIJX7-7W8QZ2jERoHP6N14a8Yo
 https://www.google.com/maps/place/EPG+Building+Services/data=!4m7!3m6!1s0x31da178fda80f90d:0xa60665bbde48682c!8m2!3d1.3265456!4d103.8755699!16s%2Fg%2F1ptxw1ths!19sChIJDfmA2o8X2jERLGhI3rtlBqY
 https://www.google.com/maps/place/Digo+Corporation+Pte+Ltd/data=!4m7!3m6!1s0x31da1314bdec7921:0x7d52f7f6868d749f!8m2!3d1.4666812!4d103.8037564!16s%2Fg%2F1pv5wjs2r!19sChIJIXnsvRQT2jERn3SNhvb3Un0
+https://www.google.com/maps/place/Digo+Corporation+Pte+Ltd/data=!4m7!3m6!1s0x31da1314bdec7921:0x7d52f7f6868d749f!8m2!3d1.4666812!4d103.8037564!16s%2Fg%2F1pv5wjs2r!19sChIJIXnsvRQT2jERn3SNhvb3Un0
+https://www.google.com/maps/place/Fidecs+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da134165555555:0xd8b14188a4b73554!8m2!3d1.4378735!4d103.8067738!16s%2Fg%2F1tplmtyf!19sChIJVVVVZUET2jERVDW3pIhBsdg
