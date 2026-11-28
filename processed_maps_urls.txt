@@ -15107,3 +15107,5 @@ https://www.google.com/maps/place/Index+Architects/data=!4m7!3m6!1s0x31da19d4da4
 https://www.google.com/maps/place/Studio+D%E2%80%99+Interior/data=!4m7!3m6!1s0x31da17c9cac8de09:0x4e9e2be35926ba01!8m2!3d1.333496!4d103.8918092!16s%2Fg%2F11s9dp4sf1!19sChIJCd7IyskX2jERAbomWeMrnk4
 https://www.google.com/maps/place/Getch+D+Projects+%26+Interior/data=!4m7!3m6!1s0x31da19029770c6df:0xe83a80b3f169c038!8m2!3d1.3028252!4d103.849411!16s%2Fg%2F11w1cv939l!19sChIJ38ZwlwIZ2jEROMBp8bOAOug
 https://www.google.com/maps/place/Aamer+Taher/data=!4m7!3m6!1s0x31da1a153374dadd:0x87089ec974f1b452!8m2!3d1.291072!4d103.8148302!16s%2Fg%2F1tf_dyjr!19sChIJ3dp0MxUa2jERUrTxdMmeCIc
+https://www.google.com/maps/place/Threehaus+Works/data=!4m7!3m6!1s0x31da11fec7806637:0x46afdfa36ea1366e!8m2!3d1.3371117!4d103.7597177!16s%2Fg%2F11vcrb6rky!19sChIJN2aAx_4R2jERbjahbqPfr0Y
+https://www.google.com/maps/place/PCI+Private+Limited/data=!4m7!3m6!1s0x31da0563ffe3464d:0xb2f111a460c3276!8m2!3d1.329121!4d103.6960169!16s%2Fg%2F1tdwbfqz!19sChIJTUbj_2MF2jERdjIMRhoRLws
