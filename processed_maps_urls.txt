@@ -14504,3 +14504,5 @@ https://www.google.com/maps/place/Adamo+Asia+Pacific+-+AI+%26+Software+Developme
 https://www.google.com/maps/place/268+Orchard/data=!4m7!3m6!1s0x31da19917acfda59:0xc1a515d27cbd4b71!8m2!3d1.302693!4d103.836805!16s%2Fg%2F11gf1s1syj!19sChIJWdrPepEZ2jERcUu9fNIVpcE
 https://www.google.com/maps/place/Pro-DataLGI+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da190a90bf2bb5:0x75d90465babb16d5!8m2!3d1.278037!4d103.8479783!16s%2Fg%2F1ptwzr3xx!19sChIJtSu_kAoZ2jER1Ra7umUE2XU
 https://www.google.com/maps/place/Cybage+Software+Private+Limited/data=!4m7!3m6!1s0x31da19a0bc2b4fd9:0x60141d0d893fdace!8m2!3d1.2899203!4d103.849345!16s%2Fg%2F11ddyd47t8!19sChIJ2U8rvKAZ2jERzto_iQ0dFGA
+https://www.google.com/maps/place/Dynamics+International+School/data=!4m7!3m6!1s0x31da1915d976791d:0x1b2c905b58e5446a!8m2!3d1.306069!4d103.8286!16s%2Fg%2F11fp3rmyp8!19sChIJHXl22RUZ2jERakTlWFuQLBs
+https://www.google.com/maps/place/Inno+Panda/data=!4m7!3m6!1s0x31da193c83506c0f:0x990b2ebcecc76d1a!8m2!3d1.3192491!4d103.8927959!16s%2Fg%2F11z6thl_dh!19sChIJD2xQgzwZ2jERGm3H7LwuC5k
