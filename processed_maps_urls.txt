@@ -14155,3 +14155,7 @@ https://www.google.com/maps/place/BBQ+Box+Prime+%28Clarke+Quay%29+%E4%B8%B2%E7%8
 https://www.google.com/maps/place/Azabu+Sabo+Clarke+Quay+Singapore/data=!4m7!3m6!1s0x31da19a07c7641e5:0xd189933307358b7c!8m2!3d1.2894664!4d103.846727!16s%2Fg%2F1thx1k3h!19sChIJ5UF2fKAZ2jERfIs1BzOTidE
 https://www.google.com/maps/place/nomVnom+Bistro+-+%28Vegan+-+Clarke+Quay,+Singapore%29/data=!4m7!3m6!1s0x31da190bfc081427:0xb8c19992be9a12b!8m2!3d1.2895043!4d103.8467143!16s%2Fg%2F11ckqzzkd1!19sChIJJxQI_AsZ2jERK6HpK5kZjAs
 https://www.google.com/maps/place/Chef+X+@+Clarke+Quay+Central/data=!4m7!3m6!1s0x31da19004f1d097b:0xe04e5fdaf07b3276!8m2!3d1.2891465!4d103.8467157!16s%2Fg%2F11vy83ltdc!19sChIJewkdTwAZ2jERdjJ78NpfTuA
+https://www.google.com/maps/place/The+Face+Place/data=!4m7!3m6!1s0x31da19232168d235:0xa0dccd37fc2a07b6!8m2!3d1.2891137!4d103.8466671!16s%2Fg%2F11fs_j2mjf!19sChIJNdJoISMZ2jERtgcq_DfN3KA
+https://www.google.com/maps/place/Cold+Storage/data=!4m7!3m6!1s0x31da19bd7edc6d31:0x860ac3b7d7c102f4!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F11b66f8n82!19sChIJMW3cfr0Z2jER9ALB17fDCoY
+https://www.google.com/maps/place/Banh+Mi+Society/data=!4m7!3m6!1s0x31da1900327b886b:0xcef19b3b1fde1c99!8m2!3d1.2890574!4d103.8466673!16s%2Fg%2F11xmqb1jxb!19sChIJa4h7MgAZ2jERmRzeHzub8c4
+https://www.google.com/maps/place/AUBE+Beauty+Salon+Clarke+Quay+Central/data=!4m7!3m6!1s0x31da19bdbff88157:0x832376ef39388f8c!8m2!3d1.2891465!4d103.8467157!16s%2Fg%2F11kbtfbl_4!19sChIJV4H4v70Z2jERjI84Oe92I4M
