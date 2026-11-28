@@ -15242,3 +15242,5 @@ https://www.google.com/maps/place/Hankyu+Hanshin+Express+%28Singapore%29+Pte+Ltd
 https://www.google.com/maps/place/Timezone+Orchard+Xchange/data=!4m7!3m6!1s0x31da11d5adbe761b:0xef8010ebcd2af76d!8m2!3d1.3033599!4d103.8322884!16s%2Fg%2F11ssdx_gty!19sChIJG3a-rdUR2jERbfcqzesQgO8
 https://www.google.com/maps/place/Takagi+Ramen+@+Dhoby+Ghaut+Exchange/data=!4m7!3m6!1s0x31da190e5d810777:0xdb183532335c04b0!8m2!3d1.2986545!4d103.8464611!16s%2Fg%2F11k58qcjq3!19sChIJdweBXQ4Z2jERsARcMzI1GNs
 https://www.google.com/maps/place/Global+Cold+Chain+Solutions+%E2%80%93+Reliable+Cold+Chain+Logistics+Services/data=!4m7!3m6!1s0x31da3db23f8540ed:0xa85324b7f9f2aab4!8m2!3d1.374838!4d104.001512!16s%2Fg%2F11jfchxk69!19sChIJ7UCFP7I92jERtKry-bckU6g
+https://www.google.com/maps/place/Advance+Supply+Chain+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1913598b22b7:0xbdd4ad5b6573c45d!8m2!3d1.274627!4d103.845714!16s%2Fg%2F1vv2prxx!19sChIJtyKLWRMZ2jERXcRzZVut1L0
+https://www.google.com/maps/place/Da+Zhou+Trading+Pte.+Ltd./data=!4m7!3m6!1s0x31da10729bcc90e7:0x3a8bb9582583e552!8m2!3d1.3366024!4d103.7548806!16s%2Fg%2F1tg844tz!19sChIJ55DMm3IQ2jERUuWDJVi5izo
