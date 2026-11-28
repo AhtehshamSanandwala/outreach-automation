@@ -14556,3 +14556,5 @@ https://www.google.com/maps/place/CodeHat/data=!4m7!3m6!1s0x31da19dadc0fb889:0xd
 https://www.google.com/maps/place/Mysassylashes+By+Yuki/data=!4m7!3m6!1s0x31da199804a12a3d:0x7e4b66b4f5ef3a6!8m2!3d1.2982363!4d103.8440577!16s%2Fg%2F11c178gbj5!19sChIJPSqhBJgZ2jERpvNeT2u25Ac
 https://www.google.com/maps/place/FUJIFILM+Business+Innovation+Singapore/data=!4m7!3m6!1s0x31da197770ec774d:0x2b30c24d2a7da87b!8m2!3d1.275215!4d103.7991181!16s%2Fg%2F11gvd5d90g!19sChIJTXfscHcZ2jERe6h9Kk3CMCs
 https://www.google.com/maps/place/Hannsville+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x839b21a694be20b:0x7f05f27661744bb8!8m2!3d9.3741102!4d-17.4643322!16s%2Fg%2F11zddy6yrh!19sChIJC-JLaRqyOQgRuEt0YXbyBX8
+https://www.google.com/maps/place/MountsMy/data=!4m7!3m6!1s0x395e8585839cd3f1:0xbd80d044a3bcd45b!8m2!3d23.0521672!4d72.5384248!16s%2Fg%2F11zgs9qw5c!19sChIJ8dOcg4WFXjkRW9S8o0TQgL0
+https://www.google.com/maps/place/StraitsX/data=!4m7!3m6!1s0x31da1a502995a631:0x685659eb089451a4!8m2!3d1.2979599!4d103.7874833!16s%2Fg%2F11gfmdd5yk!19sChIJMaaVKVAa2jERpFGUCOtZVmg
