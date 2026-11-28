@@ -15141,3 +15141,5 @@ https://www.google.com/maps/place/TMO+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Advanced+Manufacturing+Centre/data=!4m7!3m6!1s0x31da1bff62400635:0x2e56cd0908446e69!8m2!3d1.3104157!4d103.7765655!16s%2Fg%2F11v45_qs06!19sChIJNQZAYv8b2jERaW5ECAnNVi4
 https://www.google.com/maps/place/Texas+Instruments+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da199f3c16c845:0x7d3f62c3a20cae2a!8m2!3d1.2927841!4d103.8432076!16s%2Fg%2F1vcl18z7!19sChIJRcgWPJ8Z2jERKq4MosNiP30
 https://www.google.com/maps/place/Sanofi+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da07cf440f7a1d:0xfe1f83cebe29dbf6!8m2!3d1.3060648!4d103.6334978!16s%2Fg%2F11twv54j9g!19sChIJHXoPRM8H2jER9tspvs6DH_4
+https://www.google.com/maps/place/NVT+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da055e854842e3:0xfc2ff86ff8fdb343!8m2!3d1.3285349!4d103.653137!16s%2Fg%2F1td7qpxz!19sChIJ40JIhV4F2jERQ7P9-G_4L_w
+https://www.google.com/maps/place/RTP+Company+PTE+Ltd.+%28Singapore%29/data=!4m7!3m6!1s0x31da07004493b151:0x1e860bc9d7ed0b72!8m2!3d1.3067621!4d103.6307291!16s%2Fg%2F11ycyz0cb1!19sChIJUbGTRAAH2jERcgvt18kLhh4
