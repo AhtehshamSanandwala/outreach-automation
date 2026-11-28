@@ -15340,3 +15340,5 @@ https://www.google.com/maps/place/Afloat+Marine+%26+Services+Pte+Ltd/data=!4m7!3
 https://www.google.com/maps/place/Murdoch+Offshore/data=!4m7!3m6!1s0x31da191d1a7d1979:0x4d70f174a4e71daa!8m2!3d1.2814095!4d103.8510185!16s%2Fg%2F11sc0c00qv!19sChIJeRl9Gh0Z2jERqh3npHTxcE0
 https://www.google.com/maps/place/OCEANUS+MARINE+PTE+LTD/data=!4m7!3m6!1s0x31da100912eaaaab:0xacf905a398ccb8bf!8m2!3d1.3488044!4d103.7034043!16s%2Fg%2F11vrxnjbqd!19sChIJq6rqEgkQ2jERv7jMmKMF-aw
 https://www.google.com/maps/place/Survival+Systems+International+Offshore+%26+Marine+Pte+Ltd/data=!4m7!3m6!1s0x31da17f31b83092d:0xae5e807bfc818e02!8m2!3d1.3495757!4d103.8410234!16s%2Fg%2F11fmm01g9v!19sChIJLQmDG_MX2jERAo6B_HuAXq4
+https://www.google.com/maps/place/Offshore+Marine+Centre/data=!4m7!3m6!1s0x31da05d3a273f04d:0x91acb7fd9d13e514!8m2!3d1.2930215!4d103.643537!16s%2Fg%2F11b7hwfrwj!19sChIJTfBzotMF2jERFOUTnf23rJE
+https://www.google.com/maps/place/Pioneer+Offshore+Enterprises+Pte+Ltd/data=!4m7!3m6!1s0x31da05bd67e24cb7:0x4dd2e535e7e1700e!8m2!3d1.308094!4d103.6699115!16s%2Fg%2F1tdc2qw1!19sChIJt0ziZ70F2jERDnDh5zXl0k0
