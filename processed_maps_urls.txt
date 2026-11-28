@@ -14582,3 +14582,4 @@ https://www.google.com/maps/place/CyberCare+Pte+Ltd/data=!4m7!3m6!1s0x31da17b9a0
 https://www.google.com/maps/place/Hannsville+Technologies+Pte+Ltd/data=!4m7!3m6!1s0x839b21a694be20b:0x7f05f27661744bb8!8m2!3d9.3741102!4d-17.4643322!16s%2Fg%2F11zddy6yrh!19sChIJC-JLaRqyOQgRuEt0YXbyBX8
 https://www.google.com/maps/place/StraitsX/data=!4m7!3m6!1s0x31da1a502995a631:0x685659eb089451a4!8m2!3d1.2979599!4d103.7874833!16s%2Fg%2F11gfmdd5yk!19sChIJMaaVKVAa2jERpFGUCOtZVmg
 https://www.google.com/maps/place/Hdbay+Pte+Ltd/data=!4m7!3m6!1s0x31da1766e85fedb9:0x202a51b6ae5bb42a!8m2!3d1.3325303!4d103.8487136!16s%2Fg%2F11cs5s4kwz!19sChIJue1f6GYX2jERKrRbrrZRKiA
+https://www.google.com/maps/place/Cloud+Kinetics+Consulting+Pte+Ltd/data=!4m7!3m6!1s0x31da193f69e59d85:0x3c45daad051b4a62!8m2!3d1.2847285!4d103.849952!16s%2Fg%2F11n04j5kby!19sChIJhZ3laT8Z2jERYkobBa3aRTw
