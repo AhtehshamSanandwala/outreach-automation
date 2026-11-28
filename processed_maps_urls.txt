@@ -15710,3 +15710,4 @@ https://www.google.com/maps/place/Colin+Ho+Property+-+PropNex/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/Nomu/data=!4m7!3m6!1s0x31da19bd167aa525:0xa0edeb5e5e5b2888!8m2!3d1.2997253!4d103.8468883!16s%2Fg%2F1ptwzxmtt!19sChIJJaV6Fr0Z2jERiChbXl7r7aA
 https://www.google.com/maps/place/Property+Yuru/data=!4m7!3m6!1s0x31da173783e02f65:0x8bfa17175c5555ec!8m2!3d1.332183!4d103.848428!16s%2Fg%2F11r_v2j66m!19sChIJZS_ggzcX2jER7FVVXBcX-os
 https://www.google.com/maps/place/QB+HOUSE+%28Dhoby+Ghaut+MRT+Station%29/data=!4m7!3m6!1s0x31da19bd4b5e1b5b:0x2ed1389bc9d7aa20!8m2!3d1.2996182!4d103.8458229!16s%2Fg%2F1ptvtfxft!19sChIJWxteS70Z2jERIKrXyZs40S4
+https://www.google.com/maps/place/Nomu/data=!4m7!3m6!1s0x31da19bd167aa525:0xa0edeb5e5e5b2888!8m2!3d1.2997253!4d103.8468883!16s%2Fg%2F1ptwzxmtt!19sChIJJaV6Fr0Z2jERiChbXl7r7aA
