@@ -15331,3 +15331,5 @@ https://www.google.com/maps/place/Loyang+Offshore+Supply+Base/data=!4m7!3m6!1s0x
 https://www.google.com/maps/place/OFFSHORE+IT+SERVICES+%28S%29/data=!4m7!3m6!1s0x31da19bc82e85a79:0xbcf447c4e1de9298!8m2!3d1.3002607!4d103.850715!16s%2Fg%2F11hzvbc2ph!19sChIJeVrogrwZ2jERmJLe4cRH9Lw
 https://www.google.com/maps/place/Memphis+Marine+%26+Offshore/data=!4m7!3m6!1s0x31da0f05912a179b:0x2b27e7fb30d9bb7a!8m2!3d1.3334463!4d103.6974248!16s%2Fg%2F11t0r6vs2l!19sChIJmxcqkQUP2jERervZMPvnJys
 https://www.google.com/maps/place/Greatship+Global+Offshore+Services+Pte.+Ltd/data=!4m7!3m6!1s0x31da196b0bad12ed:0x9f6f7cf440a2e424!8m2!3d1.3010505!4d103.8626595!16s%2Fg%2F1v_s3f1d!19sChIJ7RKtC2sZ2jERJOSiQPR8b58
+https://www.google.com/maps/place/Dive+Marine+Group+Services/data=!4m7!3m6!1s0x31da106d59505a45:0x8a843932ae21408a!8m2!3d1.3270702!4d103.690192!16s%2Fg%2F11bbrff2zc!19sChIJRVpQWW0Q2jERikAhrjI5hIo
+https://www.google.com/maps/place/Valour+Offshore+Marine+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da17fac9b3c007:0xb510190d144ba00a!8m2!3d1.3349693!4d103.9042432!16s%2Fg%2F1td0v_1l!19sChIJB8CzyfoX2jERCqBLFA0ZELU
