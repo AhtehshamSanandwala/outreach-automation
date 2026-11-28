@@ -15003,3 +15003,6 @@ https://www.google.com/maps/place/DB+Engineering+%26+Consulting+GmbH/data=!4m7!3
 https://www.google.com/maps/place/Park+%2B+Associates+Architects/data=!4m7!3m6!1s0x31da17a1fc0724b7:0x5aeb7ed7118c07ad!8m2!3d1.3455325!4d103.858741!16s%2Fg%2F1tk8l2wv!19sChIJtyQH_KEX2jERrQeMEdd-61o
 https://www.google.com/maps/place/Egis+Singapore/data=!4m7!3m6!1s0x31da19bb0c5b23f1:0x6b3d82c4fbe9aa92!8m2!3d1.2923407!4d103.8508826!16s%2Fg%2F11c58663br!19sChIJ8SNbDLsZ2jERkqrp-8SCPWs
 https://www.google.com/maps/place/design@LOFT+architects/data=!4m7!3m6!1s0x31da19cda305f755:0x5e659df507171c14!8m2!3d1.2956772!4d103.8590584!16s%2Fg%2F11z358p3rh!19sChIJVfcFo80Z2jERFBwXB_WdZV4
+https://www.google.com/maps/place/Dhiksha+Engineering+Pte.+Ltd./data=!4m7!3m6!1s0x31da1793d5400001:0x89733c3b9fc54abd!8m2!3d1.3380885!4d103.8854913!16s%2Fg%2F11qnk7tzsy!19sChIJAQBA1ZMX2jERvUrFnzs8c4k
+https://www.google.com/maps/place/Engineering/data=!4m7!3m6!1s0xa9f7e3a76854bf71:0x8f77d581ebf93130!8m2!3d1.314!4d103.84425!16s%2Fg%2F11vry4p_wc!19sChIJcb9UaKfj96kRMDH564HVd48
+https://www.google.com/maps/place/MKPL+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da196d5aaa5385:0x9ed96a3c8f84f550!8m2!3d1.2803339!4d103.8482404!16s%2Fg%2F1q62fxhk9!19sChIJhVOqWm0Z2jERUPWEjzxq2Z4
