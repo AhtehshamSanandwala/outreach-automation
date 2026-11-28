@@ -14214,3 +14214,5 @@ https://www.google.com/maps/place/Sotavento+Medios/data=!4m7!3m6!1s0x31da171035e
 https://www.google.com/maps/place/Malayan+Settlement/data=!4m7!3m6!1s0x31da19f514179273:0x5066e2619aca4124!8m2!3d1.2905188!4d103.8453597!16s%2Fg%2F11y8n94wsh!19sChIJc5IXFPUZ2jERJEHKmmHiZlA
 https://www.google.com/maps/place/Man+Man+Japanese+Unagi+%28Clarke+Quay%29/data=!4m7!3m6!1s0x31da19a0f6e96341:0x6b0009f3cd5d225a!8m2!3d1.2891661!4d103.8467746!16s%2Fg%2F11hzyxk4h0!19sChIJQWPp9qAZ2jERWiJdzfMJAGs
 https://www.google.com/maps/place/iNCREDi+BOWL/data=!4m7!3m6!1s0x31da19ec503ebb59:0x9b2af046606fdc0!8m2!3d1.2778816!4d103.8435416!16s%2Fg%2F11lcsg9dsg!19sChIJWbs-UOwZ2jERwP0GZgSvsgk
+https://www.google.com/maps/place/Chin+Taik+Enterprise/data=!4m7!3m6!1s0x31da190a9a634cc3:0x6a75368485ac44b5!8m2!3d1.2886097!4d103.8467559!16s%2Fg%2F1ptxcj1ym!19sChIJw0xjmgoZ2jERtUSshYQ2dWo
+https://www.google.com/maps/place/Pasta+Fresca+Da+Salvatore+%28Boat+Quay%29/data=!4m7!3m6!1s0x31da190bdb65f181:0x43262cb029e40ea4!8m2!3d1.2860763!4d103.849884!16s%2Fg%2F1tz6zxvn!19sChIJgfFl2wsZ2jERpA7kKbAsJkM
