@@ -14942,3 +14942,5 @@ https://www.google.com/maps/place/Dj+Engineering+Pte.+Ltd./data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Auston+Institute+of+Management/data=!4m7!3m6!1s0x31da190a932757cf:0x45eb72c6dab309a0!8m2!3d1.2845709!4d103.8499115!16s%2Fg%2F1tdrtvlw!19sChIJz1cnkwoZ2jERoAmz2sZy60U
 https://www.google.com/maps/place/Ventura+Consultancy+Pte+Ltd/data=!4m7!3m6!1s0x31da1be3ba980a1f:0x6d85cf10d5477306!8m2!3d1.3077329!4d103.7565653!16s%2Fg%2F11h3ngszwq!19sChIJHwqYuuMb2jERBnNH1RDPhW0
 https://www.google.com/maps/place/BIM+Singapore/data=!4m7!3m6!1s0x31da105ee02dc389:0xe9aa3ac330e23e49!8m2!3d1.3158638!4d103.6969991!16s%2Fg%2F11hb6533qw!19sChIJicMt4F4Q2jERST7iMMM6quk
+https://www.google.com/maps/place/Hong+Dat+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da19ceffffffff:0x2d6680aebfc791f5!8m2!3d1.3380847!4d103.8858523!16s%2Fg%2F11c2qvlgqv!19sChIJ_____84Z2jER9ZHHv66AZi0
+https://www.google.com/maps/place/Hyde+Engineering+%2B+Consulting/data=!4m7!3m6!1s0x31da19a0c3deaaab:0x6b4068f79c3ca691!8m2!3d1.2905391!4d103.8494106!16s%2Fg%2F11h52y5g72!19sChIJq6rew6AZ2jERkaY8nPdoQGs
