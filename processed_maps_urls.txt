@@ -15037,3 +15037,5 @@ https://www.google.com/maps/place/CDG+Architects/data=!4m7!3m6!1s0x31da174f2f968
 https://www.google.com/maps/place/URBNarc/data=!4m7!3m6!1s0x31da19728eeb289f:0x3b6740c7d4e5682f!8m2!3d1.2805974!4d103.8423182!16s%2Fg%2F11b6lm7g4k!19sChIJnyjrjnIZ2jERL2jl1MdAZzs
 https://www.google.com/maps/place/New+Space+Architects+Pte.+Ltd./data=!4m7!3m6!1s0x31da196b03bfdaa3:0xbf6130c99bbc8a4d!8m2!3d1.2825032!4d103.8204463!16s%2Fg%2F1tdkjr0s!19sChIJo9q_A2sZ2jERTYq8m8kwYb8
 https://www.google.com/maps/place/Haus+Atelier+Pte+Ltd/data=!4m7!3m6!1s0x31da170a83d9dd5f:0x41e91d227ac60210!8m2!3d1.2806668!4d103.8195494!16s%2Fg%2F11ggb8vnky!19sChIJX93ZgwoX2jEREALGeiId6UE
+https://www.google.com/maps/place/Kyoob+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da197311d36b8f:0x585de701ac91f625!8m2!3d1.2828449!4d103.8425941!16s%2Fg%2F11h52ynfbg!19sChIJj2vTEXMZ2jERJfaRrAHnXVg
+https://www.google.com/maps/place/Archtur+Pte.+Ltd./data=!4m7!3m6!1s0x31da1783c2dfd685:0x40344ebc0b55f50c!8m2!3d1.3729842!4d103.8772702!16s%2Fg%2F11krmkz5cv!19sChIJhdbfwoMX2jERDPVVC7xONEA
