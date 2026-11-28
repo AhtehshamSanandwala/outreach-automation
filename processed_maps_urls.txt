@@ -14522,3 +14522,4 @@ https://www.google.com/maps/place/Adamo+Asia+Pacific+-+AI+%26+Software+Developme
 https://www.google.com/maps/place/Avana+Software+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da194edef8fb1b:0x4f287e4b24ee896f!8m2!3d1.3778544!4d103.876159!16s%2Fg%2F11lf6__vzx!19sChIJG_v43k4Z2jERb4nuJEt-KE8
 https://www.google.com/maps/place/Cybage+Software+Private+Limited/data=!4m7!3m6!1s0x31da19a0bc2b4fd9:0x60141d0d893fdace!8m2!3d1.2899203!4d103.849345!16s%2Fg%2F11ddyd47t8!19sChIJ2U8rvKAZ2jERzto_iQ0dFGA
 https://www.google.com/maps/place/NextGen+Infotech+Pte+Ltd/data=!4m7!3m6!1s0x31da17b2fcb7597d:0xfae85fd0f6ed73ca!8m2!3d1.3347642!4d103.8860429!16s%2Fg%2F11fmlv1v0f!19sChIJfVm3_LIX2jERynPt9tBf6Po
+https://www.google.com/maps/place/Inno+Panda/data=!4m7!3m6!1s0x31da193c83506c0f:0x990b2ebcecc76d1a!8m2!3d1.3192491!4d103.8927959!16s%2Fg%2F11z6thl_dh!19sChIJD2xQgzwZ2jERGm3H7LwuC5k
