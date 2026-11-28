@@ -14636,3 +14636,5 @@ https://www.google.com/maps/place/Aventis+Graduate+School+Singapore/data=!4m7!3m
 https://www.google.com/maps/place/Digi+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1829e58f8aeb:0xfd6476d1eb0067e9!8m2!3d1.326212!4d103.8751491!16s%2Fg%2F11b6_q_4l3!19sChIJ64qP5SkY2jER6WcA69F2ZP0
 https://www.google.com/maps/place/Data+Security+Systems+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1792dfb90f41:0x1e02ab6742de0e18!8m2!3d1.3376071!4d103.8898378!16s%2Fg%2F1ptwl325j!19sChIJQQ-535IX2jERGA7eQmerAh4
 https://www.google.com/maps/place/CyberTech+Holdings+Pte+Ltd/data=!4m7!3m6!1s0x31da178751afdbb9:0xbe58c1b8412aac61!8m2!3d1.326844!4d103.874309!16s%2Fg%2F11b6j11143!19sChIJuduvUYcX2jERYawqQbjBWL4
+https://www.google.com/maps/place/Threatsys+Technologies/data=!4m7!3m6!1s0x3a190955646f835d:0x6459bb78195c0f0c!8m2!3d20.3408659!4d85.8078497!16s%2Fg%2F11hdrws0mr!19sChIJXYNvZFUJGToRDA9cGXi7WWQ
+https://www.google.com/maps/place/Halodata+International+Pte+Ltd/data=!4m7!3m6!1s0x31da19a0ead14ad3:0xe6050520ad5f4f1c!8m2!3d1.2755117!4d103.7955707!16s%2Fg%2F11bycjqv4_!19sChIJ00rR6qAZ2jERHE9frSAFBeY
