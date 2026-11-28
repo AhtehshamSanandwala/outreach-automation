@@ -14991,3 +14991,5 @@ https://www.google.com/maps/place/The+Institution+of+Engineers/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/NYH+Consultants/data=!4m7!3m6!1s0x31da17b156c5bf75:0xe0e30b086bd10428!8m2!3d1.3589128!4d103.8851553!16s%2Fg%2F1ptzc_1fn!19sChIJdb_FVrEX2jERKATRawgL4-A
 https://www.google.com/maps/place/Quarters+Architects/data=!4m7!3m6!1s0x31da197272248e19:0x6923ebb6326eecc3!8m2!3d1.2964303!4d103.8544082!16s%2Fg%2F11g8769n9d!19sChIJGY4kcnIZ2jERw-xuMrbrI2k
 https://www.google.com/maps/place/DGS+Engineering+Pte.+Ltd./data=!4m7!3m6!1s0x31da17a99427aa89:0x1f9b8eac91f4c450!8m2!3d1.3582129!4d103.869806!16s%2Fg%2F11cs5nky9x!19sChIJiaonlKkX2jERUMT0kayOmx8
+https://www.google.com/maps/place/Terratech+Engineering+Pte.+Ltd./data=!4m7!3m6!1s0x31da103fe1c3c8b9:0x93b6a24b26db028b!8m2!3d1.3148665!4d103.6278489!16s%2Fg%2F11cs5q05c8!19sChIJucjD4T8Q2jERiwLbJkuitpM
+https://www.google.com/maps/place/RG+Architects/data=!4m7!3m6!1s0x31da19a5152c45b3:0xd6f5a8004dd1ccd5!8m2!3d1.2973059!4d103.8550148!16s%2Fg%2F1tdx66x_!19sChIJs0UsFaUZ2jER1czRTQCo9dY
