@@ -15148,3 +15148,5 @@ https://www.google.com/maps/place/novita+%28Plaza+Singapura%29/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/P.Osh/data=!4m7!3m6!1s0x31da17b4c29fa701:0xbb3f74ea7a3737a5!8m2!3d1.3317916!4d103.8793457!16s%2Fg%2F11b6hq0v4w!19sChIJAaefwrQX2jERpTc3eup0P7s
 https://www.google.com/maps/place/Garmin+Brand+Store+-+Plaza+Singapura/data=!4m7!3m6!1s0x31da19e028db73fb:0xd0d6c7e5d57789d3!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F11tx7y5ns4!19sChIJ-3PbKOAZ2jER04l31eXH1tA
 https://www.google.com/maps/place/Greenland+Plastics+Industries+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da057e3731103d:0xf6965161dbf916c9!8m2!3d1.326598!4d103.6858381!16s%2Fg%2F1tj8_10h!19sChIJPRAxN34F2jERyRb522FRlvY
+https://www.google.com/maps/place/Advanced+Manufacturing+Centre/data=!4m7!3m6!1s0x31da1bff62400635:0x2e56cd0908446e69!8m2!3d1.3104157!4d103.7765655!16s%2Fg%2F11v45_qs06!19sChIJNQZAYv8b2jERaW5ECAnNVi4
+https://www.google.com/maps/place/iJooz+-+Pure+Fruit+Juice+On+the+Go/data=!4m7!3m6!1s0x31da194ea6bb6aa9:0x48f7d50fb514cbe3!8m2!3d1.298811!4d103.846127!16s%2Fg%2F11krbpl1vy!19sChIJqWq7pk4Z2jER48sUtQ_V90g
