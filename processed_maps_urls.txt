@@ -14350,3 +14350,4 @@ https://www.google.com/maps/place/Mindshare+Singapore/data=!4m7!3m6!1s0x31da19b3
 https://www.google.com/maps/place/Staytion+Lifestyle+Centre+%28Dhoby+Ghaut+MRT%29/data=!4m7!3m6!1s0x31da197c53e28335:0x570293b01d0ca561!8m2!3d1.298535!4d103.8459742!16s%2Fg%2F11sskx1_5f!19sChIJNYPiU3wZ2jERYaUMHbCTAlc
 https://www.google.com/maps/place/Arcade+Studio/data=!4m7!3m6!1s0x31da199bdb11eb77:0xbdc4359c2d94be14!8m2!3d1.3146098!4d103.8773822!16s%2Fg%2F11rxhwkcpx!19sChIJd-sR25sZ2jERFL6ULZw1xL0
 https://www.google.com/maps/place/FunEmpire/data=!4m7!3m6!1s0x31da1a5aaf37b44b:0x94c967a8ec842244!8m2!3d1.3344749!4d103.8860336!16s%2Fg%2F11bxdwsb4m!19sChIJS7Q3r1oa2jERRCKE7KhnyZQ
+https://www.google.com/maps/place/Milligram+Prints/data=!4m7!3m6!1s0x31da1004dea27dbd:0xc9fa5fa9d0e8399d!8m2!3d1.2840788!4d103.8457393!16s%2Fg%2F1ydpv9ysz!19sChIJvX2i3gQQ2jERnTno0Klf-sk
