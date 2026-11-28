@@ -15049,3 +15049,4 @@ https://www.google.com/maps/place/HEI+Architects/data=!4m7!3m6!1s0x31da19cbb7d1d
 https://www.google.com/maps/place/The+Design+Abode/data=!4m7!3m6!1s0x31da19beaae8a4df:0x2f1b8a295eca0783!8m2!3d1.300508!4d103.859653!16s%2Fg%2F11c43syhlb!19sChIJ36Toqr4Z2jERgwfKXimKGy8
 https://www.google.com/maps/place/BDP/data=!4m7!3m6!1s0x31da19c938329f59:0x143ed38fd1169605!8m2!3d1.2783407!4d103.8508838!16s%2Fg%2F11vkbnr5ht!19sChIJWZ8yOMkZ2jERBZYW0Y_TPhQ
 https://www.google.com/maps/place/BHATCH+Architects/data=!4m7!3m6!1s0x31da190bb3a5ba93:0x5cf775364935817e!8m2!3d1.3090976!4d103.8583712!16s%2Fg%2F11byhmfhy9!19sChIJk7qlswsZ2jERfoE1STZ191w
+https://www.google.com/maps/place/Project+L+Studio/data=!4m7!3m6!1s0x31da176a8d501449:0x76b7abe8045c2dd9!8m2!3d1.3320649!4d103.8908485!16s%2Fg%2F11txhqhl9y!19sChIJSRRQjWoX2jER2S1cBOirt3Y
