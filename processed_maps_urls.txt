@@ -15183,3 +15183,4 @@ https://www.google.com/maps/place/Bengawan+Solo/data=!4m7!3m6!1s0x31da1997d93a23
 https://www.google.com/maps/place/Art+Friend/data=!4m7!3m6!1s0x31da19bd7e029661:0xe53a489dce085249!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F11bt_h_tlb!19sChIJYZYCfr0Z2jERSVIIzp1IOuU
 https://www.google.com/maps/place/Newera+Tools+%26+Machinery+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d553ab2ee7d:0xf2bf2198b5d0800a!8m2!3d1.3717776!4d103.9252017!16s%2Fg%2F1tzglrl1!19sChIJfe6yOlU92jERCoDQtZghv_I
 https://www.google.com/maps/place/Hi-Rise+Paper+Products+Pte+Ltd/data=!4m7!3m6!1s0x31da0ffa81a90be1:0xab6b36764b9d6a9f!8m2!3d1.3345137!4d103.717061!16s%2Fg%2F1v5fpdn0!19sChIJ4QupgfoP2jERn2qdS3Y2a6s
+https://www.google.com/maps/place/Co-Play+Singapore/data=!4m7!3m6!1s0x31da19672a65b06d:0xba6a87b38f6ad20e!8m2!3d1.2993763!4d103.8453547!16s%2Fg%2F11stqcq_8s!19sChIJbbBlKmcZ2jERDtJqj7OHaro
