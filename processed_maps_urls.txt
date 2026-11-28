@@ -14216,3 +14216,6 @@ https://www.google.com/maps/place/Man+Man+Japanese+Unagi+%28Clarke+Quay%29/data=
 https://www.google.com/maps/place/iNCREDi+BOWL/data=!4m7!3m6!1s0x31da19ec503ebb59:0x9b2af046606fdc0!8m2!3d1.2778816!4d103.8435416!16s%2Fg%2F11lcsg9dsg!19sChIJWbs-UOwZ2jERwP0GZgSvsgk
 https://www.google.com/maps/place/Chin+Taik+Enterprise/data=!4m7!3m6!1s0x31da190a9a634cc3:0x6a75368485ac44b5!8m2!3d1.2886097!4d103.8467559!16s%2Fg%2F1ptxcj1ym!19sChIJw0xjmgoZ2jERtUSshYQ2dWo
 https://www.google.com/maps/place/Pasta+Fresca+Da+Salvatore+%28Boat+Quay%29/data=!4m7!3m6!1s0x31da190bdb65f181:0x43262cb029e40ea4!8m2!3d1.2860763!4d103.849884!16s%2Fg%2F1tz6zxvn!19sChIJgfFl2wsZ2jERpA7kKbAsJkM
+https://www.google.com/maps/place/Webby+SG/data=!4m7!3m6!1s0x4664232d1a8c89cb:0x429e27b949fcd06b!8m2!3d1.314!4d103.84425!16s%2Fg%2F11vb684njv!19sChIJy4mMGi0jZEYRa9D8SbknnkI
+https://www.google.com/maps/place/Azabu+Sabo+Clarke+Quay+Singapore/data=!4m7!3m6!1s0x31da19a07c7641e5:0xd189933307358b7c!8m2!3d1.2894664!4d103.846727!16s%2Fg%2F1thx1k3h!19sChIJ5UF2fKAZ2jERfIs1BzOTidE
+https://www.google.com/maps/place/Eko+Life+%28Clarke+Quay%29+-+Online+Only/data=!4m7!3m6!1s0x31da190262828c6b:0xccaa4aa1205df9f0!8m2!3d1.287413!4d103.8473007!16s%2Fg%2F11gydjypcl!19sChIJa4yCYgIZ2jER8PldIKFKqsw
