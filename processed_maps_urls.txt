@@ -13889,3 +13889,4 @@ https://www.google.com/maps/place/Deed+Poll+Service+%7C+Change+of+Name/data=!4m7
 https://www.google.com/maps/place/Gibson+Dunn/data=!4m7!3m6!1s0x31da190e6a27c599:0x5b4c29494aecf1d4!8m2!3d1.2816764!4d103.8521684!16s%2Fg%2F1ptx5f1mg!19sChIJmcUnag4Z2jER1PHsSkkpTFs
 https://www.google.com/maps/place/3PA+Pte+Ltd/data=!4m7!3m6!1s0x31da19731038c80d:0x7281bc359670d8e7!8m2!3d1.2825238!4d103.8424326!16s%2Fg%2F1tcvlsw9!19sChIJDcg4EHMZ2jER59hwljW8gXI
 https://www.google.com/maps/place/Lawrence+Chua+Practice+LLC/data=!4m7!3m6!1s0x31da19728b9e3729:0x74657069c9c6c062!8m2!3d1.28076!4d103.8422!16s%2Fg%2F1tj86z1c!19sChIJKTeei3IZ2jERYsDGyWlwZXQ
+https://www.google.com/maps/place/ADX+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da1752e67c2733:0x23f4cf8a2acbc50f!8m2!3d1.3347415!4d103.8820482!16s%2Fg%2F1ptw0rzhq!19sChIJMyd85lIX2jERD8XLKorP9CM
