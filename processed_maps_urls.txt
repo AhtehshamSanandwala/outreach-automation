@@ -14428,3 +14428,5 @@ https://www.google.com/maps/place/Hashmato+%28LevelFive+Solutions+Pte+Ltd%29/dat
 https://www.google.com/maps/place/Dudox+Pte.+Ltd./data=!4m7!3m6!1s0x31da17862b9aaaab:0x7348e3fc3339bf86!8m2!3d1.3222623!4d103.8704758!16s%2Fg%2F11lgy3cq04!19sChIJq6qaK4YX2jERhr85M_zjSHM
 https://www.google.com/maps/place/Distributed+Software+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da1913440f0e5b:0x91086dbd5a72e35f!8m2!3d1.3331939!4d103.8941584!16s%2Fg%2F1tg4hx8r!19sChIJWw4PRBMZ2jERX-NyWr1tCJE
 https://www.google.com/maps/place/DH+DigiLab+Pte+Ltd/data=!4m7!3m6!1s0x31da196438b74127:0xff953e1487720d17!8m2!3d1.3260131!4d103.8791035!16s%2Fg%2F11v4nq_yxp!19sChIJJ0G3OGQZ2jERFw1yhxQ-lf8
+https://www.google.com/maps/place/T-DevO/data=!4m7!3m6!1s0x31da195ee160f99b:0x4cb2f3d7b2709a6b!8m2!3d1.2759455!4d103.8457622!16s%2Fg%2F11h6m9jh4_!19sChIJm_lg4V4Z2jERa5pwstfzskw
+https://www.google.com/maps/place/Codoid+Innovations+Singapore+PTE.+LTD./data=!4m7!3m6!1s0x31da1945cb606c2d:0x8ae4168333c2a1e6!8m2!3d1.282984!4d103.8505203!16s%2Fg%2F11jpdqjf_9!19sChIJLWxgy0UZ2jER5qHCM4MW5Io
