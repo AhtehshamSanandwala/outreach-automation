@@ -14516,3 +14516,4 @@ https://www.google.com/maps/place/Caratell+Pte+Ltd/data=!4m7!3m6!1s0x31da19e7e7a
 https://www.google.com/maps/place/Buuuk+Pte+Ltd+-+Custom+Software+%26+Mobile+App+Developer+%7C+Premier+iOS+Development+Agency/data=!4m7!3m6!1s0x31da1816be8e8ad7:0xc2c339b2817a1eba!8m2!3d1.2958614!4d103.8555479!16s%2Fg%2F1td3n_n8!19sChIJ14qOvhYY2jERuh56gbI5w8I
 https://www.google.com/maps/place/Singapore+University+of+Technology+and+Design+%28SUTD%29/data=!4m7!3m6!1s0x31da3cd899f260cb:0x99becabc6d025518!8m2!3d1.3402328!4d103.9631584!16s%2Fm%2F09gh_cr!19sChIJy2Dymdg82jERGFUCbbzKvpk
 https://www.google.com/maps/place/DevTeam24/data=!4m7!3m6!1s0x31da19654b507a9b:0xade9fbc5161b8035!8m2!3d1.2856141!4d103.8519726!16s%2Fg%2F11lkjsm4n6!19sChIJm3pQS2UZ2jERNYAbFsX76a0
+https://www.google.com/maps/place/HashMicro+%7C+%231+ERP+Software+Vendor/data=!4m7!3m6!1s0x31da19de800a9135:0x6d6ef65c4bbfd246!8m2!3d1.2771468!4d103.8485274!16s%2Fg%2F11txslx7_k!19sChIJNZEKgN4Z2jERRtK_S1z2bm0
