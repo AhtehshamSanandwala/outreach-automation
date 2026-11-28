@@ -15239,3 +15239,4 @@ https://www.google.com/maps/place/CRYOPDP/data=!4m7!3m6!1s0x31da3c0cdc37a07b:0xe
 https://www.google.com/maps/place/%22K%22+Line+Logistics/data=!4m7!3m6!1s0x31da3c0cdc3b8307:0xa02de75e92caeb9f!8m2!3d1.3826733!4d103.9994011!16s%2Fg%2F1ptwc5jj3!19sChIJB4M73Aw82jERn-vKkl7nLaA
 https://www.google.com/maps/place/Hankyu+Hanshin+Logistics+Centre/data=!4m7!3m6!1s0x31da054420859379:0x44f3f7606c617d05!8m2!3d1.3134374!4d103.7136456!16s%2Fg%2F11dxc7mdq6!19sChIJeZOFIEQF2jERBX1hbGD380Q
 https://www.google.com/maps/place/Hankyu+Hanshin+Express+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da3c6ffac6a90f:0x12dba49a645e5514!8m2!3d1.3731198!4d103.995381!16s%2Fg%2F1tj9qwdq!19sChIJD6nG-m882jERFFVeZJqk2xI
+https://www.google.com/maps/place/Timezone+Orchard+Xchange/data=!4m7!3m6!1s0x31da11d5adbe761b:0xef8010ebcd2af76d!8m2!3d1.3033599!4d103.8322884!16s%2Fg%2F11ssdx_gty!19sChIJG3a-rdUR2jERbfcqzesQgO8
