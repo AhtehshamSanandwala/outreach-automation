@@ -15039,3 +15039,5 @@ https://www.google.com/maps/place/New+Space+Architects+Pte.+Ltd./data=!4m7!3m6!1
 https://www.google.com/maps/place/Haus+Atelier+Pte+Ltd/data=!4m7!3m6!1s0x31da170a83d9dd5f:0x41e91d227ac60210!8m2!3d1.2806668!4d103.8195494!16s%2Fg%2F11ggb8vnky!19sChIJX93ZgwoX2jEREALGeiId6UE
 https://www.google.com/maps/place/Kyoob+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da197311d36b8f:0x585de701ac91f625!8m2!3d1.2828449!4d103.8425941!16s%2Fg%2F11h52ynfbg!19sChIJj2vTEXMZ2jERJfaRrAHnXVg
 https://www.google.com/maps/place/Archtur+Pte.+Ltd./data=!4m7!3m6!1s0x31da1783c2dfd685:0x40344ebc0b55f50c!8m2!3d1.3729842!4d103.8772702!16s%2Fg%2F11krmkz5cv!19sChIJhdbfwoMX2jERDPVVC7xONEA
+https://www.google.com/maps/place/Studio+Ish+Pte.+Ltd./data=!4m7!3m6!1s0x31da190abe2daa11:0xdebd3710a8a07699!8m2!3d1.3561628!4d103.7593986!16s%2Fg%2F11c59xy67_!19sChIJEaotvgoZ2jERmXagqBA3vd4
+https://www.google.com/maps/place/Treehaus+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da171dced0481d:0xce0a803adf60caef!8m2!3d1.276847!4d103.836264!16s%2Fg%2F11sqsclb96!19sChIJHUjQzh0X2jER78pg3zqACs4
