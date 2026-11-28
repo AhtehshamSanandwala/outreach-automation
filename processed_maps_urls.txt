@@ -14191,3 +14191,4 @@ https://www.google.com/maps/place/Chupitos/data=!4m7!3m6!1s0x31da19a03d9d6b8d:0x
 https://www.google.com/maps/place/Chinatown+Complex/data=!4m7!3m6!1s0x31da19731fe5e901:0xac1f445c5e163aaa!8m2!3d1.2825735!4d103.8431104!16s%2Fg%2F11cs5s4nsx!19sChIJAenlH3MZ2jERqjoWXlxEH6w
 https://www.google.com/maps/place/Brewerkz+Riverside+Point/data=!4m7!3m6!1s0x31da19195b7af921:0x1dbe7c851eb8cc7!8m2!3d1.2895951!4d103.8440046!16s%2Fg%2F1tdxyf0f!19sChIJIfl6WxkZ2jERx4zrUcjn2wE
 https://www.google.com/maps/place/Chef+X+@+Clarke+Quay+Central/data=!4m7!3m6!1s0x31da19004f1d097b:0xe04e5fdaf07b3276!8m2!3d1.2891465!4d103.8467157!16s%2Fg%2F11vy83ltdc!19sChIJewkdTwAZ2jERdjJ78NpfTuA
+https://www.google.com/maps/place/Man+Man+Japanese+Unagi+%28Clarke+Quay%29/data=!4m7!3m6!1s0x31da19a0f6e96341:0x6b0009f3cd5d225a!8m2!3d1.2891661!4d103.8467746!16s%2Fg%2F11hzyxk4h0!19sChIJQWPp9qAZ2jERWiJdzfMJAGs
