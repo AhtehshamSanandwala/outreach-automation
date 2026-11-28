@@ -15143,3 +15143,5 @@ https://www.google.com/maps/place/Texas+Instruments+Singapore+Pte+Ltd/data=!4m7!
 https://www.google.com/maps/place/Sanofi+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da07cf440f7a1d:0xfe1f83cebe29dbf6!8m2!3d1.3060648!4d103.6334978!16s%2Fg%2F11twv54j9g!19sChIJHXoPRM8H2jER9tspvs6DH_4
 https://www.google.com/maps/place/NVT+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da055e854842e3:0xfc2ff86ff8fdb343!8m2!3d1.3285349!4d103.653137!16s%2Fg%2F1td7qpxz!19sChIJ40JIhV4F2jERQ7P9-G_4L_w
 https://www.google.com/maps/place/RTP+Company+PTE+Ltd.+%28Singapore%29/data=!4m7!3m6!1s0x31da07004493b151:0x1e860bc9d7ed0b72!8m2!3d1.3067621!4d103.6307291!16s%2Fg%2F11ycyz0cb1!19sChIJUbGTRAAH2jERcgvt18kLhh4
+https://www.google.com/maps/place/MUJI+Plaza+Singapura/data=!4m7!3m6!1s0x31da19bd7ad7af9f:0x5946c4c96d86bd8b!8m2!3d1.3003739!4d103.8450773!16s%2Fg%2F11fxqsv7q_!19sChIJn6_Xer0Z2jERi72GbcnERlk
+https://www.google.com/maps/place/novita+%28Plaza+Singapura%29/data=!4m7!3m6!1s0x31da19db4e011c65:0xb24f3e57b9d9c95f!8m2!3d1.3007992!4d103.8450287!16s%2Fg%2F11q8yhf5bz!19sChIJZRwBTtsZ2jERX8nZuVc-T7I
