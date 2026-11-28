@@ -15739,3 +15739,5 @@ https://www.google.com/maps/place/9+Penang+Road+Public+Space/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Cozyhomes+Management+Pte.+Ltd./data=!4m7!3m6!1s0x31da183ab84f8dc5:0x8171d158504e556!8m2!3d1.3084225!4d103.8619854!16s%2Fg%2F11p56n6zq2!19sChIJxY1PuDoY2jERVuUEhRUdFwg
 https://www.google.com/maps/place/Hock+Mansion/data=!4m7!3m6!1s0x31da19bc22107d5b:0x1791437f43eff440!8m2!3d1.3023827!4d103.8485694!16s%2Fg%2F11b61p_gs4!19sChIJW30QIrwZ2jERQPTvQ39DkRc
 https://www.google.com/maps/place/Doh+Property+Technology+Group/data=!4m7!3m6!1s0x31da1909320ee139:0xde5645830a9f0f2a!8m2!3d1.2846065!4d103.8527556!16s%2Fg%2F11tjgdxmdm!19sChIJOeEOMgkZ2jERKg-fCoNFVt4
+https://www.google.com/maps/place/DP+Properties+Pte.+Ltd./data=!4m7!3m6!1s0x31da19cbe792bb4f:0xf420171369bea1f!8m2!3d1.3111912!4d103.8627937!16s%2Fg%2F11c59xk0v1!19sChIJT7uS58sZ2jERH-qbNnEBQg8
+https://www.google.com/maps/place/Adina+Singapore+Orchard/data=!4m10!3m9!1s0x31da199799cde203:0xf2723d609274b6cf!5m2!4m1!1i2!8m2!3d1.2995207!4d103.8419601!16s%2Fg%2F1w6_lbn0!19sChIJA-LNmZcZ2jERz7Z0kmA9cvI
