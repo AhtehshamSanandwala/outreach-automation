@@ -14525,3 +14525,5 @@ https://www.google.com/maps/place/NextGen+Infotech+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Inno+Panda/data=!4m7!3m6!1s0x31da193c83506c0f:0x990b2ebcecc76d1a!8m2!3d1.3192491!4d103.8927959!16s%2Fg%2F11z6thl_dh!19sChIJD2xQgzwZ2jERGm3H7LwuC5k
 https://www.google.com/maps/place/INNERSENSE+Beauty+%26+Wellness+@+Dhoby+Ghaut/data=!4m7!3m6!1s0x31da19d3f56684fb:0x9872ec06b13d5e13!8m2!3d1.2994828!4d103.8453403!16s%2Fg%2F11nnj69792!19sChIJ-4Rm9dMZ2jERE149sQbscpg
 https://www.google.com/maps/place/Workcentral/data=!4m7!3m6!1s0x31da19980339739b:0x4b85b2ebf7dd061e!8m2!3d1.298243!4d103.844147!16s%2Fg%2F11c3tb40qj!19sChIJm3M5A5gZ2jERHgbd9-uyhUs
+https://www.google.com/maps/place/Ho+Services/data=!4m7!3m6!1s0x31da19bc43a8cf6d:0x6440a33c8ffc0b50!8m2!3d1.3022928!4d103.8497956!16s%2Fg%2F11cs5q1_ky!19sChIJbc-oQ7wZ2jERUAv8jzyjQGQ
+https://www.google.com/maps/place/Cosmos+Digital+Hub/data=!4m7!3m6!1s0x601793d0cea29a5f:0xd141c865e48b480e!8m2!3d1.3115151!4d103.8630373!16s%2Fg%2F11yx1ptrcf!19sChIJX5qiztCTF2ARDkiL5GXIQdE
