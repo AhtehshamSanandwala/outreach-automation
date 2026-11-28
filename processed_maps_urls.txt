@@ -14511,3 +14511,4 @@ https://www.google.com/maps/place/SMEs+Go+Digital/data=!4m7!3m6!1s0x31da18188d02
 https://www.google.com/maps/place/Best+Denki+%28VivoCity%29/data=!4m7!3m6!1s0x31da1958a3aaaaab:0x703d225ec8af20c2!8m2!3d1.2646805!4d103.8224081!16s%2Fg%2F1tf21lr8!19sChIJq6qqo1gZ2jERwiCvyF4iPXA
 https://www.google.com/maps/place/Software+development+in+singapore/data=!4m7!3m6!1s0x31da17662d261a67:0xb00ed38dee4fdbc0!8m2!3d1.3591406!4d103.8335265!16s%2Fg%2F11jwxt1p3h!19sChIJZxomLWYX2jERwNtP7o3TDrA
 https://www.google.com/maps/place/Cosmos+Digital+Hub/data=!4m7!3m6!1s0x601793d0cea29a5f:0xd141c865e48b480e!8m2!3d1.3115151!4d103.8630373!16s%2Fg%2F11yx1ptrcf!19sChIJX5qiztCTF2ARDkiL5GXIQdE
+https://www.google.com/maps/place/Actualize+CrossFit+%26+Hyrox/data=!4m7!3m6!1s0x31da178e09933dd9:0x34f251d87c63f42b!8m2!3d1.3098924!4d103.8581056!16s%2Fg%2F11bvt3zpz1!19sChIJ2T2TCY4X2jERK_RjfNhR8jQ
