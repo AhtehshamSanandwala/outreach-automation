@@ -14547,3 +14547,4 @@ https://www.google.com/maps/place/NextGen+Infotech+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/BlueBell+People/data=!4m7!3m6!1s0x31da1972e3fbeed1:0x5188cf88482747b4!8m2!3d1.278646!4d103.8484196!16s%2Fg%2F1yg4dj16w!19sChIJ0e7743IZ2jERtEcnSIjPiFE
 https://www.google.com/maps/place/Workcentral/data=!4m7!3m6!1s0x31da19980339739b:0x4b85b2ebf7dd061e!8m2!3d1.298243!4d103.844147!16s%2Fg%2F11c3tb40qj!19sChIJm3M5A5gZ2jERHgbd9-uyhUs
 https://www.google.com/maps/place/Duotech+Pte.+Ltd./data=!4m7!3m6!1s0x31da197d49000001:0x49c4494779d751d4!8m2!3d1.2956544!4d103.8564952!16s%2Fg%2F11qpkcq0js!19sChIJAQAASX0Z2jER1FHXeUdJxEk
+https://www.google.com/maps/place/Hephaestus+Technologies+Pte.+Ltd.+%28HTech%29/data=!4m7!3m6!1s0x31da19606b1e7a99:0x53cecec80b8f774!8m2!3d1.3167896!4d103.8808234!16s%2Fg%2F11sbbf_6tv!19sChIJmXoea2AZ2jERdPe4gOzsPAU
