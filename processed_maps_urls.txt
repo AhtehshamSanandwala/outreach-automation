@@ -14348,3 +14348,4 @@ https://www.google.com/maps/place/InsightOut+Singapore/data=!4m7!3m6!1s0x31da196
 https://www.google.com/maps/place/TicTacToe+Digital+Singapore/data=!4m7!3m6!1s0x31da19005e4204d3:0xf9cd1022b90c9dd7!8m2!3d1.2864418!4d103.8491423!16s%2Fg%2F11vx33_6z6!19sChIJ0wRCXgAZ2jER150MuSIQzfk
 https://www.google.com/maps/place/Mindshare+Singapore/data=!4m7!3m6!1s0x31da19b3895b96e9:0xfad65fb2d52c3093!8m2!3d1.2835339!4d103.8466079!16s%2Fg%2F1hm33v07f!19sChIJ6ZZbibMZ2jERkzAs1bJf1vo
 https://www.google.com/maps/place/Staytion+Lifestyle+Centre+%28Dhoby+Ghaut+MRT%29/data=!4m7!3m6!1s0x31da197c53e28335:0x570293b01d0ca561!8m2!3d1.298535!4d103.8459742!16s%2Fg%2F11sskx1_5f!19sChIJNYPiU3wZ2jERYaUMHbCTAlc
+https://www.google.com/maps/place/Arcade+Studio/data=!4m7!3m6!1s0x31da199bdb11eb77:0xbdc4359c2d94be14!8m2!3d1.3146098!4d103.8773822!16s%2Fg%2F11rxhwkcpx!19sChIJd-sR25sZ2jERFL6ULZw1xL0
