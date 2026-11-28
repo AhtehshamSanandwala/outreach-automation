@@ -14327,3 +14327,4 @@ https://www.google.com/maps/place/Discovering+Potential/data=!4m7!3m6!1s0x31da19
 https://www.google.com/maps/place/EpicNgage+Media+Pte+Ltd/data=!4m7!3m6!1s0x31da19e712280587:0x7aad0cdc7e5e1824!8m2!3d1.2954194!4d103.8584778!16s%2Fg%2F11rptjp8_y!19sChIJhwUoEucZ2jERJBheftwMrXo
 https://www.google.com/maps/place/M%26C+Saatchi+Singapore/data=!4m7!3m6!1s0x31da199e7d8d8577:0xc085d3bf488bbea6!8m2!3d1.2914324!4d103.8394848!16s%2Fg%2F11f3bll8cj!19sChIJd4WNfZ4Z2jERpr6LSL_ThcA
 https://www.google.com/maps/place/InsightOut+Singapore/data=!4m7!3m6!1s0x31da196ec63b5697:0x806da13b4de506a1!8m2!3d1.319041!4d103.8923647!16s%2Fg%2F11sfph8hwg!19sChIJl1Y7xm4Z2jERoQblTTuhbYA
+https://www.google.com/maps/place/Mindshare+Singapore/data=!4m7!3m6!1s0x31da19b3895b96e9:0xfad65fb2d52c3093!8m2!3d1.2835339!4d103.8466079!16s%2Fg%2F1hm33v07f!19sChIJ6ZZbibMZ2jERkzAs1bJf1vo
