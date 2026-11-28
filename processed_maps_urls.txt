@@ -15195,3 +15195,6 @@ https://www.google.com/maps/place/TH+Industrial+Supply+Pte+Ltd/data=!4m7!3m6!1s0
 https://www.google.com/maps/place/EC+Industrial+Parts+Pte+Ltd/data=!4m7!3m6!1s0x31da197c25a74ca1:0x59e6a8febd4e270a!8m2!3d1.3153839!4d103.8666894!16s%2Fg%2F11rvb_5563!19sChIJoUynJXwZ2jERCidOvf6o5lk
 https://www.google.com/maps/place/Art+Friend/data=!4m7!3m6!1s0x31da19bd7e029661:0xe53a489dce085249!8m2!3d1.3007111!4d103.844904!16s%2Fg%2F11bt_h_tlb!19sChIJYZYCfr0Z2jERSVIIzp1IOuU
 https://www.google.com/maps/place/DL+Industrial+Pte+Ltd/data=!4m7!3m6!1s0x31da198cff65af09:0xd10feceff890956b!8m2!3d1.3055779!4d103.830139!16s%2Fg%2F1ptzbnbbk!19sChIJCa9l_4wZ2jERa5WQ-O_sD9E
+https://www.google.com/maps/place/Durgarani+Industries/data=!4m7!3m6!1s0x31da199c6db13193:0xa09889903f846bbb!8m2!3d1.300672!4d103.8494284!16s%2Fg%2F11yldbvqs7!19sChIJkzGxbZwZ2jERu2uEP5CJmKA
+https://www.google.com/maps/place/Hi-Rise+Paper+Products+Pte+Ltd/data=!4m7!3m6!1s0x31da0ffa81a90be1:0xab6b36764b9d6a9f!8m2!3d1.3345137!4d103.717061!16s%2Fg%2F1v5fpdn0!19sChIJ4QupgfoP2jERn2qdS3Y2a6s
+https://www.google.com/maps/place/Phoon+Huat+@+Bencoolen/data=!4m7!3m6!1s0x31da19bbafffffff:0x31177f653ce5a1da!8m2!3d1.3015483!4d103.8522673!16s%2Fg%2F1tg_6_pf!19sChIJ____r7sZ2jER2qHlPGV_FzE
