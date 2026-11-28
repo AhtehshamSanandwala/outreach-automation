@@ -13807,3 +13807,7 @@ https://www.google.com/maps/place/Singapore+Software+Solutions+PTE+LTD/data=!4m7
 https://www.google.com/maps/place/Techimply+Pvt.+Ltd./data=!4m7!3m6!1s0x395e87fc85b665fd:0x184a1a646ffe9c67!8m2!3d23.0372158!4d72.5686275!16s%2Fg%2F11fmpy6hcj!19sChIJ_WW2hfyHXjkRZ5z-b2QaShg
 https://www.google.com/maps/place/Build+with+Theresa/data=!4m7!3m6!1s0x31da196e04e4b7b7:0x8c0bc0d0c6a20c8!8m2!3d1.3060951!4d103.8337401!16s%2Fg%2F11xrpfmwxx!19sChIJt7fkBG4Z2jERyCBqDA28wAg
 https://www.google.com/maps/place/TRooTech+Business+Solutions+Pvt.+Ltd./data=!4m7!3m6!1s0x395e8f517cd780bd:0x5572b30b83d97891!8m2!3d23.0282319!4d72.4988084!16s%2Fg%2F11bxb9z9m2!19sChIJvYDXfFGPXjkRkXjZgwuzclU
+https://www.google.com/maps/place/Adyen+Singapore/data=!4m7!3m6!1s0x31da190a6fb8272b:0x19fcf3077537195d!8m2!3d1.2914767!4d103.8498003!16s%2Fg%2F11bc7rt3y3!19sChIJKye4bwoZ2jERXRk3dQfz_Bk
+https://www.google.com/maps/place/Bravix+Infosecurity+-+Penetration+Testing+%26+Cyber+Security+Provider/data=!4m7!3m6!1s0x31da191399b6d14b:0xd31843220d9027a6!8m2!3d1.3162223!4d103.8896161!16s%2Fg%2F11njvg0m28!19sChIJS9G2mRMZ2jERpieQDSJDGNM
+https://www.google.com/maps/place/Bulwarkers+Websecurity+Pvt.+Ltd./data=!4m7!3m6!1s0x395e9d9cb85c6a9b:0xaca6ef5df9bdc842!8m2!3d23.0779579!4d72.5034283!16s%2Fg%2F11h6ptdn66!19sChIJm2pcuJydXjkRQsi9-V3vpqw
+https://www.google.com/maps/place/Saigon+Technology+-+AI-Driven+Software+Development+Company+in+Vietnam/data=!4m7!3m6!1s0x3175294909dcaa3f:0x3ecba838def3c278!8m2!3d10.809461!4d106.672745!16s%2Fg%2F11f5bqz5y0!19sChIJP6rcCUkpdTEReMLz3jioyz4
