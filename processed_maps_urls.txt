@@ -14464,3 +14464,6 @@ https://www.google.com/maps/place/VDOHire/data=!4m7!3m6!1s0x31da196ea1a2f933:0xe
 https://www.google.com/maps/place/Challenger+Technologies+Ltd/data=!4m7!3m6!1s0x31da17f36d5e8803:0x661cc51cc119e567!8m2!3d1.3317986!4d103.8932733!16s%2Fg%2F11f0193m6q!19sChIJA4hebfMX2jERZ-UZwRzFHGY
 https://www.google.com/maps/place/Monol%C3%B8gue+by+Photomanner/data=!4m7!3m6!1s0x31da199177add72f:0xd0c1e7415ebfb568!8m2!3d1.3020899!4d103.8577814!16s%2Fg%2F11z05hync9!19sChIJL9etd5EZ2jERaLW_XkHnwdA
 https://www.google.com/maps/place/The+Fesique+Lab/data=!4m7!3m6!1s0x31da19a569e6163b:0xb1bb4b5641d6848a!8m2!3d1.2871416!4d103.8468672!16s%2Fg%2F11dx9dy4f0!19sChIJOxbmaaUZ2jERioTWQVZLu7E
+https://www.google.com/maps/place/HashAlgo+Technologies+Pte.+Ltd./data=!4m7!3m6!1s0x31da190b73bdb671:0xa49a7f50ba7aad5!8m2!3d1.2853166!4d103.845837!16s%2Fg%2F11tp04hxwd!19sChIJcba9cwsZ2jER1aqnC_WnSQo
+https://www.google.com/maps/place/Best+Denki+%28Funan%29/data=!4m7!3m6!1s0x31da1973235883c9:0x12307172cb9dbd60!8m2!3d1.2914402!4d103.8499097!16s%2Fg%2F11h4cl626j!19sChIJyYNYI3MZ2jERYL2dy3JxMBI
+https://www.google.com/maps/place/Management+Development+Institute+of+Singapore+%28MDIS%29/data=!4m7!3m6!1s0x31da1a37afa20047:0x64ff919d13bcde85!8m2!3d1.2970726!4d103.8011673!16s%2Fm%2F02qtp8x!19sChIJRwCirzca2jERhd68E52R_2Q
