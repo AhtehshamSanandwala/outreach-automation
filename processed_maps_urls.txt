@@ -14850,3 +14850,4 @@ https://www.google.com/maps/place/Ella+Cheong+LLC/data=!4m7!3m6!1s0x31da19b3d602
 https://www.google.com/maps/place/Commercial+Properties/data=!4m7!3m6!1s0x31da191344c00001:0xadbc9ccb6f4d673f!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11f344f096!19sChIJAQDARBMZ2jERP2dNb8ucvK0
 https://www.google.com/maps/place/Halcyon+Real+Estate+Pte.+Ltd./data=!4m7!3m6!1s0x31da1919f4902cc7:0x39a27d5565279d07!8m2!3d1.2930569!4d103.8430963!16s%2Fg%2F11fnqk64v0!19sChIJxyyQ9BkZ2jERB50nZVV9ojk
 https://www.google.com/maps/place/Braddell+Brothers+LLP/data=!4m7!3m6!1s0x31da190951ad7593:0xba11db708c207871!8m2!3d1.2953076!4d103.8552738!16s%2Fg%2F1tncqdr8!19sChIJk3WtUQkZ2jERcXggjHDbEbo
+https://www.google.com/maps/place/AsianPrime+Properties+Pte+Ltd/data=!4m7!3m6!1s0x31da1838756fe0ef:0x3af54a0265b65eee!8m2!3d1.3192491!4d103.8927959!16s%2Fg%2F11h4dj6991!19sChIJ7-BvdTgY2jER7l62ZQJK9To
