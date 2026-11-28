@@ -14437,3 +14437,4 @@ https://www.google.com/maps/place/Human+Technologies+Singapore+Pte.+Ltd./data=!4
 https://www.google.com/maps/place/Nano+Equipment/data=!4m7!3m6!1s0x31da106c2f91bba5:0x54f538c0b61e350!8m2!3d1.3432824!4d103.8472636!16s%2Fg%2F1tdvgp9g!19sChIJpbuRL2wQ2jERUONhC4xTTwU
 https://www.google.com/maps/place/CodiGeeks/data=!4m7!3m6!1s0x31da19e710e93079:0xd1c3379227e5214c!8m2!3d1.3070294!4d103.8588895!16s%2Fg%2F11gh_cnq4t!19sChIJeTDpEOcZ2jERTCHlJ5I3w9E
 https://www.google.com/maps/place/Humble+Code/data=!4m7!3m6!1s0xaca0e8c56ab05cff:0x96bd86b40f4215a7!8m2!3d1.2784422!4d103.847801!16s%2Fg%2F11pdjttzsx!19sChIJ_1ywasXooKwRpxVCD7SGvZY
+https://www.google.com/maps/place/DevOps+Codes/data=!4m7!3m6!1s0x31da19b2b42eb919:0xf913017026acb197!8m2!3d1.2757723!4d103.8459572!16s%2Fg%2F11s5whn400!19sChIJGbkutLIZ2jERl7GsJnABE_k
