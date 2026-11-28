@@ -15705,3 +15705,4 @@ https://www.google.com/maps/place/Property+Den/data=!4m7!3m6!1s0x31da19bdf5bafd0
 https://www.google.com/maps/place/Colin+Ho+Property+-+PropNex/data=!4m7!3m6!1s0x31da1b00a5dce489:0x41711a9e4630a293!8m2!3d1.314!4d103.84425!16s%2Fg%2F11mvn2zwv2!19sChIJieTcpQAb2jERk6IwRp4acUE
 https://www.google.com/maps/place/Property+Yuru/data=!4m7!3m6!1s0x31da173783e02f65:0x8bfa17175c5555ec!8m2!3d1.332183!4d103.848428!16s%2Fg%2F11r_v2j66m!19sChIJZS_ggzcX2jER7FVVXBcX-os
 https://www.google.com/maps/place/Dra+Property+Management+Pte.+Ltd./data=!4m7!3m6!1s0x31da19c7b8c07fe9:0xbf5a2c90a7ba331c!8m2!3d1.3093337!4d103.8549043!16s%2Fg%2F11cs5r_w5d!19sChIJ6X_AuMcZ2jERHDO6p5AsWr8
+https://www.google.com/maps/place/QB+HOUSE+%28Dhoby+Ghaut+MRT+Station%29/data=!4m7!3m6!1s0x31da19bd4b5e1b5b:0x2ed1389bc9d7aa20!8m2!3d1.2996182!4d103.8458229!16s%2Fg%2F1ptvtfxft!19sChIJWxteS70Z2jERIKrXyZs40S4
