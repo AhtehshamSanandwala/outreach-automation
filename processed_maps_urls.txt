@@ -15398,3 +15398,4 @@ https://www.google.com/maps/place/HL+Marine+Offshore+Supply+%28S%29+Pte+Ltd/data
 https://www.google.com/maps/place/Sea+Deep+Shipyard+Pte.+Ltd.+%28ex+-+Interseas+Shipping+Pte.+Ltd.%29/data=!4m7!3m6!1s0x31da05c0463fe3e1:0xbc3bdb68bb085076!8m2!3d1.3079023!4d103.6573462!16s%2Fg%2F1tj712yn!19sChIJ4eM_RsAF2jERdlAIu2jbO7w
 https://www.google.com/maps/place/Marine+Odyssey+Services+Pte+Ltd/data=!4m7!3m6!1s0x27292b1eb25b5ae9:0x6ffc9a1525bce211!8m2!3d1.3361594!4d103.7572027!16s%2Fg%2F11jt4mj4kn!19sChIJ6Vpbsh4rKScREeK8JRWa_G8
 https://www.google.com/maps/place/Sea+Maritime+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da3d003f4947b9:0x6eba813b5e44bed6!8m2!3d1.3794557!4d103.9689895!16s%2Fg%2F11mdxg332m!19sChIJuUdJPwA92jER1r5EXjuBum4
+https://www.google.com/maps/place/Kim+Heng+Limited/data=!4m7!3m6!1s0x31da1acc585af46b:0x7f98f08fb501a532!8m2!3d1.3020632!4d103.7315292!16s%2Fg%2F1tczg_k7!19sChIJa_RaWMwa2jERMqUBtY_wmH8
