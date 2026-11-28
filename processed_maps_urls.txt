@@ -15033,3 +15033,4 @@ https://www.google.com/maps/place/JGP+Architecture+%28S%29+Pte.+Ltd./data=!4m7!3
 https://www.google.com/maps/place/Dwell+Projects+Architects/data=!4m7!3m6!1s0x31da19c8269df3e5:0x9a825b4931bdfbf5!8m2!3d1.3082056!4d103.8584469!16s%2Fg%2F1ptxc5_n1!19sChIJ5fOdJsgZ2jER9fu9MUlbgpo
 https://www.google.com/maps/place/DS+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da19086cf2991f:0x19456d33c86c26ee!8m2!3d1.3003621!4d103.8508251!16s%2Fg%2F11rvdch4q8!19sChIJH5nybAgZ2jER7iZsyDNtRRk
 https://www.google.com/maps/place/ACO+Architects+LLP/data=!4m7!3m6!1s0x31da1988e53491f3:0x86085e4be39af297!8m2!3d1.3064839!4d103.8565314!16s%2Fg%2F11gy9l_p5t!19sChIJ85E05YgZ2jERl_Ka40teCIY
+https://www.google.com/maps/place/CDG+Architects/data=!4m7!3m6!1s0x31da174f2f968b8b:0x862b93ef66349773!8m2!3d1.3347209!4d103.8860118!16s%2Fg%2F11fm_963ky!19sChIJi4uWL08X2jERc5c0Zu-TK4Y
