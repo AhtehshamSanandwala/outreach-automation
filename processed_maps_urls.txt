@@ -13776,3 +13776,5 @@ https://www.google.com/maps/place/Concetto+Labs/data=!4m7!3m6!1s0x395e9cb39256c3
 https://www.google.com/maps/place/Build+with+Theresa/data=!4m7!3m6!1s0x31da196e04e4b7b7:0x8c0bc0d0c6a20c8!8m2!3d1.3060951!4d103.8337401!16s%2Fg%2F11xrpfmwxx!19sChIJt7fkBG4Z2jERyCBqDA28wAg
 https://www.google.com/maps/place/BoTree+Technologies/data=!4m7!3m6!1s0x395e9cb6d7fb6eb1:0x68d80a6509deb233!8m2!3d23.032162!4d72.5029744!16s%2Fg%2F11bwfmjdjj!19sChIJsW7717acXjkRM7LeCWUK2Gg
 https://www.google.com/maps/place/Adyen+Singapore/data=!4m7!3m6!1s0x31da190a6fb8272b:0x19fcf3077537195d!8m2!3d1.2914767!4d103.8498003!16s%2Fg%2F11bc7rt3y3!19sChIJKye4bwoZ2jERXRk3dQfz_Bk
+https://www.google.com/maps/place/Saigon+Technology+-+AI-Driven+Software+Development+Company+in+Vietnam/data=!4m7!3m6!1s0x3175294909dcaa3f:0x3ecba838def3c278!8m2!3d10.809461!4d106.672745!16s%2Fg%2F11f5bqz5y0!19sChIJP6rcCUkpdTEReMLz3jioyz4
+https://www.google.com/maps/place/Xaltius+Pte.+Ltd./data=!4m7!3m6!1s0x31da1bc7bb08f527:0x7688f7819155167b!8m2!3d1.3321801!4d103.894421!16s%2Fg%2F11gs558dmv!19sChIJJ_UIu8cb2jERexZVkYH3iHY
