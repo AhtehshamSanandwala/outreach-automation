@@ -15463,3 +15463,6 @@ https://www.google.com/maps/place/B-Team+Construction+Supplies+Pte.+Ltd./data=!4
 https://www.google.com/maps/place/TPW+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da183a99d7dbc1:0xeb5dd4ac3177c00!8m2!3d1.3157929!4d103.8805394!16s%2Fg%2F11hzsvr_wp!19sChIJwdvXmToY2jERAHwXw0rdtQ4
 https://www.google.com/maps/place/Dao+Dao+Fashion+-+Laundry%2FDry+Clean%2FAlteration+%28Dhoby+Ghaut+MRT%29/data=!4m7!3m6!1s0x31da19bd5df40b15:0x4a529bb32b314588!8m2!3d1.2997448!4d103.8453831!16s%2Fg%2F1pw3ynv20!19sChIJFQv0Xb0Z2jERiEUxK7ObUko
 https://www.google.com/maps/place/Newcon+Builders+Pte+Ltd/data=!4m7!3m6!1s0x31da3c4f7316c9e9:0xbcabe6c4165af0e5!8m2!3d1.3752729!4d103.9716388!16s%2Fg%2F12hlkb4z5!19sChIJ6ckWc0882jER5fBaFsTmq7w
+https://www.google.com/maps/place/CMC+Construction+Pte+Ltd/data=!4m7!3m6!1s0x100405050f24b513:0x9a8ef78963424313!8m2!3d1.3329267!4d103.8921966!16s%2Fg%2F11b6x9_mmt!19sChIJE7UkDwUFBBARE0NCY4n3jpo
+https://www.google.com/maps/place/B-Team+Construction+Supplies+Pte.+Ltd./data=!4m7!3m6!1s0x31da1bd0fd821acf:0xa28f8735f6f5e76f!8m2!3d1.3088655!4d103.7561731!16s%2Fg%2F1w0h50s0!19sChIJzxqC_dAb2jERb-f19jWHj6I
+https://www.google.com/maps/place/AS+United+Pte+Ltd/data=!4m7!3m6!1s0x31da1358b4f678cd:0x2f2585b758059f5d!8m2!3d1.4535848!4d103.7960133!16s%2Fg%2F11ywntvdq8!19sChIJzXj2tFgT2jERXZ8FWLeFJS8
