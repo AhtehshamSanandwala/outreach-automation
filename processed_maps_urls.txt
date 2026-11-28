@@ -15041,3 +15041,6 @@ https://www.google.com/maps/place/Kyoob+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Archtur+Pte.+Ltd./data=!4m7!3m6!1s0x31da1783c2dfd685:0x40344ebc0b55f50c!8m2!3d1.3729842!4d103.8772702!16s%2Fg%2F11krmkz5cv!19sChIJhdbfwoMX2jERDPVVC7xONEA
 https://www.google.com/maps/place/Studio+Ish+Pte.+Ltd./data=!4m7!3m6!1s0x31da190abe2daa11:0xdebd3710a8a07699!8m2!3d1.3561628!4d103.7593986!16s%2Fg%2F11c59xy67_!19sChIJEaotvgoZ2jERmXagqBA3vd4
 https://www.google.com/maps/place/Treehaus+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da171dced0481d:0xce0a803adf60caef!8m2!3d1.276847!4d103.836264!16s%2Fg%2F11sqsclb96!19sChIJHUjQzh0X2jER78pg3zqACs4
+https://www.google.com/maps/place/Hiladt+Architects+LLP/data=!4m7!3m6!1s0x31da1815001e056f:0x5f78d5b73f3208f4!8m2!3d1.3098101!4d103.894099!16s%2Fg%2F11b7lm2wv3!19sChIJbwUeABUY2jER9AgyP7fVeF8
+https://www.google.com/maps/place/RDC+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da19b1d28a306d:0x4941413445a7a1e3!8m2!3d1.2988385!4d103.8593528!16s%2Fg%2F1tz93864!19sChIJbTCK0rEZ2jER46GnRTRBQUk
+https://www.google.com/maps/place/Ace+Architects+%26+Associates/data=!4m7!3m6!1s0x31da190b55b098fb:0xfb428bb359082e6f!8m2!3d1.2850428!4d103.8467112!16s%2Fg%2F1tc_t2zh!19sChIJ-5iwVQsZ2jERby4IWbOLQvs
