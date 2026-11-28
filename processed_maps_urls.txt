@@ -14080,3 +14080,7 @@ https://www.google.com/maps/place/Ministry+of+Manpower/data=!4m7!3m6!1s0x31da197
 https://www.google.com/maps/place/Seamaritime+Agency/data=!4m7!3m6!1s0x31da19a50cc55555:0x7a5a962b995aaffb!8m2!3d1.2964499!4d103.8549138!16s%2Fg%2F11fmw_yw7p!19sChIJVVXFDKUZ2jER-69amSuWWno
 https://www.google.com/maps/place/Ministry+of+Manpower/data=!4m7!3m6!1s0x31da19752fcaf823:0x1b9aad34515777ef!8m2!3d1.2873368!4d103.8444061!16s%2Fg%2F11bbwpplgf!19sChIJI_jKL3UZ2jER73dXUTStmhs
 https://www.google.com/maps/place/Berlitz+Marine+Pte+Ltd/data=!4m7!3m6!1s0x31da17f58fa53409:0x553df11cb49de07!8m2!3d1.3267264!4d103.8949534!16s%2Fg%2F11j00s0ddf!19sChIJCTSlj_UX2jERB95JyxHfUwU
+https://www.google.com/maps/place/Supreme+Offshore+%26+Fabrication+Pte+Ltd/data=!4m7!3m6!1s0x31da06066ca68161:0x7eac98187dc44d48!8m2!3d1.2906345!4d103.6364517!16s%2Fg%2F1pv0vf3m8!19sChIJYYGmbAYG2jERSE3EfRiYrH4
+https://www.google.com/maps/place/Berlitz+Marine+Pte+Ltd/data=!4m7!3m6!1s0x31da17f58fa53409:0x553df11cb49de07!8m2!3d1.3267264!4d103.8949534!16s%2Fg%2F11j00s0ddf!19sChIJCTSlj_UX2jERB95JyxHfUwU
+https://www.google.com/maps/place/PaxOcean+Engineering+Pte+Ltd/data=!4m7!3m6!1s0x31da05e3886ac893:0x57476e605a398805!8m2!3d1.3031458!4d103.696298!16s%2Fg%2F1ths6vzc!19sChIJk8hqiOMF2jERBYg5WmBuR1c
+https://www.google.com/maps/place/Supreme+Offshore+%26+Fabrication+Pte+Ltd/data=!4m7!3m6!1s0x31da06066ca68161:0x7eac98187dc44d48!8m2!3d1.2906345!4d103.6364517!16s%2Fg%2F1pv0vf3m8!19sChIJYYGmbAYG2jERSE3EfRiYrH4
