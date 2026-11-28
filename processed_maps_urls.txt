@@ -15117,3 +15117,6 @@ https://www.google.com/maps/place/Megapac+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s
 https://www.google.com/maps/place/Frank+Zuo+Hair+Salon/data=!4m7!3m6!1s0x31da19a076400037:0x74e587accb78ceff!8m2!3d1.2995265!4d103.847778!16s%2Fg%2F11f4yj6wbq!19sChIJNwBAdqAZ2jER_854y6yH5XQ
 https://www.google.com/maps/place/Doubble+Interior+Pte+Ltd/data=!4m7!3m6!1s0x31da19be91d08365:0xbb3cc046ae71134f!8m2!3d1.3122313!4d103.8776913!16s%2Fg%2F11tb_k00mm!19sChIJZYPQkb4Z2jERTxNxrkbAPLs
 https://www.google.com/maps/place/UNIQLO+Plaza+Singapura/data=!4m7!3m6!1s0x31da19bd7edc6d31:0xb5063480a75cd352!8m2!3d1.3008904!4d103.84503!16s%2Fg%2F11c0rtv6_z!19sChIJMW3cfr0Z2jERUtNcp4A0BrU
+https://www.google.com/maps/place/Singapore+Aerospace+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da0fe8ce577889:0x22ac9f191ca18c45!8m2!3d1.3377903!4d103.8951622!16s%2Fg%2F1vn160vb!19sChIJiXhXzugP2jERRYyhHBmfrCI
+https://www.google.com/maps/place/National+Design+Centre/data=!4m7!3m6!1s0x31da19bad62a795f:0xebd6bcfaf5795f03!8m2!3d1.2986691!4d103.8533635!16s%2Fm%2F012kc9s9!19sChIJX3kq1roZ2jERA1959fq81us
+https://www.google.com/maps/place/Overjoyed+Factory+Direct+Store/data=!4m7!3m6!1s0x31da19b944e450af:0x5d0572e1b02e9b7e!8m2!3d1.3498795!4d103.8415708!16s%2Fg%2F1xgz89m8!19sChIJr1DkRLkZ2jERfpsusOFyBV0
