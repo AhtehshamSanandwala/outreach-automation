@@ -15494,3 +15494,4 @@ https://www.google.com/maps/place/Sophia+Hills/data=!4m7!3m6!1s0x31da195f7b4e66b
 https://www.google.com/maps/place/Ong+Brothers+Building/data=!4m7!3m6!1s0x31da170063a3a1f1:0x8d8d144e886de85f!8m2!3d1.334024!4d103.8845509!16s%2Fg%2F11y4h0jxrv!19sChIJ8aGjYwAX2jERX-htiE4UjY0
 https://www.google.com/maps/place/M%26G+Contracts+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da121c73758541:0x825ee3ca1fbfa736!8m2!3d1.3366468!4d103.7597825!16s%2Fg%2F1tdrtvdm!19sChIJQYV1cxwS2jERNqe_H8rjXoI
 https://www.google.com/maps/place/Swan+Swee+Construction+Pte+Ltd/data=!4m7!3m6!1s0x31da1344ce313e67:0xd91c7f2cd52449f8!8m2!3d1.464412!4d103.809117!16s%2Fg%2F1td0d02s!19sChIJZz4xzkQT2jER-Ekk1Sx_HNk
+https://www.google.com/maps/place/Psa+Vista/data=!4m7!3m6!1s0x31da1ba91608b507:0x79166526c854f722!8m2!3d1.2831586!4d103.7792424!16s%2Fg%2F11h2db5p0b!19sChIJB7UIFqkb2jERIvdUyCZlFnk
