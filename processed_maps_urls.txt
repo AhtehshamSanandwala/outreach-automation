@@ -14128,3 +14128,5 @@ https://www.google.com/maps/place/Level+Up+-+Bar+%26+Arcade+@+Clarke+Quay/data=!
 https://www.google.com/maps/place/Red+House+Seafood+Nanyang+Clarke+Quay/data=!4m7!3m6!1s0x31da19a03e03613f:0x8fa9bb0a49a9a824!8m2!3d1.2906488!4d103.8459179!16s%2Fg%2F11csqj1hd5!19sChIJP2EDPqAZ2jERJKipSQq7qY8
 https://www.google.com/maps/place/Hilandas+Property+%26+Facilities+Management+Pte+Ltd/data=!4m7!3m6!1s0x31da172611d097d7:0xd2f0cae194e992da!8m2!3d1.3258504!4d103.8935104!16s%2Fg%2F1ptzj825k!19sChIJ15fQESYX2jER2pLplOHK8NI
 https://www.google.com/maps/place/Slingshot+Singapore/data=!4m7!3m6!1s0x31da19cef270c69f:0xc3deafc246e17c0c!8m2!3d1.2903569!4d103.8470606!16s%2Fg%2F11hfjy30_r!19sChIJn8Zw8s4Z2jERDHzhRsKv3sM
+https://www.google.com/maps/place/Martin+Place+Residences/data=!4m7!3m6!1s0x31da199bf8b23ceb:0x67d5d7f49e6cfbff!8m2!3d1.294094!4d103.8381131!16s%2Fg%2F1ptwygvy2!19sChIJ6zyy-JsZ2jER__tsnvTX1Wc
+https://www.google.com/maps/place/ASTONS+Specialities+@+The+Central/data=!4m7!3m6!1s0x31da19a0740144c7:0x2793b094c5a3269d!8m2!3d1.2893507!4d103.8466063!16s%2Fg%2F11d_1r9qk2!19sChIJx0QBdKAZ2jERnSajxZSwkyc
