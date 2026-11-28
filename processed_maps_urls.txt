@@ -15831,3 +15831,6 @@ https://www.google.com/maps/place/DSC+Clinic/data=!4m7!3m6!1s0x31da19b7f34c3377:
 https://www.google.com/maps/place/Parklane+Medical+Centre/data=!4m7!3m6!1s0x31da19bc898372e5:0xf521a28ce1227e84!8m2!3d1.3005689!4d103.8493227!16s%2Fg%2F1vcq53nl!19sChIJ5XKDibwZ2jERhH4i4YyiIfU
 https://www.google.com/maps/place/Chong%27s+Medical+Centre/data=!4m7!3m6!1s0x31da1998035f6e53:0x4089dd963ebd4a45!8m2!3d1.298199!4d103.8441246!16s%2Fg%2F1vyk00l2!19sChIJU25fA5gZ2jERRUq9PpbdiUA
 https://www.google.com/maps/place/Evoque+Medical+Aesthetics/data=!4m7!3m6!1s0x31da194c7c3862c3:0x6647cd4839f95dc4!8m2!3d1.2986545!4d103.8464611!16s%2Fg%2F11vlf3s59m!19sChIJw2I4fEwZ2jERxF35OUjNR2Y
+https://www.google.com/maps/place/Doctor+Jay+Medical+Centre/data=!4m7!3m6!1s0x31da199a037596ad:0xe629e0b342cfe06!8m2!3d1.298003!4d103.8387101!16s%2Fg%2F1tdpcqnb!19sChIJrZZ1A5oZ2jERBv4sNAueYg4
+https://www.google.com/maps/place/Orchard+Medical+Specialists+Centre/data=!4m7!3m6!1s0x31da19926d555555:0x67024e3f5ec37040!8m2!3d1.304569!4d103.833308!16s%2Fg%2F1tykrx40!19sChIJVVVVbZIZ2jERQHDDXj9OAmc
+https://www.google.com/maps/place/Dr+D+Aesthetics+Medical+Clinic/data=!4m7!3m6!1s0x31da19bc7796c3f9:0x7c9967f4e7679fdd!8m2!3d1.3051935!4d103.8305934!16s%2Fg%2F11clzvfhxt!19sChIJ-cOWd7wZ2jER3Z9n5_RnmXw
