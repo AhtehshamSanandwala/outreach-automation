@@ -13752,3 +13752,6 @@ https://www.google.com/maps/place/TechCode+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Holiday+Inn+Express+Singapore+Clarke+Quay+by+IHG/data=!4m10!3m9!1s0x31da19757ec62043:0xc2cb488bc762d24b!5m2!4m1!1i2!8m2!3d1.2891213!4d103.8419682!16s%2Fg%2F1pp2x8ty5!19sChIJQyDGfnUZ2jERS9Jix4tIy8I
 https://www.google.com/maps/place/Brainvire+PTE+LTD/data=!4m7!3m6!1s0x31da19682d1c866b:0x37a7df2454cdc01!8m2!3d1.2788792!4d103.8401988!16s%2Fg%2F11hpmmb_4r!19sChIJa4YcLWgZ2jERAdxMRfJ9egM
 https://www.google.com/maps/place/Simplify.food+Engage/data=!4m7!3m6!1s0x4a2841c043c29565:0x5dc97e5e98873b3f!8m2!3d1.3050842!4d103.7888898!16s%2Fg%2F11rwlj35mp!19sChIJZZXCQ8BBKEoRPzuHmF5-yV0
+https://www.google.com/maps/place/CBTW+Singapore/data=!4m7!3m6!1s0x233ed13f7983c131:0x8b4606978e4abe3a!8m2!3d1.2822004!4d103.8526513!16s%2Fg%2F11x0q73v8d!19sChIJMcGDeT_RPiMROr5KjpcGRos
+https://www.google.com/maps/place/Paradox+Singapore+Merchant+Court/data=!4m7!3m6!1s0x31da190abaca33f1:0xf35de007fb55d88f!8m2!3d1.2884795!4d103.8456388!16s%2Fg%2F11sb4t6qfl!19sChIJ8TPKugoZ2jERj9hV-wfgXfM
+https://www.google.com/maps/place/Code+Factor+Solutions/data=!4m7!3m6!1s0x31da19b46f8b22bb:0xa378b04cf3220fb7!8m2!3d1.2786632!4d103.8474008!16s%2Fg%2F11svj1731b!19sChIJuyKLb7QZ2jERtw8i80yweKM
