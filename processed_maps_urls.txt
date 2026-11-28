@@ -15647,3 +15647,5 @@ https://www.google.com/maps/place/Design+Zage/data=!4m7!3m6!1s0x31da19ca46d4f987
 https://www.google.com/maps/place/Lemonfridge+Studio/data=!4m7!3m6!1s0x31da1bb0df802e67:0xd82d4185f431e53e!8m2!3d1.3038628!4d103.7972849!16s%2Fg%2F11f7fq0v9v!19sChIJZy6A37Ab2jERPuUx9IVBLdg
 https://www.google.com/maps/place/Commune/data=!4m7!3m6!1s0x31da17cc28bca203:0xb16884a14b5cee5c!8m2!3d1.2925897!4d103.8598149!16s%2Fg%2F1yfjhmhb9!19sChIJA6K8KMwX2jERXO5cS6GEaLE
 https://www.google.com/maps/place/ArtMuse+Interior+Pte+Ltd/data=!4m7!3m6!1s0x31da19d43a32a5a9:0x547cbb9285f506f0!8m2!3d1.3115927!4d103.8631395!16s%2Fg%2F11gr60mhp3!19sChIJqaUyOtQZ2jER8Ab1hZK7fFQ
+https://www.google.com/maps/place/The+Interior+Library/data=!4m7!3m6!1s0x31da19b1bdd3e5b5:0x884a955dc8edaf55!8m2!3d1.3480192!4d103.8808903!16s%2Fg%2F1tfqhxh2!19sChIJteXTvbEZ2jERVa_tyF2VSog
+https://www.google.com/maps/place/i.Poise+Design/data=!4m7!3m6!1s0x31da1875734001a5:0xc12276cd04005c2b!8m2!3d1.311605!4d103.8746456!16s%2Fg%2F1q6j28zxf!19sChIJpQFAc3UY2jERK1wABM12IsE
