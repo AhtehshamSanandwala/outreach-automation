@@ -15124,3 +15124,6 @@ https://www.google.com/maps/place/TMO+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/Tierra+Design+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da199f7aaf727b:0xb26eca195f1a5b32!8m2!3d1.2833502!4d103.8144334!16s%2Fg%2F1tpc5hcg!19sChIJe3Kvep8Z2jERMlsaXxnKbrI
 https://www.google.com/maps/place/Texas+Instruments+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da199f3c16c845:0x7d3f62c3a20cae2a!8m2!3d1.2927841!4d103.8432076!16s%2Fg%2F1vcl18z7!19sChIJRcgWPJ8Z2jERKq4MosNiP30
 https://www.google.com/maps/place/Archi-Praxis/data=!4m7!3m6!1s0x31da19b7db291239:0x73c992403cd56951!8m2!3d1.3070872!4d103.8582327!16s%2Fg%2F1pty2q7w6!19sChIJORIp27cZ2jERUWnVPECSyXM
+https://www.google.com/maps/place/DB+Studio/data=!4m7!3m6!1s0x31da19ced3fe0cad:0xe3c190a3750e0746!8m2!3d1.3128598!4d103.8596237!16s%2Fg%2F11byl224pk!19sChIJrQz-084Z2jERRgcOdaOQweM
+https://www.google.com/maps/place/Sanofi+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da07cf440f7a1d:0xfe1f83cebe29dbf6!8m2!3d1.3060648!4d103.6334978!16s%2Fg%2F11twv54j9g!19sChIJHXoPRM8H2jER9tspvs6DH_4
+https://www.google.com/maps/place/Space+Furniture+Asia+Hub/data=!4m7!3m6!1s0x31da19a923ae35df:0x76af225318172a36!8m2!3d1.2996619!4d103.8507138!16s%2Fg%2F1yl451c_l!19sChIJ3zWuI6kZ2jERNioXGFMir3Y
