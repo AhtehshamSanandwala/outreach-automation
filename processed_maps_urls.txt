@@ -15172,3 +15172,5 @@ https://www.google.com/maps/place/Emicakes+-+Plaza+Singapura/data=!4m7!3m6!1s0x3
 https://www.google.com/maps/place/Bengawan+Solo/data=!4m7!3m6!1s0x31da1997d93a23a3:0xc34afd87483bc33c!8m2!3d1.3006168!4d103.8451103!16s%2Fg%2F1tlvm1fl!19sChIJoyM62ZcZ2jERPMM7SIf9SsM
 https://www.google.com/maps/place/Niehoff+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da19bbc73b416d:0xa8ee68b829f8d3ab!8m2!3d1.3021891!4d103.8525327!16s%2Fg%2F1ptwqgk00!19sChIJbUE7x7sZ2jERq9P4Kbho7qg
 https://www.google.com/maps/place/Newera+Tools+%26+Machinery+%28S%29+Pte.+Ltd./data=!4m7!3m6!1s0x31da3d553ab2ee7d:0xf2bf2198b5d0800a!8m2!3d1.3717776!4d103.9252017!16s%2Fg%2F1tzglrl1!19sChIJfe6yOlU92jERCoDQtZghv_I
+https://www.google.com/maps/place/Toray+Industries+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da16e2dee7ce01:0xb35a4775690b7193!8m2!3d1.3661276!4d103.8552266!16s%2Fg%2F1pv610vvs!19sChIJAc7n3uIW2jERk3ELaXVHWrM
+https://www.google.com/maps/place/The+Kettle+Gourmet+Pte+Ltd/data=!4m7!3m6!1s0x31da19f2b6401731:0x5354a595a66bcac9!8m2!3d1.3149903!4d103.8624358!16s%2Fg%2F11sd1rjt08!19sChIJMRdAtvIZ2jERycprppWlVFM
