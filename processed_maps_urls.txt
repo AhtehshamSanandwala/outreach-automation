@@ -15295,3 +15295,6 @@ https://www.google.com/maps/place/Alstom+Asia-Pacific+and+Singapore+head-office/
 https://www.google.com/maps/place/GIANTECH+ENGINEERING+PTE+LTD/data=!4m7!3m6!1s0x31da100ad6d4d115:0x74add5a4a7dc906d!8m2!3d1.3281135!4d103.754847!16s%2Fg%2F1tzvt1gq!19sChIJFdHU1goQ2jERbZDcp6TVrXQ
 https://www.google.com/maps/place/Marine+Diving+%26+Engrg+Pte+Ltd/data=!4m7!3m6!1s0x31da05ebd573abbb:0x3279987abc93d905!8m2!3d1.3137358!4d103.707163!16s%2Fg%2F1tdqr106!19sChIJu6tz1esF2jERBdmTvHqYeTI
 https://www.google.com/maps/place/Kopitiam+Food+Hall/data=!4m7!3m6!1s0x31da19bd7ec8ac73:0x70f37db6029a4285!8m2!3d1.3005167!4d103.8449701!16s%2Fg%2F1vr1t579!19sChIJc6zIfr0Z2jERhUKaArZ983A
+https://www.google.com/maps/place/Brightsun+Marine+Pte+Ltd/data=!4m7!3m6!1s0x31da05f8068141d1:0xac41dcff598f382c!8m2!3d1.327418!4d103.6472424!16s%2Fg%2F1vn9llm3!19sChIJ0UGBBvgF2jERLDiPWf_cQaw
+https://www.google.com/maps/place/Venus+Beauty+%28Lucky+Plaza%29/data=!4m7!3m6!1s0x31da19233f2b9d9b:0xb445148fd2b1fc44!8m2!3d1.3045755!4d103.8340344!16s%2Fg%2F11r6glr9p6!19sChIJm50rPyMZ2jERRPyx0o8URbQ
+https://www.google.com/maps/place/Kim+Heng+Marine+%26+Oilfield+Pte+Ltd/data=!4m7!3m6!1s0x31da1aef3d2eb99f:0x8420417593552481!8m2!3d1.3006436!4d103.7591767!16s%2Fg%2F1tfpxcjc!19sChIJn7kuPe8a2jERgSRVk3VBIIQ
