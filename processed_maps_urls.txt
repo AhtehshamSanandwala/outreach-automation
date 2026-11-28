@@ -14598,3 +14598,4 @@ https://www.google.com/maps/place/Firmus+Pte+Ltd/data=!4m7!3m6!1s0x31da19bcc6b02
 https://www.google.com/maps/place/Securinc+Pte+Ltd/data=!4m7!3m6!1s0x31da1933ea5bb77f:0xdca9a683f544c807!8m2!3d1.2864418!4d103.8491423!16s%2Fg%2F11scn8n48r!19sChIJf7db6jMZ2jERB8hE9YOmqdw
 https://www.google.com/maps/place/CyberCare+Pte+Ltd/data=!4m7!3m6!1s0x31da17b9a0a79f63:0xc84f784e61e24ae5!8m2!3d1.3299992!4d103.8758454!16s%2Fg%2F11z2d1gxxk!19sChIJY5-noLkX2jER5UriYU54T8g
 https://www.google.com/maps/place/G4S+Secure+Solutions+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19b14610ebc5:0xeb341af34912069b!8m2!3d1.3132397!4d103.8602688!16s%2Fg%2F1v3kd__x!19sChIJxesQRrEZ2jERmwYSSfMaNOs
+https://www.google.com/maps/place/Haw+Par+Centre/data=!4m7!3m6!1s0x31da19980d6369bf:0x189e64c51f13678e!8m2!3d1.297183!4d103.844086!16s%2Fg%2F11dx8_dfv0!19sChIJv2ljDZgZ2jERjmcTH8Vknhg
