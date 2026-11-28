@@ -15649,3 +15649,5 @@ https://www.google.com/maps/place/Commune/data=!4m7!3m6!1s0x31da17cc28bca203:0xb
 https://www.google.com/maps/place/ArtMuse+Interior+Pte+Ltd/data=!4m7!3m6!1s0x31da19d43a32a5a9:0x547cbb9285f506f0!8m2!3d1.3115927!4d103.8631395!16s%2Fg%2F11gr60mhp3!19sChIJqaUyOtQZ2jER8Ab1hZK7fFQ
 https://www.google.com/maps/place/The+Interior+Library/data=!4m7!3m6!1s0x31da19b1bdd3e5b5:0x884a955dc8edaf55!8m2!3d1.3480192!4d103.8808903!16s%2Fg%2F1tfqhxh2!19sChIJteXTvbEZ2jERVa_tyF2VSog
 https://www.google.com/maps/place/i.Poise+Design/data=!4m7!3m6!1s0x31da1875734001a5:0xc12276cd04005c2b!8m2!3d1.311605!4d103.8746456!16s%2Fg%2F1q6j28zxf!19sChIJpQFAc3UY2jERK1wABM12IsE
+https://www.google.com/maps/place/erstudio+Pte+Ltd/data=!4m7!3m6!1s0x31da19c814abc07f:0xb4d3d37744ee3f77!8m2!3d1.3717921!4d103.9337341!16s%2Fg%2F11g6pyxqw8!19sChIJf8CrFMgZ2jERdz_uRHfT07Q
+https://www.google.com/maps/place/BoConcept+Singapore/data=!4m7!3m6!1s0x31da1992320efb97:0xeeb99e3135f2b0b0!8m2!3d1.3031991!4d103.8362631!16s%2Fg%2F1tmqcr2s!19sChIJl_sOMpIZ2jERsLDyNTGeue4
