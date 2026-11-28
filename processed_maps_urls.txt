@@ -15753,3 +15753,5 @@ https://www.google.com/maps/place/Healing+Touch+Spa+%28Dhoby+Ghaut%29/data=!4m7!
 https://www.google.com/maps/place/Uptown+@+Farrer/data=!4m7!3m6!1s0x31da19404fe77ee9:0x75829d585adf3587!8m2!3d1.3128346!4d103.8556431!16s%2Fg%2F11g__59xzm!19sChIJ6X7nT0AZ2jERhzXfWlidgnU
 https://www.google.com/maps/place/Sophia+Residence+Management+Office/data=!4m7!3m6!1s0x31da19007f36799b:0x78496c94e341bf18!8m2!3d1.3016271!4d103.848673!16s%2Fg%2F11wmjnqqbp!19sChIJm3k2fwAZ2jERGL9B45RsSXg
 https://www.google.com/maps/place/dhumblehome/data=!4m7!3m6!1s0x31da17c7f4980465:0xe48dd7449798e081!8m2!3d1.3317097!4d103.8494335!16s%2Fg%2F11r5r_q48v!19sChIJZQSY9McX2jERgeCYl0TXjeQ
+https://www.google.com/maps/place/d%27Habitat+%E2%80%93+Co-Living+Spaces+in+Singapore/data=!4m7!3m6!1s0x31da19ab7669d3ad:0xe7f56788ad58352f!8m2!3d1.2824091!4d103.8463356!16s%2Fg%2F11m5kjqqfp!19sChIJrdNpdqsZ2jERLzVYrYhn9ec
+https://www.google.com/maps/place/Somerset+Bencoolen+Singapore/data=!4m10!3m9!1s0x31da19bca0f65307:0x131e2ef99a31450b!5m2!4m1!1i2!8m2!3d1.2994205!4d103.8505094!16s%2Fg%2F1th60xf6!19sChIJB1P2oLwZ2jERC0UxmvkuHhM
