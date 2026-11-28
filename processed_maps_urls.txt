@@ -15076,3 +15076,5 @@ https://www.google.com/maps/place/RichardHO+Architects/data=!4m7!3m6!1s0x31da22a
 https://www.google.com/maps/place/Ace+Architects+%26+Associates/data=!4m7!3m6!1s0x31da190b55b098fb:0xfb428bb359082e6f!8m2!3d1.2850428!4d103.8467112!16s%2Fg%2F1tc_t2zh!19sChIJ-5iwVQsZ2jERby4IWbOLQvs
 https://www.google.com/maps/place/Index+Architects/data=!4m7!3m6!1s0x31da19d4da4bf609:0x1c88b871eaf1335b!8m2!3d1.2853251!4d103.8094821!16s%2Fg%2F11h94w52b_!19sChIJCfZL2tQZ2jERWzPx6nG4iBw
 https://www.google.com/maps/place/HEI+Architects/data=!4m7!3m6!1s0x31da19cbb7d1d5fd:0xc182e0c21592c944!8m2!3d1.3250644!4d103.8912437!16s%2Fg%2F11w3rn4x55!19sChIJ_dXRt8sZ2jERRMmSFcLggsE
+https://www.google.com/maps/place/Studio+D%E2%80%99+Interior/data=!4m7!3m6!1s0x31da17c9cac8de09:0x4e9e2be35926ba01!8m2!3d1.333496!4d103.8918092!16s%2Fg%2F11s9dp4sf1!19sChIJCd7IyskX2jERAbomWeMrnk4
+https://www.google.com/maps/place/BDP/data=!4m7!3m6!1s0x31da19c938329f59:0x143ed38fd1169605!8m2!3d1.2783407!4d103.8508838!16s%2Fg%2F11vkbnr5ht!19sChIJWZ8yOMkZ2jERBZYW0Y_TPhQ
