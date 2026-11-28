@@ -15301,3 +15301,6 @@ https://www.google.com/maps/place/Kim+Heng+Marine+%26+Oilfield+Pte+Ltd/data=!4m7
 https://www.google.com/maps/place/GMBE+Pte+Ltd/data=!4m7!3m6!1s0x31da05f740b93615:0xf949457f7123ae81!8m2!3d1.3084405!4d103.6751414!16s%2Fg%2F1ptxgrv41!19sChIJFTa5QPcF2jERga4jcX9FSfk
 https://www.google.com/maps/place/HQ+SMRT+Corporation+Ltd/data=!4m7!3m6!1s0x31da19a43b568581:0xe64507b414b5f38!8m2!3d1.3158857!4d103.8936214!16s%2Fg%2F1tdkv5tt!19sChIJgYVWO6QZ2jEROF9LQXtQZA4
 https://www.google.com/maps/place/Harris+Pye+Singapore+Pte.+Ltd./data=!4m7!3m6!1s0x31da1008ffffffff:0x3e2ba108165793d1!8m2!3d1.3215261!4d103.6763421!16s%2Fg%2F11j98dcq2b!19sChIJ_____wgQ2jER0ZNXFgihKz4
+https://www.google.com/maps/place/D.A.+Trading+%26+Logistics/data=!4m7!3m6!1s0x31da19b944d25205:0x9e2f1680cb947700!8m2!3d1.3039637!4d103.8513784!16s%2Fg%2F1ptx3x76g!19sChIJBVLSRLkZ2jERAHeUy4AWL54
+https://www.google.com/maps/place/Marine+Line+Technology+Pte+Ltd/data=!4m7!3m6!1s0x31da0f8ced728b9b:0x3b15cb562d2a8859!8m2!3d1.333677!4d103.703487!16s%2Fg%2F1ptx0qxty!19sChIJm4ty7YwP2jERWYgqLVbLFTs
+https://www.google.com/maps/place/Batamindo+Shipping+%26+Warehousing+Pte+Ltd/data=!4m7!3m6!1s0x31da1780d0082def:0xfcd76b7ff0ab516e!8m2!3d1.3282074!4d103.8731634!16s%2Fg%2F1tgpq3pd!19sChIJ7y0I0IAX2jERblGr8H9r1_w
