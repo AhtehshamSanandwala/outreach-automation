@@ -15768,3 +15768,5 @@ https://www.google.com/maps/place/Aspen+Heights/data=!4m7!3m6!1s0x31da1974c7afb2
 https://www.google.com/maps/place/Andy+Property/data=!4m7!3m6!1s0x31da1756dee14c33:0x826439b92de75a93!8m2!3d1.3322846!4d103.8483709!16s%2Fg%2F11kpw9jjgx!19sChIJM0zh3lYX2jERk1rnLbk5ZII
 https://www.google.com/maps/place/Sapphire+99/data=!4m7!3m6!1s0x31da192260e356df:0x2d6aa34a952837c7!8m2!3d1.3023203!4d103.846484!16s%2Fg%2F11j2w9mxlz!19sChIJ31bjYCIZ2jERxzcolUqjai0
 https://www.google.com/maps/place/Propertyhub/data=!4m7!3m6!1s0x31da179f432caf89:0x9f542d83ce2df0ee!8m2!3d1.3519286!4d103.8439302!16s%2Fg%2F11p10164jn!19sChIJia8sQ58X2jER7vAtzoMtVJ8
+https://www.google.com/maps/place/Winsland+House+I/data=!4m7!3m6!1s0x31da19ffed0b59c5:0xe050a7029fe83b92!8m2!3d1.2997098!4d103.8403139!16s%2Fg%2F11j6_sklwx!19sChIJxVkL7f8Z2jERkjvonwKnUOA
+https://www.google.com/maps/place/The+Luxe/data=!4m7!3m6!1s0x31da19504d20e401:0x11b6e8bca29236eb!8m2!3d1.2994803!4d103.8471048!16s%2Fg%2F11fnwhjs8z!19sChIJAeQgTVAZ2jER6zaSorzothE
