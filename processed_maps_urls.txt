@@ -15122,3 +15122,5 @@ https://www.google.com/maps/place/National+Design+Centre/data=!4m7!3m6!1s0x31da1
 https://www.google.com/maps/place/Overjoyed+Factory+Direct+Store/data=!4m7!3m6!1s0x31da19b944e450af:0x5d0572e1b02e9b7e!8m2!3d1.3498795!4d103.8415708!16s%2Fg%2F1xgz89m8!19sChIJr1DkRLkZ2jERfpsusOFyBV0
 https://www.google.com/maps/place/TMO+Manufacturing+Pte+Ltd/data=!4m7!3m6!1s0x31da0f7df3e0737b:0x56903a6e5ded6c3c!8m2!3d1.333866!4d103.638015!16s%2Fg%2F1pty4_t9y!19sChIJe3Pg830P2jERPGztXW46kFY
 https://www.google.com/maps/place/Tierra+Design+%28S%29+Pte+Ltd/data=!4m7!3m6!1s0x31da199f7aaf727b:0xb26eca195f1a5b32!8m2!3d1.2833502!4d103.8144334!16s%2Fg%2F1tpc5hcg!19sChIJe3Kvep8Z2jERMlsaXxnKbrI
+https://www.google.com/maps/place/Texas+Instruments+Singapore+Pte+Ltd/data=!4m7!3m6!1s0x31da199f3c16c845:0x7d3f62c3a20cae2a!8m2!3d1.2927841!4d103.8432076!16s%2Fg%2F1vcl18z7!19sChIJRcgWPJ8Z2jERKq4MosNiP30
+https://www.google.com/maps/place/Archi-Praxis/data=!4m7!3m6!1s0x31da19b7db291239:0x73c992403cd56951!8m2!3d1.3070872!4d103.8582327!16s%2Fg%2F1pty2q7w6!19sChIJORIp27cZ2jERUWnVPECSyXM
