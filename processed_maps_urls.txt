@@ -14611,3 +14611,5 @@ https://www.google.com/maps/place/Securinc+Pte+Ltd/data=!4m7!3m6!1s0x31da1933ea5
 https://www.google.com/maps/place/CYBERhythm+Pte.+Ltd./data=!4m7!3m6!1s0x31da1920ff20c5f3:0xf5fc8263795920cd!8m2!3d1.2835867!4d103.8470853!16s%2Fg%2F11jvy1f5l8!19sChIJ88Ug_yAZ2jERzSBZeWOC_PU
 https://www.google.com/maps/place/Henderson+Security+Services/data=!4m7!3m6!1s0x31da1bd6cbcb1e41:0x20e902c02d1c9075!8m2!3d1.3335017!4d103.8871113!16s%2Fg%2F1tdpp5h0!19sChIJQR7Ly9Yb2jERdZAcLcAC6SA
 https://www.google.com/maps/place/G4S+Secure+Solutions+%28Singapore%29+Pte+Ltd/data=!4m7!3m6!1s0x31da19b14610ebc5:0xeb341af34912069b!8m2!3d1.3132397!4d103.8602688!16s%2Fg%2F1v3kd__x!19sChIJxesQRrEZ2jERmwYSSfMaNOs
+https://www.google.com/maps/place/Haw+Par+Centre/data=!4m7!3m6!1s0x31da19980d6369bf:0x189e64c51f13678e!8m2!3d1.297183!4d103.844086!16s%2Fg%2F11dx8_dfv0!19sChIJv2ljDZgZ2jERjmcTH8Vknhg
+https://www.google.com/maps/place/Hiwire+Data+Security+Pte+Ltd,+Powersearch+Pte+Ltd/data=!4m7!3m6!1s0x31da19b6bb5ba721:0x35c697e092ffd38c!8m2!3d1.303828!4d103.8614791!16s%2Fg%2F1tlc5lkk!19sChIJIadbu7YZ2jERjNP_kuCXxjU
