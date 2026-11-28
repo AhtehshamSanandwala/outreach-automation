@@ -13912,3 +13912,4 @@ https://www.google.com/maps/place/CHIO+Architects/data=!4m7!3m6!1s0x8f1c22734744
 https://www.google.com/maps/place/A+D+Lab+Pte+Ltd/data=!4m7!3m6!1s0x31da18122fffffff:0xd3b44c1036e563ad!8m2!3d1.2939978!4d103.8418827!16s%2Fg%2F1xfsl7yx!19sChIJ____LxIY2jERrWPlNhBMtNM
 https://www.google.com/maps/place/CVC+Engineers+Pte+Ltd/data=!4m7!3m6!1s0xab4c923753bb63e1:0xa65f3880009d50d8!8m2!3d1.3840046!4d103.8260536!16s%2Fg%2F11ldw3sln_!19sChIJ4WO7UzeSTKsR2FCdAIA4X6Y
 https://www.google.com/maps/place/National+Design+Centre/data=!4m7!3m6!1s0x31da19bad62a795f:0xebd6bcfaf5795f03!8m2!3d1.2986691!4d103.8533635!16s%2Fm%2F012kc9s9!19sChIJX3kq1roZ2jERA1959fq81us
+https://www.google.com/maps/place/3PA+Pte+Ltd/data=!4m7!3m6!1s0x31da19731038c80d:0x7281bc359670d8e7!8m2!3d1.2825238!4d103.8424326!16s%2Fg%2F1tcvlsw9!19sChIJDcg4EHMZ2jER59hwljW8gXI
