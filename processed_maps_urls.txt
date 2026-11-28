@@ -15257,3 +15257,5 @@ https://www.google.com/maps/place/The+Safe+House+SG+Pte+Ltd/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/NK+Logistics+Pte+Ltd/data=!4m7!3m6!1s0x31da190a7c014cdb:0xa4c5718a124f4587!8m2!3d1.319041!4d103.8923647!16s%2Fg%2F11xfqzv3vs!19sChIJ20wBfAoZ2jERh0VPEopxxaQ
 https://www.google.com/maps/place/Kuehne+%2B+Nagel+%28S%29+Pte+Ltd+-+Airfreight+Logistics+Hub/data=!4m7!3m6!1s0x31da3c702f6c6863:0xa831b10debb8f5c9!8m2!3d1.374838!4d104.001512!16s%2Fg%2F1ptzq7f9y!19sChIJY2hsL3A82jERyfW46w2xMag
 https://www.google.com/maps/place/Max+Consolidator+Services+Pte+Ltd/data=!4m7!3m6!1s0x31da3c0cc3c6c92b:0xd36991654702f459!8m2!3d1.382831!4d103.999542!16s%2Fg%2F1tgdl29k!19sChIJK8nGwww82jERWfQCR2WRadM
+https://www.google.com/maps/place/Toll+City/data=!4m7!3m6!1s0x31da05eb64db273b:0xef49bfce3e4e3eea!8m2!3d1.3140319!4d103.6575012!16s%2Fg%2F11c30sfcf8!19sChIJOyfbZOsF2jER6j5OPs6_Se8
+https://www.google.com/maps/place/3+Benoi+road+Kuehne+Nagel+Waterfront+Hub/data=!4m7!3m6!1s0x31da19aede6aca5f:0xca1e056f851a45e8!8m2!3d1.3054348!4d103.6806175!16s%2Fg%2F11b7m98kdc!19sChIJX8pq3q4Z2jER6EUahW8FHso
