@@ -15102,3 +15102,4 @@ https://www.google.com/maps/place/Linghao+Architects/data=!4m7!3m6!1s0x31da19b14
 https://www.google.com/maps/place/Archstory/data=!4m7!3m6!1s0x1b2c93c41ac3db3:0x56cf7a8f5fe2582c!8m2!3d1.3646627!4d103.7636971!16s%2Fg%2F11sjrmg61g!19sChIJsz2sQTzJsgERLFjiX496z1Y
 https://www.google.com/maps/place/Chan+Sau+Yan+Associates/data=!4m7!3m6!1s0x31da196d844475ed:0x8b6723d258fbdf8e!8m2!3d1.2793484!4d103.8414591!16s%2Fg%2F1tdb1smn!19sChIJ7XVEhG0Z2jERjt_7WNIjZ4s
 https://www.google.com/maps/place/S+A+Chua+Architects+Pte+Ltd/data=!4m7!3m6!1s0x31da190caea21b93:0x6139c43f5ebc2111!8m2!3d1.3041374!4d103.8534644!16s%2Fg%2F1tlvm1d4!19sChIJkxuirgwZ2jERESG8Xj_EOWE
+https://www.google.com/maps/place/RichardHO+Architects/data=!4m7!3m6!1s0x31da22a38a2792b7:0x1b970ff2222e64c6!8m2!3d1.3255895!4d103.9486293!16s%2Fg%2F1thbt5cz!19sChIJt5IniqMi2jERxmQuIvIPlxs
