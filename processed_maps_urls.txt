@@ -13930,3 +13930,5 @@ https://www.google.com/maps/place/The+Riverhouse+Singapore/data=!4m7!3m6!1s0x31d
 https://www.google.com/maps/place/Woods+Pharmacy+Pte+Ltd/data=!4m7!3m6!1s0x31da199c6a4ff255:0xfe8a7858fb14b090!8m2!3d1.2893848!4d103.8472753!16s%2Fg%2F11t79kn450!19sChIJVfJPapwZ2jERkLAU-1h4iv4
 https://www.google.com/maps/place/Tan+%2B+Tsakonas+Architects+LLP/data=!4m7!3m6!1s0x31da1985eee74cc7:0xc5ffeeb343af2f3f!8m2!3d1.3191725!4d103.8925563!16s%2Fg%2F1v6wlvlr!19sChIJx0zn7oUZ2jERPy-vQ7Pu_8U
 https://www.google.com/maps/place/Thee+Bold+Stories/data=!4m7!3m6!1s0x31da19b5a50f08dd:0x57db7c397fc96ec7!8m2!3d1.2891768!4d103.8468819!16s%2Fg%2F11svnx_pyr!19sChIJ3QgPpbUZ2jERx27Jfzl821c
+https://www.google.com/maps/place/Formspace+Architects/data=!4m7!3m6!1s0x31da1714de1aaaab:0x672765b4d6e0bf93!8m2!3d1.3463946!4d103.8480292!16s%2Fg%2F11qpkcq0jc!19sChIJq6oa3hQX2jERk7_g1rRlJ2c
+https://www.google.com/maps/place/21+Carpenter/data=!4m10!3m9!1s0x31da1900cd98df5f:0x47e99b7c8574d898!5m2!4m1!1i2!8m2!3d1.2885226!4d103.8474019!16s%2Fg%2F11svng002h!19sChIJX9-YzQAZ2jERmNh0hXyb6Uc
