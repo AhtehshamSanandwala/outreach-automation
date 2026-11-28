@@ -14495,3 +14495,4 @@ https://www.google.com/maps/place/Best+Denki+%28VivoCity%29/data=!4m7!3m6!1s0x31
 https://www.google.com/maps/place/dhost+Global,+Inc/data=!4m7!3m6!1s0x31da195b0a5cc541:0x98688d1957f5590d!8m2!3d1.3201798!4d103.8901193!16s%2Fg%2F11rhx5qb0m!19sChIJQcVcClsZ2jERDVn1VxmNaJg
 https://www.google.com/maps/place/Digistore+Solutions+Pte+Ltd/data=!4m7!3m6!1s0x31da178763d6f653:0x29d52cf0ac537ed6!8m2!3d1.326544!4d103.875761!16s%2Fg%2F1thscfq9!19sChIJU_bWY4cX2jER1n5TrPAs1Sk
 https://www.google.com/maps/place/The+Fesique+Lab/data=!4m7!3m6!1s0x31da19a569e6163b:0xb1bb4b5641d6848a!8m2!3d1.2871416!4d103.8468672!16s%2Fg%2F11dx9dy4f0!19sChIJOxbmaaUZ2jERioTWQVZLu7E
+https://www.google.com/maps/place/Haus+on+Handy/data=!4m7!3m6!1s0x31da1950ea4da1ed:0x82ec3969528dd8ed!8m2!3d1.2996595!4d103.8464581!16s%2Fg%2F11flrym7mk!19sChIJ7aFN6lAZ2jER7diNUmk57II
