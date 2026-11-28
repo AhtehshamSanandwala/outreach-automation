@@ -13766,3 +13766,5 @@ https://www.google.com/maps/place/Oche+Singapore/data=!4m7!3m6!1s0x31da1978abe74
 https://www.google.com/maps/place/Paradox+Singapore/data=!4m10!3m9!1s0x31da190abb1c2e8d:0x81504b4ffa8d3709!5m2!4m1!1i2!8m2!3d1.288316!4d103.8456312!16s%2Fg%2F1v27r_pk!19sChIJjS4cuwoZ2jERCTeN-k9LUIE
 https://www.google.com/maps/place/Dynamics+Square+-+Microsoft+Dynamics+365+Partner+%28ERP%2FCRM%29,+Singapore/data=!4m7!3m6!1s0x31da19cf630eed87:0xd81679312ed5a019!8m2!3d1.2756998!4d103.8458098!16s%2Fg%2F11gvgzj6tt!19sChIJh-0OY88Z2jERGaDVLjF5Ftg
 https://www.google.com/maps/place/SleekDigital+LLP+-+Singapore+App+Developer/data=!4m7!3m6!1s0x31da191cd661a015:0xc763e17810366ebc!8m2!3d1.2778282!4d103.8495853!16s%2Fg%2F11qnys82ct!19sChIJFaBh1hwZ2jERvG42EHjhY8c
+https://www.google.com/maps/place/Vedant+TechServe+Private+Limited/data=!4m7!3m6!1s0x31da190bb5fe741b:0x6bb49d050dfcd4d8!8m2!3d1.2864334!4d103.84914!16s%2Fg%2F11hzsvwkct!19sChIJG3T-tQsZ2jER2NT8DQWdtGs
+https://www.google.com/maps/place/Far+East+Hospitality+Management/data=!4m7!3m6!1s0x31da19bc972e6fa9:0x854a66383b7a2bee!8m2!3d1.2890252!4d103.8466098!16s%2Fg%2F11fv4lw8l7!19sChIJqW8ul7wZ2jER7it6OzhmSoU
