@@ -15699,3 +15699,5 @@ https://www.google.com/maps/place/Glenda+Wee+-+SG+Property+Hunter/data=!4m7!3m6!
 https://www.google.com/maps/place/Martin+Modern/data=!4m7!3m6!1s0x31da19536b241cc9:0xbb242fa24f16d539!8m2!3d1.2929902!4d103.8380557!16s%2Fg%2F11g01_m_60!19sChIJyRwka1MZ2jEROdUWT6IvJLs
 https://www.google.com/maps/place/Property+Den/data=!4m7!3m6!1s0x31da19bdf5bafd0f:0x66f154eabae9d786!8m2!3d1.3099729!4d103.8630671!16s%2Fg%2F11t0lz_82f!19sChIJD_269b0Z2jERhtfpuupU8WY
 https://www.google.com/maps/place/1919/data=!4m7!3m6!1s0x31da19bddc6e17a1:0xb44ce63803b3ea7f!8m2!3d1.3027274!4d103.8465766!16s%2Fg%2F1pt_04615!19sChIJoRdu3L0Z2jERf-qzAzjmTLQ
+https://www.google.com/maps/place/The+Cathay+Residences/data=!4m7!3m6!1s0x31da19bce1d4b4f7:0x60687112dcb2e8c7!8m2!3d1.2995456!4d103.8477018!16s%2Fg%2F1tdz2bgc!19sChIJ97TU4bwZ2jERx-iy3BJxaGA
+https://www.google.com/maps/place/Dra+Property+Management+Pte.+Ltd./data=!4m7!3m6!1s0x31da19c7b8c07fe9:0xbf5a2c90a7ba331c!8m2!3d1.3093337!4d103.8549043!16s%2Fg%2F11cs5r_w5d!19sChIJ6X_AuMcZ2jERHDO6p5AsWr8
